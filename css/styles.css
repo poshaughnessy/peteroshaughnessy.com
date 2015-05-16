@@ -100,10 +100,12 @@ nav ul li.selected a {
 
 .portfolio .project .tags {
     text-align: center;
+    font-size: 0.9em;
 }
 
 .portfolio .project .details {
     padding-left: 20px;
+    color: #333;
 }
 
 .portfolio .project .link {
@@ -123,4 +125,5 @@ nav ul li.selected a {
     background: #ddd;
     border-radius: 10px;
     padding: 4px 6px;
+    margin: 0 2px;
 }
