@@ -101,11 +101,13 @@ nav ul li.selected a {
 .portfolio .project .tags {
     text-align: center;
     font-size: 0.9em;
+    margin-top: 10px;
 }
 
 .portfolio .project .details {
     padding-left: 20px;
     color: #333;
+    font-size: 0.95em;
 }
 
 .portfolio .project .link {
