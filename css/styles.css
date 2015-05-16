@@ -1,0 +1,120 @@
+html {
+    font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0 20px;
+}
+
+header h1 {
+    margin-top: 20px;
+}
+
+main {
+    margin: 0 20px;
+    padding-top: 10px;
+}
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    border-bottom: 1px solid #ccc;
+}
+
+nav ul {
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    padding-right: 10px;
+}
+
+nav li:after {
+    content: '\a0\a0\a0\b7';
+}
+
+nav li:last-child:after {
+    content: '';
+}
+
+nav a {
+    color: #666;
+}
+
+nav a:visited {
+    color: #666;
+}
+
+nav a:hover {
+    color: #777;
+}
+
+nav ul li.selected a {
+    color: #777;
+    text-decoration: none;
+}
+
+.portfolio:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.portfolio .project {
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #eee;
+    width: 300px;
+    padding: 15px;
+    float: left;
+    margin: 10px;
+}
+
+.portfolio .project h3 {
+    text-align: center;
+    margin-top: 0;
+}
+
+.portfolio .project img {
+    width: 300px;
+    height: 200px;
+}
+
+.portfolio .project .company-date,
+.portfolio .project .type-role {
+    margin: 0;
+}
+
+.portfolio .project .tags {
+    text-align: center;
+}
+
+.portfolio .project .details {
+    padding-left: 20px;
+}
+
+.portfolio .project .link {
+    text-align: center;
+    margin: 20px 0 5px 0;
+}
+
+.portfolio .project .link a {
+    background: #84d76a;
+    border-radius: 10px;
+    padding: 4px 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+.tags span {
+    background: #ddd;
+    border-radius: 10px;
+    padding: 4px 6px;
+}
