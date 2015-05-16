@@ -1,5 +1,6 @@
 html {
     font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+    font-size: 100%;
 }
 
 body {
@@ -69,18 +70,28 @@ nav ul li.selected a {
 }
 
 .portfolio {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
-    align-content: stretch;
+    justify-content: space-between;
 }
 
 .portfolio .project {
     border: 1px solid #ccc;
     box-shadow: 1px 1px 1px #eee;
     padding: 15px;
-    float: left;
-    flex: 2 2 300px;
+    -moz-flex: 1 0 300px;
+    -ms-flex: 1 0 300px;
+    -webkit-flex: 1 0 300px;
+    flex: 1 0 300px;
     margin: 10px;
+    max-width: 600px;
 }
 
 .portfolio .project h3 {
