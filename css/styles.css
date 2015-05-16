@@ -92,6 +92,7 @@ nav ul li.selected a {
     -webkit-flex: 1 0 300px;
     flex: 1 0 300px;
     margin: 10px;
+    width: 300px;
     max-width: 600px;
 }
 
