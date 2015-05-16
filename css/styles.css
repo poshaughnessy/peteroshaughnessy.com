@@ -68,19 +68,19 @@ nav ul li.selected a {
     text-decoration: none;
 }
 
-.portfolio:after {
-    content: "";
-    display: table;
-    clear: both;
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
 }
 
 .portfolio .project {
     border: 1px solid #ccc;
     box-shadow: 1px 1px 1px #eee;
-    width: calc(100% - 52px);
     padding: 15px;
     float: left;
-    margin: 0 10px 10px 10px;
+    flex: 2 2 300px;
+    margin: 10px;
 }
 
 .portfolio .project h3 {
@@ -137,21 +137,6 @@ nav ul li.selected a {
         margin: 0 20px;
     }
     main {
-        margin-left: 10px;
-    }
-    .portfolio .project {
-        width: calc(50% - 55px);
-    }
-}
-
-@media (min-width: 901px) {
-    .portfolio .project {
-        width: calc(33% - 55px);
-    }
-}
-
-@media (min-width: 1201px) {
-    .portfolio .project {
-        width: calc(25% - 55px);
+        margin: 0 10px;
     }
 }
