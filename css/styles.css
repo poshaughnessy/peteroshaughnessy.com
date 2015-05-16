@@ -5,11 +5,11 @@ html {
 
 body {
     margin: 0;
-    padding: 0;
+    padding: 10px;
 }
 
 header {
-    margin: 0 10px;
+    padding: 0 10px;
 }
 
 h1, h2, h3 {
@@ -17,7 +17,7 @@ h1, h2, h3 {
 }
 
 h1 {
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 1.5em;
 }
 
@@ -84,16 +84,20 @@ nav ul li.selected a {
 }
 
 .portfolio .project {
+    padding: 10px;
+    -moz-flex: 1 0 280px;
+    -ms-flex: 1 0 280px;
+    -webkit-flex: 1 0 280px;
+    flex: 1 0 280px;
+    max-width: 600px;
+    box-sizing: padding-box;
+}
+
+.portfolio .project .box {
     border: 1px solid #ccc;
     box-shadow: 1px 1px 1px #eee;
     padding: 15px;
-    -moz-flex: 1 0 300px;
-    -ms-flex: 1 0 300px;
-    -webkit-flex: 1 0 300px;
-    flex: 1 0 300px;
-    margin: 10px;
-    width: 300px;
-    max-width: 600px;
+    box-sizing: border-box;
 }
 
 .portfolio .project h3 {
@@ -141,15 +145,4 @@ nav ul li.selected a {
     padding: 4px 20px;
     text-decoration: none;
     color: #fff;
-}
-
-/* For larger screen sizes */
-
-@media (min-width: 601px) {
-    header {
-        margin: 0 20px;
-    }
-    main {
-        margin: 0 10px;
-    }
 }
