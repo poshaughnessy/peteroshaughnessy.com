@@ -70,6 +70,7 @@ nav ul li.selected a {
 }
 
 .portfolio {
+    width: 100%;
     display: -webkit-box;
     display: -moz-box;
     display: -ms-flexbox;
