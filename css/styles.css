@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    margin: 0 20px;
+    margin: 0 10px;
 }
 
 h1, h2, h3 {
@@ -20,13 +20,13 @@ h1 {
     font-size: 1.5em;
 }
 
-h2 {
+main h2 {
     font-size: 1.4em;
-    margin-bottom: 10px;
+    margin: 0 0 10px 10px;
 }
 
 main {
-    margin: 0 20px;
+    margin: 0;
     padding-top: 10px;
 }
 
@@ -51,15 +51,15 @@ nav li:last-child:after {
     content: '';
 }
 
-nav a {
+a {
     color: #666;
 }
 
-nav a:visited {
+a:visited {
     color: #666;
 }
 
-nav a:hover {
+a:hover {
     color: #777;
 }
 
@@ -77,10 +77,10 @@ nav ul li.selected a {
 .portfolio .project {
     border: 1px solid #ccc;
     box-shadow: 1px 1px 1px #eee;
-    width: 300px;
+    width: calc(100% - 52px);
     padding: 15px;
     float: left;
-    margin: 0 10px 10px 0;
+    margin: 0 10px 10px 10px;
 }
 
 .portfolio .project h3 {
@@ -89,8 +89,7 @@ nav ul li.selected a {
 }
 
 .portfolio .project img {
-    width: 300px;
-    height: 200px;
+    width: 100%;
 }
 
 .portfolio .project .company-date,
@@ -100,8 +99,16 @@ nav ul li.selected a {
 
 .portfolio .project .tags {
     text-align: center;
-    font-size: 0.9em;
+    font-size: 0.8em;
     margin-top: 10px;
+    line-height: 2em;
+}
+
+.tags span {
+    background: #ddd;
+    border-radius: 10px;
+    padding: 4px 5px;
+    margin: 0 1px;
 }
 
 .portfolio .project .details {
@@ -123,9 +130,28 @@ nav ul li.selected a {
     color: #fff;
 }
 
-.tags span {
-    background: #ddd;
-    border-radius: 10px;
-    padding: 4px 6px;
-    margin: 0 2px;
+/* For larger screen sizes */
+
+@media (min-width: 601px) {
+    header {
+        margin: 0 20px;
+    }
+    main {
+        margin-left: 10px;
+    }
+    .portfolio .project {
+        width: calc(50% - 55px);
+    }
+}
+
+@media (min-width: 901px) {
+    .portfolio .project {
+        width: calc(33% - 55px);
+    }
+}
+
+@media (min-width: 1201px) {
+    .portfolio .project {
+        width: calc(25% - 55px);
+    }
 }
