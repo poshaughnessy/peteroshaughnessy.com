@@ -80,6 +80,7 @@ nav ul li.selected a {
     -ms-flex-wrap: wrap;
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
+    align-content: stretch;
     justify-content: space-between;
 }
 
