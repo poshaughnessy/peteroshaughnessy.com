@@ -1,7 +1,7 @@
 ---
 title:  Robots, Virtual Reality and the Internet of Things? I Can't Believe It's JavaScript!
 summary: 
-date: 2015-11-09
+date: 2015-11-09 00:00:01
 template: post.hbs
 ---
 
