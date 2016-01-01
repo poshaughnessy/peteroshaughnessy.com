@@ -1,7 +1,7 @@
 ---
 title:  Productivity Hacking for Developers
 date: 2015-12-30
-template: post.html
+template: post.hbs
 ---
 
 *Cross-post from the [pebble {code} blog](http://pebblecode.com/blog/productivity-hacking/)*

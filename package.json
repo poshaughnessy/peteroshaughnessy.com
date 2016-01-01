@@ -6,17 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": ">=4"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/poshaughnessy/peteroshaughnessy.com.git"
   },
   "author": "Peter O'Shaughnessy",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/poshaughnessy/peteroshaughnessy.com/issues"
   },
   "homepage": "https://github.com/poshaughnessy/peteroshaughnessy.com#readme",
   "devDependencies": {
-    "metalsmith": "^2.1.0"
+    "handlebars": "^4.0.5",
+    "metalsmith": "^2.1.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.7.0"
   }
 }
