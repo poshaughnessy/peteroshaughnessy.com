@@ -11,6 +11,14 @@ const fs = require('fs');
 Handlebars.registerPartial('header', fs.readFileSync(__dirname + '/templates/partials/header.hbs').toString());
 Handlebars.registerPartial('footer', fs.readFileSync(__dirname + '/templates/partials/footer.hbs').toString());
 
+/**
+ * Plugin for copying other assets (CSS, images).
+ *
+ * @param {Object} files
+ * @param {Metalsmith} metalsmith
+ * @param {Function} done
+ */
+
 console.log('Running Metalsmith build...');
 
 Metalsmith(__dirname)
