@@ -11,6 +11,18 @@ const fs = require('fs');
 Handlebars.registerPartial('header', fs.readFileSync(__dirname + '/templates/partials/header.hbs').toString());
 Handlebars.registerPartial('footer', fs.readFileSync(__dirname + '/templates/partials/footer.hbs').toString());
 
+Handlebars.registerHelper('debug', function(optionalValue) {
+  console.log('Current Context');
+  console.log('====================');
+  console.log(this);
+
+  if (optionalValue) {
+    console.log('Value');
+    console.log('====================');
+    console.log(optionalValue);
+  }
+});
+
 function build() {
 
   console.log('Running Metalsmith build...');

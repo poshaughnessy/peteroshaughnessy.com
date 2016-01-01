@@ -1,13 +1,15 @@
 {{> header}}
-<div id="contents">
-  <div id="intro">
+<div class="contents">
+  <section id="blog-index" class="page">
     {{{ contents }}}
-  </div>
-  <div id="blog-index">
-    {{#each collections.posts}}
-      <h3>{{this.title}}</h3>
-      <article>{{{this.contents}}}</article>
-    {{/each}}
-  </div>
+    <div class="blog-links">
+      {{#each collections.posts}}
+        {{debug this}}
+
+        <h3><a href="{{this.path}}">{{this.title}}</a></h3>
+        <p>{{this.date}}</p>
+      {{/each}}
+    </div>
+  </section>
 </div>
 {{> footer}}
