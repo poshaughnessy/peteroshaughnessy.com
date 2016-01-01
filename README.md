@@ -9,7 +9,7 @@ New website, coming soon...
 Or you can use `nodemon` to watch for changes:
 
 `npm install -g nodemon`
-`nodemon --watch src --watch templates --ext md,hbs,css ./dev-server.js`
+`nodemon --watch src --watch templates --ext md,hbs,js,css ./dev-server.js`
 
 ## Build
 

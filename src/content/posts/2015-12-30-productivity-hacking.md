@@ -23,8 +23,8 @@ Habits are more powerful than most of us think. A Duke University study [found t
 of our daily actions. Charles Duhigg has devoted an [excellent book](http://charlesduhigg.com/the-power-of-habit/) to
 the subject, uncovering how the right habits are crucial to success.
 
-> “There’s nothing you can’t do if you get the habits right.”
-> - The Power of Habit
+> “There’s nothing you can’t do if you get the habits right.”  
+> &mdash; The Power of Habit
 
 As a developer, I’m intrigued by how transforming our habits can help us to write software better and quicker. Just
 think: boosting your productivity by even a few percent could leave you with significantly more time to devote to your
@@ -93,8 +93,8 @@ smoothie). Hopefully we’ll start to crave that reward and our motivation for t
 As for stopping *bad* habits, the bad news is that they cannot simply be cut out. But, like our code, they can be
 *refactored*. This is the “Golden Rule of Habit Change”:
 
-> “You can't extinguish a bad habit, you can only change it”.
-> - The Power of Habit
+> “You can't extinguish a bad habit, you can only change it”.  
+> &mdash; The Power of Habit
 
 Habits are most malleable when we keep the same cue and reward, but change the routine. For example, if you have a
 habit of snacking in the cafeteria every afternoon, you might, upon reflection, realise that the reward you get from it
@@ -116,8 +116,8 @@ getting up (his new routine) when it rang (the cue). It also took a while for hi
 early hours and to start feeling alert earlier (the reward). But sure enough, his new habit took hold; he had
 transformed himself from an ‘evening person’ into a ‘morning person’.
 
-> “This is the real power of habit: the insight that your habits are what you choose them to be.”
-> - The Power of Habit
+> “This is the real power of habit: the insight that your habits are what you choose them to be.”  
+> &mdash; The Power of Habit
 
 As well as helping us to be healthier and happier, the right habits can help us to be more productive as developers.
 With a new year about to begin, it’s a good time to reflect on our routines and how we want to change them. By
