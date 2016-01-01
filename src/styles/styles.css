@@ -124,12 +124,29 @@ nav li a.active {
   margin: 2em 0 0.5em 0;
 }
 
-.pages-page p {
+.pages-page p,
+.pages-page ul {
   margin: 0;
+}
+
+.pages-page p,
+.pages-page li {
+  line-height: 1.4em;
 }
 
 .pages-page h1 + p {
   margin: 1em 0;
+}
+
+.pages-page img {
+  width: 500px;
+  border: 1px solid #ccc;
+  -webkit-transition: opacity 1s;
+  transition: opacity 0.5s;
+}
+
+.pages-page a:hover img {
+  opacity: 0.8;
 }
 
 footer {
@@ -137,4 +154,13 @@ footer {
   text-align: center;
   color: #ccc;
   margin: 1.5em 0;
+}
+
+footer a,
+footer span {
+  padding: 0 5px;
+}
+
+footer a {
+  color: #a2a2cb;
 }

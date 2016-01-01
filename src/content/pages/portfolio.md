@@ -5,121 +5,98 @@ template: page.hbs
 
 A selection of projects I have worked on in recent years.
 
-### Apoc
+
+### [Apoc (2015)](http://labs.pearson.com/prototypes/apoc/)
 
 [![Apoc](/images/pages/portfolio/apoc.png)](http://labs.pearson.com/prototypes/apoc/)
 
-Tablet-friendly web app - JavaScript, React, Three.js, WebGL
-
-*   Pearson prototype, 2015
-*   Sole developer
+* Tablet-friendly web app (prototype)
+* Sole developer - *JavaScript, React, Three.js (WebGL)*
 
 
-### Let’s Code!
+### [Robots! (2014)](http://labs.pearson.com/prototypes/robots/)
 
-[![Let's Code!](/images/pages/portfolio/letscode.png)](http://labs.pearson.com/prototypes/lets-code/)
+[![Robots!](/images/pages/portfolio/robots2.png)](http://labs.pearson.com/prototypes/robots/)
 
-Desktop/tablet web app - JavaScript, Backbone, Node
-
-*   Pearson prototype, 2013
-*   Lead developer
+* Hybrid iOS app for [Sphero](http://www.gosphero.com/) (prototype)
+* Sole developer - *JavaScript, Pixi.js, Bluetooth*
 
 
-### Robots!
-
-![Robots!](/images/pages/portfolio/robots2.png)
-
-Hybrid iOS app for [Sphero](http://www.gosphero.com/) - JavaScript, iOS, Pixi.js, Bluetooth
-
-*   Pearson prototype, 2014
-*   Sole developer
-
-
-### TRex
-
-[![TRex](/images/pages/portfolio/trex.png)](http://labs.pearson.com/prototypes/trex/)
-
-Desktop web app - JavaScript, Three.js, WebGL
-
-*   Pearson prototype, 2012
-*   Sole developer
-
-
-### FTassistant
-
-![FTassistant](/images/pages/portfolio/ftassistant2.png)
-
-Native Android app - Android, Java
-
-*   Pearson/FT prototype, 2013
-*   Sole developer
-
-
-### Interactive VR
+### [Interactive VR (2014)](http://labs.pearson.com/prototypes/interactive-vr/)
 
 [![Interactive VR](/images/pages/portfolio/interactive-vr2.png)](http://labs.pearson.com/prototypes/interactive-vr/)
 
-Oculus Rift + Leap Motion web app - JavaScript, WebVR, WebGL, Leap
-
-*   Pearson internal hack, 2014
-*   Sole developer
+* Oculus Rift + Leap Motion web app (prototype)
+* Sole developer - *JavaScript, WebVR, Three.js (WebGL), Leap.js*
 
 
-### VirtualAssist
+### [FTassistant (2013)](http://labs.pearson.com/prototypes/ftassistant/)
 
-[![VirtualAssist](/images/pages/portfolio/virtualassist.png)](http://labs.pearson.com/prototypes/virtualassist/)
+[![FTassistant](/images/pages/portfolio/ftassistant2.png)](http://labs.pearson.com/prototypes/ftassistant/)
 
-Desktop web app for Leap Motion - JavaScript, WebGL, Three.js, Leap
-
-*   Pearson prototype, 2013
-*   Sole developer
+* Native Android app (prototype)
+* Sole developer - *Java*
 
 
-### ZamBlocks
+### [ZamBlocks (2013)](http://labs.pearson.com/prototypes/zamblocks-3/)
 
 [![ZamBlocks](/images/pages/portfolio/zamblocks.png)](http://labs.pearson.com/prototypes/zamblocks-3/)
 
-Mobile web app - JavaScript, Backbone, Canvas
-
-*   Pearson prototype, 2013
-*   Sole developer
+* Mobile web app (prototype)
+* Sole developer - *JavaScript, Backbone, Canvas*
 
 
-### LangAR
-
-[![LangAR](/images/pages/portfolio/langar.png)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
-
-Android app using JavaScript SDK - JavaScript, Android, AR
-
-*   Pearson prototype, 2012
-*   Sole developer
-
-
-### Telegraph Travel
-
-[![Telegraph Travel](/images/pages/portfolio/telegraph-travel.png)](http://www.telegraph.co.uk/travel/)
-
-New site, including booking API integration - Java, JavaScript, CMS
-
-*   Telegraph Media Group, 2011
-*   Tech Lead
-
-
-### Hi-5
+### [Hi-5 (2013)](http://labs.pearson.com/prototypes/hi-5/)
 
 [![Hi-5](/images/pages/portfolio/hi5.png)](http://labs.pearson.com/prototypes/hi-5/)
 
-Pebble and Google Glass service - JavaScript, Node, Web Sockets, Pebble
-
-*   Hackathon winners, 2013
-*   Web developer
+* Pebble & Google Glass app - won 1st prize at a [wearables hackathon](https://www.eventbrite.co.uk/e/google-glass-and-wearables-hackathon-tickets-9260154371)
+* Web developer - *JavaScript, Node, Web Sockets*
 
 
-### Knoggins
+### [VirtualAssist (2013)](http://labs.pearson.com/prototypes/virtualassist/)
+
+[![VirtualAssist](/images/pages/portfolio/virtualassist.png)](http://labs.pearson.com/prototypes/virtualassist/)
+
+* Desktop web app for Leap Motion (prototype)
+* Sole developer - *JavaScript, Three.js (WebGL), Leap.js*
+
+
+### [Let’s Code! (2013)](http://labs.pearson.com/prototypes/lets-code/)
+
+[![Let's Code!](/images/pages/portfolio/letscode.png)](http://labs.pearson.com/prototypes/lets-code/)
+
+* Desktop/tablet web app (beta)
+* Lead developer - *JavaScript, Backbone, Node*
+
+
+### [Knoggins (2013)](http://labs.pearson.com/prototypes/knoggins/)
 
 [![Knoggins](/images/pages/portfolio/knoggins.png)](http://labs.pearson.com/prototypes/knoggins/)
 
-Mobile web app - JavaScript, Canvas
+* Mobile web app (prototype)
+* Front-end developer - *JavaScript, Canvas*
 
-*   Pearson internal hack, 2015
-*   Front-end developer
+
+### [TRex (2012)](http://labs.pearson.com/prototypes/trex/)
+
+[![TRex](/images/pages/portfolio/trex.png)](http://labs.pearson.com/prototypes/trex/)
+
+* Desktop web app (prototype)
+* Sole developer - *JavaScript, Three.js (WebGL)*
+
+
+### [LangAR (2012)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
+
+[![LangAR](/images/pages/portfolio/langar.png)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
+
+* Augmented reality Android app (prototype) 
+* Sole developer - *Wikitude JavaScript SDK*
+
+
+### [Telegraph Travel (2011)](http://www.telegraph.co.uk/travel/)
+
+[![Telegraph Travel](/images/pages/portfolio/telegraph-travel.png)](http://www.telegraph.co.uk/travel/)
+
+* New site, including booking API integration
+* Tech Lead - *Java, JavaScript, Escenic CMS*
