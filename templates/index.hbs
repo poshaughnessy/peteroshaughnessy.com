@@ -1,12 +1,12 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ siteTitle }}</title>
-    <meta name="description" content="{{ siteDescription }}">
-  </head>
-  <body>
-    <h1>{{ siteTitle }}</h1>
-    <p>Lorem ipsum...</p>
-  </body>
-</html>
+{{> header}}
+<h1>Peter O'Shaughnessy</h1>
+{{{ contents }}}
+<ul>
+  {{#each collections.posts}}
+    <li>
+      <h3>{{this.title}}</h3>
+      <article>{{this.contents}}</article>
+    </li>
+  {{/each}}
+</ul>
+{{> footer}}
