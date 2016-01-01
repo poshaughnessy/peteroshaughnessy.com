@@ -1,0 +1,28 @@
+body {
+  font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+  background-color: #303138;
+}
+
+h1 {
+  font-family: league-gothic, sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+}
+
+h2 {
+  color: #fff;
+  font-weight: normal;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+}
+
+#contents {
+  background-color: #fff;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 10px;
+}
