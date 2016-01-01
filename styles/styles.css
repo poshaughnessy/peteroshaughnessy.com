@@ -69,7 +69,8 @@ nav li a.active {
   font-size: 1.1em;
 }
 
-.page p {
+.page p,
+.page li {
   line-height: 1.6em;
   color: #333;
 }
