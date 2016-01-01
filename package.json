@@ -1,0 +1,22 @@
+{
+  "name": "peteroshaughnessy.com",
+  "version": "1.0.0",
+  "description": "Peter O'Shaughnessy's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poshaughnessy/peteroshaughnessy.com.git"
+  },
+  "author": "Peter O'Shaughnessy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poshaughnessy/peteroshaughnessy.com/issues"
+  },
+  "homepage": "https://github.com/poshaughnessy/peteroshaughnessy.com#readme",
+  "devDependencies": {
+    "metalsmith": "^2.1.0"
+  }
+}

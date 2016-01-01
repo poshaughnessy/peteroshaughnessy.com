@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "siteTitle": "Peter O'Shaughnessy",
+    "siteDescription": "Tech lead, mostly-Web developer and general future tech enthusiast"
+  },
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-permalinks": {
+      "pattern": ":title"
+    },
+    "metalsmith-templates": {
+      "engine": "handlebars"
+    }
+  }
+}
