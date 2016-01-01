@@ -1,6 +1,5 @@
 ---
 title: Solving Big Data for Humans
-summary: 
 date: 2015-11-09
 template: post.hbs
 ---
