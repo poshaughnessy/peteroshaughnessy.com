@@ -62,11 +62,6 @@ nav li a.active {
   padding: 10px;
 }
 
-.blog-links h3 {
-  font-size: 1.3em;
-  margin-bottom: 0;
-}
-
 .page {
   max-width: 700px;
   margin: 0 auto;
@@ -106,4 +101,17 @@ nav li a.active {
 
 .page blockquote p {
   color: #505080;
+}
+
+.blog-links {
+  margin-top: 2em;
+}
+
+.blog-links h3 {
+  font-size: 1.3em;
+  margin-bottom: 0;
+}
+
+.blog-links .date {
+  margin-top: 0.25em;
 }

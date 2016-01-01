@@ -5,7 +5,7 @@
     <div class="blog-links">
       {{#each collections.posts}}
         <h3><a href="{{this.path}}">{{this.title}}</a></h3>
-        <p>{{formatDate this.date}}</p>
+        <p class="date">{{formatDate this.date}}</p>
       {{/each}}
     </div>
   </section>
