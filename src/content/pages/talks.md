@@ -3,7 +3,7 @@ title:  Talks
 template: page.hbs
 ---
 
-I regularly speak at technology conferences and meetups, on topics such as the future of web development, the 3D web, IoT, virtual reality and augmented reality:
+I regularly speak at technology conferences and meetups about cutting edge web development and future technologies.
 
 ### [React and Three.js: React All The Things!](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
