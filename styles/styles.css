@@ -9,10 +9,13 @@ header h1 {
   font-size: 3em;
   text-transform: uppercase;
   text-align: center;
-  color: #fff;
-  margin: 0.5em 0 0.25em 0;
   -webkit-transform: scaleY(1.3);
   transform: scaleY(1.3);
+  margin: 0.5em 0 0.25em 0;
+}
+
+header h1 a {
+  color: #fff;
 }
 
 header h2 {
@@ -23,7 +26,8 @@ header h2 {
 }
 
 a {
-  color: #80839c;
+  color: #505080;
+  text-decoration: none;
 }
 
 nav {
@@ -40,10 +44,10 @@ nav li {
 }
 
 nav li a {
+  color: #80839c;
   font-size: 1.2em;
   font-weight: bold;
   text-transform: uppercase;
-  text-decoration: none;
   border-bottom: 1px solid #80839c;
 }
 
@@ -58,17 +62,48 @@ nav li a.active {
   padding: 10px;
 }
 
+.blog-links h3 {
+  font-size: 1.3em;
+  margin-bottom: 0;
+}
+
 .page {
   max-width: 700px;
   margin: 0 auto;
   padding: 20px;
+  font-size: 1.1em;
+}
+
+.page p {
+  line-height: 1.6em;
+  color: #333;
+}
+
+.page h1,
+.page h2,
+.page h3 {
+  font-weight: normal;
 }
 
 .page h1 {
-  font-weight: normal;
+  font-size: 2em;
+  margin-bottom: 0;
 }
 
-.page h3 {
-  font-size: 1.3em;
-  font-weight: normal;
+.page .date {
+  margin-bottom: 2em;
+  font-style: italic;
+  color: #666;
+}
+
+.page blockquote {
+  border-left: 10px solid #505080;
+  padding-left: 20px;
+  font-style: normal;
+  margin: 2em 0;
+  font-size: 1.1em;
+}
+
+.page blockquote p {
+  color: #505080;
 }
