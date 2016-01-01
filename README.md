@@ -2,12 +2,20 @@
 
 New website, coming soon...
 
-## Build static site
+## Development
 
-`node build`
+`npm start`
 
-## Debugging
+Or you can use `nodemon` to watch for changes:
 
-Plugins that use `debug` can be configured to log debugging info, like this:
+`npm install -g nodemon`
+`nodemon --watch src -e md ./dev-server.js`
 
-`DEBUG=metalsmith-assets node build`
+## Build
+
+To build the static site manually:
+
+`npm run build`
+
+The built site will be outputted to the `build` directory.
+
