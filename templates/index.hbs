@@ -1,12 +1,13 @@
 {{> header}}
-<h1>Peter O'Shaughnessy</h1>
-{{{ contents }}}
-<ul>
-  {{#each collections.posts}}
-    <li>
+<div id="contents">
+  <div id="intro">
+    {{{ contents }}}
+  </div>
+  <div id="blog-index">
+    {{#each collections.posts}}
       <h3>{{this.title}}</h3>
-      <article>{{this.contents}}</article>
-    </li>
-  {{/each}}
-</ul>
+      <article>{{{this.contents}}}</article>
+    {{/each}}
+  </div>
+</div>
 {{> footer}}
