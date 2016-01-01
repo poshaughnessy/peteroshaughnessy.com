@@ -120,6 +120,18 @@ nav li a.active {
   margin-top: 0.25em;
 }
 
+.pages-page h3 {
+  margin: 2em 0 0.5em 0;
+}
+
+.pages-page p {
+  margin: 0;
+}
+
+.pages-page h1 + p {
+  margin: 1em 0;
+}
+
 footer {
   font-size: 0.9em;
   text-align: center;
