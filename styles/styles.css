@@ -51,6 +51,10 @@ header h2 {
   margin: 0;
 }
 
+header h2 a {
+  color: #8282a7;
+}
+
 nav {
   text-align: center;
 }
@@ -115,7 +119,6 @@ nav li a.active {
 }
 
 .page .date {
-  margin-bottom: 2em;
   font-style: italic;
   color: #666;
 }
@@ -142,7 +145,20 @@ nav li a.active {
 }
 
 .blog-links .date {
-  margin-top: 0.25em;
+  margin: 0.25em 0;
+}
+
+.tags {
+  margin: 1em 0 2em 0;
+}
+
+.tags span {
+  padding: 5px;
+  font-size: 0.7em;
+  background-color: #ccc;
+  color: #444;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
 }
 
 .pages-page h3 {
