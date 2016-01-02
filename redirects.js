@@ -7,7 +7,7 @@ module.exports = {
   '/post/60868538533/attempting-fast-3d-graphics-for-mobile-web': '/posts/attempting-fast-3d-graphics-mobile-web',
   '/post/65649059080/hybrid-app-workflow-with-grunt-via-xcode': '/posts/hybrid-app-workflow-grunt-xcode',
   '/post/81986454836/arduino-with-javascript-breakoutjs': '/posts/arduino-with-javascript-breakoutjs',
-  '/post/84127509179/april-2014-highlights-from-front-end-london-and': '/posts/highlights-from-fel-and-sotb4-apr-2014',
+  '/post/84127509179/april-2014-highlights-from-front-end-london-and-state': '/posts/highlights-from-fel-and-sotb4-apr-2014',
   '/post/84520346184/turning-hacks-into-products-lessons-from-lets': '/posts/turning-hacks-into-products-lets-code',
   '/post/88124288254/awesome-mobile-animations': '/posts/awesome-mobile-animations',
   '/post/90747999089/the-full-spectrum-developer': '/posts/the-full-spectrum-developer',
