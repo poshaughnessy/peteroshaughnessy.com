@@ -102,6 +102,11 @@ nav li a.active {
   margin-bottom: 0;
 }
 
+.page h2,
+.page h3 {
+  margin-top: 2em;
+}
+
 /* Used for captions */
 .page h6 {
   font-size: 0.8em;
