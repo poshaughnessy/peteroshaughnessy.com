@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>The Impossibilities and Possibilities of Google Glass development - Peter O'Shaughnessy</title>
+    <meta name="description" content="Tech lead, mostly-Web developer and future technology geek">
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic,700italic">
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">Peter O'Shaughnessy</a></h1>
+      <h2>Tech lead, mostly-Web developer and future technology geek</h2>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="/">Blog</a></li>
+        <li><a href="/pages/portfolio/">Portfolio</a></li>
+        <li><a href="/pages/talks">Talks</a></li>
+      </ul>
+    </nav>
+<div class="contents">
+  <article class="page">
+    <h1>The Impossibilities and Possibilities of Google Glass development</h1>
+    <p class="date"><time>17th Apr 2013</time></p>
+    <p>In the last few days, Google have released the <a href="https://developers.google.com/glass/">API and developer
+documentation for Google Glass</a>.</p>
+<p>They also have some videos (such as the <a href="http://youtu.be/JpWmGX55a40">SXSW
+talk</a>, plus
+<a href="https://developers.google.com/glass/about">these</a>) to guide us through
+the capabilities.</p>
+<p>I thought I’d put together a quick list of the Impossibilities and
+Possibilities for third party developers (as I see it, from the
+information so far):</p>
+<p><strong>The following are <em>not</em> possible:</strong></p>
+<p><em>‘Apps’</em></p>
+<p>You can’t develop &#39;apps’ as such, or actually install anything on the
+device. But you can develop services through <em>timeline cards</em>. These
+cards can contain small amounts of text, HTML, images, or a map, but
+there’s no scrolling, JavaScript, or form elements.</p>
+<p><strong>Update:</strong> This isn’t quite true! It turns out it <em>is</em> possible for
+techies to install Android APKs - by plugging it in with USB and
+enabling debug mode, on the Explorer version of the device at
+least. See this post by Mike DiGiovanni:</p>
+<p><a href="https://plus.google.com/116031914637788986927/posts/Abvh8vmvPJk">https://plus.google.com/116031914637788986927/posts/Abvh8vmvPJk</a></p>
+<p><em>Realtime picture/video, or voice integration</em></p>
+<p>It’s only possible to tap into user’s images and video if they
+choose to share it through your service, after they’ve been taken. And
+it doesn’t seem possible for 3rd party developers to do anything with
+voice input. “At the moment, there doesn’t appear to be any support for
+retrieving a camera feed or an audio stream”
+(<a href="http://www.zdnet.com/google-publishes-glass-mirror-api-preview-for-developers-7000014049/">source</a>)</p>
+<p><strong>Update:</strong> Except if you root it, of course! See:</p>
+<p><a href="http://arstechnica.com/security/2013/05/rooting-exploit-could-turn-google-glass-into-secret-surveillance-tool/">http://arstechnica.com/security/2013/05/rooting-exploit-could-turn-google-glass-into-secret-surveillance-tool/</a></p>
+<p><em>AR</em></p>
+<p>Early discussions about Google Glass kept referring to it as an AR
+device. It’s not really AR at all. It doesn’t give you the capability to
+augment the user’s real-world view, except indirectly, through the
+small, fixed screen. (It’s actually less of an AR device than a mobile
+phone held up in front of your face).</p>
+<p><em>Web browsing</em></p>
+<p>“Users don’t browse the web on Glass (well, they can ask questions
+to Google but there is no API for that yet)” (<a href="http://www.mobilexweb.com/blog/google-glass-web-mirror-api-html5">Max
+Firtman</a>)</p>
+<p><em>Notifications</em></p>
+<p>“We push, update and delete cards from our server, just for being
+there if the user thinks it’s time to see the timeline. It’s probable
+that our card will never be seen by the user… It’s not like a mobile
+push notification.” (<a href="http://www.mobilexweb.com/blog/google-glass-web-mirror-api-html5">Max
+Firtman</a>)</p>
+<p><em>Eye-tracking</em></p>
+<p>Early <a href="http://www.slashgear.com/google-glass-in-focus-ui-apps-more-22270783/">unofficial
+reports</a>
+said there would be a second camera facing towards you, for eye
+tracking. From the official <a href="http://support.google.com/glass/answer/3064128?hl=en&amp;ref_topic=3063354">tech
+specs</a>,
+it seems that’s not the case.</p>
+<p><strong>Update:</strong> I was right first time - it’s not mentioned in the tech
+specs (maybe they just don’t want to shout about it much right now?) but
+there’s definitely an eye tracking camera - that’s what enables &#39;Winky’:</p>
+<p><a href="http://arstechnica.com/gadgets/2013/05/google-glass-developer-writes-an-app-to-snap-photos-with-just-a-wink/">http://arstechnica.com/gadgets/2013/05/google-glass-developer-writes-an-app-to-snap-photos-with-just-a-wink/</a></p>
+<p><em>Location, unless paired with Android 4+ phone</em></p>
+<p>It was popularly reported that Glass would work with phones other
+than Android. But MyGlass, which includes the GPS and SMS capability,
+requires Android ICS or higher
+(<a href="http://support.google.com/glass/answer/3064128?hl=en&amp;ref_topic=3063354">source</a>)</p>
+<p><em>Direct revenue</em></p>
+<p>There’s no charging for timeline cards, no payment for virtual
+goods or upgrades, and no advertising
+(<a href="http://www.belfasttelegraph.co.uk/lifestyle/technology-gadgets/app-developers-fail-to-see-profits-with-google-glass-29201537.html">source</a>)</p>
+<p><strong>So what kind of services <em>are</em> feasible?</strong></p>
+<p><em>Services for often-updated content</em></p>
+<p>To provide short snippets of content that the user will often want
+to have a quick glance at, to see the latest. For example, news
+headlines.</p>
+<p><strong>Update:</strong> You can also have short amounts of content read out
+for the user, using the “read-aloud” feature. See:</p>
+<p><a href="http://thenextweb.com/media/2013/04/25/the-new-york-times-releases-a-google-glass-app-that-reads-article-summaries-aloud/">http://thenextweb.com/media/2013/04/25/the-new-york-times-releases-a-google-glass-app-that-reads-article-summaries-aloud/</a></p>
+<p><em>Location services</em></p>
+<p>To provide advice/information about nearby locations. For example,
+travel information or tourist destination tips.</p>
+<p><em>Share services</em></p>
+<p>For sharing your photos and video with your friends. Or sharing them
+with services (automated or not) that can do something with them and
+send you something back.</p>
+<p><em>Simple communication / social networking</em></p>
+<p>It’s possible not just to consume 3rd party content, but to reply with
+text or respond with selections. So reading and creating emails, text
+messages, Facebook status updates, tweets…  should all be possible.</p>
+<p><strong>To summarise…</strong></p>
+<p>The possibilities for third party developers are more limited than
+many hoped. But, there’s still an exciting amount to explore. And
+remember this is the very first API for the very first commercial device
+of its kind. (Compare it to the first version of the iPhone, which
+didn’t have an SDK or an App Store).</p>
+<p>To quote <a href="http://youtu.be/JpWmGX55a40">Timothy Jordan</a>, <em>“It’s
+early days… We’re really just getting started”</em>.</p>
+
+  </article>
+</div>
+  <footer>
+    <p><a href="https://twitter.com/poshaughnessy">Twitter</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a>| <span>© 2016 Peter O'Shaughnessy</span></p>
+  </footer>
+  </body>
+</html>
