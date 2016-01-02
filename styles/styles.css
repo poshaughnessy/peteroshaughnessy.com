@@ -119,6 +119,7 @@ nav li a.active {
 }
 
 .page .date {
+  margin-bottom: 2em;
   font-style: italic;
   color: #666;
 }
@@ -135,6 +136,10 @@ nav li a.active {
   color: #505080;
 }
 
+.page .tags {
+  margin: 2em 0;
+}
+
 .blog-links {
   margin-top: 2em;
 }
@@ -148,8 +153,8 @@ nav li a.active {
   margin: 0.25em 0;
 }
 
-.tags {
-  margin: 1em 0 2em 0;
+.blog-links .tags {
+  margin: 0.5em 0 2em 0;
 }
 
 .tags span {
