@@ -22,9 +22,7 @@ ticket before the last one went.
 ###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
 
 A number of companies had each sponsored a
-[Parrot AR Drone
-2](http://ardrone2.parrot.com/usa/) (they cost about \$300
-each).
+[Parrot AR Drone 2](http://ardrone2.parrot.com/usa/) (they cost about $300 each).
 
 It was great fun and amazing to see all the very different - but
 equally cool - hacks that the different teams came up with.
