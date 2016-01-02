@@ -5,6 +5,7 @@ module.exports = {
   '/post/46436552721/nodecopter-geeking-out-with-flying-robots': '/posts/nodecopter-geeking-out-flying-robots',
   '/post/48198650571/the-impossibilities-and-possibilities-of-google': '/posts/impossibilities-possibilities-google-glass',
   '/post/60868538533/attempting-fast-3d-graphics-for-mobile-web': '/posts/attempting-fast-3d-graphics-mobile-web',
+  '/post/60868538533/speedy-mobile-web-uis': '/posts/attempting-fast-3d-graphics-mobile-web',
   '/post/65649059080/hybrid-app-workflow-with-grunt-via-xcode': '/posts/hybrid-app-workflow-grunt-xcode',
   '/post/81986454836/arduino-with-javascript-breakoutjs': '/posts/arduino-with-javascript-breakoutjs',
   '/post/84127509179/april-2014-highlights-from-front-end-london-and-state': '/posts/highlights-from-fel-and-sotb4-apr-2014',
