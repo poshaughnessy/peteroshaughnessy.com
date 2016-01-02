@@ -11,7 +11,7 @@ module.exports = {
   '/post/84520346184/turning-hacks-into-products-lessons-from-lets': '/posts/turning-hacks-into-products-lets-code',
   '/post/88124288254/awesome-mobile-animations': '/posts/awesome-mobile-animations',
   '/post/90747999089/the-full-spectrum-developer': '/posts/the-full-spectrum-developer',
-  '/post/93776809854/interfaces-of-the-future-and-how-to-hack-around': '/posts/interfaces-of-the-future',
+  '/post/93776809854/interfaces-of-the-future-and-how-to-hack-around-with': '/posts/interfaces-of-the-future',
   '/post/100068774869/the-future-of-the-web-and-what-it-means-for': '/posts/future-of-the-web-education',
   '/post/103717880264/enter-the-metaverse-introducing-virtual-reality': '/posts/enter-the-metaverse-webvr',
   '/post/112124859069/augmented-reality-virtual-reality-for-education': '/posts/augmented-reality-virtual-reality-education',
