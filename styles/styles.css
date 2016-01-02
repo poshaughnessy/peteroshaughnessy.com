@@ -109,8 +109,9 @@ nav li a.active {
 
 /* Used for captions */
 .page h6 {
+  color: #666;
   font-size: 0.8em;
-  margin: 0 0 3em 0;
+  margin: -0.75em 0 3em;
 }
 
 .page .date {

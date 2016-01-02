@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Arduino with JavaScript (Breakout.js) - Peter O'Shaughnessy</title>
+    <meta name="description" content="Tech lead, mostly-Web developer and future technology geek">
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic,700italic">
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">Peter O'Shaughnessy</a></h1>
+      <h2>Tech lead, mostly-Web developer and future technology geek</h2>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="/">Blog</a></li>
+        <li><a href="/pages/portfolio/">Portfolio</a></li>
+        <li><a href="/pages/talks">Talks</a></li>
+      </ul>
+    </nav>
+<div class="contents">
+  <article class="page">
+    <h1>Arduino with JavaScript (Breakout.js)</h1>
+    <p class="date"><time>7th Apr 2014</time></p>
+    <p>On 19th March, I attended an <a href="http://www.eventhandler.co.uk/events/ldnjsnightclass-introtoarduino">Introduction to Arduino with
+JavaScript</a> night
+class.</p>
+<p>In 3 hours, <a href="https://twitter.com/Lily_2point0">Lily Madar</a> guided us to
+create our first Arduino applications
+using <a href="http://breakoutjs.com/">Breakout.js</a>, a JavaScript Arduino
+interface for the browser.</p>
+<p>First, we just made an LED blink:</p>
+<p><img src="http://33.media.tumblr.com/062a1c6174fb0bd80e97d616de7fa5a0/tumblr_inline_n3nv28U7fn1r5besl.png" alt="image"></p>
+<p>But soon we were playing with colour-changing LEDs, buttons
+and <a href="http://www.arduino.cc/en/Tutorial/Potentiometer">potentiometers</a>. It
+was exciting to be able to create a custom, physical hardware interface
+for the browser.</p>
+<p>For our final project, we had a choice. I chose an HTML5 Canvas
+Etch-a-Sketch. It was easy to hook up two potentiometers for drawing the
+line horizontally and vertically. And I included a button for erasing
+the picture.</p>
+<p><img src="http://31.media.tumblr.com/4802b95c3c6caa438153dbd8fc5d092d/tumblr_inline_n3nv33qVGP1r5besl.png" alt="image"></p>
+<p>My (messy) source code is <a href="https://github.com/poshaughnessy/intro-to-arduino-with-javascript">up on
+GitHub</a>.</p>
+<p>The biggest issues I found with Breakout.js were:</p>
+<ul>
+<li>The interface with the hardware is only live while your tab is open
+in the browser</li>
+<li>Most of us had to keep restarting the Breakout server often while we
+were developing, due to weird errors</li>
+</ul>
+<p>So it’s not for real, consumer applications, but it’s a cool prototyping
+tool and could make for some fun personal/office projects. For example,
+you could make an LED countdown clock, counting down to your next
+release. Or a set of build server traffic lights.</p>
+<p>All in all, it was a really fun event. A fellow attendee also
+wrote up a <a href="http://blog.caplin.com/2014/03/28/using-javascript-to-program-an-arduino/">nice blog post about it
+here</a>.</p>
+
+  </article>
+</div>
+  <footer>
+    <p><a href="https://twitter.com/poshaughnessy">Twitter</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a>| <span>© 2016 Peter O'Shaughnessy</span></p>
+  </footer>
+  </body>
+</html>
