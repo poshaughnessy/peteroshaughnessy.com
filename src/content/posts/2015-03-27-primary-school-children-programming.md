@@ -4,7 +4,7 @@ slug: primary-school-children-programming
 date: 2015-03-27
 tags: talks, careers, programming
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/114758690269/talking-to-primary-school-children-about
+old-url: http://www.peteroshaughnessy.com
 ---
 
 ![](http://41.media.tumblr.com/207557d8490554d81cbcb6fc4880c1d5/tumblr_inline_nxkdgy2uD11r5besl_540.png)

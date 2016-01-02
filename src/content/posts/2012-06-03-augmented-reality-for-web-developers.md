@@ -4,7 +4,6 @@ slug: augmented-reality-for-web-developers
 date: 2012-06-03
 tags: talks, augmented-reality, web
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/24330618934/augmented-reality-for-web-developers
 ---
 
 Whatever happened to Augmented Reality? There’s been a lot of hype, but

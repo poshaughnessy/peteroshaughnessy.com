@@ -4,7 +4,6 @@ slug: attempting-fast-3d-graphics-mobile-web
 date: 2013-09-10
 tags: web, three.js, performance, ui
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/60868538533/attempting-fast-3d-graphics-for-mobile-web
 ---
 
 Is it possible to create fast 3D interactive graphics for mobile

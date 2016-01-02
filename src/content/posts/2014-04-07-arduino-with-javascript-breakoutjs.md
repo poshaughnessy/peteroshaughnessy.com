@@ -4,7 +4,6 @@ slug: arduino-with-javascript-breakoutjs
 date: 2014-04-07
 tags: hacks, javascript
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/81986454836/arduino-with-javascript-breakoutjs
 ---
 
 On 19th March, I attended an [Introduction to Arduino with

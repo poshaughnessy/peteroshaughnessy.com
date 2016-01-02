@@ -4,7 +4,6 @@ slug: augmented-reality-virtual-reality-education
 date: 2015-02-26
 tags: talks, virtual-reality, augmented-reality
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/112124859069/augmented-reality-virtual-reality-for-education
 ---
 
 Last night I presented at an education-themed [Augmenting Reality

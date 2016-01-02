@@ -4,7 +4,6 @@ slug: third-dimension-introduction-webgl-threejs
 date: 2013-01-31
 tags: talks, webgl, three.js
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/41945355299/the-third-dimension-an-introduction-to-webgl-and
 ---
 
 Earlier this month I gave a [talk at the London Web

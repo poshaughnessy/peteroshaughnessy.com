@@ -4,7 +4,6 @@ slug: highlights-from-fel-and-sotb4-apr-2014
 date: 2014-04-28
 template: post.hbs
 tags: meetups, conferences, web
-old-url: http://www.peteroshaughnessy.com/post/84127509179/april-2014-highlights-from-front-end-london-and
 ---
 
 Last week I attended [Front End

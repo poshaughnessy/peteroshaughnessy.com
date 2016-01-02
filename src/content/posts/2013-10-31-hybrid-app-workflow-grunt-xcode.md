@@ -4,7 +4,6 @@ slug: hybrid-app-workflow-grunt-xcode
 date: 2013-10-31
 tags: mobile, hybrid-apps
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/65649059080/hybrid-app-workflow-with-grunt-via-xcode
 ---
 
 These days, with web apps getting more complex, it’s getting more

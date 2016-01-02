@@ -4,7 +4,6 @@ slug: future-of-the-web-education
 date: 2014-10-15
 tags: conferences, web, future-tech
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/100068774869/the-future-of-the-web-and-what-it-means-for
 ---
 
 \[Cross-posting of my [blog post at

@@ -212,11 +212,8 @@ footer {
   margin: 1.5em 0;
 }
 
-footer a,
-footer span {
-  padding: 0 5px;
-}
-
 footer a {
+  padding: 0 5px;
+  font-size: 1.1em;
   color: #a2a2cb;
 }

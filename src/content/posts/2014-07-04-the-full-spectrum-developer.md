@@ -4,7 +4,6 @@ slug: the-full-spectrum-developer
 date: 2014-07-04
 tags: meetups, careers
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/90747999089/the-full-spectrum-developer
 ---
 
 This week I was invited to attend a talk by [Michael

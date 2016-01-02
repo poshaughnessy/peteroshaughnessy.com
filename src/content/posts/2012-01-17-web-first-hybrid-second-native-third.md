@@ -4,7 +4,6 @@ slug: web-first-hybrid-second-native-third
 date: 2012-01-17
 tags: mobile, web, hybrid-apps, native
 template: post.hbs
-old-url: /post/16025696697/web-first-hybrid-second-native-third
 ---
 
 If you want to create a mobile app, one of the big questions you need to

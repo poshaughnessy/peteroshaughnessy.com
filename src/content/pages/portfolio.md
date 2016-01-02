@@ -1,5 +1,6 @@
 ---
 title:  Portfolio
+slug: portfolio
 template: page.hbs
 ---
 

@@ -4,7 +4,6 @@ slug: enter-the-metaverse-webvr
 date: 2014-11-27
 tags: talks, virtual-reality
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/103717880264/enter-the-metaverse-introducing-virtual-reality
 ---
 
 This week I gave a presentation at the [Front Endgineers

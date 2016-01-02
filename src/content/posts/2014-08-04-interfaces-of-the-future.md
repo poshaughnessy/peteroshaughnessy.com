@@ -4,7 +4,6 @@ slug: interfaces-of-the-future
 date: 2014-08-04
 tags: talks, future-tech, virtual-reality, augmented-reality
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/93776809854/interfaces-of-the-future-and-how-to-hack-around
 ---
 
 *On 31st July I gave the following talk at [Front End London](http://www.frontendlondon.co.uk/). The [slides are

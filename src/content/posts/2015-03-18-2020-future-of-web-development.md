@@ -4,7 +4,7 @@ slug: 2020-future-of-web-development
 date: 2015-03-18
 tags: talks, future-tech, web
 template: post.hbs 
-old-url: http://www.peteroshaughnessy.com/post/113947776654/2020-looking-ahead-to-the-future-of-web
+old-url: http://www.peteroshaughnessy.com
 ---
 
 What will the Web be like in 2020 (five years from now)? How will web

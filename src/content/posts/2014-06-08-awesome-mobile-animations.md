@@ -4,7 +4,6 @@ slug: awesome-mobile-animations
 date: 2014-06-08
 tags: talks, mobile, performance, ui
 template: post.hbs
-old-url: http://www.peteroshaughnessy.com/post/88124288254/awesome-mobile-animations
 ---
 
 *Earlier this week I gave a talk at the [EdTech Developers
