@@ -54,19 +54,19 @@ up our game, because too many Mobile Web experiences are just *rubbish*!
 Only 41% of the top 100 sites have an actual mobile site, and only 6%
 are significantly optimised in terms of page weight.
 
-![image](http://33.media.tumblr.com/9d1461751f69d7a00a2f53fdbf44e342/tumblr_inline_n4qwnbXK9m1r5besl.png)
+![Page weight pie chart](/images/posts/2014-04-28-highlights-from-fel-sotb4-apr-2014/page-size-pie-chart.png)
 
 Some mobile sites that Peter singled out for particular
 condemnation were:
 
 A site which tells you which way to hold your phone!
 
-![image](http://31.media.tumblr.com/e578abe99a16fed67db7bc8f392337c4/tumblr_inline_n4qwo0wBwp1r5besl.png)
+![Forced orientation](/images/posts/2014-04-28-highlights-from-fel-sotb4-apr-2014/forced-orientation.png)
 
 And a mobile site which tells you to go away “and visit our site on a
 real screen”!
 
-![image](http://33.media.tumblr.com/194aa11bdff4bf64e1262970ba5b8da4/tumblr_inline_n4qwohZINu1r5besl.png)
+![Go away](/images/posts/2014-04-28-highlights-from-fel-sotb4-apr-2014/go-away.png)
 
 (As Jake Archibald later pointed out, they obviously didn’t clock that
 this would be extra ironic, given that their desktop site lists
@@ -91,7 +91,7 @@ which makes it automatically use ‘full-screen’ mode, i.e. hide the URL
 bar in portrait, plus also hide status bar and title bar in
 landscape.
 
-![image](http://31.media.tumblr.com/2ce431ce4839332217e90efa351236df/tumblr_inline_n4qwpmif8a1r5besl.png)
+![Minimal UI](/images/posts/2014-04-28-highlights-from-fel-sotb4-apr-2014/minimal-ui.png)
 
 But:
 

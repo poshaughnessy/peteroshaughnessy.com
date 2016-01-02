@@ -25,7 +25,7 @@ transitions and embraced fluent, charismatic motion.
 
 For example, the game Dots uses this neat little effect throughout:
 
-![image](http://31.media.tumblr.com/952eeae363130d1070c43b8a3a598c6e/tumblr_inline_nrxve0UfSU1r5besl_540.gif)
+![Dots animation](/posts/2014-06-08-awesome-mobile-animations/dots.gif)
 
 ###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*
 
@@ -35,7 +35,7 @@ turns a lifeless movement into something fluid and life-like.
 Little things add up, too. For example, Yelp uses this rocket ship for
 their pull-to-refresh animation:
 
-![image](http://38.media.tumblr.com/4a7e0005397c421e338e813a95cfa583/tumblr_inline_nry0pt7Wbz1r5besl_500.gif)
+![Yelp animation](/posts/2014-06-08-awesome-mobile-animations/yelp.gif)
 
 ###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*
 
@@ -45,7 +45,7 @@ delight our users.
 Animations can also be used to orientate your users. For example, Moldiv
 uses this little animation to indicate how to access the menu:
 
-![image](http://38.media.tumblr.com/d50ccf46dbabc6bc17d14f78fca0b677/tumblr_inline_nry0q4ujbM1r5besl_500.gif)
+![Moldiv animation](/posts/2014-06-08-awesome-mobile-animations/moldiv.gif)
 
 ###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*\
 
@@ -57,11 +57,11 @@ for example. Here are some animations from different parts of the app,
 but all the transitions use the same effect of stretching out slightly
 further than their intended size, and then bouncing back:
 
-![image](http://38.media.tumblr.com/135bd9bef022469877672013cb66b260/tumblr_inline_nry23q4jV11r5besl_500.gif)
+![Paper animation 1](/posts/2014-06-08-awesome-mobile-animations/paper1.gif)
 
-![image](http://38.media.tumblr.com/78b805c5532f069c4d6ee0e064c93091/tumblr_inline_nry23yJVhx1r5besl_500.gif)
+![Paper animation 2](/posts/2014-06-08-awesome-mobile-animations/paper2.gif)
 
-![image](http://33.media.tumblr.com/2efebaa3bd85f40b5e786070be24154c/tumblr_inline_nry24a3NQ61r5besl_500.gif)
+![Paper animation 3](/posts/2014-06-08-awesome-mobile-animations/paper3.gif)
 
 So we can see that native mobile apps have been doing some awesome
 things with animations recently. What about the Web?

@@ -18,7 +18,7 @@ A sell-out at Forward’s offices in London, I was fortunate to see a
 tweet from organiser Andrew Nesbitt just in time to snap up a free
 ticket before the last one went.
 
-![](http://38.media.tumblr.com/a320c039305a135960dc3796eb524d8f/tumblr_inline_mkc12cIgQy1qz4rgp.jpg)
+![Nodecopter](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter1.jpg)
 ###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
 
 A number of companies had each sponsored a
@@ -35,7 +35,7 @@ My favourites were:
 using [dancer.js](https://developer.mozilla.org/en-US/demos/detail/dancerjs),
 a JavaScript audio library.
 
-![](http://33.media.tumblr.com/6e474fab4633a420ccb966b849623c0c/tumblr_inline_mkc16boQxi1qz4rgp.jpg)
+![Drone hovering](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter2.jpg)
 ###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
 
 **Controlling the drone using QR codes**. They got the drone to hover in
@@ -43,24 +43,24 @@ the air and walked up to it with a QR code on their phone or printed on
 paper. The code is recognised through the drone’s in-built video camera,
 instructing it to do various things such as ‘dancing’ in the air.
 
-![](http://31.media.tumblr.com/b09347af4e5c288951e520077647659f/tumblr_inline_mkc180TWea1qz4rgp.jpg)
+![QR drone](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter3.jpg)
 ###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
 
 **Controlling the drone by pressing buttons drawn with ink on a piece of
 A4 paper**. They used special conductive ink hooked up to Arduino.
 
-![](http://31.media.tumblr.com/dd8604c8abbbf75963b02956570130a2/tumblr_inline_mkc1a1PdZg1qz4rgp.jpg)
+![E-ink drone](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter4.jpg)
 ###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
 
 **Controlling the drone with a Playstation controller**, using the
 [HTML5 Gamepad API](http://active.tutsplus.com/tutorials/games/an-introduction-to-the-html5-gamepad-api/).
 
-![](http://38.media.tumblr.com/8e80054d5c662db82ab38aad911e1b8d/tumblr_inline_mkc1brpVtb1qz4rgp.jpg)
+![Gamepad](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter5.jpg)
 
 As for me, I teamed up with Markus Kobler and Matt Copperwaite and
 created a **Leap Motion hack**.
 
-![](http://33.media.tumblr.com/2370dd0f6e4f9a755a5f870d78efe967/tumblr_inline_mkc1dmXoQZ1qz4rgp.jpg)
+![Markus, me and Matt](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter6.jpg)
 ###### Markus, me and Matt - photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
 
 For those who haven’t heard of it yet, the [Leap

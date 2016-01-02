@@ -76,12 +76,6 @@ nav li a {
   text-transform: uppercase;
 }
 
-@media (min-width: 600px) {
-  nav li a {
-    font-size: 1.5em;
-  }
-}
-
 nav li a.active {
   color: #ccc;
   border-bottom: none;

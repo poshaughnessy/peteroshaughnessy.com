@@ -69,7 +69,7 @@ do, but by the end of the second day we had hacked away with
 [Easel.js](http://www.createjs.com/#!/EaselJS)
 and created a working long jump demo.
 
-![image](http://38.media.tumblr.com/8a6b17af74146a7109ddda0bebfd4dd0/tumblr_inline_n4y64hZdet1r5besl.png)
+![First prototype](/images/2014-05-02-turning-hacks-into-products-lets-code/first-prototype.png)
 
 Although it was basically useless as an actual application at this point, it was
 really useful as a starting point, to convey what we were hoping to
@@ -105,9 +105,9 @@ couldn’t save your project and if you refreshed the page, you’d go back
 to the beginning! Also, we hadn’t spent much time on cross-browser
 testing and it didn’t work in Internet Explorer.
 
-![image](http://38.media.tumblr.com/5aeef556acdfddd48c8f68ff676499aa/tumblr_inline_n4y65slPbO1r5besl.png)
+![Lets Code v1 homepage](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v1-home.png)
 
-![image](http://33.media.tumblr.com/928c14f1d5f9e8febdfb290463463865/tumblr_inline_n4y66lqgb91r5besl.png)
+![Lets Code v2 app](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v1-app.png)
 
  
 
@@ -335,6 +335,6 @@ Whether you’re a teacher, student, developer, or just someone who’s interest
 to take a look, we’d love your feedback, so please [try it out](http://www.letsc.de) and 
 [let us know what you think](mailto:future_tech@pearson.com)!
 
-![image](http://33.media.tumblr.com/f8edd2b771b4886ade60721a12ae11c9/tumblr_inline_n4y6qaYBcP1r5besl.png)
+![Lets Code v2 tutorials](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v2-tutorials.png)
 
-![image](http://31.media.tumblr.com/4ed464477c97050b52d43730e49035de/tumblr_inline_n4y6qj48Eu1r5besl.png)
+![Lets Code v2 app](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v2-app.png)

@@ -16,7 +16,7 @@ That was the subject of my presentation last night at the [HTML5
 CodeShow
 meetup](http://www.meetup.com/HTML5-CodeShow/events/135509012/).
 
-![image](http://33.media.tumblr.com/62932df29a663f5da584b0b5892c35ce/tumblr_inline_msxf4bfsF31qz4rgp.jpg)
+![HTML5 Codeshow presentation](/images/posts/2013-09-10-attempting-fast-3d-graphics-mobile-web/speedy-web.jpg)
 
 I’ve been fortunate enough to be able to use
 [Three.js](http://threejs.org/) for a couple

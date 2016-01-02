@@ -17,7 +17,7 @@ interface for the browser.
 
 First, we just made an LED blink:
 
-![image](http://33.media.tumblr.com/062a1c6174fb0bd80e97d616de7fa5a0/tumblr_inline_n3nv28U7fn1r5besl.png)
+![Arduino LED](/images/posts/2014-04-07-arduino-with-javascript-breakoutjs/arduino-led.png)
 
 But soon we were playing with colour-changing LEDs, buttons
 and [potentiometers](http://www.arduino.cc/en/Tutorial/Potentiometer). It
@@ -29,7 +29,7 @@ Etch-a-Sketch. It was easy to hook up two potentiometers for drawing the
 line horizontally and vertically. And I included a button for erasing
 the picture.
 
-![image](http://31.media.tumblr.com/4802b95c3c6caa438153dbd8fc5d092d/tumblr_inline_n3nv33qVGP1r5besl.png)
+![Arduino Etch-a-sketch](/images/posts/2014-04-07-arduino-with-javascript-breakoutjs/arduino-etch-a-sketch.png)
 
 My (messy) source code is [up on
 GitHub](https://github.com/poshaughnessy/intro-to-arduino-with-javascript).
