@@ -29,7 +29,7 @@ function build() {
     }))
     .use(markdown())
     .use(permalinks({
-      pattern: ':collection/:title'
+      pattern: ':collection/:slug'
     }))
     .use(templates('handlebars'))
     .destination('./build')

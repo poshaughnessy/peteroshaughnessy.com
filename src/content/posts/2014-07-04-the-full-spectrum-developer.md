@@ -1,5 +1,6 @@
 ---
 title: "The Full Spectrum Developer"
+slug: the-full-spectrum-developer
 date: 2014-07-04
 tags: meetups, careers
 template: post.hbs

@@ -1,5 +1,6 @@
 ---
 title: The Impossibilities and Possibilities of Google Glass development
+slug: impossibilities-possibilities-google-glass
 date: 2013-04-17
 tags: wearables, future-tech
 template: post.hbs

@@ -1,5 +1,6 @@
 ---
 title: Highlights from Front End London and State of the Browser 4 (April 2014)
+slug: highlights-from-fel-and-sotb4-apr-2014
 date: 2014-04-28
 template: post.hbs
 tags: meetups, conferences, web

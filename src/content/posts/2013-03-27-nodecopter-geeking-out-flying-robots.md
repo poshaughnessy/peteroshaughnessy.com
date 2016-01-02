@@ -1,5 +1,6 @@
 ---
 title: NodeCopter - geeking out with flying robots
+slug: nodecopter-geeking-out-flying-robots
 date: 2013-03-27
 template: post.hbs
 tags: hacks, javascript, node

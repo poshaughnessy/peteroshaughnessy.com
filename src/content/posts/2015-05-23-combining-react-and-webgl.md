@@ -1,5 +1,6 @@
 ---
 title: Combining React and WebGL
+slug: combining-react-and-webgl
 date: 2015-05-23
 tags: talks, react, webgl, three.js, ui
 template: post.hbs

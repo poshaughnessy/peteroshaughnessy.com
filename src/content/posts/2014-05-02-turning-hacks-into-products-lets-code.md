@@ -1,5 +1,6 @@
 ---
 title: Turning hacks into products - lessons from Let's Code!
+slug: turning-hacks-into-products-lets-code
 date: 2014-05-02
 tags: hacks, prototyping
 template: post.hbs

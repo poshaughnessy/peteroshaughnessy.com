@@ -1,5 +1,6 @@
 ---
 title: Augmented Reality & Virtual Reality for Education
+slug: augmented-reality-virtual-reality-education
 date: 2015-02-26
 tags: talks, virtual-reality, augmented-reality
 template: post.hbs

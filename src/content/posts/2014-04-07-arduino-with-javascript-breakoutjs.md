@@ -1,5 +1,6 @@
 ---
 title: Arduino with JavaScript (Breakout.js)
+slug: arduino-with-javascript-breakoutjs
 date: 2014-04-07
 tags: hacks, javascript
 template: post.hbs

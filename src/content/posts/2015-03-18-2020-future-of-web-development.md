@@ -1,5 +1,6 @@
 ---
 title: 2020 - Looking Ahead To The Future of Web Development
+slug: 2020-future-of-web-development
 date: 2015-03-18
 tags: talks, future-tech, web
 template: post.hbs 

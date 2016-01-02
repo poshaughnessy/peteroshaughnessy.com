@@ -1,5 +1,6 @@
 ---
 title: Talking to primary school children about programming
+slug: primary-school-children-programming
 date: 2015-03-27
 tags: talks, careers, programming
 template: post.hbs

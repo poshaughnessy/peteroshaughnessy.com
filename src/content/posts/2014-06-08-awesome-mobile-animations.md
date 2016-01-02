@@ -1,5 +1,6 @@
 ---
 title: Awesome Mobile Animations
+slug: awesome-mobile-animations
 date: 2014-06-08
 tags: talks, mobile, performance, ui
 template: post.hbs

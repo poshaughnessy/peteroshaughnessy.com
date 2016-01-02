@@ -1,5 +1,6 @@
 ---
 title: The Third Dimension - an introduction to WebGL and Three.js
+slug: third-dimension-introduction-webgl-threejs
 date: 2013-01-31
 tags: talks, webgl, three.js
 template: post.hbs

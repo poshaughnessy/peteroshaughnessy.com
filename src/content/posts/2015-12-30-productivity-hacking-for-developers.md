@@ -1,11 +1,12 @@
 ---
 title:  Productivity Hacking for Developers
+slug: productivity-hacking-for-developers
 date: 2015-12-30
 tags: productivity, programming
 template: post.hbs
 ---
 
-*Cross-post from the [pebble {code} blog](http://pebblecode.com/blog/productivity-hacking/)*
+*Cross-posting my article on the [pebble {code} blog](http://pebblecode.com/blog/productivity-hacking/)*
 
 --
 

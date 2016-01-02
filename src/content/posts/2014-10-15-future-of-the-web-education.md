@@ -1,5 +1,6 @@
 ---
 title: The Future of the Web and What It Means for Education
+slug: future-of-the-web-education
 date: 2014-10-15
 tags: conferences, web, future-tech
 template: post.hbs
