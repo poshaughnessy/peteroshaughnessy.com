@@ -145,6 +145,10 @@ nav li a.active {
   overflow-x: auto;
 }
 
+.page iframe {
+  max-width: 100%;
+}
+
 .page .tags {
   margin: 2em 0;
 }
