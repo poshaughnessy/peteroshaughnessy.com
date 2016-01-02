@@ -1,6 +1,7 @@
 ---
 title: Hybrid app workflow with Grunt, via XCode
 date: 2013-10-31
+tags: mobile, hybrid-apps
 template: post.hbs
 old-url: http://www.peteroshaughnessy.com/post/65649059080/hybrid-app-workflow-with-grunt-via-xcode
 ---

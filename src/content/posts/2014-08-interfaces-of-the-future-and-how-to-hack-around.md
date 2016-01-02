@@ -1,6 +1,7 @@
 ---
 title: Interfaces of the future, and how to hack around with them now
 date: 2014-08-04
+tags: talks, future-tech, virtual-reality, augmented-reality
 template: post.hbs
 old-url: http://www.peteroshaughnessy.com/post/93776809854/interfaces-of-the-future-and-how-to-hack-around
 ---

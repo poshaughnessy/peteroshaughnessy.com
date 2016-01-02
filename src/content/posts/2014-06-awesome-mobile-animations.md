@@ -1,6 +1,7 @@
 ---
 title: Awesome Mobile Animations
 date: 2014-06-08
+tags: talks, mobile, performance, ui
 template: post.hbs
 old-url: http://www.peteroshaughnessy.com/post/88124288254/awesome-mobile-animations
 ---

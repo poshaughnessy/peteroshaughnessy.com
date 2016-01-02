@@ -1,6 +1,7 @@
 ---
 title: Artificial Intelligence and the Future of Coding
 date: 2015-04-07
+tags: artificial-intelligence, future-tech
 template: post.hbs
 ---
 

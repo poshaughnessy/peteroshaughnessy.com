@@ -1,6 +1,7 @@
 ---
 title:  Productivity Hacking for Developers
 date: 2015-12-30
+tags: productivity, programming
 template: post.hbs
 ---
 

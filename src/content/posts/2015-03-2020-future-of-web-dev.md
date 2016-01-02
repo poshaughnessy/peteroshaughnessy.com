@@ -1,6 +1,7 @@
 ---
 title: 2020 - Looking Ahead To The Future of Web Development
 date: 2015-03-18
+tags: talks, future-tech, web
 template: post.hbs 
 old-url: http://www.peteroshaughnessy.com/post/113947776654/2020-looking-ahead-to-the-future-of-web
 ---

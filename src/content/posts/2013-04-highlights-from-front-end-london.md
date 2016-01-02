@@ -2,6 +2,7 @@
 title: Highlights from Front End London and State of the Browser 4 (April 2014)
 date: 2014-04-28
 template: post.hbs
+tags: meetups, conferences, web
 old-url: http://www.peteroshaughnessy.com/post/84127509179/april-2014-highlights-from-front-end-london-and
 ---
 

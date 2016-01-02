@@ -1,6 +1,7 @@
 ---
 title: The Future of the Web and What It Means for Education
 date: 2014-10-15
+tags: conferences, web, future-tech
 template: post.hbs
 old-url: http://www.peteroshaughnessy.com/post/100068774869/the-future-of-the-web-and-what-it-means-for
 ---

@@ -1,6 +1,7 @@
 ---
 title:  Robots, Virtual Reality and the Internet of Things? I Can't Believe It's JavaScript!
 date: 2015-11-09 00:00:01
+tags: talks, virtual-reality, future-tech, iot, javascript
 template: post.hbs
 ---
 

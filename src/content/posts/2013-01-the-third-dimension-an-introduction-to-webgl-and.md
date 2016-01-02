@@ -1,6 +1,7 @@
 ---
 title: The Third Dimension - an introduction to WebGL and Three.js
 date: 2013-01-31
+tags: talks, webgl, three.js
 template: post.hbs
 old-url: http://www.peteroshaughnessy.com/post/41945355299/the-third-dimension-an-introduction-to-webgl-and
 ---

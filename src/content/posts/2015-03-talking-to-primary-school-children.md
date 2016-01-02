@@ -1,6 +1,7 @@
 ---
 title: Talking to primary school children about programming
 date: 2015-03-27
+tags: talks, careers, programming
 template: post.hbs
 old-url: http://www.peteroshaughnessy.com/post/114758690269/talking-to-primary-school-children-about
 ---

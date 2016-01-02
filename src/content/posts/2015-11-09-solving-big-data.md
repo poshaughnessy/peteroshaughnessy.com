@@ -1,6 +1,7 @@
 ---
 title: Solving Big Data for Humans
 date: 2015-11-09
+tags: big-data, virtual-reality, augmented-reality, future-tech
 template: post.hbs
 ---
 
