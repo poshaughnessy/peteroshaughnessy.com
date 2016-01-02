@@ -7,7 +7,7 @@ body {
   margin: 0;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 600px) {
   body {
     font-size: 100%;
   }
@@ -47,7 +47,7 @@ header h1 {
   line-height: 1em;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 600px) {
   header h1 {
     font-size: 2.7em;
   }
@@ -60,11 +60,11 @@ header h1 a {
 header h2 {
   font-size: 1.1em;
   text-align: center;
-  color: #fff;
+  color: #eee;
   margin: 0;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 600px) {
   header h2 {
     font-size: 1.3em;
   }
@@ -80,7 +80,13 @@ nav {
 
 nav ul {
   padding: 0;
-  margin: 1.5em 0;
+  margin: 0.5em 0 1em 0;
+}
+
+@media (min-width: 600px) {
+  nav ul {
+    margin: 1.5em 0;
+  }
 }
 
 nav li {
@@ -96,7 +102,7 @@ nav li a {
 }
 
 nav li a.active {
-  color: #ccc;
+  color: #fff;
   border-bottom: none;
 }
 
@@ -115,7 +121,7 @@ nav li a.active {
   overflow-x: hidden;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 600px) {
   .page {
     padding: 20px 0;
   }
@@ -132,7 +138,7 @@ nav li a.active {
   margin: 0;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 600px) {
   .page h1 {
     margin: 1em 0 0 0;
   }
@@ -195,7 +201,7 @@ nav li a.active {
   margin-top: 0;
 }
 
-@media (min-width: 740px) {
+@media (min-width: 600px) {
   .blog-links {
     margin-top: 2em;
   }
