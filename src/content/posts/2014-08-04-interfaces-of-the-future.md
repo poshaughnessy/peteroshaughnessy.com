@@ -44,7 +44,7 @@ That surely can’t be it… So what’s next?
 
 Well I’m sure we’ve all been hearing a lot of hype about wearables
 recently. Interest in smartwatches has surged since 2012 when Pebble (on
-the left here) became the first \$10m Kickstarter campaign.
+the left here) became the first $10m Kickstarter campaign.
 
 ![Smartwatches](/images/posts/2014-08-04-interfaces-of-the-future/smartwatches.jpg)
 ###### Credit: [Kārlis Dambrāns](https://www.flickr.com/photos/janitors/10345415843/)

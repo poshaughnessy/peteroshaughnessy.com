@@ -69,7 +69,7 @@ do, but by the end of the second day we had hacked away with
 [Easel.js](http://www.createjs.com/#!/EaselJS)
 and created a working long jump demo.
 
-![First prototype](/images/2014-05-02-turning-hacks-into-products-lets-code/first-prototype.png)
+![First prototype](/images/posts/2014-05-02-turning-hacks-into-products-lets-code/first-prototype.png)
 
 Although it was basically useless as an actual application at this point, it was
 really useful as a starting point, to convey what we were hoping to
@@ -105,9 +105,9 @@ couldn’t save your project and if you refreshed the page, you’d go back
 to the beginning! Also, we hadn’t spent much time on cross-browser
 testing and it didn’t work in Internet Explorer.
 
-![Lets Code v1 homepage](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v1-home.png)
+![Lets Code v1 homepage](/images/posts/2014-05-02-turning-hacks-into-products-lets-code/letscode-v1-home.png)
 
-![Lets Code v2 app](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v1-app.png)
+![Lets Code v2 app](/images/posts/2014-05-02-turning-hacks-into-products-lets-code/letscode-v1-app.png)
 
  
 
@@ -335,6 +335,6 @@ Whether you’re a teacher, student, developer, or just someone who’s interest
 to take a look, we’d love your feedback, so please [try it out](http://www.letsc.de) and 
 [let us know what you think](mailto:future_tech@pearson.com)!
 
-![Lets Code v2 tutorials](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v2-tutorials.png)
+![Lets Code v2 tutorials](/images/posts/2014-05-02-turning-hacks-into-products-lets-code/letscode-v2-tutorials.png)
 
-![Lets Code v2 app](/images/2014-05-02-turning-hacks-into-products-lets-code/letscode-v2-app.png)
+![Lets Code v2 app](/images/posts/2014-05-02-turning-hacks-into-products-lets-code/letscode-v2-app.png)

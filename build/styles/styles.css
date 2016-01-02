@@ -137,6 +137,10 @@ nav li a.active {
 }
 
 .page pre {
+  max-width: 100%;
+  padding: 10px;
+  background: #eee;
+  font-size: 1.1em;
   overflow-x: auto;
 }
 

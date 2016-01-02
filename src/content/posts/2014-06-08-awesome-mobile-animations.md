@@ -25,7 +25,7 @@ transitions and embraced fluent, charismatic motion.
 
 For example, the game Dots uses this neat little effect throughout:
 
-![Dots animation](/posts/2014-06-08-awesome-mobile-animations/dots.gif)
+![Dots animation](/images/posts/2014-06-08-awesome-mobile-animations/dots.gif)
 
 ###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*
 
@@ -35,7 +35,7 @@ turns a lifeless movement into something fluid and life-like.
 Little things add up, too. For example, Yelp uses this rocket ship for
 their pull-to-refresh animation:
 
-![Yelp animation](/posts/2014-06-08-awesome-mobile-animations/yelp.gif)
+![Yelp animation](/images/posts/2014-06-08-awesome-mobile-animations/yelp.gif)
 
 ###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*
 
@@ -45,7 +45,7 @@ delight our users.
 Animations can also be used to orientate your users. For example, Moldiv
 uses this little animation to indicate how to access the menu:
 
-![Moldiv animation](/posts/2014-06-08-awesome-mobile-animations/moldiv.gif)
+![Moldiv animation](/images/posts/2014-06-08-awesome-mobile-animations/moldiv.gif)
 
 ###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*\
 
@@ -57,11 +57,11 @@ for example. Here are some animations from different parts of the app,
 but all the transitions use the same effect of stretching out slightly
 further than their intended size, and then bouncing back:
 
-![Paper animation 1](/posts/2014-06-08-awesome-mobile-animations/paper1.gif)
+![Paper animation 1](/images/posts/2014-06-08-awesome-mobile-animations/paper1.gif)
 
-![Paper animation 2](/posts/2014-06-08-awesome-mobile-animations/paper2.gif)
+![Paper animation 2](/images/posts/2014-06-08-awesome-mobile-animations/paper2.gif)
 
-![Paper animation 3](/posts/2014-06-08-awesome-mobile-animations/paper3.gif)
+![Paper animation 3](/images/posts/2014-06-08-awesome-mobile-animations/paper3.gif)
 
 So we can see that native mobile apps have been doing some awesome
 things with animations recently. What about the Web?
@@ -92,7 +92,8 @@ CubeSlam is a very cool demo from Google and North Kingdom. On the
 desktop, it uses WebGL via Three.js, but on mobile they’re using their
 own CSS3D renderer:
 
-Demo: <https://www.cubeslam.com>\
+Demo: <https://www.cubeslam.com>
+
 About the tech: <https://www.cubeslam.com/tech>
 
 Canvas
