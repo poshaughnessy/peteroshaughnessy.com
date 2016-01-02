@@ -93,6 +93,7 @@ nav li a.active {
   margin: 0 auto;
   padding: 20px 0;
   font-size: 1.1em;
+  overflow-x: hidden;
 }
 
 .page p,
