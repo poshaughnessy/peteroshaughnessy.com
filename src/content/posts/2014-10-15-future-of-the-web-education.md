@@ -6,8 +6,8 @@ tags: conferences, web, future-tech
 template: post.hbs
 ---
 
-\[Cross-posting of my [blog post at
-labs.pearson.com](http://labs.pearson.com/the-future-of-web-and-what-it-means-for-education/)\]
+*Cross-posting of my [blog post at labs.pearson.com](http://labs.pearson.com/the-future-of-web-and-what-it-means-for-education/)*
+--
 
 What will the future have in store for the Web? Hundreds came
 together in London a couple of weeks ago in the hope of finding out, at
@@ -17,8 +17,8 @@ The talks were aimed at web developers, but the topics will end up
 affecting everyone. So what were the major themes? And what does it mean
 for education?
 
-![image](http://33.media.tumblr.com/3d85c89bb85185e3ccfd5aedc9649a5f/tumblr_inline_ndhchm1Wll1r5besl.png)
-###### Credit: [Future Insights](https://twitter.com/fowa/status/517319990882877441 "Future Insights")
+![To The Future!](/images/posts/2015-02-26-future-of-the-web-education/to-the-future.png)
+###### Credit: [Future Insights](https://twitter.com/fowa/status/517319990882877441)
 
 ### Theme 1: More Powers for the Web
 
@@ -103,8 +103,8 @@ look out for the mobile symbols indicating those that should be
 mobile-friendly. A demo that I particularly like is [Racer
 S](http://www.chromeexperiments.com/detail/racer-s/).
 
-![image](http://31.media.tumblr.com/c0aa5adbda9fdb93f6afd33553263398/tumblr_inline_ndhcj4ka7g1r5besl.png)
-###### Credit: [Samsung Racer S](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CEAQFjAA&url=http%3A%2F%2Fhelloracer.com%2Fracer-s%2F&ei=XgY0VJGfGYvxasekgpAK&usg=AFQjCNEfQ_SoXyh9A9iaXJZmuem1T6NgpQ)
+![Samsung Racer S](/images/posts/2015-02-26-future-of-the-web-education/samsung-racer-s.png)
+###### Credit: [Samsung Racer S](http://helloracer.com/racer-s/)
 
 **Audio**
 
@@ -172,7 +172,7 @@ developers and pay dividends for users of the Web too.
 
 ### The future of the Web? It’s bright
 
-![image](http://33.media.tumblr.com/204bff8275a679aa7585a42490c15ad8/tumblr_inline_ndhcgi6jgd1r5besl.jpg)
+![Bright future](/images/posts/2015-02-26-future-of-the-web-education/bright-orange-web.jpg)
 ###### Credit: [CLUC, Flickr](https://www.flickr.com/photos/35378394@N03/3280622749/)
 
 In the near future, watch out for websites that retain all the great

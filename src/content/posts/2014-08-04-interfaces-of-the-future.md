@@ -23,7 +23,7 @@ the parent company of the Financial Times).
 
 First, let’s think about where we are now, in the world of the Web.
 
-![image](http://31.media.tumblr.com/84e093d84ab6a93996edd8503f0766c2/tumblr_inline_n9s3qjI10B1r5besl.jpg)
+![Cuddling with multiple devices](/images/posts/2014-08-04-interfaces-of-the-future/devices.jpg)
 ###### Credit: [Jeremy Keith](http://en.wikipedia.org/wiki/Digital_omnivore#mediaviewer/File:Cuddling_with_multiple_devices.jpg)
 
 We’ve moved on from the Desktop Era, and having travelled through
@@ -37,7 +37,7 @@ flat, 2D screens that we have in our hands, or just in front of us. As
 Bret Victor memorably said, it’s all just [Pictures Under
 Glass](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/).
 
-![image](http://38.media.tumblr.com/09852f3974f207bad0604a88cdc9b8a3/tumblr_inline_n9s3xh86Lg1r5besl.jpg)
+![Pictures Under Glass](/images/posts/2014-08-04-interfaces-of-the-future/pictures-under-glass.jpg)
 ###### Credit: [PlaceIt](https://placeit.net/)
 
 That surely can’t be it… So what’s next?
@@ -46,7 +46,7 @@ Well I’m sure we’ve all been hearing a lot of hype about wearables
 recently. Interest in smartwatches has surged since 2012 when Pebble (on
 the left here) became the first \$10m Kickstarter campaign.
 
-![image](http://33.media.tumblr.com/0550bd382572ea1fe46f8a7f95f084af/tumblr_inline_n9s3w9ElyN1r5besl.jpg)
+![Smartwatches](/images/posts/2014-08-04-interfaces-of-the-future/smartwatches.jpg)
 ###### Credit: [Kārlis Dambrāns](https://www.flickr.com/photos/janitors/10345415843/)
 
 Now Google, Samsung, LG, Motorola and many others are getting in on the
@@ -55,7 +55,7 @@ reveal later this year.
 
 And who could forget the poster child of geeky new tech, Google Glass?
 
-![image](http://33.media.tumblr.com/106c961420782980e584533e87b937fe/tumblr_inline_n9s4t41CX81r5besl.jpg)
+![Google Glass](/images/posts/2014-08-04-interfaces-of-the-future/google-glass-geeky.jpg)
 ###### Credit: [Thomas Hawk](https://www.flickr.com/photos/thomashawk/14259298346)
 
 If you haven’t already tried it out, I’m sure you’ve all heard
@@ -88,7 +88,7 @@ because we already have our laptop there? But it turned out that they
 can make for a great “lean back” device, something that we’re more
 comfortable using on the sofa.
 
-![image](http://33.media.tumblr.com/b83a952eafee504d349eb712fd1fb496/tumblr_inline_n9s50bq8gl1r5besl.jpg)
+![Lean back experiences](/images/posts/2014-08-04-interfaces-of-the-future/lean-back-experience.jpg)
 ###### Credit: [plantronicsgermany](https://www.flickr.com/photos/plantronicsgermany/8071203642)
 
 So I think we should think carefully about the kinds of experiences that
@@ -99,7 +99,7 @@ technology are often difficult to predict. Before the smartphone
 explosion, who would have predicted that so many of us would use them
 for this:
 
-![image](http://33.media.tumblr.com/7c14eb7e0cae0773611765dad2e12daf/tumblr_inline_n9s51z1jl91r5besl.jpg)
+![Selfie](/images/posts/2014-08-04-interfaces-of-the-future/selfie.jpg)
 ###### The “Selfie”. Credit: [Wikimedia](http://en.wikipedia.org/wiki/Selfie)
 
 **The Long Nose of Innovation**
@@ -111,7 +111,7 @@ go through years of refinement and augmentation until eventually
 everything comes together: affordability, ease of use, good marketing…
 and finally they can take off and gain traction.
 
-![image](http://33.media.tumblr.com/13c95231728204087ede3e6935e5738b/tumblr_inline_n9s54e9UbK1r5besl.png)
+![Long Nose of Innovation](/images/posts/2014-08-04-interfaces-of-the-future/long-nose-of-innovation.png)
 ###### Credit: [Sketchplanations](http://www.sketchplanations.com/post/60700964916/the-long-nose-of-innovation-bill-buxton-i-love)
 
 We’ve seen this many times over the years. For example, multi-touch
@@ -122,7 +122,7 @@ and the iPad.
 And we all kind of know this, yet we still seem to go through this hype
 curve every time:
 
-![image](http://38.media.tumblr.com/52071c740d09e3552b7f6b5b9b43b838/tumblr_inline_n9s95d1gUU1r5besl.png)
+![Hype Curve](/images/posts/2014-08-04-interfaces-of-the-future/hype-curve.png)
 ###### Credit: [Wikipedia](http://en.wikipedia.org/wiki/Hype_cycle)
 
 I’m guilty of this too. We hear about a cool new technology, and we get
@@ -139,7 +139,7 @@ years…
 
 **Augmented Reality and Holographics**
 
-![image](http://31.media.tumblr.com/4ad9b8ef5fd7a5ca4277df825ac1c3c9/tumblr_inline_n9s9bdFaI31r5besl.jpg)
+![Augmented Reality](/images/posts/2014-08-04-interfaces-of-the-future/augmented-reality-holographics.jpg)
 ###### Credit: [Pearson School of Thought](http://youtu.be/yQRdIZR_LYY)
 
 Firstly, holographic-style augmented reality interfaces, where you can
@@ -155,7 +155,7 @@ It might seem like this is still a long way off…But it shouldn’t be long
 before we can start to try it out at least. Meta are planning to bring
 “the first holographic interface” to market next year.
 
-![image](http://38.media.tumblr.com/10c6f46754c369cba1e4b76ff091ca19/tumblr_inline_n9s9f0iVg81r5besl.jpg)
+![Meta Pro glasses](/images/posts/2014-08-04-interfaces-of-the-future/meta-pro.jpg)
 ###### Credit: [Meta](https://www.spaceglasses.com)
 
 This Pro version will be \$3,650 and it’ll be attached to a pocket
@@ -163,7 +163,7 @@ computer. So there’s a couple of reasons already why it’s unlikely to
 shoot up that traction axis straight away. But some smart people predict
 that it will only be 5 years before it becomes this:
 
-![image](http://33.media.tumblr.com/e676b358fc5e16441bfb4108f50c99d5/tumblr_inline_n9s9gnJeiP1r5besl.jpg)
+![Ray Bans](/images/posts/2014-08-04-interfaces-of-the-future/ray-bans.jpg)
 ###### Credit: [Wikimedia](http://upload.wikimedia.org/wikipedia/commons/4/4b/RayBanAviator.jpg)
 
 Just regular looking glasses or shades. That could really help to open
@@ -173,14 +173,14 @@ it up to the mass market.
 
 And how about Virtual Reality?
 
-![image](http://33.media.tumblr.com/2f3f2f96646f6bdf13132dcf25e627f3/tumblr_inline_n9s9hoPNr41r5besl.jpg)
+![The Matrix](/images/posts/2014-08-04-interfaces-of-the-future/matrix.jpg)
 ###### Credit: [Sudhee](http://www.flickr.com/photos/sudhee/82891943)
 
 Again, people have been talking about it for decades. But it should only
 be next year before we have the first affordable Virtual Reality
 consumer devices go on sale, like the Oculus Rift:
 
-![image](http://38.media.tumblr.com/422ee8166bc9a42153e2e0e3e90cf744/tumblr_inline_n9s9jxvjo91r5besl.jpg)
+![Oculus Rift](/images/posts/2014-08-04-interfaces-of-the-future/oculus-rift.jpg)
 ###### Credit: [Oculus Rift](http://www.oculusvr.com/)
 
 The unique thing about VR is the feeling of “presence”; you’re
@@ -188,7 +188,7 @@ transported into another environment. Go to the edge of a cliff in
 virtual reality and you should find that you get sweaty palms and a
 quickening heart beat, like you would in real life.
 
-![image](http://38.media.tumblr.com/326f6452daa5ab129d50d133893853ec/tumblr_inline_n9s9l9EzsB1r5besl.jpg)
+![Feet hanging off a cliff](/images/posts/2014-08-04-interfaces-of-the-future/presence-cliff.jpg)
 ###### Credit: [Fotolia](http://www.fotolia.com/)
 
 Of course, your conscious brain knows that you’re just wearing what is
@@ -200,14 +200,14 @@ Here’s just one interesting example: hooking into a live camera feed on
 another person, to enable a person in a wheelchair to see herself
 dancing on her feet:
 
-![image](http://31.media.tumblr.com/982508d7c93565c034eb8eeda4ee0fab/tumblr_inline_n9s9mrtwYO1r5besl.jpg)
+![VR choreography](/images/posts/2014-08-04-interfaces-of-the-future/vr-choreography.jpg)
 ###### Credit: [BeAnotherLab](http://vimeo.com/74254297)
 
 We’re only really just scratching the surface of it right now, but we
 have the potential to create some amazing experiences for people, which
 can lead to reactions like this:
 
-![image](http://33.media.tumblr.com/b5bab70219384ac4ac856ff598b311c5/tumblr_inline_n9s9o5D2O41r5besl.jpg)
+![VR joy grandma](/images/posts/2014-08-04-interfaces-of-the-future/vr-joy-grandma.jpg)
 ###### Credit: [Paul Rivot](http://youtu.be/pAC5SeNH8jw)
 
 **WebVR**
@@ -247,13 +247,13 @@ in separate builds.
 Here’s how you use it… With a WebGL scene, you render it twice, side by
 side: one for your left eye and one for your right eye.
 
-![image](http://33.media.tumblr.com/d6fb075a6ca4ef5e8266f071165702c2/tumblr_inline_n9s9t08G151r5besl.jpg)
+![VR stereo](/images/posts/2014-08-04-interfaces-of-the-future/webgl-stereo.jpg)
 ###### Credit: [Oculus Rift](http://www.oculusvr.com/)
 
 The browser can apply the distortion required for the particular device
 - it’s like this for the Oculus Rift:
 
-![image](http://38.media.tumblr.com/10e71638501157a77056f7b8acf4a635/tumblr_inline_n9s9u6DmOP1r5besl.jpg)
+![VR distortion](/images/posts/2014-08-04-interfaces-of-the-future/webgl-distortion.jpg)
 ###### Credit: [Oculus Rift](http://www.oculusvr.com/)
 
 This is what the lenses will turn into something that covers as much of
@@ -333,7 +333,7 @@ of lenses and a button made out of a magnet, and it can turn your
 existing smartphone into a rudimentary Virtual Reality device for just a
 few dollars.
 
-![image](http://38.media.tumblr.com/dbac64c3929e6d42f3c59e381aded69d/tumblr_inline_n9saji1IBD1r5besl.jpg)
+![Google Cardboard](/images/posts/2014-08-04-interfaces-of-the-future/google-cardboard.jpg)
 
 We can also create Cardboard apps using Web technologies, right now.
 It’s not supported by these very new WebVR implementations just yet, but
@@ -365,7 +365,7 @@ Google have a [code example up here](http://bit.ly/cardboard-example).
 
 **Just a taster**
 
-![image](http://33.media.tumblr.com/3bd51014be682f580dd9ae847e6185a9/tumblr_inline_n9saovYhYx1r5besl.png)
+![TRex](/images/posts/2014-08-04-interfaces-of-the-future/trex.png)
 
 Hopefully I’ve given just a taster about some exciting new technology
 coming up, and how you can get started with Virtual Reality right now. 
@@ -376,7 +376,7 @@ Today, we’re creating pictures under glass. 
 
 Tomorrow we’ll create whole new worlds.
 
-![image](http://38.media.tumblr.com/84acaae36dec11ca3f83cf8eab1b8d21/tumblr_inline_n9saqpqQlN1r5besl.png)
+![New world](/images/posts/2014-08-04-interfaces-of-the-future/new-world.png)
 ###### Credit: [mind-criminal](http://mind-criminal.deviantart.com/art/Universe-From-a-Meadow-257284639)
 
 So let’s get ahead of the curve and start hacking now!

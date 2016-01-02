@@ -28,20 +28,20 @@
 <p>--</p>
 <p>It’s not that long ago that <a href="http://www.davidarno.org/2010/05/18/why-javascript-is-a-toy-language/">many people thought that JavaScript was a “toy” language</a>. I always enjoyed writing JavaScript myself, but I confess that a decade ago, I too, saw it as just a way to do little bits of scripting in the browser - things like clickable tabs, photo galleries and AJAX. Not a language that you could build <em>real</em> applications with.</p>
 <p>But since then, we have witnessed JavaScript’s meteoric rise. This data from Github shows how it’s soared well out in front compared to other languages:</p>
-<p><img src="/images/posts/2015-11-09-robots-vr-iot/languages-graph-loggly.png" alt="Loggly graph"></p>
+<p><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/languages-graph-loggly.png" alt="Loggly graph"></p>
 <p>Graph by <a href="https://www.loggly.com/blog/the-most-popular-programming-languages-in-to-github-since-2012/">loggly</a> - data from <a href="https://github.com/">Github</a></p>
 <p>Many of the kinds of applications that we previously would have considered impossible to build in JavaScript, are now being built in it. </p>
 <p>As <a href="http://blog.codinghorror.com/the-principle-of-least-power/">Atwood’s Law says</a>:  </p>
 <p><em>“Any application that can be written in JavaScript, will eventually be written in JavaScript”.</em></p>
 <p>Here are some examples that might just make you say: <em>“I Can’t Believe It’s JavaScript!”</em></p>
-<p><img src="/images/posts/2015-11-09-robots-vr-iot/i-cant-believe-its-js.png" alt="I Can&#39;t Believe It&#39;s JavaScript!"></p>
+<p><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/i-cant-believe-its-js.png" alt="I Can&#39;t Believe It&#39;s JavaScript!"></p>
 <h2 id="desktop-apps">Desktop Apps</h2>
 <p>This <a href="https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658">Sound Machine</a> looks and feels like a native app, but it’s built with Web technologies. Kristian Poslek <a href="https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658">posted it</a> as an example of building a desktop application with <a href="http://electron.atom.io/">Electron</a> (previously called Atom Shell).</p>
 <p>Did you know that <a href="https://atom.io/">Atom Editor</a> and <a href="https://slack.com/">Slack</a> are also built with Electron?</p>
 <h2 id="60-fps-mobile-games">60 FPS mobile games</h2>
 <p>JavaScript - contrary to some opinions - also lets you create smooth, 60 frames per second mobile games.</p>
 <p>An old favourite of mine is <a href="http://www.goodboydigital.com/runpixierun/">Run Pixie Run</a>:</p>
-<p><a href="http://www.goodboydigital.com/runpixierun/"><img src="/images/posts/2015-11-09-robots-vr-iot/run-pixie-run.jpg" alt="Run Pixie Run"></a></p>
+<p><a href="http://www.goodboydigital.com/runpixierun/"><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/run-pixie-run.jpg" alt="Run Pixie Run"></a></p>
 <p>It was built using <a href="http://www.pixijs.com/">Pixi.js</a>, an excellent 2D graphics library. It uses WebGL for best performance if it’s available, otherwise it seamlessly falls back to canvas for better browser support.</p>
 <p>It’s not just 2D. Here’s a 3D example called <a href="http://airtightinteractive.com/projects/winter-rush/">Winter Rush</a>, by Felix Turner:</p>
 <iframe width="540" height="405" id="youtube_iframe" src="https://www.youtube.com/embed/DWMJdTxV9PE?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0"></iframe>
@@ -65,19 +65,19 @@
 <h2 id="internet-of-things">Internet of Things</h2>
 <p>JavaScript isn’t just for standalone robots. It can also do Internet of Things... things!</p>
 <p>For example, if you’re like us at <a href="http://pebblecode.com/">pebble {code}</a>, you probably drink far too much coffee. So think how much time you waste actually going to the kitchen to make yourself a brew. What if you could just tap a button on your phone and have it start before you even walk over?</p>
-<p><img src="/images/posts/2015-11-09-robots-vr-iot/caffeine-4-me.png" alt="Caffeine 4 Me"></p>
+<p><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/caffeine-4-me.png" alt="Caffeine 4 Me"></p>
 <p>Thankfully you can - using <a href="http://devpost.com/software/caffeine-4-me">Caffeine 4 Me</a> from Luke Kuza and friends. It uses <a href="https://tessel.io/">Tessel</a>, an Internet-connected microcontroller you can program with - you guessed it - JavaScript. It runs Node.js and it’s compatible with all your favourite NPM modules.</p>
 <p>Alternatively, if you have a table football table in your office and you’re fed up of having to keep score, why not introduce some JavaScript-based goal line technology?</p>
-<p><img src="/images/posts/2015-11-09-robots-vr-iot/hackball.jpg" alt="Hackball"></p>
+<p><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/hackball.jpg" alt="Hackball"></p>
 <p>This is <a href="http://pebblecode.com/blog/hack-day-hackball/">one my colleagues are working on</a>. It uses light sensors to trigger an action when the ball crosses the line. It uses a Raspberry Pi and its GPIO (general purpose input/output) pins - we developed a little library for that called <a href="https://github.com/pebblecode/pinhead">Pinhead</a> - along with an analog to digital converter. Then it’s just a Node and Express server which talks to a front-end using web sockets, via Socket.io. Now you can display the score up on a big screen!</p>
-<p><img src="/images/posts/2015-11-09-robots-vr-iot/hackball2.jpg" alt="Hackball"></p>
+<p><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/hackball2.jpg" alt="Hackball"></p>
 <h2 id="wearables">Wearables</h2>
 <p>Next, there’s been some talk about how the Apple Watch doesn’t support web apps, so that means the Web is dead (yaddi yadda)... But - you <em>can</em> build smart watch apps with JavaScript.</p>
 <p>This <a href="https://developer.getpebble.com/tutorials/pebble-js-tutorial/part1/">Pebble Watch weather app</a> pulls down the weather for your location from OpenWeatherMap.org:</p>
-<p><a href="https://developer.getpebble.com/tutorials/pebble-js-tutorial/part1/"><img src="/images/posts/2015-11-09-robots-vr-iot/pebble-weather.png" alt="Pebble weather app"></a></p>
+<p><a href="https://developer.getpebble.com/tutorials/pebble-js-tutorial/part1/"><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/pebble-weather.png" alt="Pebble weather app"></a></p>
 <p>It’s built using <a href="https://developer.getpebble.com/docs/pebblejs/">Pebble.js</a>, a JavaScript SDK for Pebble watch apps. (NB. In case of any confusion, I work for <a href="http://pebblecode.com/">pebble {code}</a> the technology innovation consultancy, not Pebble the smart watch company!)</p>
 <p>You can even develop Pebble.js apps in the browser using their <a href="https://cloudpebble.net/">cloud IDE</a> and sync them directly onto your watch. Smart!</p>
-<p><img src="/images/posts/2015-11-09-robots-vr-iot/pebble-cloud-ide.png" alt="Pebble Cloud IDE"></p>
+<p><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/pebble-cloud-ide.png" alt="Pebble Cloud IDE"></p>
 <h2 id="virtual-reality">Virtual Reality</h2>
 <p>Finally... the latest hot thing, about to take off with the consumer version of the Oculus Rift, HTC Vive et al… JavaScript can also do Virtual Reality.  </p>
 <p>Here’s one I made earlier: Virtual Reality fire safety training, using the Oculus Rift along with a Leap Motion controller so you can use your hands to interact with the scene:</p>
@@ -87,7 +87,7 @@
 <p>Essentially it extends the full screen API so you can launch your web page on the actual Head Mounted Display. It gives you the transformation you need to morph the view appropriately for the device. Plus the orientation data so you can move your scene around appropriately as the user turns their head.  </p>
 <p>Then <a href="https://github.com/leapmotion/leapjs">LeapJS</a> provides the hand and finger position data, via a web socket data stream.</p>
 <h2 id="can-you-believe-it-">Can you believe it?</h2>
-<p><img src="/images/posts/2015-11-09-robots-vr-iot/i-cant-believe-it-cat.jpg" alt="This cat can&#39;t believe it"></p>
+<p><img src="/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/i-cant-believe-it-cat.jpg" alt="This cat can&#39;t believe it"></p>
 <p>From desktop apps, to virtual reality - JavaScript can do it all. Some of these examples might be on the bleeding edge; you might not be able to put some of this into production just yet. But I reckon it’s a safe bet that these technologies are up-and-coming, and by exploring them now, we can get ready for when they take off. All using our favourite language. One that no one can call a toy language anymore.... unless they simply mean that there’s so much to play with!</p>
 <p>It’s a great time to be a JavaScript developer, don’t you think?</p>
 

@@ -14,7 +14,7 @@ It’s not that long ago that [many people thought that JavaScript was a “toy�
 
 But since then, we have witnessed JavaScript’s meteoric rise. This data from Github shows how it’s soared well out in front compared to other languages:
 
-![Loggly graph](/images/posts/2015-11-09-robots-vr-iot/languages-graph-loggly.png)
+![Loggly graph](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/languages-graph-loggly.png)
 
 Graph by [loggly](https://www.loggly.com/blog/the-most-popular-programming-languages-in-to-github-since-2012/) - data from [Github](https://github.com/)
 
@@ -26,7 +26,7 @@ _“Any application that can be written in JavaScript, will eventually be writte
 
 Here are some examples that might just make you say: _“I Can’t Believe It’s JavaScript!”_
 
-![I Can't Believe It's JavaScript!](/images/posts/2015-11-09-robots-vr-iot/i-cant-believe-its-js.png)
+![I Can't Believe It's JavaScript!](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/i-cant-believe-its-js.png)
 
 ## Desktop Apps
 
@@ -40,7 +40,7 @@ JavaScript - contrary to some opinions - also lets you create smooth, 60 frames 
 
 An old favourite of mine is [Run Pixie Run](http://www.goodboydigital.com/runpixierun/):
 
-[![Run Pixie Run](/images/posts/2015-11-09-robots-vr-iot/run-pixie-run.jpg)](http://www.goodboydigital.com/runpixierun/)
+[![Run Pixie Run](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/run-pixie-run.jpg)](http://www.goodboydigital.com/runpixierun/)
 
 It was built using [Pixi.js](http://www.pixijs.com/), an excellent 2D graphics library. It uses WebGL for best performance if it’s available, otherwise it seamlessly falls back to canvas for better browser support.
 
@@ -80,17 +80,17 @@ JavaScript isn’t just for standalone robots. It can also do Internet of Things
 
 For example, if you’re like us at [pebble {code}](http://pebblecode.com/), you probably drink far too much coffee. So think how much time you waste actually going to the kitchen to make yourself a brew. What if you could just tap a button on your phone and have it start before you even walk over?
 
-![Caffeine 4 Me](/images/posts/2015-11-09-robots-vr-iot/caffeine-4-me.png)
+![Caffeine 4 Me](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/caffeine-4-me.png)
 
 Thankfully you can - using [Caffeine 4 Me](http://devpost.com/software/caffeine-4-me) from Luke Kuza and friends. It uses [Tessel](https://tessel.io/), an Internet-connected microcontroller you can program with - you guessed it - JavaScript. It runs Node.js and it’s compatible with all your favourite NPM modules.
 
 Alternatively, if you have a table football table in your office and you’re fed up of having to keep score, why not introduce some JavaScript-based goal line technology?
 
-![Hackball](/images/posts/2015-11-09-robots-vr-iot/hackball.jpg)
+![Hackball](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/hackball.jpg)
 
 This is [one my colleagues are working on](http://pebblecode.com/blog/hack-day-hackball/). It uses light sensors to trigger an action when the ball crosses the line. It uses a Raspberry Pi and its GPIO (general purpose input/output) pins - we developed a little library for that called [Pinhead](https://github.com/pebblecode/pinhead) - along with an analog to digital converter. Then it’s just a Node and Express server which talks to a front-end using web sockets, via Socket.io. Now you can display the score up on a big screen!
 
-![Hackball](/images/posts/2015-11-09-robots-vr-iot/hackball2.jpg)
+![Hackball](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/hackball2.jpg)
 
 ## Wearables
 
@@ -98,13 +98,13 @@ Next, there’s been some talk about how the Apple Watch doesn’t support web a
 
 This [Pebble Watch weather app](https://developer.getpebble.com/tutorials/pebble-js-tutorial/part1/) pulls down the weather for your location from OpenWeatherMap.org:
 
-[![Pebble weather app](/images/posts/2015-11-09-robots-vr-iot/pebble-weather.png)](https://developer.getpebble.com/tutorials/pebble-js-tutorial/part1/)
+[![Pebble weather app](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/pebble-weather.png)](https://developer.getpebble.com/tutorials/pebble-js-tutorial/part1/)
 
 It’s built using [Pebble.js](https://developer.getpebble.com/docs/pebblejs/), a JavaScript SDK for Pebble watch apps. (NB. In case of any confusion, I work for [pebble {code}](http://pebblecode.com/) the technology innovation consultancy, not Pebble the smart watch company!)
 
 You can even develop Pebble.js apps in the browser using their [cloud IDE](https://cloudpebble.net/) and sync them directly onto your watch. Smart!
 
-![Pebble Cloud IDE](/images/posts/2015-11-09-robots-vr-iot/pebble-cloud-ide.png)
+![Pebble Cloud IDE](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/pebble-cloud-ide.png)
 
 ## Virtual Reality
 
@@ -122,7 +122,7 @@ Then [LeapJS](https://github.com/leapmotion/leapjs) provides the hand and finger
 
 ## Can you believe it?
 
-![This cat can't believe it](/images/posts/2015-11-09-robots-vr-iot/i-cant-believe-it-cat.jpg)
+![This cat can't believe it](/images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/i-cant-believe-it-cat.jpg)
 
 From desktop apps, to virtual reality - JavaScript can do it all. Some of these examples might be on the bleeding edge; you might not be able to put some of this into production just yet. But I reckon it’s a safe bet that these technologies are up-and-coming, and by exploring them now, we can get ready for when they take off. All using our favourite language. One that no one can call a toy language anymore.... unless they simply mean that there’s so much to play with!
 

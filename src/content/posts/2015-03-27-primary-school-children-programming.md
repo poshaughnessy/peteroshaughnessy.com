@@ -7,12 +7,11 @@ template: post.hbs
 old-url: http://www.peteroshaughnessy.com
 ---
 
-![](http://41.media.tumblr.com/207557d8490554d81cbcb6fc4880c1d5/tumblr_inline_nxkdgy2uD11r5besl_540.png)
+![Child coding with Scratch](/images/posts/2015-03-27-primary-school-children-programming/child-coding.png)
 
 Last week I was invited to talk to a Year 5 class at [St. Andrew’s
-primary school in
-Stockwell](http://www.standrewsprimaryschoolstockwell.org/). The aim was
-to help them see some of the benefits and potential of learning to code,
+primary school in Stockwell](http://www.standrewsprimaryschoolstockwell.org/). 
+The aim was to help them see some of the benefits and potential of learning to code,
 and to help them realise that coding goes beyond the games they’re
 currently making with Scratch. It struck me when planning it, that even
 if there’s just a small possibility that I could inspire one or two
@@ -29,7 +28,7 @@ In case it might just help provide a starting point to anyone else who
 might talk about programming to a similar age group, here are the slides
 I used:
 
-<https://docs.google.com/presentation/d/1lInssGiGIUQDEd3ZqJoVsIY7Pgm7wkpLrkW7qa1Y5m0/edit?usp=sharing>\
+<https://docs.google.com/presentation/d/1lInssGiGIUQDEd3ZqJoVsIY7Pgm7wkpLrkW7qa1Y5m0/edit?usp=sharing>
 
 I’d love to hear any feedback, whether you’re a teacher, parent or
 programmer. What do you think? Anything I should add, change or take out

@@ -85,7 +85,7 @@ Altogether, he felt transformed.
 To introduce new habits, or to modify bad ones, it is useful to understand the **Habit Loop**. Habits consist of a
 *cue*, a *routine* and a *reward*. Thinking about the reward helps to form a *craving*.
 
-![Habit Loop](/images/posts/2015-12-30-productivity-hacking/habit-loop1.png)
+![Habit Loop](/images/posts/2015-12-30-productivity-hacking-for-developers/habit-loop1.png)
 
 If we want to stick to a new routine (e.g. going for a run before work), it is useful to define the cue (e.g. our alarm
 going off) and the reward we get from it (e.g. the implicit endorphin rush - or perhaps treating ourselves to a fruit
@@ -102,7 +102,7 @@ habit of snacking in the cafeteria every afternoon, you might, upon reflection, 
 is the social interaction. You could keep the same cue (perhaps it’s mid-afternoon boredom) and choose a better routine
 that gives the same kind of reward (for example, taking a walk to the water cooler).
 
-![Habit Loop 2](/images/posts/2015-12-30-productivity-hacking/habit-loop2.png)
+![Habit Loop 2](/images/posts/2015-12-30-productivity-hacking-for-developers/habit-loop2.png)
 
 At my old company, Luis was always the first person in the office. While many of his colleagues were just waking up, he
 was already in the office, tackling the toughest problems of the day while his brain was most active. By mid-afternoon

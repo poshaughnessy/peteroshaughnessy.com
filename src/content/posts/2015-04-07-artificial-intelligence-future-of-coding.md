@@ -70,7 +70,7 @@ I expect we will also interact with computers more through speech, given that mo
 
 I think we’ll also see a rise in visual programming. Many of us are familiar with [Firebase’s](https://www.firebase.com/) graphical UI for defining and modifying data structures. Another example is [Treeline](https://treeline.io/), who “want to take the coding out of building a backend”, by providing a visual interface for defining data flow pipelines:
 
-![Treeline](/images/posts/2015-04-07-artificial-intelligence-and-future-coding/treeline.png)
+![Treeline](/images/posts/2015-04-07-artificial-intelligence-future-of-coding/treeline.png)
 
 ###### *Credit: [TechCrunch](http://techcrunch.com/2015/03/11/treeline-wants-to-take-the-coding-out-of-building-a-backend/)*
 

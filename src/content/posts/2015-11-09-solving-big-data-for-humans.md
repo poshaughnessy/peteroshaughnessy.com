@@ -6,7 +6,7 @@ tags: big-data, virtual-reality, augmented-reality, future-tech
 template: post.hbs
 ---
 
-![Human vs Cyclon rollercoaster](/images/posts/2015-11-09-solving-big-data/rollercoaster.jpg)
+![Human vs Cyclon rollercoaster](/images/posts/2015-11-09-solving-big-data-for-humans/rollercoaster.jpg)
 
 ###### *Photo by [Jeremy Thompson](http://www.flickr.com/people/32916425@N04)*
 
