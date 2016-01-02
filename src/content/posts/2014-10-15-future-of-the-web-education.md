@@ -7,6 +7,7 @@ template: post.hbs
 ---
 
 *Cross-posting of my [blog post at labs.pearson.com](http://labs.pearson.com/the-future-of-web-and-what-it-means-for-education/)*
+
 --
 
 What will the future have in store for the Web? Hundreds came
