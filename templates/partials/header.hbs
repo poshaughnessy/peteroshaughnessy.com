@@ -14,24 +14,14 @@
     <link rel="icon" href="/images/favicon.png" type="image/png">
   </head>
   <body>
-    <nav id="side-menu">
-      <ul>
-        <li><a href="/"{{#equals path ''}} class="active"{{/equals}}>Blog</a></li>
-        <li><a href="/pages/portfolio/"{{#equals path 'pages/portfolio'}} class="active"{{/equals}}>Portfolio</a></li>
-        <li><a href="/pages/talks"{{#equals path 'pages/talks'}} class="active"{{/equals}}>Talks</a></li>
-      </ul>
-    </nav>
-    <input type="checkbox" id="nav-trigger" class="nav-trigger"/>
-    <label for="nav-trigger"></label>
-    <div class="site-wrap">
-      <header>
-        <h1><a href="/">Peter O'Shaughnessy</a></h1>
-        <h2>Future technologies geek, mostly-JavaScript developer and tech lead at <a href="http://pebblecode.com">pebble {code}</a></h2>
-        <nav id="horizontal-menu">
-          <ul>
-            <li><a href="/"{{#equals path ''}} class="active"{{/equals}}>Blog</a></li>
-            <li><a href="/pages/portfolio/"{{#equals path 'pages/portfolio'}} class="active"{{/equals}}>Portfolio</a></li>
-            <li><a href="/pages/talks"{{#equals path 'pages/talks'}} class="active"{{/equals}}>Talks</a></li>
-          </ul>
-        </nav>
-      </header>
+    <header>
+      <h1><a href="/">Peter O'Shaughnessy</a></h1>
+      <h2>Future technologies geek, mostly-JavaScript developer and tech lead at <a href="http://pebblecode.com">pebble {code}</a></h2>
+      <nav>
+        <ul>
+          <li><a href="/"{{#equals path ''}} class="active"{{/equals}}>Blog</a></li>
+          <li><a href="/pages/portfolio/"{{#equals path 'pages/portfolio'}} class="active"{{/equals}}>Portfolio</a></li>
+          <li><a href="/pages/talks"{{#equals path 'pages/talks'}} class="active"{{/equals}}>Talks</a></li>
+        </ul>
+      </nav>
+    </header>

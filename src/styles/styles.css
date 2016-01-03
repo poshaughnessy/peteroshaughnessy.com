@@ -74,126 +74,33 @@ header h2 a {
   color: #8282a7;
 }
 
-/*
- * CSS-only menu based on: http://www.sitepoint.com/pure-css-off-screen-navigation-menu/
- */
-
-/* Menu button */
-.nav-trigger {
-  position: absolute;
-  clip: rect(0, 0, 0, 0);
-}
-
-/* Hamburger */
-label[for="nav-trigger"] {
-  position: absolute;
-  right: 10px;
-  top: 18px;
-  z-index: 2;
-  height: 30px;
-  width: 30px;
-  cursor: pointer;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' x='0px' y='0px' width='30px' height='30px' viewBox='0 0 30 30' enable-background='new 0 0 30 30' xml:space='preserve'><rect width='30' height='6' fill='#fff'/><rect y='24' width='30' height='6' fill='#fff'/><rect y='12' width='30' height='6' fill='#fff'/></svg>");
-  background-size: contain;
-}
-
-.nav-trigger + label, .site-wrap {
-  -o-transition: transform 0.2s;
-  -ms-transition: transform 0.2s;
-  -moz-transition: transform 0.2s;
-  -webkit-transition: transform 0.2s;
-  transition: transform 0.2s;
-}
-
-.nav-trigger:checked + label,
-.nav-trigger:checked ~ .site-wrap {
-  -o-transform: translateX(-200px);
-  -ms-transform: translateX(-200px);
-  -moz-transform: translateX(-200px);
-  -webkit-transform: translateX(-200px);
-  transform: translateX(-200px);
-}
-
-nav {
+nav ul {
+  padding: 0;
+  margin: 0.8em 0 0.5em 0;
   text-align: center;
 }
 
-#side-menu {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 0;
-}
-
-#horizontal-menu {
-  display: none;
-}
-
-nav ul {
-  padding: 0;
-  margin: 1.5em 0 0.5em 0;
-}
-
-#side-menu li {
-  display: block;
-  width: 200px;
-  margin: 1em 0;
-  float: right;
-  clear: right;
-}
-
-#horizontal-menu li {
+nav li {
   display: inline;
   padding: 0 10px;
 }
 
 nav li a {
   color: #8282a7;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: bold;
   text-transform: uppercase;
 }
 
-#horizontal-menu li a {
-  font-size: 1.3em;
-}
-
-/* Wider screens: disable side menu toggle and show horizontal menu in place */
 @media (min-width: 700px) {
-
-  .nav-trigger,
-  label[for="nav-trigger"] {
-    display: none;
+  nav li a {
+    font-size: 1.3em;
   }
-
-  #side-menu {
-    display: none;
-  }
-
-  #horizontal-menu {
-    display: block;
-  }
-
 }
 
 nav li a.active {
   color: #fff;
   border-bottom: none;
-}
-
-.site-wrap {
-  min-height: 100%;
-  min-width: 100%;
-  background-color: #303138;
-  position: relative;
-  top: 0;
-  bottom: 100%;
-  right: 0;
-  z-index: 1;
 }
 
 .contents {
@@ -207,12 +114,12 @@ nav li a.active {
   max-width: 700px;
   margin: 0 auto;
   padding: 10px 0;
-  font-size: 1.1em;
   overflow-x: hidden;
 }
 
 @media (min-width: 700px) {
   .page {
+    font-size: 1.1em;
     padding: 20px 0;
   }
 }
@@ -224,8 +131,8 @@ nav li a.active {
 }
 
 .page h1 {
-  font-size: 1.8em;
-  margin: 0;
+  font-size: 1.7em;
+  margin: 0.5em 0 0 0;
 }
 
 @media (min-width: 700px) {
