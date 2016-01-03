@@ -95,15 +95,18 @@ label[for="nav-trigger"] {
 }
 
 .nav-trigger + label, .site-wrap {
-  transition: right 0.2s;
+  -webkit-transition: transform 0.2s;
+  transition: transform 0.2s;
 }
 
 .nav-trigger:checked + label {
-  right: 210px;
+  -webkit-transform: translateX(-210px);
+  transform: translateX(-210px);
 }
 
 .nav-trigger:checked ~ .site-wrap {
-  right: 200px;
+  -webkit-transform: translateX(-200px);
+  transform: translateX(-200px)
 }
 
 nav {
