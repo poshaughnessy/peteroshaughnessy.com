@@ -30,5 +30,8 @@
     "metalsmith-permalinks": "^0.4.1",
     "metalsmith-redirect": "^1.1.0",
     "metalsmith-templates": "^0.7.0"
+  },
+  "dependencies": {
+    "moment": "^2.11.1"
   }
 }
