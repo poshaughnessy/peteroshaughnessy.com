@@ -8,7 +8,7 @@ I regularly speak at technology conferences and meetups about cutting edge web d
 
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
 
-[![Presentation](/images/pages/talks/web-bluetooth.jpg)(/posts/web-bluetooth-controlling-the-real-world)
+[![Presentation](/images/pages/talks/web-bluetooth.jpg)](/posts/web-bluetooth-controlling-the-real-world)
 
 Front Endgineers, February 2015
 
