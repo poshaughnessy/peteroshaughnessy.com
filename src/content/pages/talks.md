@@ -10,6 +10,8 @@ I regularly speak at technology conferences and meetups about cutting edge web d
 
 [![Presentation](/images/pages/talks/web-bluetooth.jpg)(/posts/web-bluetooth-controlling-the-real-world)
 
+Front Endgineers, February 2015
+
 ### [React and Three.js: React All The Things!](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
 [![Presentation](/images/pages/talks/fullstack-2015.jpg)](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-thingshttps://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
