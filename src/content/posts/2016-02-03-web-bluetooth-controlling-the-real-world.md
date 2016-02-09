@@ -37,8 +37,8 @@ Up until very recently, if you wanted to develop an app that uses Bluetooth, you
 Objective-C / Swift, and write some native code. Or use an off-the-shelf plugin for Cordova or React Native. But now 
 Bluetooth is also coming to the Web…
 
-The new Web Bluetooth API is currently a [draft spec](https://webbluetoothcg.github.io/web-bluetooth/). Here's the
-entry on [caniuse.com](http://caniuse.com/#feat=web-bluetooth) (**new!**). As of now, it's only available
+The new Web Bluetooth API is currently a [draft spec](https://webbluetoothcg.github.io/web-bluetooth/). [Here's the
+entry on caniuse.com (**new!**)](http://caniuse.com/#feat=web-bluetooth). As of now, it's only available
 [behind a flag](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web#before-we-start)
 on Chrome for Android Dev edition, Chrome OS, or Firefox OS. But let's take a look!
 
