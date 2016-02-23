@@ -32,6 +32,6 @@
     "metalsmith-templates": "^0.7.0"
   },
   "dependencies": {
-    "moment": "^2.11.1"
+    "moment": "^2.11.2"
   }
 }
