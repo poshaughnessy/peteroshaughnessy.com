@@ -204,17 +204,38 @@ nav li a.active {
   }
 }
 
-.blog-links h3 {
+.blog-link {
+  margin-bottom: 40px;
+}
+
+.blog-link .thumbnail {
+  float: left;
+  margin: 0 10px 10px 0;
+  width: 150px;
+}
+
+@media (min-width: 700px) {
+  .blog-link .thumbnail {
+    width: 200px;
+  }
+}
+
+.blog-link h3 {
   font-size: 1.3em;
   margin-bottom: 0;
 }
 
-.blog-links .date {
+.blog-link .date {
   margin: 0.25em 0;
 }
 
-.blog-links .tags {
-  margin: 0.5em 0 2em 0;
+.blog-link .tags {
+  margin: 0.5em 0;
+}
+
+.blog-link .excerpt {
+  font-style: italic;
+  clear: left;
 }
 
 .tags span {

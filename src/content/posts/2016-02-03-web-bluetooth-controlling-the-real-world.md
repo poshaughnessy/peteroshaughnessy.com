@@ -1,6 +1,8 @@
 ---
 title: Web Bluetooth - Controlling the Real World from your Browser
 slug: web-bluetooth-controlling-the-real-world
+excerpt: The Connected Devices revolution, why I believe Web Bluetooth is the most exciting new browser API, and why drone flipping is my new favourite use of JavaScript
+thumbnail: /images/posts/2016-02-03-web-bluetooth-controlling-the-real-world/thumbnail-drone.jpg
 date: 2016-02-03
 tags: bluetooth, iot, drones
 template: post.hbs

@@ -4,15 +4,23 @@
     {{{ contents }}}
     <div class="blog-links">
       {{#each collections.posts}}
-        <h3><a href="{{this.path}}">{{this.title}}</a></h3>
-        <p class="date">{{formatDate this.date}}</p>
-        {{#if this.tags}}
-          <p class="tags">
-            {{#eachCommaSeparated this.tags}}
-              <span>{{this}}</span>
-            {{/eachCommaSeparated}}
-          </p>
-        {{/if}}
+        <div class="blog-link">
+          {{#if this.thumbnail}}
+            <a class="thumbnail" href="{{this.path}}"><img src="{{this.thumbnail}}"/></a>
+          {{/if}}
+          <h3><a href="{{this.path}}">{{this.title}}</a></h3>
+          <p class="date">{{formatDate this.date}}</p>
+          {{#if this.tags}}
+            <p class="tags">
+              {{#eachCommaSeparated this.tags}}
+                <span>{{this}}</span>
+              {{/eachCommaSeparated}}
+            </p>
+          {{/if}}
+          {{#if this.excerpt}}
+            <p class="excerpt">{{this.excerpt}}</p>
+          {{/if}}
+        </div>
       {{/each}}
     </div>
   </section>

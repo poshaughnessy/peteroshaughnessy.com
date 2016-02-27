@@ -1,6 +1,8 @@
 ---
 title: NodeCopter - geeking out with flying robots
 slug: nodecopter-geeking-out-flying-robots
+excerpt: What happens when you combine a room full of geeks with a bunch of programmable flying robots?
+thumbnail: /images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/thumbnail-nodecopter.jpg
 date: 2013-03-27
 template: post.hbs
 tags: hacks, javascript, node
