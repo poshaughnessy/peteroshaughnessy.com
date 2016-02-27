@@ -195,13 +195,7 @@ nav li a.active {
 }
 
 .blog-links {
-  margin-top: 0;
-}
-
-@media (min-width: 700px) {
-  .blog-links {
-    margin-top: 2em;
-  }
+  margin-top: 2em;
 }
 
 .blog-link {
@@ -215,13 +209,14 @@ nav li a.active {
 }
 
 .blog-link .thumbnail {
-  float: left;
-  margin: 0 10px 10px 0;
-  width: 150px;
+  display: block;
+  margin: 2em 0 0 0;
+  width: 120px;
 }
 
 @media (min-width: 700px) {
   .blog-link .thumbnail {
+    float: left;
     width: 200px;
     margin: 0 20px 10px 0;
   }
@@ -230,6 +225,10 @@ nav li a.active {
 .blog-link h3 {
   font-size: 1.3em;
   margin-bottom: 0;
+}
+
+.blog-link .thumbnail + h3 {
+  margin-top: 0.5em;
 }
 
 .blog-link .date {
