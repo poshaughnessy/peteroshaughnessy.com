@@ -1,6 +1,8 @@
 ---
 title: Solving Big Data for Humans
 slug: solving-big-data-for-humans
+excerpt: Augmented Reality and Virtual Reality could help to make data more user-centred, intuitive and engaging.
+thumbnail: /images/posts/2015-11-09-solving-big-data-for-humans/thumbnail-rollercoaster.jpg
 date: 2015-11-09
 tags: big-data, virtual-reality, augmented-reality, future-tech
 template: post.hbs

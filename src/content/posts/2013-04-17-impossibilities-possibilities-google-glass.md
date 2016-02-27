@@ -1,6 +1,7 @@
 ---
 title: The Impossibilities and Possibilities of Google Glass development
 slug: impossibilities-possibilities-google-glass
+excerpt: Google have just released the API and developer docs. Let's take a look at what we can do with it...
 date: 2013-04-17
 tags: wearables, future-tech
 template: post.hbs

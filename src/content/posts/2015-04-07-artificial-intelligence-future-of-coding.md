@@ -1,6 +1,7 @@
 ---
 title: Artificial Intelligence and the Future of Coding
 slug: artificial-intelligence-future-of-coding
+excerpt: Your IDE could be about to get really, really smart.
 date: 2015-04-07
 tags: artificial-intelligence, future-tech
 template: post.hbs

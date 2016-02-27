@@ -1,6 +1,8 @@
 ---
 title: Combining React and WebGL
 slug: combining-react-and-webgl
+excerpt: React is great for building user interfaces, but how does it fit in with WebGL?
+thumbnail: /images/posts/2015-05-23-combining-react-and-webgl/thumbnail-apoc.png
 date: 2015-05-23
 tags: talks, react, webgl, three.js, ui
 template: post.hbs

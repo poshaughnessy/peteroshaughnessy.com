@@ -1,6 +1,7 @@
 ---
 title: Arduino with JavaScript (Breakout.js)
 slug: arduino-with-javascript-breakoutjs
+excerpt: The web browser can be an interface to hardware hacking.
 date: 2014-04-07
 tags: hacks, javascript
 template: post.hbs

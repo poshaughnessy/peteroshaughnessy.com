@@ -1,6 +1,8 @@
 ---
 title:  Productivity Hacking for Developers
 slug: productivity-hacking-for-developers
+excerpt: “There’s nothing you can’t do if you get the habits right.”
+thumbnail: /images/posts/2015-12-30-productivity-hacking-for-developers/thumbnail-habit-loop.png 
 date: 2015-12-30
 tags: productivity, programming
 template: post.hbs

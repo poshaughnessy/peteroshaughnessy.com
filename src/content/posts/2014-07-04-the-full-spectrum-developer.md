@@ -1,6 +1,7 @@
 ---
 title: "The Full Spectrum Developer"
 slug: the-full-spectrum-developer
+excerpt: Why Michael Feathers thinks we should broaden our horizons.
 date: 2014-07-04
 tags: meetups, careers
 template: post.hbs

@@ -1,6 +1,7 @@
 ---
 title: Interfaces of the future, and how to hack around with them now
 slug: interfaces-of-the-future
+excerpt: The Web is moving out from behind the screen...
 date: 2014-08-04
 tags: talks, future-tech, virtual-reality, augmented-reality
 template: post.hbs
