@@ -205,7 +205,13 @@ nav li a.active {
 }
 
 .blog-link {
-  margin-bottom: 40px;
+  padding-bottom: 5px;
+}
+
+.blog-link:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .blog-link .thumbnail {
@@ -217,6 +223,7 @@ nav li a.active {
 @media (min-width: 700px) {
   .blog-link .thumbnail {
     width: 200px;
+    margin: 0 20px 10px 0;
   }
 }
 
@@ -226,6 +233,7 @@ nav li a.active {
 }
 
 .blog-link .date {
+  font-size: 0.95em;
   margin: 0.25em 0;
 }
 
@@ -236,12 +244,24 @@ nav li a.active {
 .blog-link .excerpt {
   font-style: italic;
   clear: left;
+  margin: 0.8em 0 0 0;
+}
+
+.blog-link .read-link {
+  margin-top: 0.8em;
+}
+
+.read-link a {
+  background: #505080;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
 
 .tags span {
   padding: 5px;
   font-size: 0.7em;
-  background-color: #ccc;
+  background-color: #ddd;
   color: #444;
   -webkit-border-radius: 5px;
   border-radius: 5px;
