@@ -4,7 +4,14 @@ slug: portfolio
 template: page.hbs
 ---
 
-A selection of projects I have worked on in recent years.
+Some of the projects I have worked on in recent years include:
+
+### [hac-man (2016)](http://pebblecode.com/hac-man/)
+
+[![hac-man](/images/pages/portfolio/hac-man.png)](http://pebblecode.com/hac-man/)
+
+* 1-day hack - won first prize at our pebble {code} games hackathon
+* Developer - *JavaScript, Phaser*
 
 
 ### [Apoc (2015)](http://labs.pearson.com/prototypes/apoc/)

@@ -4,7 +4,8 @@ slug: talks
 template: page.hbs
 ---
 
-I regularly speak at technology conferences and meetups about cutting edge web development and future technologies.
+I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
+development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
 
