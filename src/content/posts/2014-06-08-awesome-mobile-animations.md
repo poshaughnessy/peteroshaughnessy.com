@@ -267,6 +267,7 @@ Further reading
 
 -   [Motion UI Design
     Principles](http://www.beyondkinetic.com/motion-ui-design-principles)
+-   [Motion Design is the Future of UI](https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f#.x2627i8iq)
 -   [High Performance Animations
     (HTML5 Rocks)](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 -   [Jank Busting for Better Rendering Performance
