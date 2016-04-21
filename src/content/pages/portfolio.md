@@ -10,7 +10,7 @@ Some of the projects I have worked on in recent years include:
 
 ![ble-app](/images/pages/portfolio/ble-app.png)
 
-* Project under NDA
+* Project under NDA - iOS and Android app
 * Tech Lead - *JavaScript, React, Cordova*
 
 
