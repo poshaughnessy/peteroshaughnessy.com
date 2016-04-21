@@ -6,6 +6,14 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+### A Bluetooth Low Energy app (2016)
+
+![ble-app](/images/pages/portfolio/ble-app.png)
+
+* Project under NDA
+* Tech Lead - *JavaScript, React, Cordova*
+
+
 ### [hac-man (2016)](http://pebblecode.com/hac-man/)
 
 [![hac-man](/images/pages/portfolio/hac-man.png)](http://pebblecode.com/hac-man/)
