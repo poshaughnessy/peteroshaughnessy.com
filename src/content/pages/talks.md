@@ -7,6 +7,12 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+### [Bluetooth for Web Developers: Programming Flying Robots with JavaScript](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
+
+[![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
+
+London AJAX, April 2015
+
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
 
 [![Presentation](/images/pages/talks/web-bluetooth.jpg)](/posts/web-bluetooth-controlling-the-real-world)
