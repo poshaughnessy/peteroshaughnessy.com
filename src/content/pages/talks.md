@@ -11,13 +11,13 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-London AJAX, April 2015
+London AJAX, April 2016
 
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
 
 [![Presentation](/images/pages/talks/web-bluetooth.jpg)](/posts/web-bluetooth-controlling-the-real-world)
 
-Front Endgineers, February 2015
+Front Endgineers, February 2016
 
 ### [React and Three.js: React All The Things!](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
