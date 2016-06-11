@@ -215,13 +215,12 @@ nav li a.active {
 .blog-link .thumbnail {
   display: block;
   margin: 2em 0 0 0;
-  width: 120px;
+  width: 200px;
 }
 
 @media (min-width: 700px) {
   .blog-link .thumbnail {
     float: left;
-    width: 200px;
     margin: 0 20px 10px 0;
   }
 }
