@@ -1,4 +1,4 @@
 ---
 template: index.hbs
 ---
-# Blog
+## Blog
