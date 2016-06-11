@@ -257,6 +257,7 @@ nav li a.active {
     -ms-flex-order: 2;
     order: 2;
     margin: 10px 0 0 0;
+    float: none;
   }
   .blog-link .title-and-date {
     -webkit-order: 1;
