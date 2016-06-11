@@ -1,8 +1,8 @@
 ---
-title:  Portfolio
-slug: portfolio
 template: page.hbs
 ---
+
+## Portfolio
 
 Some of the projects I have worked on in recent years include:
 

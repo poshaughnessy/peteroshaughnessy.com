@@ -22,6 +22,6 @@ module.exports = {
   '/post/119666068949/combining-react-and-webgl': '/posts/combining-react-and-webgl',
   '/post/132872598569/solving-big-data-for-humans': '/posts/solving-big-data-for-humans',
   '/post/132897105349/robots-virtual-reality-and-the-internet-of': '/posts/robots-vr-iot-cant-believe-its-javascript',
-  '/portfolio': '/pages/portfolio',
-  '/talks': '/pages/talks'
+  '/pages/portfolio': '/portfolio',
+  '/pages/talks': '/talks'
 };

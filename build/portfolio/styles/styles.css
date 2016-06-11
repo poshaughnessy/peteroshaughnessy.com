@@ -1,0 +1,317 @@
+body {
+  font-size: 100%;
+  font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+  background-color: #303138;
+  -webkit-font-smoothing: antialiased;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: #505080;
+  text-decoration: none;
+}
+
+header {
+  padding: 10px;
+}
+
+header h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  text-align: center;
+  -o-transform: scaleY(1.3);
+  -ms-transform: scaleY(1.3);
+  -moz-transform: scaleY(1.3);
+  -webkit-transform: scaleY(1.3);
+  transform: scaleY(1.3);
+  margin: 0;
+  padding: 10px 40px;
+  line-height: 1em;
+}
+
+@media (min-width: 700px) {
+  header h1 {
+    font-size: 2.4em;
+  }
+}
+
+header h1 a {
+  color: #fff;
+}
+
+header h2 {
+  display: none;
+  font-size: 1.2em;
+  text-align: center;
+  color: #ddd;
+  margin: 1em 0;
+}
+
+@media (min-width: 700px) {
+  header h2 {
+    display: block;
+  }
+}
+
+header h2 a {
+  color: #8282a7;
+}
+
+nav ul {
+  padding: 0;
+  margin: 0.8em 0 0.5em 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  padding: 0 10px;
+}
+
+nav li a {
+  color: #8282a7;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+@media (min-width: 700px) {
+  nav li a {
+    font-size: 1.3em;
+  }
+}
+
+nav li a.active {
+  color: #fff;
+  border-bottom: none;
+}
+
+.contents {
+  background-color: #fff;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.page {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 10px 0;
+  overflow-x: hidden;
+}
+
+@media (min-width: 700px) {
+  .page {
+    font-size: 1.1em;
+    padding: 20px 0;
+  }
+}
+
+.page p,
+.page li {
+  line-height: 1.6em;
+  color: #333;
+}
+
+.page h1 {
+  font-size: 1.7em;
+  margin: 0.5em 0 0 0;
+}
+
+@media (min-width: 700px) {
+  .page h1 {
+    margin: 1em 0 0 0;
+  }
+}
+
+.page h2,
+.page h3 {
+  margin-top: 2em;
+}
+
+.page h2:nth-of-type(1),
+.page h3:nth-of-type(1) {
+  margin-top: 1.5em;
+}
+
+.page
+
+/* Used for captions */
+.page h6 {
+  color: #666;
+  font-size: 0.8em;
+  margin: -0.75em 0 3em;
+}
+
+.page .date {
+  margin-bottom: 2em;
+  font-style: italic;
+  color: #666;
+}
+
+.page blockquote {
+  border-left: 10px solid #505080;
+  padding-left: 20px;
+  font-style: normal;
+  margin: 2em 0;
+  font-size: 1.1em;
+}
+
+.page blockquote p {
+  color: #505080;
+}
+
+.page pre {
+  max-width: 100%;
+  padding: 10px;
+  background: #eee;
+  font-size: 1.1em;
+  overflow-x: auto;
+}
+
+.page iframe {
+  max-width: 100%;
+}
+
+.page .tags {
+  margin: 2em 0;
+}
+
+.blog-links {
+  margin-top: 2em;
+}
+
+.blog-link {
+  padding-bottom: 5px;
+}
+
+.blog-link:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.blog-link .thumbnail {
+  display: block;
+  margin: 2em 0 0 0;
+  width: 120px;
+}
+
+@media (min-width: 700px) {
+  .blog-link .thumbnail {
+    float: left;
+    width: 200px;
+    margin: 0 20px 10px 0;
+  }
+}
+
+.blog-link h3 {
+  font-size: 1.3em;
+  margin-bottom: 0;
+}
+
+.blog-link .thumbnail + h3 {
+  margin-top: 0.5em;
+}
+
+.blog-link .date {
+  font-size: 0.95em;
+  margin: 0.25em 0;
+}
+
+.blog-link .tags {
+  margin: 0.5em 0;
+}
+
+.blog-link .excerpt {
+  font-style: italic;
+  clear: left;
+  margin: 0.8em 0 0 0;
+}
+
+.blog-link .read-link {
+  margin-top: 0.8em;
+}
+
+.read-link a {
+  background: #505080;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.tags span {
+  padding: 5px;
+  font-size: 0.7em;
+  background-color: #ddd;
+  color: #444;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.pages-page h3 {
+  margin: 2em 0 0.5em 0;
+}
+
+.pages-page p,
+.pages-page ul {
+  margin: 0;
+}
+
+.pages-page ul {
+  padding-left: 20px;
+}
+
+.pages-page p,
+.pages-page li {
+  line-height: 1.4em;
+}
+
+.pages-page h1 + p {
+  margin: 1em 0;
+}
+
+.pages-page img {
+  width: 500px;
+  border: 1px solid #ccc;
+  -webkit-transition: opacity 1s;
+  transition: opacity 0.5s;
+}
+
+.pages-page a:hover img {
+  opacity: 0.8;
+}
+
+.pages-page .read-link {
+  margin-top: 1em;
+}
+
+footer {
+  font-size: 0.9em;
+  text-align: center;
+  color: #ccc;
+  margin: 1.5em 0;
+}
+
+footer a {
+  padding: 0 5px;
+  font-size: 1.2em;
+  color: #a2a2cb;
+}

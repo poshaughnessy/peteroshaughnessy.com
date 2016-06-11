@@ -21,9 +21,6 @@ function build() {
 
   Metalsmith(__dirname)
     .use(collections({
-      pages: {
-        pattern: 'content/pages/*.md'
-      },
       posts: {
         pattern: 'content/posts/*.md',
         sortBy: 'date',

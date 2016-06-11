@@ -1,8 +1,8 @@
 ---
-title:  Talks
-slug: talks
 template: page.hbs
 ---
+
+## Talks
 
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
