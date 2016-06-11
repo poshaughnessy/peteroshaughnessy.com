@@ -2,6 +2,7 @@
 title: 2020 - Looking Ahead To The Future of Web Development
 slug: 2020-future-of-web-development
 excerpt: What will web development look like in the year 2020?
+thumbnail: /images/pages/talks/emberlondon-2020-web-dev.jpg
 date: 2015-03-18
 tags: talks, future-tech, web
 template: post.hbs 

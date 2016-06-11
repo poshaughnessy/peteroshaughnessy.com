@@ -2,6 +2,7 @@
 title: Hybrid app workflow with Grunt, via XCode
 slug: hybrid-app-workflow-grunt-xcode
 excerpt: An exploration into improving the hybrid app development workflow.
+thumbnail: /images/posts/2013-10-31-hybrid-app-workflow-grunt-xcode/xcode-grunt.png
 date: 2013-10-31
 tags: mobile, hybrid-apps
 template: post.hbs

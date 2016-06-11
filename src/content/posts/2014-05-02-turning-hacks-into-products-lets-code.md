@@ -2,6 +2,7 @@
 title: Turning hacks into products - lessons from Let's Code!
 slug: turning-hacks-into-products-lets-code
 excerpt: Should you kick over the sandcastle and start again?
+thumbnail: /images/posts/2014-05-02-turning-hacks-into-products-lets-code/first-prototype.png
 date: 2014-05-02
 tags: hacks, prototyping
 template: post.hbs

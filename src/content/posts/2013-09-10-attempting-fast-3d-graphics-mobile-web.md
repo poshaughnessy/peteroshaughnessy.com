@@ -2,6 +2,7 @@
 title: Attempting fast 3D graphics for mobile web, without WebGL
 slug: attempting-fast-3d-graphics-mobile-web
 excerpt: Is it possible to create fast 3D interactive graphics for mobile devices, using web technologies?
+thumbnail: /images/posts/2013-09-10-attempting-fast-3d-graphics-mobile-web/speed-web.jpg
 date: 2013-09-10
 tags: web, three.js, performance, ui
 template: post.hbs

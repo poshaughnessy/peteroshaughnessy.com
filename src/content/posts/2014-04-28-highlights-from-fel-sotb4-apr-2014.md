@@ -2,6 +2,7 @@
 title: Highlights from Front End London and State of the Browser 4 (April 2014)
 slug: highlights-from-fel-and-sotb4-apr-2014
 excerpt: Bridging the gap between designers and developers, Open Web Apps, and why Mobile Web is rubbish.
+thumbnail: /images/posts/2014-04-28-highlights-from-fel-sotb4-apr-2014/minimal-ui.png
 date: 2014-04-28
 template: post.hbs
 tags: meetups, conferences, web

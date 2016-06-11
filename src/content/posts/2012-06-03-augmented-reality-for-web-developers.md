@@ -1,6 +1,7 @@
 ---
 title: Augmented Reality for Web Developers
 excerpt: Why I'm still excited about Augmented Reality and how to start experimenting with it in the browser.
+thumbnail: /images/pages/talks/londonweb-ar.jpg
 slug: augmented-reality-for-web-developers
 date: 2012-06-03
 tags: talks, augmented-reality, web

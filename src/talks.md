@@ -11,7 +11,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-London AJAX, April 2016
+<p class="venue-and-date">London AJAX, April 2016</p>
 
 <p class="read-link">[Watch presentation](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)</p>
 
@@ -20,7 +20,7 @@ London AJAX, April 2016
 
 [![Presentation](/images/pages/talks/web-bluetooth.jpg)](/posts/web-bluetooth-controlling-the-real-world)
 
-Front Endgineers, February 2016
+<p class="venue-and-date">Front Endgineers, February 2016</p>
 
 <p class="read-link">[Read post](/posts/web-bluetooth-controlling-the-real-world)</p>
 
@@ -29,7 +29,7 @@ Front Endgineers, February 2016
 
 [![Presentation](/images/pages/talks/fullstack-2015.jpg)](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-thingshttps://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
-FullStack Conference, October 2015
+<p class="venue-and-date">FullStack Conference, October 2015</p>
 
 <p class="read-link">[Watch presentation](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)</p>
 
@@ -38,7 +38,7 @@ FullStack Conference, October 2015
 
 [![Presentation](/images/pages/talks/cant-believe-its-js.jpg)](/post/132897105349/robots-virtual-reality-and-the-internet-of)
 
-JS Monthly, September 2015
+<p class="venue-and-date">JS Monthly, September 2015</p>
 
 <p class="read-link">[Read post](/post/132897105349/robots-virtual-reality-and-the-internet-of)</p>
 
@@ -47,7 +47,7 @@ JS Monthly, September 2015
 
 [![Presentation](/images/pages/talks/epicfel-hybrid-journey.jpg)](https://youtu.be/AonfnG-31hA)
 
-Epic FEL, September 2015
+<p class="venue-and-date">Epic FEL, September 2015</p>
 
 <p class="read-link">[Watch presentation](https://youtu.be/AonfnG-31hA)</p>
 
@@ -56,7 +56,7 @@ Epic FEL, September 2015
 
 [![Presentation](/images/pages/talks/londonreact-react-webgl.jpg)](/post/119666068949/combining-react-and-webgl)
 
-London React, May 2015
+<p class="venue-and-date">London React, May 2015</p>
 
 <p class="read-link">[Read post](/post/119666068949/combining-react-and-webgl)</p>
 
@@ -65,7 +65,7 @@ London React, May 2015
 
 [![Presentation](/images/pages/talks/emberlondon-2020-web-dev.jpg)](/post/113947776654/2020-looking-ahead-to-the-future-of-web)
 
-Ember London, March 2015
+<p class="venue-and-date">Ember London, March 2015</p>
 
 <p class="read-link">[Read post](/post/113947776654/2020-looking-ahead-to-the-future-of-web)</p>
 
@@ -74,7 +74,7 @@ Ember London, March 2015
 
 [![Presentation](/images/pages/talks/enter-the-metaverse.jpg)](/post/103717880264/enter-the-metaverse-introducing-virtual-reality)
 
-Front Endgineers, November 2014
+<p class="venue-and-date">Front Endgineers, November 2014</p>
 
 <p class="read-link">[Read post](/post/103717880264/enter-the-metaverse-introducing-virtual-reality)</p>
 
@@ -83,7 +83,7 @@ Front Endgineers, November 2014
 
 [![Presentation](/images/pages/talks/vr-showcase.png)](https://github.com/poshaughnessy/vr-showcase-intro-to-webvr)
 
-London Oculus Rift / VR Developer Meetup, August 2014
+<p class="venue-and-date">London Oculus Rift / VR Developer Meetup, August 2014</p>
 
 <p class="read-link">[Read slides](https://github.com/poshaughnessy/vr-showcase-intro-to-webvr)</p>
 
@@ -92,7 +92,7 @@ London Oculus Rift / VR Developer Meetup, August 2014
 
 [![Presentation](/images/pages/talks/interfaces-of-the-future.jpg)](/post/93776809854/interfaces-of-the-future-and-how-to-hack-around)
 
-Front End London, July 2014
+<p class="venue-and-date">Front End London, July 2014</p>
 
 <p class="read-link">[Read post](/post/93776809854/interfaces-of-the-future-and-how-to-hack-around)</p>
 
@@ -101,7 +101,7 @@ Front End London, July 2014
 
 [![Presentation](/images/pages/talks/edtech-devs-awesome-animations.jpg)](/post/88124288254/awesome-mobile-animations)
 
-EdTech Developers, June 2014
+<p class="venue-and-date">EdTech Developers, June 2014</p>
 
 <p class="read-link">[Read post](/post/88124288254/awesome-mobile-animations)</p>
 
@@ -110,7 +110,7 @@ EdTech Developers, June 2014
 
 [![Presentation](/images/pages/talks/speedy.jpg)](/post/60868538533/attempting-fast-3d-graphics-for-mobile-web)
 
-HTML5 CodeShow, September 2013
+<p class="venue-and-date">HTML5 CodeShow, September 2013</p>
 
 <p class="read-link">[Read post](/post/60868538533/attempting-fast-3d-graphics-for-mobile-web)</p>
 
@@ -119,7 +119,7 @@ HTML5 CodeShow, September 2013
 
 [![Presentation](/images/pages/talks/londonweb-webgl.jpg)](/post/41945355299/the-third-dimension-an-introduction-to-webgl-and)
 
-London Web, January 2013
+<p class="venue-and-date">London Web, January 2013</p>
 
 <p class="read-link">[Read post](/post/41945355299/the-third-dimension-an-introduction-to-webgl-and)</p>
 
@@ -128,6 +128,6 @@ London Web, January 2013
 
 [![Presentation](/images/pages/talks/londonweb-ar.jpg)](/post/24330618934/augmented-reality-for-web-developers)
 
-London Web, May 2012
+<p class="venue-and-date">London Web, May 2012</p>
 
 <p class="read-link">[Read post](/post/24330618934/augmented-reality-for-web-developers)</p>

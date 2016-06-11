@@ -2,6 +2,7 @@
 title: The Future of the Web and What It Means for Education
 slug: future-of-the-web-education
 excerpt: What did the Future of Web Apps conference tell us about the future of education?
+thumbnail: /images/posts/2015-02-26-future-of-the-web-education/samsung-racer-s.png
 date: 2014-10-15
 tags: conferences, web, future-tech
 template: post.hbs

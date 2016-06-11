@@ -2,6 +2,7 @@
 title: Talking to primary school children about programming
 slug: primary-school-children-programming
 excerpt: If it's possible to inspire just one or two...
+thumbnail: /images/posts/2015-03-27-primary-school-children-programming/child-coding.png
 date: 2015-03-27
 tags: talks, careers, programming
 template: post.hbs

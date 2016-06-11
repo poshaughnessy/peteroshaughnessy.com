@@ -2,6 +2,7 @@
 title: Enter the Metaverse - Introducing Virtual Reality for the Web (WebVR)
 slug: enter-the-metaverse-webvr
 excerpt: Virtual Reality is hitting the Web and this is why it's exciting...
+thumbnail: /images/pages/talks/enter-the-metaverse.jpg
 date: 2014-11-27
 tags: talks, virtual-reality
 template: post.hbs

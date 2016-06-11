@@ -2,6 +2,7 @@
 title: The Third Dimension - an introduction to WebGL and Three.js
 slug: third-dimension-introduction-webgl-threejs
 excerpt: Getting started with 3D graphics for the Web - featuring dinosaurs and robots!
+thumbnail: /images/pages/talks/londonweb-webgl.jpg
 date: 2013-01-31
 tags: talks, webgl, three.js
 template: post.hbs
