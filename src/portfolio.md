@@ -104,7 +104,7 @@ Some of the projects I have worked on in recent years include:
 
 ### [LangAR (2012)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
 
-[![LangAR](/images/pages/portfolio/langar.png)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
+[![LangAR](/images/pages/portfolio/langar.jpg)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
 
 * Augmented reality Android app (prototype) 
 * Sole developer - *Wikitude JavaScript SDK*

@@ -2,7 +2,7 @@
 title: Web First, Hybrid Second, Native Third
 slug: web-first-hybrid-second-native-third
 excerpt: If you want to create a mobile app, should you go Web, hybrid or native? Here's what I propose...
-thumbnail: /images/posts/2012-01-17-web-first-hybrid-second-native-third/podium.jpg 
+thumbnail: /images/posts/2012-01-17-web-first-hybrid-second-native-third/thumb-podium.jpg 
 date: 2012-01-17
 tags: mobile, web, hybrid-apps, native
 template: post.hbs

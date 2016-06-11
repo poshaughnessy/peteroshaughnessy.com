@@ -2,7 +2,7 @@
 title: Awesome Mobile Animations
 slug: awesome-mobile-animations
 excerpt: Native apps and games are showing how mobile animations should be done. Here's how to achieve similar results with the Web.
-thumbnail: /images/posts/2014-06-08-awesome-mobile-animations/dots.png
+thumbnail: /images/posts/2014-06-08-awesome-mobile-animations/thumb-dots.jpg
 date: 2014-06-08
 tags: talks, mobile, performance, ui
 template: post.hbs

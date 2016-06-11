@@ -2,7 +2,7 @@
 title:  Robots, Virtual Reality and the Internet of Things? I Can't Believe It's JavaScript!
 slug: robots-vr-iot-cant-believe-its-javascript
 excerpt: Many of the kinds of applications that we previously would have considered impossible to build in JavaScript, are now possible.
-thumbnail: /images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/thumbnail-cant-believe.png
+thumbnail: /images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/thumbnail-cant-believe.jpg
 date: 2015-11-09 00:00:01
 tags: talks, virtual-reality, future-tech, iot, javascript
 template: post.hbs

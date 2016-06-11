@@ -2,7 +2,7 @@
 title: If Leicester win the league, it will be a victory for hackers and tinkerers everywhere
 slug: leicester-city-victory-for-hackers-and-tinkerers
 excerpt: 
-thumbnail: /images/posts/2016-04-03-leicester-city-victory-for-hackers-and-tinkerers/leicester-city-vardy.jpg
+thumbnail: /images/posts/2016-04-03-leicester-city-victory-for-hackers-and-tinkerers/thumb-leicester-city-vardy.jpg
 date: 2016-04-03
 tags: hacking, psychology, innovation
 template: post.hbs
