@@ -1,7 +1,7 @@
 ---
 title: If Leicester win the league, it will be a victory for hackers and tinkerers everywhere
 slug: leicester-city-victory-for-hackers-and-tinkerers
-excerpt: 
+excerpt: Our ethos at pebble {code} appears to align with that of Leicester’s manager, Claudio Ranieri... 
 thumbnail: /images/posts/2016-04-03-leicester-city-victory-for-hackers-and-tinkerers/thumb-leicester-city-vardy.jpg
 date: 2016-04-03
 tags: hacking, psychology, innovation

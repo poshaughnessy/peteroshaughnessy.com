@@ -110,6 +110,12 @@ nav li a.active {
   padding: 10px;
 }
 
+@media (min-width: 400px) and (max-width: 699px) {
+  .contents {
+    padding: 10px 20px;
+  }
+}
+
 .page {
   max-width: 700px;
   margin: 0 auto;
@@ -146,12 +152,9 @@ nav li a.active {
   margin-top: 2em;
 }
 
-.page h2:nth-of-type(1),
-.page h3:nth-of-type(1) {
-  margin-top: 1.5em;
+.pages-page h2:nth-of-type(1) {
+  margin-top: 1em;
 }
-
-.page
 
 /* Used for captions */
 .page h6 {
@@ -213,21 +216,19 @@ nav li a.active {
 }
 
 .blog-link .thumbnail {
+  float: left;
   display: block;
-  margin: 2em 0 0 0;
   width: 200px;
-}
-
-@media (min-width: 700px) {
-  .blog-link .thumbnail {
-    float: left;
-    margin: 0 20px 10px 0;
-  }
+  margin-right: 20px;
 }
 
 .blog-link h3 {
   font-size: 1.3em;
-  margin-bottom: 0;
+  margin: 1em 0 0 0;
+}
+
+.blog-link:first-child h3 {
+  margin-top: 0;
 }
 
 .blog-link .thumbnail + h3 {
@@ -251,6 +252,45 @@ nav li a.active {
 
 .blog-link .read-link {
   margin-top: 0.8em;
+}
+
+@media (max-width: 700px) {
+  .blog-link {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-flow: column;
+  }
+  .blog-link .thumbnail {
+    /* Display between date and tags */
+    -webkit-order: 2;
+    -ms-flex-order: 2;
+    order: 2;
+    margin: 10px 0 0 0;
+  }
+  .blog-link .title-and-date {
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+  }
+  .blog-link .tags {
+    -webkit-order: 3;
+    -ms-flex-order: 3;
+    order: 3;
+    margin-top: 12px;
+  }
+  .blog-link .excerpt {
+    -webkit-order: 4;
+    -ms-flex-order: 4;
+    order: 4;
+    margin-top: 6px;
+  }
+  .blog-link .read-link {
+    -webkit-order: 5;
+    -ms-flex-order: 5;
+    order: 5;
+  }
 }
 
 .read-link a {
