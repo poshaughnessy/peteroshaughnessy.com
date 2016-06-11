@@ -213,7 +213,7 @@ nav li a.active {
 
 .blog-link h3 {
   font-size: 1.3em;
-  margin: 1em 0 0 0;
+  margin: 1.2em 0 0 0;
 }
 
 .blog-link:first-child h3 {
@@ -300,7 +300,11 @@ nav li a.active {
 }
 
 .pages-page h3 {
-  margin: 2em 0 0.5em 0;
+  margin: 2.4em 0 0.5em 0;
+}
+
+.pages-page h3:first-of-type {
+  margin-top: 2em;
 }
 
 .pages-page p,
