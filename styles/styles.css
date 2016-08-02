@@ -160,6 +160,7 @@ nav li a.active {
 
 .page .venue-and-date {
   font-style: italic;
+  margin-top: 0.5em;
 }
 
 .page blockquote {
@@ -337,7 +338,7 @@ nav li a.active {
 }
 
 .pages-page .read-link {
-  margin-top: 1em;
+  margin: 0.5em 0 1.5em 0;
 }
 
 footer {
