@@ -11,8 +11,10 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-<p class="venue-and-date">London AJAX, April 2016</p>
+<p class="venue-and-date">FullStack Conference, July 2016</p>
+<p class="read-link">[Watch presentation](https://skillsmatter.com/skillscasts/8135-bluetooth-for-web-developers-programming-flying-robots-with-javascript)</p>
 
+<p class="venue-and-date">London AJAX, April 2016</p>
 <p class="read-link">[Watch presentation](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)</p>
 
 

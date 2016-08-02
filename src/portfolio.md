@@ -6,11 +6,11 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
-### A Bluetooth Low Energy app (2016)
+### ByBox (2016)
 
 ![ble-app](/images/pages/portfolio/ble-app.png)
 
-* Project under NDA - iOS and Android app
+* Bluetooth app for iOS and Android
 * Tech Lead - *JavaScript, React, Cordova*
 
 
