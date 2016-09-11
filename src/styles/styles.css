@@ -23,6 +23,11 @@ img {
 
 a {
   color: #505080;
+}
+
+h1 a,
+h2 a,
+h3 a {
   text-decoration: none;
 }
 
@@ -87,6 +92,7 @@ nav li {
 
 nav li a {
   color: #8282a7;
+  text-decoration: none;
   font-size: 1.1em;
   font-weight: bold;
   text-transform: uppercase;
@@ -287,6 +293,7 @@ nav li a.active {
 .read-link a {
   background: #505080;
   color: white;
+  text-decoration: none;
   padding: 5px 10px;
   border-radius: 5px;
 }
@@ -349,7 +356,8 @@ footer {
 }
 
 footer a {
+  color: #a2a2cb;
+  text-decoration: none;
   padding: 0 5px;
   font-size: 1.2em;
-  color: #a2a2cb;
 }
