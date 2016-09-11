@@ -7,6 +7,13 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+### [Web Bluetooth: How to Control a Drone from your Browser and More](https://skillsmatter.com/skillscasts/8583-fullstack-nights)
+
+[![Presentation](/images/pages/talks/web-bluetooth-fullstack-bytes.jpg)](https://skillsmatter.com/skillscasts/8583-fullstack-nights)
+
+<p class="venue-and-date">FullStack Bytes, August 2016</p>
+<p class="read-link">[Read slides](https://poshaughnessy.github.io/fullstack-bytes-2016-bluetooth/)</p>
+
 ### [Bluetooth for Web Developers: Programming Flying Robots with JavaScript](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
