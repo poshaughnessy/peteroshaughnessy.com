@@ -6,10 +6,13 @@
       {{#each collections.posts}}
         <div class="blog-link">
           {{#if this.thumbnail}}
-            <a class="thumbnail" href="{{this.path}}"><img src="{{this.thumbnail}}"/></a>
+            <a class="thumbnail" href="{{#if this.externalLink}}{{this.externalLink}}{{else}}{{this.path}}{{/if}}">
+              <img src="{{this.thumbnail}}"/>
+            </a>
           {{/if}}
           <div class="title-and-date">
-            <h3><a href="{{this.path}}">{{this.title}}</a></h3>
+            <h3><a href="{{#if this.externalLink}}{{this.externalLink}}{{else}}{{this.path}}{{/if}}">
+              {{this.title}}{{#if this.externalSite}} ({{this.externalSite}}){{/if}}</a></h3>
             <p class="date">{{formatDate this.date}}</p>
           </div>
           {{#if this.tags}}
@@ -22,7 +25,11 @@
           {{#if this.excerpt}}
             <p class="excerpt">{{this.excerpt}}</p>
           {{/if}}
-          <p class="read-link"><a href="{{this.path}}">Read post</a></p>
+          {{#if this.externalLink}}
+            <p class="read-link"><a href="{{this.externalLink}}">Read post on {{this.externalSite}}</a></p>
+          {{else}}
+            <p class="read-link"><a href="{{this.path}}">Read post</a></p>
+          {{/if}}
         </div>
       {{/each}}
     </div>
