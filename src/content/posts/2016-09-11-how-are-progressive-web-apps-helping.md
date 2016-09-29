@@ -18,11 +18,14 @@ real-world examples and measurements.
 ![Offline](/images/posts/2016-09-11-how-are-progressive-web-apps-helping/offline_thumbnail.jpg)
 
 
-### Good for communities
+### Good for people and communities
 
 * [Inspire Hub developed an Urgent Notice feature](https://inspirehub.ihubapp.org/stories/41314) which allowed their clients 
 to get messages out to residents following a natural disaster. With a PWA, they avoided app store approval processes and 
 were able to respond in time to help.
+* [RioRun](https://www.theguardian.com/info/developer-blog/2016/aug/19/how-we-made-the-riorun-progressive-web-app) deserves to feature here for helping 
+people to get active. It is a very slick virtual audio tour from the Guardian, encouraging users to get out and run. Offline support helps it work well 
+wherever you go.
 
 
 ### Good for business
