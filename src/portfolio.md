@@ -6,9 +6,25 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
-### ByBox (2016)
+### [Snapwat (2016)](https://snapw.at)
 
-![ble-app](/images/pages/portfolio/ble-app.png)
+[![Snapwat](/images/pages/portfolio/snapwat.png)](https://snapw.at)
+
+* Progressive web app 'super selfies' demo
+* Sole developer - *JavaScript, WebRTC*
+
+
+### [Web drone controller (2016)](https://webdr.one)
+
+[![Web drone](/images/pages/portfolio/web-drone.png)](https://webdr.one)
+
+* Progressive web app Bluetooth demo 
+* Sole developer - *JavaScript, Web Bluetooth*
+
+
+### [ByBox (2016)](https://play.google.com/store/apps/details?id=com.bybox.stockonnect&hl=en_GB)
+
+[![ByBox app](/images/pages/portfolio/ble-app.png)](https://play.google.com/store/apps/details?id=com.bybox.stockonnect&hl=en_GB)
 
 * Bluetooth app for iOS and Android
 * Tech Lead - *JavaScript, React, Cordova*
