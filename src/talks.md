@@ -7,18 +7,44 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+
+### [The Power of VR + the Web](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)
+
+[![Presentation](/images/pages/talks/augmenting-reality-2016.jpg)](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)
+
+<p class="venue-and-date">Augmenting Reality, London, September 2016</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)</p>
+
+
+### [WebVR: Creating Virtual Worlds with JavaScript](https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/)
+
+[![Presentation](/images/pages/talks/js-monthly-2016.jpg)](https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/)
+
+<p class="venue-and-date">JS Monthly, London, September 2016</p>
+<p class="read-link">[View slides](https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/)</p>
+
+
+### [Progressive Web Apps and the biggest browser you’ve probably never thought of](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)
+
+[![Presentation](/images/pages/talks/bytesconf-2016.jpg)](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)
+
+<p class="venue-and-date">Bytes Conf, Brighton, September 2016</p>
+<p class="read-link">[Read post](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)</p>
+
+
 ### [Web Bluetooth: How to Control a Drone from your Browser and More](https://skillsmatter.com/skillscasts/8583-fullstack-nights)
 
 [![Presentation](/images/pages/talks/web-bluetooth-fullstack-bytes.jpg)](https://skillsmatter.com/skillscasts/8583-fullstack-nights)
 
-<p class="venue-and-date">FullStack Bytes, August 2016</p>
-<p class="read-link">[Read slides](https://poshaughnessy.github.io/fullstack-bytes-2016-bluetooth/)</p>
+<p class="venue-and-date">FullStack Bytes, London, August 2016</p>
+<p class="read-link">[View slides](https://poshaughnessy.github.io/fullstack-bytes-2016-bluetooth/)</p>
+
 
 ### [Bluetooth for Web Developers: Programming Flying Robots with JavaScript](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-<p class="venue-and-date">FullStack Conference, July 2016</p>
+<p class="venue-and-date">FullStack Conference, London, July 2016</p>
 <p class="read-link">[Watch presentation](https://skillsmatter.com/skillscasts/8135-bluetooth-for-web-developers-programming-flying-robots-with-javascript)</p>
 
 <p class="venue-and-date">London AJAX, April 2016</p>
@@ -29,7 +55,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/web-bluetooth.jpg)](/posts/web-bluetooth-controlling-the-real-world)
 
-<p class="venue-and-date">Front Endgineers, February 2016</p>
+<p class="venue-and-date">Front Endgineers, London, February 2016</p>
 
 <p class="read-link">[Read post](/posts/web-bluetooth-controlling-the-real-world)</p>
 
@@ -38,7 +64,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/fullstack-2015.jpg)](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-thingshttps://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
-<p class="venue-and-date">FullStack Conference, October 2015</p>
+<p class="venue-and-date">FullStack Conference, London, October 2015</p>
 
 <p class="read-link">[Watch presentation](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)</p>
 
@@ -47,7 +73,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/cant-believe-its-js.jpg)](/post/132897105349/robots-virtual-reality-and-the-internet-of)
 
-<p class="venue-and-date">JS Monthly, September 2015</p>
+<p class="venue-and-date">JS Monthly, London, September 2015</p>
 
 <p class="read-link">[Read post](/post/132897105349/robots-virtual-reality-and-the-internet-of)</p>
 
@@ -56,7 +82,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/epicfel-hybrid-journey.jpg)](https://youtu.be/AonfnG-31hA)
 
-<p class="venue-and-date">Epic FEL, September 2015</p>
+<p class="venue-and-date">Epic FEL, London, September 2015</p>
 
 <p class="read-link">[Watch presentation](https://youtu.be/AonfnG-31hA)</p>
 
@@ -83,7 +109,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/enter-the-metaverse.jpg)](/post/103717880264/enter-the-metaverse-introducing-virtual-reality)
 
-<p class="venue-and-date">Front Endgineers, November 2014</p>
+<p class="venue-and-date">Front Endgineers, London, November 2014</p>
 
 <p class="read-link">[Read post](/post/103717880264/enter-the-metaverse-introducing-virtual-reality)</p>
 
@@ -94,7 +120,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">London Oculus Rift / VR Developer Meetup, August 2014</p>
 
-<p class="read-link">[Read slides](https://github.com/poshaughnessy/vr-showcase-intro-to-webvr)</p>
+<p class="read-link">[View slides](https://github.com/poshaughnessy/vr-showcase-intro-to-webvr)</p>
 
 
 ### [Interfaces of the future, and how to hack around with them now](/post/93776809854/interfaces-of-the-future-and-how-to-hack-around)
@@ -110,7 +136,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/edtech-devs-awesome-animations.jpg)](/post/88124288254/awesome-mobile-animations)
 
-<p class="venue-and-date">EdTech Developers, June 2014</p>
+<p class="venue-and-date">EdTech Developers, London, June 2014</p>
 
 <p class="read-link">[Read post](/post/88124288254/awesome-mobile-animations)</p>
 
@@ -119,7 +145,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/speedy.jpg)](/post/60868538533/attempting-fast-3d-graphics-for-mobile-web)
 
-<p class="venue-and-date">HTML5 CodeShow, September 2013</p>
+<p class="venue-and-date">HTML5 CodeShow, London, September 2013</p>
 
 <p class="read-link">[Read post](/post/60868538533/attempting-fast-3d-graphics-for-mobile-web)</p>
 
