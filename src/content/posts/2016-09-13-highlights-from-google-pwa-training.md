@@ -5,6 +5,6 @@ excerpt: Google kindly invited us to “Building Progressive Web Apps”, a 3-da
 thumbnail: /images/posts/2016-09-13-highlights-from-google-pwa-training/ada-speaking.jpg
 date: 2016-09-13
 tags: progressive-web-apps
-externalLink: https://medium.com/samsung-internet-dev/highlights-from-googles-progressive-web-apps-training-in-london-9856f0876e4f
-externalSite: Medium.com
+url: https://medium.com/samsung-internet-dev/highlights-from-googles-progressive-web-apps-training-in-london-9856f0876e4f
+site_name: Medium.com
 ---

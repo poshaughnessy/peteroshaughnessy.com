@@ -6,6 +6,7 @@ const collections = require('metalsmith-collections');
 const permalinks  = require('metalsmith-permalinks');
 const templates = require('metalsmith-templates');
 const redirect = require('metalsmith-redirect');
+const rssFeed = require('metalsmith-feed');
 const Handlebars = require('handlebars');
 const helpers = require('./templates/helpers');
 const fs = require('fs');
@@ -33,6 +34,7 @@ function build() {
     }))
     .use(templates('handlebars'))
     .use(redirect(redirects))
+    .use(rssFeed({collection: 'posts', site_url: 'https://peteroshaughnessy.com'}))
     .destination('./build')
     .build(function(err) {
       if (err) throw err;
