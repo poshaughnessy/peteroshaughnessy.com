@@ -38,7 +38,8 @@ function build() {
       collection: 'posts', 
       site_url: 'https://peteroshaughnessy.com',
       title: 'Peter O\'Shaughnessy',
-      description: 'Tech geek, web developer and advocate'
+      description: 'Tech geek, web developer and advocate',
+      limit: 50
     }))
     .destination('./build')
     .build(function(err) {
