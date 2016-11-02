@@ -34,7 +34,12 @@ function build() {
     }))
     .use(templates('handlebars'))
     .use(redirect(redirects))
-    .use(rssFeed({collection: 'posts', site_url: 'https://peteroshaughnessy.com'}))
+    .use(rssFeed({
+      collection: 'posts', 
+      site_url: 'https://peteroshaughnessy.com',
+      title: 'Peter O\'Shaughnessy',
+      description: 'Tech geek, web developer and advocate'
+    }))
     .destination('./build')
     .build(function(err) {
       if (err) throw err;
