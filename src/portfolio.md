@@ -6,6 +6,13 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+### [Net Magazine tutorial (2016)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
+
+[![Net magazine article](/images/pages/portfolio/net-mag-article.jpg)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
+
+* Author - 6 page WebVR tutorial featured in December edition
+
+
 ### [Snapwat (2016)](https://github.com/samsunginternet/snapwat)
 
 [![Snapwat](/images/pages/portfolio/snapwat.png)](https://github.com/samsunginternet/snapwat)
@@ -36,6 +43,13 @@ Some of the projects I have worked on in recent years include:
 
 * 1-day hack - won first prize at our pebble {code} games hackathon
 * Developer - *JavaScript, Phaser*
+
+
+### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
+
+[![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
+
+* Author - 500 word article on virtual/augmented reality dataviz
 
 
 ### [Apoc (2015)](http://labs.pearson.com/prototypes/apoc/)
