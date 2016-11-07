@@ -6,11 +6,11 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
-### [Net Magazine tutorial (2016)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
+### [Net Magazine WebVR tutorial (2016)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
 
 [![Net magazine article](/images/pages/portfolio/net-mag-article.jpg)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
 
-* Author - 6 page WebVR tutorial featured in December edition
+* Author - 6 page tutorial featured in December edition
 
 
 ### [Snapwat (2016)](https://github.com/samsunginternet/snapwat)
