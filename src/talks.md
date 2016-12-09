@@ -7,6 +7,14 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+### [Web Bluetooth in Action](https://poshaughnessy.github.io/over-the-air-2016-bluetooth/) 
+
+<p class="venue-and-date">Over The Air, London, November 2016</p>
+
+[![Presentation](/images/pages/talks/over-the-air-2016.png)](https://poshaughnessy.github.io/over-the-air-2016-bluetooth/)
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/over-the-air-2016-bluetooth/)</p>
+
 
 ### [Progressive Web Apps: Service Workers and Server-free Selfies](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)
 
@@ -39,7 +47,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">Bytes Conf, Brighton, September 2016</p>
 
-[![Presentation](/images/pages/talks/bytesconf-2016.jpg)](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)
+[![Presentation](/images/pages/talks/bytesconf-2016-2.jpg)](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)
 
 <p class="read-link">[Read post](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)</p>
 
