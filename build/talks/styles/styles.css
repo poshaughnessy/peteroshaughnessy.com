@@ -166,7 +166,7 @@ nav li a.active {
 
 .page .venue-and-date {
   font-style: italic;
-  margin-top: 0.5em;
+  margin-top: 0;
 }
 
 .page blockquote {
@@ -313,11 +313,6 @@ nav li a.active {
 
 .pages-page h3:first-of-type {
   margin-top: 2em;
-}
-
-.pages-page p,
-.pages-page ul {
-  margin: 0;
 }
 
 .pages-page ul {
