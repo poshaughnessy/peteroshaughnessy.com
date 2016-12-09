@@ -51,9 +51,9 @@ Three.js (WebGL), Goo Engine, Pixi.js, CSS3D...*
 
 ### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
 
-[![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
+I wrote a 500 word article on virtual/augmented reality data visualisation.
 
-* Author - 500 word article on virtual/augmented reality dataviz
+[![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
 
 
 ### [Apoc (2015)](http://labs.pearson.com/prototypes/apoc/)
