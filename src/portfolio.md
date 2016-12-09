@@ -36,7 +36,7 @@ I was the tech lead for this Bluetooth app for iOS and Android. *JavaScript, Rea
 
 ### [hac-man (2016)](http://pebblecode.com/hac-man/)
 
-A one day hack that won first prize at our pebble {code} games hackathon. *JavaScript, Phaser*.
+I was a developer in the hac-man team that won first prize at our pebble {code} games hackathon. *JavaScript, Phaser*.
 
 [![hac-man](/images/pages/portfolio/hac-man.png)](http://pebblecode.com/hac-man/)
 
