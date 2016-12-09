@@ -8,6 +8,15 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
 
+### [Progressive Web Apps: Service Workers and Server-free Selfies](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)
+
+<p class="venue-and-date">London Web Performance, November 2016</p>
+
+[![Presentation](/images/pages/talks/london-web-performance-2016.jpg)](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)
+
+<p class="read-link">[Watch presentation](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)</p>
+
+
 ### [The Power of VR + the Web](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)
 
 <p class="venue-and-date">Augmenting Reality, London, September 2016</p>

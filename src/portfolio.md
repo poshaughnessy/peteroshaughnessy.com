@@ -6,18 +6,25 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
-### [Snapwat (2016)](https://snapw.at)
+### [Net Magazine WebVR tutorial (2016)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
+
+I wrote a 6 page tutorial featured in the December edition.
+
+[![Net magazine article](/images/pages/portfolio/net-mag-article.jpg)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
+
+
+### [Snapwat (2016)](https://github.com/samsunginternet/snapwat)
 
 A progressive web app 'super selfies' demo. I wrote a [blog post to share some lessons learned](https://medium.com/samsung-internet-dev/things-i-learned-making-a-progressive-web-app-for-super-selfies-49e76d154e4f#.ou5dsn6r8). *JavaScript, WebRTC*.
 
-[![Snapwat](/images/pages/portfolio/snapwat.png)](https://snapw.at)
+[![Snapwat](/images/pages/portfolio/snapwat.png)](https://github.com/samsunginternet/snapwat)
 
 
-### [Web drone controller (2016)](https://webdr.one)
+### [Web drone controller (2016)](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
 
 A progressive web app I developed to try out Web Bluetooth. *JavaScript, Web Bluetooth*.
 
-[![Web drone](/images/pages/portfolio/web-drone.png)](https://webdr.one)
+[![Web drone](/images/pages/portfolio/web-drone.png)](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
 
 
 ### [ByBox (2016)](https://play.google.com/store/apps/details?id=com.bybox.stockonnect&hl=en_GB)
@@ -40,6 +47,13 @@ Each Christmas since 2010 I have created a web project to say happy holidays to 
 Three.js (WebGL), Goo Engine, Pixi.js, CSS3D...*
 
 [![hac-man](/images/pages/portfolio/christmas.png)](http://www.merrychristmasfrompeter.co.uk)
+
+
+### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
+
+[![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
+
+* Author - 500 word article on virtual/augmented reality dataviz
 
 
 ### [Apoc (2015)](http://labs.pearson.com/prototypes/apoc/)
