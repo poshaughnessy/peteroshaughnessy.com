@@ -7,12 +7,12 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
-### [Progressive Web Apps: Service Workers and Server-free Selfies](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)
+### [Progressive Web Apps: Service Workers and Server-free Selfies](https://speakerdeck.com/ldnwebperf/ldnwebperf-november-2016-peter-oshaughnessy)
 
-[![Presentation](/images/pages/talks/london-web-performance-2016.jpg)](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)
+[![Presentation](/images/pages/talks/london-web-performance-2016.jpg)](https://speakerdeck.com/ldnwebperf/ldnwebperf-november-2016-peter-oshaughnessy)
 
 <p class="venue-and-date">London Web Performance, November 2016</p>
-<p class="read-link">[Watch presentation](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)</p>
+<p class="read-link">[View slides](https://speakerdeck.com/ldnwebperf/ldnwebperf-november-2016-peter-oshaughnessy)</p>
 
 
 ### [The Power of VR + the Web](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)
