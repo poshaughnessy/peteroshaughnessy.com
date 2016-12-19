@@ -41,12 +41,12 @@ I was a developer in the hac-man team that won first prize at our pebble {code} 
 [![hac-man](/images/pages/portfolio/hac-man.png)](http://pebblecode.com/hac-man/)
 
 
-### [Merry Christmas from Peter (2010 to date)](http://www.merrychristmasfrompeter.co.uk)
+### [Merry Christmas from Peter (2010 to date)](https://peter.christmas/)
 
 Each Christmas since 2010 I have created a web project to say happy holidays to my colleagues. *JavaScript, 
 Three.js (WebGL), Goo Engine, Pixi.js, CSS3D...*
 
-[![hac-man](/images/pages/portfolio/christmas.png)](http://www.merrychristmasfrompeter.co.uk)
+[![hac-man](/images/pages/portfolio/christmas.png)](https://peter.christmas/)
 
 
 ### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
