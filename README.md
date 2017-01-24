@@ -24,4 +24,4 @@ The built site will be outputted to the `build` directory.
 
 Currently hosted on Github Pages:
 
-    git subtree push --prefix build origin gh-pages
+    ./deploy.sh
