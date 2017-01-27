@@ -56,85 +56,85 @@ I wrote a 500 word article on virtual/augmented reality data visualisation.
 [![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
 
 
-### [Apoc (2015)](http://labs.pearson.com/prototypes/apoc/)
+### Apoc (2015)
 
 I developed this tablet-friendly web app prototype at Pearson. *JavaScript, React, Three.js (WebGL)*.
 
-[![Apoc](/images/pages/portfolio/apoc.png)](http://labs.pearson.com/prototypes/apoc/)
+![Apoc](/images/pages/portfolio/apoc.png)
 
 
-### [Robots! (2014)](http://labs.pearson.com/prototypes/robots/)
+### Robots! (2014)
 
 I developed this iOS app prototype for controlling a [Sphero](http://www.gosphero.com/). *JavaScript, Pixi.js, Bluetooth*.
 
-[![Robots!](/images/pages/portfolio/robots2.png)](http://labs.pearson.com/prototypes/robots/)
+![Robots!](/images/pages/portfolio/robots2.png)
 
 
-### [Interactive VR (2014)](http://labs.pearson.com/prototypes/interactive-vr/)
+### Interactive VR (2014)
 
 I developed this Oculus Rift + Leap Motion web app prototype to explore WebVR and the potential for VR in education.
 *JavaScript, WebVR, Three.js (WebGL), Leap.js*.
 
-[![Interactive VR](/images/pages/portfolio/interactive-vr2.png)](http://labs.pearson.com/prototypes/interactive-vr/)
+![Interactive VR](/images/pages/portfolio/interactive-vr2.png)
 
 
-### [FTassistant (2013)](http://labs.pearson.com/prototypes/ftassistant/)
+### [FTassistant (2013)](https://vimeo.com/72730046)
 
 I developed this native Android app prototype at Pearson, to explore contextual awareness. *Java*.
 
-[![FTassistant](/images/pages/portfolio/ftassistant2.png)](http://labs.pearson.com/prototypes/ftassistant/)
+[![FTassistant](/images/pages/portfolio/ftassistant2.png)](https://vimeo.com/72730046)
 
 
-### [ZamBlocks (2013)](http://labs.pearson.com/prototypes/zamblocks-3/)
+### ZamBlocks (2013)
 
 A mobile web app prototype I developed at Pearson, to explore gamification in education. *JavaScript, Backbone, Canvas*.
 
-[![ZamBlocks](/images/pages/portfolio/zamblocks.png)](http://labs.pearson.com/prototypes/zamblocks-3/)
+![ZamBlocks](/images/pages/portfolio/zamblocks.png)
 
 
-### [Hi-5 (2013)](http://labs.pearson.com/prototypes/hi-5/)
+### Hi-5 (2013)
 
 As a developer in a team of four, we won first prize at a [wearables hackathon](https://www.eventbrite.co.uk/e/google-glass-and-wearables-hackathon-tickets-9260154371)
 with this hack. *JavaScript, Node, Web Sockets*.
 
-[![Hi-5](/images/pages/portfolio/hi5.png)](http://labs.pearson.com/prototypes/hi-5/)
+![Hi-5](/images/pages/portfolio/hi5.png)
 
 
-### [VirtualAssist (2013)](http://labs.pearson.com/prototypes/virtualassist/)
+### VirtualAssist (2013)
 
 A desktop web app prototype for Leap Motion, to explore natural user interfaces for education. *JavaScript, 
 Three.js (WebGL), Leap.js*.
 
-[![VirtualAssist](/images/pages/portfolio/virtualassist.png)](http://labs.pearson.com/prototypes/virtualassist/)
+![VirtualAssist](/images/pages/portfolio/virtualassist.png)
 
 
-### [Let’s Code! (2013)](http://labs.pearson.com/prototypes/lets-code/)
+### [Let’s Code! (2013)](https://github.com/Pearson-FutureTech/LetsCode-v2)
 
 I was the lead developer for this desktop and tablet web app. *JavaScript, Backbone, Node*
 
-[![Let's Code!](/images/pages/portfolio/letscode.png)](http://labs.pearson.com/prototypes/lets-code/)
+[![Let's Code!](/images/pages/portfolio/letscode.png)](https://github.com/Pearson-FutureTech/LetsCode-v2)
 
 
-### [Knoggins (2013)](http://labs.pearson.com/prototypes/knoggins/)
+### Knoggins (2013)
 
 I was a front-end developer for this mobile web app prototype we developed during a hack day. *JavaScript, Canvas*.
 
-[![Knoggins](/images/pages/portfolio/knoggins.png)](http://labs.pearson.com/prototypes/knoggins/)
+![Knoggins](/images/pages/portfolio/knoggins.png)
 
 
-### [TRex (2012)](http://labs.pearson.com/prototypes/trex/)
+### TRex (2012)
 
 A desktop web app prototype I developed at Pearson to explore WebGL and 3D interfaces for education. *JavaScript, 
 Three.js (WebGL)*
 
-[![TRex](/images/pages/portfolio/trex.png)](http://labs.pearson.com/prototypes/trex/)
+![TRex](/images/pages/portfolio/trex.png)
 
 
-### [LangAR (2012)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
+### [LangAR (2012)](http://www.wikitude.com/showcase/pearson-ar-language-course/)
 
 An augmented reality Android app that I developed as a prototype at Pearson. *Wikitude JavaScript SDK*.
 
-[![LangAR](/images/pages/portfolio/langar.jpg)](http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/)
+[![LangAR](/images/pages/portfolio/langar.jpg)](http://www.wikitude.com/showcase/pearson-ar-language-course/)
 
 
 ### [Telegraph Travel (2011)](http://www.telegraph.co.uk/travel/)
