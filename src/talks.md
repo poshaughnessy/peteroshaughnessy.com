@@ -185,3 +185,12 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/londonweb-ar.jpg)](/post/24330618934/augmented-reality-for-web-developers)
 
 <p class="read-link">[Read post](/post/24330618934/augmented-reality-for-web-developers)</p>
+
+
+### [Plug and Play APIs](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)
+
+<p class="venue-and-date">Droidcon Amsterdam, November 2011</p>
+
+[![Presentation](/images/pages/talks/droidcon-nl.jpg)](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)
+
+<p class="read-link">[Read post](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)</p>
