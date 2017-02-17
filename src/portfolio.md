@@ -56,26 +56,28 @@ I wrote a 500 word article on virtual/augmented reality data visualisation.
 [![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
 
 
-### Apoc (2015)
+### [Apoc (2015)](https://vimeo.com/118092380)
 
 I developed this tablet-friendly web app prototype at Pearson. *JavaScript, React, Three.js (WebGL)*.
 
-![Apoc](/images/pages/portfolio/apoc.png)
+[![Apoc](/images/pages/portfolio/apoc.png)](https://vimeo.com/118092380)
 
 
-### Robots! (2014)
+### [Robots! (2014)](https://vimeo.com/99233112)
 
 I developed this iOS app prototype for controlling a [Sphero](http://www.gosphero.com/). *JavaScript, Pixi.js, Bluetooth*.
 
-![Robots!](/images/pages/portfolio/robots2.png)
+[![Robots!](/images/pages/portfolio/robots2.png)](https://vimeo.com/99233112)
 
 
-### Interactive VR (2014)
+### [Interactive VR (2014)](https://vimeo.com/114942905)
 
 I developed this Oculus Rift + Leap Motion web app prototype to explore WebVR and the potential for VR in education.
 *JavaScript, WebVR, Three.js (WebGL), Leap.js*.
 
-![Interactive VR](/images/pages/portfolio/interactive-vr2.png)
+[![Interactive VR](/images/pages/portfolio/interactive-vr2.png)](https://vimeo.com/114942905)
+
+<!-- https://web.archive.org/web/20160306091500/http://labs.pearson.com/prototypes/interactive-vr/ -->
 
 
 ### [FTassistant (2013)](https://vimeo.com/72730046)
@@ -85,27 +87,29 @@ I developed this native Android app prototype at Pearson, to explore contextual 
 [![FTassistant](/images/pages/portfolio/ftassistant2.png)](https://vimeo.com/72730046)
 
 
-### ZamBlocks (2013)
+### [ZamBlocks (2013)](https://vimeo.com/72730048)
 
 A mobile web app prototype I developed at Pearson, to explore gamification in education. *JavaScript, Backbone, Canvas*.
 
-![ZamBlocks](/images/pages/portfolio/zamblocks.png)
+[![ZamBlocks](/images/pages/portfolio/zamblocks.png)](https://vimeo.com/72730048)
 
 
-### Hi-5 (2013)
+### [Hi-5 (2013)](https://www.youtube.com/watch?v=z_KSzfs6HF0)
 
 As a developer in a team of four, we won first prize at a [wearables hackathon](https://www.eventbrite.co.uk/e/google-glass-and-wearables-hackathon-tickets-9260154371)
 with this hack. *JavaScript, Node, Web Sockets*.
 
-![Hi-5](/images/pages/portfolio/hi5.png)
+[![Hi-5](/images/pages/portfolio/hi5.png)](https://www.youtube.com/watch?v=z_KSzfs6HF0)
 
 
-### VirtualAssist (2013)
+### [VirtualAssist (2013)](https://vimeo.com/72730047)
 
 A desktop web app prototype for Leap Motion, to explore natural user interfaces for education. *JavaScript, 
 Three.js (WebGL), Leap.js*.
 
-![VirtualAssist](/images/pages/portfolio/virtualassist.png)
+[![VirtualAssist](/images/pages/portfolio/virtualassist.png)](https://vimeo.com/72730047)
+
+<!-- https://web.archive.org/web/20160913192115/http://labs.pearson.com/prototypes/virtualassist/ -->
 
 
 ### [Let’s Code! (2013)](https://github.com/Pearson-FutureTech/LetsCode-v2)
@@ -115,11 +119,11 @@ I was the lead developer for this desktop and tablet web app. *JavaScript, Backb
 [![Let's Code!](/images/pages/portfolio/letscode.png)](https://github.com/Pearson-FutureTech/LetsCode-v2)
 
 
-### Knoggins (2013)
+### [Knoggins (2013)](https://www.redweb.com/agency/blog/2014/may/colourful-exercise-your-grey-matter)
 
 I was a front-end developer for this mobile web app prototype we developed during a hack day. *JavaScript, Canvas*.
 
-![Knoggins](/images/pages/portfolio/knoggins.png)
+[![Knoggins](/images/pages/portfolio/knoggins.png)](https://www.redweb.com/agency/blog/2014/may/colourful-exercise-your-grey-matter)
 
 
 ### TRex (2012)
