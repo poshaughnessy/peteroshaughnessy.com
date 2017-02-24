@@ -133,12 +133,12 @@ I was a front-end developer for this mobile web app prototype we developed durin
 [![Knoggins](/images/pages/portfolio/knoggins.png)](https://www.redweb.com/agency/blog/2014/may/colourful-exercise-your-grey-matter)
 
 
-### TRex (2012)
+### [TRex (2012)](https://web.archive.org/web/20160913192127/http://labs.pearson.com/prototypes/trex/)
 
 A desktop web app prototype I developed at Pearson to explore WebGL and 3D interfaces for education. *JavaScript, 
 Three.js (WebGL)*
 
-![TRex](/images/pages/portfolio/trex.png)
+[![TRex](/images/pages/portfolio/trex.png)](https://web.archive.org/web/20160913192127/http://labs.pearson.com/prototypes/trex/)
 
 
 ### [LangAR (2012)](http://www.wikitude.com/showcase/pearson-ar-language-course/)
