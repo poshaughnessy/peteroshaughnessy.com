@@ -6,6 +6,13 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+### [InspireHub PWAs whitepaper (2017)](http://info.inspirehub.com/the-future-of-web-apps-whitepaper)
+
+I was featured alongside Alex Russell in InspireHub's ["Future of Apps 2017" whitepaper](http://info.inspirehub.com/the-future-of-web-apps-whitepaper).
+
+[![InspireHub whitepaper](/images/pages/portfolio/inspire-hub-whitepaper.png)](http://info.inspirehub.com/the-future-of-web-apps-whitepaper)
+
+
 ### [Net Magazine WebVR tutorial (2016)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
 
 I wrote a 6 page tutorial featured in the December edition.
