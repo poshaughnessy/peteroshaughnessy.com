@@ -30,7 +30,8 @@ function build() {
     }))
     .use(markdown())
     .use(permalinks({
-      pattern: ':collection/:slug'
+      pattern: ':collection/:slug',
+      relative: false
     }))
     .use(templates('handlebars'))
     .use(redirect(redirects))
