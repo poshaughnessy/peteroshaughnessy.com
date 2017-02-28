@@ -9,12 +9,15 @@ development. If you would like to invite me to speak at your event, please [get 
 
 ### [Beyond the Browser](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)
 
-<p class="venue-and-date">JavaScript London, Jan 2017 and Codebar, London, Feb 2017</p>
+<p class="venue-and-date">London JS, Jan 2017</p>
+<p class="venue-and-date">Codebar, London, Feb 2017</p>
 
 [![Presentation](/images/pages/talks/beyond-browser-js-london-2017.jpg)](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)
 
-<p class="read-link">[Read post](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)</p>
-
+<p class="read-link">[Read blog post](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)</p>
+<p class="read-link">[View London JS slides](https://poshaughnessy.github.io/london-js-beyond-browser-2017/)</p>
+<p class="read-link">[Watch London JS recording](https://www.youtube.com/watch?v=ZSOhY1r8dwI)</p>
+<p class="read-link">[View Codebar slides](https://poshaughnessy.github.io/codebar-beyond-browser-2017/)</p>
 
 ### [Web Bluetooth in Action](https://poshaughnessy.github.io/over-the-air-2016-bluetooth/) 
 
@@ -29,9 +32,9 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">London Web Performance, Nov 2016</p>
 
-[![Presentation](/images/pages/talks/london-web-performance-2016.jpg)](https://speakerdeck.com/ldnwebperf/ldnwebperf-november-2016-peter-oshaughnessy)
+[![Presentation](/images/pages/talks/london-web-performance-2016.jpg)](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)
 
-<p class="read-link">[View slides](https://speakerdeck.com/ldnwebperf/ldnwebperf-november-2016-peter-oshaughnessy)</p>
+<p class="read-link">[View recording & slides](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)</p>
 
 
 ### [The Power of VR + the Web](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)
@@ -49,6 +52,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/js-monthly-2016.jpg)](https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/)
 
+<p class="read-link">[Watch recording](https://pusher.com/sessions/meetup/js-monthly-london/webvr-how-to-create-virtual-worlds-with-javascript)</p>
 <p class="read-link">[View slides](https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/)</p>
 
 
@@ -58,7 +62,9 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/bytesconf-2016-2.jpg)](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)
 
-<p class="read-link">[Read post](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)</p>
+<p class="read-link">[Read blog post](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)</p>
+<p class="read-link">[Watch recording](https://youtu.be/M8yuVXJUMN8?list=PLPs419gH1FQJXk8q13pTMin4GLICfqz5z)</p>
+<p class="read-link">[View slides](https://poshaughnessy.github.io/bytes-conf-2016-pwas/)</p>
 
 
 ### [Web Bluetooth: How to Control a Drone from your Browser and More](https://skillsmatter.com/skillscasts/8583-fullstack-nights)
@@ -72,12 +78,12 @@ development. If you would like to invite me to speak at your event, please [get 
 
 ### [Bluetooth for Web Developers: Programming Flying Robots with JavaScript](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-<p class="venue-and-date">London AJAX, Apr 2016 and FullStack Conference, London, Jul 2016</p>
+<p class="venue-and-date">London AJAX, Apr 2016 <br> FullStack Conference, London, Jul 2016</p>
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-<p class="read-link">[Watch FullStack presentation](https://skillsmatter.com/skillscasts/8135-bluetooth-for-web-developers-programming-flying-robots-with-javascript)</p>
-<p class="read-link">[Watch London AJAX presentation](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)</p>
+<p class="read-link">[Watch FullStack recording](https://skillsmatter.com/skillscasts/8135-bluetooth-for-web-developers-programming-flying-robots-with-javascript)</p>
+<p class="read-link">[Watch London AJAX recording](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)</p>
 
 
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
@@ -86,7 +92,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/web-bluetooth.jpg)](/posts/web-bluetooth-controlling-the-real-world)
 
-<p class="read-link">[Read post](/posts/web-bluetooth-controlling-the-real-world)</p>
+<p class="read-link">[Read blog post](/posts/web-bluetooth-controlling-the-real-world)</p>
 
 
 ### [React and Three.js: React All The Things!](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
@@ -95,16 +101,18 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/fullstack-2015.jpg)](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-thingshttps://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
-<p class="read-link">[Watch presentation](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)</p>
+<p class="read-link">[Watch recording](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)</p>
+<p class="view-slides">[View slides](https://github.com/poshaughnessy/react-threejs-fullstack-2015)</p>
 
 
-### [I Can’t Believe It’s JavaScript!](/post/132897105349/robots-virtual-reality-and-the-internet-of)
+### [I Can’t Believe It’s JavaScript!](/posts/robots-vr-iot-cant-believe-its-javascript/)
 
 <p class="venue-and-date">JS Monthly, London, Sep 2015</p>
 
-[![Presentation](/images/pages/talks/cant-believe-its-js.jpg)](/post/132897105349/robots-virtual-reality-and-the-internet-of)
+[![Presentation](/images/pages/talks/cant-believe-its-js.jpg)](/posts/robots-vr-iot-cant-believe-its-javascript/)
 
-<p class="read-link">[Read post](/post/132897105349/robots-virtual-reality-and-the-internet-of)</p>
+<p class="read-link">[Read blog post](/posts/robots-vr-iot-cant-believe-its-javascript/)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1-ywfHu_o4-7UxAL1G2N-t8isngucMiW849-y1xihhXs/edit?usp=sharing)</p>
 
 
 ### [A Hybrid App Journey: Connected Devices, Cordova… and Cats](https://youtu.be/AonfnG-31hA)
@@ -113,88 +121,99 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/epicfel-hybrid-journey.jpg)](https://youtu.be/AonfnG-31hA)
 
-<p class="read-link">[Watch presentation](https://youtu.be/AonfnG-31hA)</p>
+<p class="read-link">[Watch recording](https://youtu.be/AonfnG-31hA)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1rz7zsrUDAo3pbr7Vij5GAJM_EodWMqR3gza_rXlYqJo/edit?usp=sharing)</p>
 
 
-### [Combining React and WebGL for 2D + 3D web apps](/post/119666068949/combining-react-and-webgl)
+### [Combining React and WebGL for 2D + 3D web apps](/posts/combining-react-and-webgl/)
 
 <p class="venue-and-date">London React, May 2015</p>
 
-[![Presentation](/images/pages/talks/londonreact-react-webgl.jpg)](/post/119666068949/combining-react-and-webgl)
+[![Presentation](/images/pages/talks/londonreact-react-webgl.jpg)](/posts/combining-react-and-webgl/)
 
-<p class="read-link">[Read post](/post/119666068949/combining-react-and-webgl)</p>
+<p class="read-link">[Read blog post](/posts/combining-react-and-webgl/)</p>
+<p class="read-link">[Watch recording](https://www.youtube.com/watch?v=LcsGax4F6Xo)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1moVaB4nnSRyHO53Ic8TPbTTX-M8P1OtLgcdkVejd8o4/edit?usp=sharing)</p>
 
 
-### [2020: Looking Ahead To The Future of Web Development](/post/113947776654/2020-looking-ahead-to-the-future-of-web)
+### [2020: Looking Ahead To The Future of Web Development](/posts/2020-future-of-web-development/)
 
 <p class="venue-and-date">Ember London, Mar 2015</p>
 
-[![Presentation](/images/pages/talks/emberlondon-2020-web-dev.jpg)](/post/113947776654/2020-looking-ahead-to-the-future-of-web)
+[![Presentation](/images/pages/talks/emberlondon-2020-web-dev.jpg)](/posts/2020-future-of-web-development/)
 
-<p class="read-link">[Read post](/post/113947776654/2020-looking-ahead-to-the-future-of-web)</p>
+<p class="read-link">[Read blog post](/posts/2020-future-of-web-development/)</p>
+<p class="read-link">[Watch recording](https://vimeo.com/122421169)</p>
+<p class="read-link">[View slides](https://future-of-web-dev-2020.herokuapp.com/)</p>
 
 
-### [Enter the Metaverse: Introducing Virtual Reality for the Web (WebVR)](/post/103717880264/enter-the-metaverse-introducing-virtual-reality)
+### [Enter the Metaverse: Introducing Virtual Reality for the Web (WebVR)](/posts/enter-the-metaverse-webvr/)
 
 <p class="venue-and-date">Front Endgineers, London, Nov 2014</p>
 
-[![Presentation](/images/pages/talks/enter-the-metaverse.jpg)](/post/103717880264/enter-the-metaverse-introducing-virtual-reality)
+[![Presentation](/images/pages/talks/enter-the-metaverse.jpg)](/posts/enter-the-metaverse-webvr/)
 
-<p class="read-link">[Read post](/post/103717880264/enter-the-metaverse-introducing-virtual-reality)</p>
+<p class="read-link">[Read blog post](/posts/enter-the-metaverse-webvr/)</p>
+<p class="read-link">[Watch recording](http://skillsmatter.com/skillscasts/5913-enter-the-metaverse-introducing-virtual-reality-for-the-web#video)</p>
+<p class="read-link">[View slides](http://poshaughnessy.github.io/enter-the-metaverse-webvr/)</p>
 
 
-### [Introducing WebVR](https://github.com/poshaughnessy/vr-showcase-intro-to-webvr)
+### [Introducing WebVR](http://poshaughnessy.github.io/vr-showcase-intro-to-webvr/)
 
 <p class="venue-and-date">London Oculus Rift / VR Developer Meetup, Aug 2014</p>
 
-[![Presentation](/images/pages/talks/vr-showcase.png)](https://github.com/poshaughnessy/vr-showcase-intro-to-webvr)
+[![Presentation](/images/pages/talks/vr-showcase.png)](http://poshaughnessy.github.io/vr-showcase-intro-to-webvr/)
 
-<p class="read-link">[View slides](https://github.com/poshaughnessy/vr-showcase-intro-to-webvr)</p>
+<p class="read-link">[View slides](http://poshaughnessy.github.io/vr-showcase-intro-to-webvr/)</p>
 
 
-### [Interfaces of the future, and how to hack around with them now](/post/93776809854/interfaces-of-the-future-and-how-to-hack-around)
+### [Interfaces of the future, and how to hack around with them now](/posts/interfaces-of-the-future/)
 
 <p class="venue-and-date">Front End London, Jul 2014</p>
 
-[![Presentation](/images/pages/talks/interfaces-of-the-future.jpg)](/post/93776809854/interfaces-of-the-future-and-how-to-hack-around)
+[![Presentation](/images/pages/talks/interfaces-of-the-future.jpg)](/posts/interfaces-of-the-future/)
 
-<p class="read-link">[Read post](/post/93776809854/interfaces-of-the-future-and-how-to-hack-around)</p>
+<p class="read-link">[Read blog post](/posts/interfaces-of-the-future/)</p>
+<p class="read-link">[View slides](http://poshaughnessy.github.io/fel-interfaces-of-the-future/)</p>
 
 
-### [Awesome Mobile Animations](/post/88124288254/awesome-mobile-animations)
+### [Awesome Mobile Animations](/posts/awesome-mobile-animations/)
 
 <p class="venue-and-date">EdTech Developers, London, Jun 2014</p>
 
-[![Presentation](/images/pages/talks/edtech-devs-awesome-animations.jpg)](/post/88124288254/awesome-mobile-animations)
+[![Presentation](/images/pages/talks/edtech-devs-awesome-animations.jpg)](/posts/awesome-mobile-animations/)
 
-<p class="read-link">[Read post](/post/88124288254/awesome-mobile-animations)</p>
+<p class="read-link">[Read blog post](/posts/awesome-mobile-animations/)</p>
 
 
-### [Speedy Web UIs: Attempting Fast 2D/3D Graphics for Desktop & Mobile Web](/post/60868538533/attempting-fast-3d-graphics-for-mobile-web)
+### [Speedy Web UIs: Attempting Fast 2D/3D Graphics for Desktop & Mobile Web](/posts/attempting-fast-3d-graphics-mobile-web/)
 
 <p class="venue-and-date">HTML5 CodeShow, London, Sep 2013</p>
 
-[![Presentation](/images/pages/talks/speedy.jpg)](/post/60868538533/attempting-fast-3d-graphics-for-mobile-web)
+[![Presentation](/images/pages/talks/speedy.jpg)](/posts/attempting-fast-3d-graphics-mobile-web/)
 
-<p class="read-link">[Read post](/post/60868538533/attempting-fast-3d-graphics-for-mobile-web)</p>
+<p class="read-link">[Read blog post](/posts/attempting-fast-3d-graphics-mobile-web/)</p>
 
 
-### [The Third Dimension - an introduction to WebGL and Three.js](/post/41945355299/the-third-dimension-an-introduction-to-webgl-and)
+### [The Third Dimension - an introduction to WebGL and Three.js](/posts/third-dimension-introduction-webgl-threejs/)
 
 <p class="venue-and-date">London Web, Jan 2013</p>
 
-[![Presentation](/images/pages/talks/londonweb-webgl.jpg)](/post/41945355299/the-third-dimension-an-introduction-to-webgl-and)
+[![Presentation](/images/pages/talks/londonweb-webgl.jpg)](/posts/third-dimension-introduction-webgl-threejs/)
 
-<p class="read-link">[Read post](/post/41945355299/the-third-dimension-an-introduction-to-webgl-and)</p>
+<p class="read-link">[Read blog post](/posts/third-dimension-introduction-webgl-threejs/)</p>
+<p class="read-link">[View slides](http://third-dimension-webgl-threejs.herokuapp.com/)</p>
 
 
-### [Augmented Reality for Web Developers](/post/24330618934/augmented-reality-for-web-developers)
+### [Augmented Reality for Web Developers](/posts/augmented-reality-for-web-developers/)
 
 <p class="venue-and-date">London Web, May 2012</p>
 
-[![Presentation](/images/pages/talks/londonweb-ar.jpg)](/post/24330618934/augmented-reality-for-web-developers)
+[![Presentation](/images/pages/talks/londonweb-ar.jpg)](/posts/augmented-reality-for-web-developers/)
 
-<p class="read-link">[Read post](/post/24330618934/augmented-reality-for-web-developers)</p>
+<p class="read-link">[Read blog post](/posts/augmented-reality-for-web-developers/)</p>
+<p class="read-link">[View slides](http://augmented-reality-for-web-devs.herokuapp.com/)</p>
+<p class="read-link">[Watch recording](https://vimeo.com/43317655)</p>
 
 
 ### [Plug and Play APIs](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)
@@ -203,4 +222,4 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/droidcon-nl.jpg)](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)
 
-<p class="read-link">[Read post](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)</p>
+<p class="read-link">[Read blog post](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)</p>
