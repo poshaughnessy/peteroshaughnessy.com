@@ -7,6 +7,15 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+### [Web Payments and the Future of Online Checkouts](poshaughnessy.github.io/javascript-london-2017-web-payments/)
+
+<p class="venue-and-date">JavaScript London, Mar 2017</p>
+
+[![Presentation](/images/pages/talks/javascript-london-2017.jpg)](http://poshaughnessy.github.io/javascript-london-2017-web-payments/)
+
+<p class="read-link">[View slides](http://poshaughnessy.github.io/javascript-london-2017-web-payments/)</p>
+
+
 ### [Beyond the Browser](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)
 
 <p class="venue-and-date">London JS, Jan 2017</p>
