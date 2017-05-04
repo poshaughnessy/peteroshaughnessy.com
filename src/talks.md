@@ -7,6 +7,15 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+### [The Browser Strikes Back!](https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/)
+
+<p class="venue-and-date">[JS Oxford](https://www.meetup.com/JSOxford/events/239534664/), May 2017</p>
+
+[![Presentation](/images/pages/talks/browser-strikes-back-jsoxford-2017.jpg)](https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/)
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/)</p>
+
+
 ### [WebVR @ Samsung](https://poshaughnessy.github.io/webvr-london-apr-2017/)
 
 <p class="venue-and-date">[WebVR/AR London Meetup](https://www.meetup.com/Web-VR-AR/events/238266181/), Apr 2017</p>
