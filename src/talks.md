@@ -7,6 +7,16 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+### [WebVR: Getting started with Virtual Reality for the web](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
+
+<p class="venue-and-date">[Nuremberg Web Week](http://nueww.de/programm/2017/event/show/webvr-151/32441e3c4baeaf750e1fc9b9b89ec10b/), May 2017</p>
+
+[![Presentation](/images/pages/talks/nuremberg-web-week-webvr-2017.jpg)](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/webvr-nuremberg-2017/)</p>
+<p class="read-link">[Watch recording](https://www.facebook.com/LansynLP/videos/1947301062170980/)</p>
+
+
 ### [The Browser Strikes Back!](https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/)
 
 <p class="venue-and-date">[JS Oxford](https://www.meetup.com/JSOxford/events/239534664/), May 2017</p>
