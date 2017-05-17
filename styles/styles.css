@@ -86,8 +86,8 @@ nav ul {
 }
 
 nav li {
-  display: inline;
-  padding: 0 10px;
+  display: inline-block;
+  padding: 4px 8px;
 }
 
 nav li a {
