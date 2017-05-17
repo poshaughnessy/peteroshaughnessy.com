@@ -7,9 +7,18 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
 
+### [Bringing the Real World to Your Browser](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
+
+<p class="venue-and-date">[Zollhof, Nuremberg Web Week](http://nueww.de/programm/2017/event/show/hack-bay-201/587181b03b5048b1faa05e1063feeb01/), May 2017</p>
+
+[![Presentation](/images/pages/talks/nuremberg-web-week-physical-web-2017.jpg)](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)</p>
+
+
 ### [WebVR: Getting started with Virtual Reality for the web](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
 
-<p class="venue-and-date">[Nuremberg Web Week](http://nueww.de/programm/2017/event/show/webvr-151/32441e3c4baeaf750e1fc9b9b89ec10b/), May 2017</p>
+<p class="venue-and-date">[JOSEPHS, Nuremberg Web Week](http://nueww.de/programm/2017/event/show/webvr-151/32441e3c4baeaf750e1fc9b9b89ec10b/), May 2017</p>
 
 [![Presentation](/images/pages/talks/nuremberg-web-week-webvr-2017.jpg)](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
 

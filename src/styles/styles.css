@@ -169,6 +169,10 @@ nav li a.active {
   margin: 0;
 }
 
+.page .venue-and-date a {
+  text-decoration: none;
+}
+
 .page blockquote {
   border-left: 10px solid #505080;
   padding-left: 20px;
