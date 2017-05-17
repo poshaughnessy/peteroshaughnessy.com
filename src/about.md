@@ -13,8 +13,12 @@ you think!](https://medium.com/samsung-internet-dev/think-you-know-the-top-web-b
 ### The longer version
 
 I got interested in computers from an early age thanks to my older brothers. Thanks to them I was brought up with games 
-consoles like the ZX Spectrum and the Atari 2600 (we had the [wood version](https://en.wikipedia.org/wiki/Atari_2600#/media/File:Atari-2600-Wood-4Sw-Set.jpg) - a 
-material which is totally underused in hardware these days!). I followed my [brother Kevin](https://twitter.com/OshaughnessyKev) 
+consoles like the ZX Spectrum and the Atari 2600 (we had the wood version - a 
+material which is totally underused in hardware these days!). 
+
+![Atari 2600](/images/pages/about/atari2600.jpg)
+
+I followed my [brother Kevin](https://twitter.com/OshaughnessyKev) 
 into studying computer science at university and I got my first job as a developer in 2003. 
 
 Thankfully it only took me a couple more years to realise I should really give this "web development" thing a
@@ -31,8 +35,8 @@ Then at [pebble {code}](https://twitter.com/pebblecode) I led the development of
 logistics company.
 
 Now at [Samsung Internet](https://samsunginter.net), I am fortunate enough to be able to continue to do what I find most 
-interesting, fun and rewarding: make demos, write articles and speak to developers about how to make use of the latest 
-web technologies and why they are important.
+interesting, fun and rewarding: make demos, write articles and speak to developers about the latest 
+web technologies.
 
-My key technology interests are around how web and native apps are converging (Progressive Web Apps etc) and how the 
-physical and digital worlds are merging (Physical Web, Web Bluetooth, VR and Mixed Reality).
+My key technology interests are around how web and native app capabilities are converging (Progressive Web Apps etc) 
+and how the physical and digital worlds are converging (Physical Web, Web Bluetooth, VR and Mixed Reality).
