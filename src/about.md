@@ -35,7 +35,7 @@ Then at [pebble {code}](https://twitter.com/pebblecode) I led the development of
 logistics company.
 
 Now at [Samsung Internet](https://samsunginter.net), I am fortunate enough to be able to continue to do what I find most 
-interesting, fun and rewarding: make demos, write articles and speak to developers about the latest 
+interesting, fun and rewarding: make demos, write articles, travel and speak with developers about the latest 
 web technologies.
 
 My key technology interests are around how web and native app capabilities are converging (Progressive Web Apps etc) 
