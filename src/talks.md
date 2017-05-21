@@ -5,7 +5,7 @@ template: page.hbs
 ## Talks
 
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
-development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
+development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 ### [Bringing the Real World to Your Browser](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
 
