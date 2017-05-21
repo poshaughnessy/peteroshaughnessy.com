@@ -11,6 +11,3 @@ you think!](https://medium.com/samsung-internet-dev/think-you-know-the-top-web-b
 I've been a developer since graduating in 2003 and mostly developing for the web since 2005. My key technology interests 
 are around how web and native app capabilities are converging (e.g. Progressive Web App technologies) and how the 
 physical and digital worlds are converging (Physical Web, Web Bluetooth, VR, Mixed Reality...)
-
-In case a recruiter sees this, please note that I am not looking for work. But if you are interested (especially if you 
-might like to invite me to speak at your event ), my [CV is online here]().
