@@ -142,6 +142,15 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="read-link">[Watch London AJAX recording](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)</p>
 
 
+### [Coding Exercises: How to maintain your body for 8hrs+/day developing](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)
+
+<p class="venue-and-date">pebble {code}, May 2016</p>
+
+[![Presentation](/images/pages/talks/coding-exercises.jpg)](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)</p>
+
+
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
 
 <p class="venue-and-date">[Front Endgineers](https://www.meetup.com/Front-Endgineers-London/events/228029543/), London, Feb 2016</p>
