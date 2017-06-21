@@ -89,7 +89,3 @@ Like Ranieri, we must keep tinkering. We must stay curious, keep learning and ke
 be at the top of *our* game too.
 
 ![[Vardy](https://www.youtube.com/watch?v=A0BnIQjavmo)](/images/posts/2016-04-03-leicester-city-victory-for-hackers-and-tinkerers/leicester-city-vardy.jpg)
-
---
-
-_Cross-posted on the [pebble {code} blog](http://pebblecode.com/blog/leicester-city-victory-for-tinkerers/)_
