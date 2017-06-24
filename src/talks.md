@@ -7,6 +7,18 @@ template: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
+
+### [Samsung Internet @ Web Community Leads Summit](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/edit?usp=sharing)
+
+<p class="venue-and-date">[Web Community Leads Summit](https://events.withgoogle.com/web-community-leads-summit-uk-ireland/), June 2017</p>
+
+Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
+
+[![Presentation](/images/pages/talks/web-community-2017.jpg)](https://events.withgoogle.com/web-community-leads-summit-uk-ireland/)
+
+<p class="read-link">[View slides](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/edit?usp=sharing)</p>
+
+
 ### [Bringing the Real World to Your Browser](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
 
 <p class="venue-and-date">[Zollhof, Nuremberg Web Week](http://nueww.de/programm/2017/event/show/hack-bay-201/587181b03b5048b1faa05e1063feeb01/), May 2017</p>
