@@ -7,7 +7,8 @@
     "start": "node dev-server",
     "build": "node build",
     "watch": "nodemon --watch src --watch templates --ext md,hbs,js,css ./dev-server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git subtree push --prefix build origin gh-pages"
   },
   "engines": {
     "node": ">=4"
