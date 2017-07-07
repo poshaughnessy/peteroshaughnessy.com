@@ -8,13 +8,14 @@
     {{else}}
       <title>Peter O'Shaughnessy</title>
     {{/if}}
-    <meta name="description" content="Tech geek, web developer and advocate">
+    <meta name="description" content="Developer, writer and speaker about web APIs and the future of the web">
     <link rel="stylesheet" href="/styles/styles.css"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic,700italic">
     <link rel="icon" href="/images/favicon.png" type="image/png">
   </head>
   <body>
     <header>
+      <img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/>
       <h1><a href="/">Peter O'Shaughnessy</a></h1>
       <h2>Web developer advocate at <a href="https://twitter.com/samsunginternet">@samsunginternet</a></h2>
       <nav>
@@ -22,6 +23,7 @@
           <li><a href="/"{{#equals path ''}} class="active"{{/equals}}>Blog</a></li>
           <li><a href="/portfolio/"{{#equals path 'portfolio'}} class="active"{{/equals}}>Portfolio</a></li>
           <li><a href="/talks/"{{#equals path 'talks'}} class="active"{{/equals}}>Talks</a></li>
+          <li><a href="/about/"{{#equals path 'about'}} class="active"{{/equals}}>About</a></li>
         </ul>
       </nav>
     </header>

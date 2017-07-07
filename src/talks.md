@@ -5,7 +5,38 @@ template: page.hbs
 ## Talks
 
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
-development. If you would like to invite me to speak at your event, please [get in touch](https://twitter.com/poshaughnessy).
+development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
+
+
+### [Samsung Internet @ Web Community Leads Summit](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/edit?usp=sharing)
+
+<p class="venue-and-date">[Web Community Leads Summit](https://events.withgoogle.com/web-community-leads-summit-uk-ireland/), June 2017</p>
+
+Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
+
+[![Presentation](/images/pages/talks/web-community-2017.jpg)](https://events.withgoogle.com/web-community-leads-summit-uk-ireland/)
+
+<p class="read-link">[View slides](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/edit?usp=sharing)</p>
+
+
+### [Bringing the Real World to Your Browser](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
+
+<p class="venue-and-date">[Zollhof, Nuremberg Web Week](http://nueww.de/programm/2017/event/show/hack-bay-201/587181b03b5048b1faa05e1063feeb01/), May 2017</p>
+
+[![Presentation](/images/pages/talks/nuremberg-web-week-physical-web-2017.jpg)](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)</p>
+
+
+### [WebVR: Getting started with Virtual Reality for the web](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
+
+<p class="venue-and-date">[JOSEPHS, Nuremberg Web Week](http://nueww.de/programm/2017/event/show/webvr-151/32441e3c4baeaf750e1fc9b9b89ec10b/), May 2017</p>
+
+[![Presentation](/images/pages/talks/nuremberg-web-week-webvr-2017.jpg)](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/webvr-nuremberg-2017/)</p>
+<p class="read-link">[Watch recording](https://www.facebook.com/LansynLP/videos/1947301062170980/)</p>
+
 
 ### [The Browser Strikes Back!](https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/)
 
@@ -121,6 +152,15 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="read-link">[Watch FullStack recording](https://skillsmatter.com/skillscasts/8135-bluetooth-for-web-developers-programming-flying-robots-with-javascript)</p>
 <p class="read-link">[Watch London AJAX recording](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)</p>
+
+
+### [Coding Exercises: How to maintain your body for 8hrs+/day developing](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)
+
+<p class="venue-and-date">pebble {code}, May 2016</p>
+
+[![Presentation](/images/pages/talks/coding-exercises.jpg)](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)</p>
 
 
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
