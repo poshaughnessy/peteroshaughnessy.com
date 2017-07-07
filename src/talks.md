@@ -115,7 +115,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 ### [Bluetooth for Web Developers: Programming Flying Robots with JavaScript](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-<p class="venue-and-date">[London AJAX / London HalfStack](https://www.meetup.com/halfstack/events/229686980/), Apr 2016 <br> FullStack Conference, London, Jul 2016</p>
+<p class="venue-and-date">[London AJAX / London HalfStack](https://www.meetup.com/halfstack/events/229686980/), Apr 2016 <br> [FullStack Conference](https://skillsmatter.com/conferences/7278-fullstack-2016-the-conference-on-javascript-node-and-internet-of-things), London, Jul 2016</p>
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
