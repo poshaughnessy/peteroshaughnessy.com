@@ -8,6 +8,16 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [Web Payments & The Future of Online Payments](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
+
+<p class="venue-and-date">[FullStack 2017](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things), July 2017</p>
+
+[![Presentation](/images/pages/talks/fullstack-2017.jpg)](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/web-payments-fullstack-2017/)</p>
+<p class="read-link">[Watch recording](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)</p>
+
+
 ### [Samsung Internet @ Web Community Leads Summit](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/edit?usp=sharing)
 
 <p class="venue-and-date">[Web Community Leads Summit](https://events.withgoogle.com/web-community-leads-summit-uk-ireland/), June 2017</p>
