@@ -4,7 +4,7 @@ template: page.hbs
 
 ## About me
 
-I'm a developer, writer and speaker on web APIs and the future of the web. I work in developer relations for 
+Hi! I'm a developer, writer and speaker on web APIs and the future of the web. I work in developer relations for 
 [Samsung Internet](https://samsunginter.net), Samsung's mobile web browser ([which may be bigger than 
 you think!](https://medium.com/samsung-internet-dev/think-you-know-the-top-web-browsers-458a0a070175)).
 
