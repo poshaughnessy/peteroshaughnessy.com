@@ -36,21 +36,33 @@ header {
   text-align: center;
 }
 
-header h1 {
-  font-family: 'Roboto Condensed', sans-serif;
-  font-weight: bold;
-  font-size: 1.8em;
-  text-transform: uppercase;
-  text-align: center;
-  margin: 0;
-  padding: 10px 40px;
-  line-height: 1em;
+header > div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header .avatar-container {
+  display: flex;
+  justify-content: center;
+  flex-basis: 60px;
+  flex-shrink: 0;
+  padding-top: 10px;
 }
 
 @media (min-width: 700px) {
-  header h1 {
-    font-size: 2.4em;
+  header .avatar-container {
+    flex-basis: 150px;
+    flex-shrink: 0;
   }
+}
+
+header .title-and-tagline-container {
+  text-align: left;
+  padding: 0 10px;
 }
 
 header .avatar {
@@ -62,6 +74,29 @@ header .avatar {
   header .avatar {
     width: 100px;
     height: 100px;
+    margin-left: 15px;
+  }
+}
+
+header h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  text-align: left;
+  margin: 20px 0 10px 0;
+  line-height: 1em;
+}
+
+@media (min-width: 400px) {
+  header h1 {
+    font-size: 1.8em;
+  }
+}
+
+@media (min-width: 700px) {
+  header h1 {
+    font-size: 2.2em;
   }
 }
 
@@ -77,14 +112,14 @@ header h1 a {
 header h2 {
   display: none;
   font-size: 1.2em;
-  text-align: center;
+  text-align: left;
   color: #ddd;
   margin: 0 0 1em 0;
 }
 
 @media (min-width: 700px) {
   header h2 {
-    display: block;
+    display: inline-block;
   }
 }
 
@@ -100,13 +135,24 @@ nav ul {
 
 nav li {
   display: inline-block;
-  padding: 4px 8px;
+  padding: 4px 4px;
+}
+
+@media (min-width: 400px) {
+  nav li {
+    padding: 4px 6px;
+  }
+}
+
+@media (min-width: 700px) {
+  nav li {
+    padding: 4px 8px;
+  }
 }
 
 nav li a {
   color: #8282a7;
   text-decoration: none;
-  font-size: 1.1em;
   font-weight: bold;
   text-transform: uppercase;
 }
