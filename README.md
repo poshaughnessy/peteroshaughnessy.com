@@ -24,4 +24,4 @@ The built site will be outputted to the `build` directory.
 
 Currently hosted on Github Pages:
 
-    ./deploy.sh
+    npm run deploy
