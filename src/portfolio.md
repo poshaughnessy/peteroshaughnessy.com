@@ -6,6 +6,13 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+### [Samsung Internet Dashboard (2017)](https://samsunginter.net/dashboard)
+
+I created a semi-automated dashboard PWA, to share team metrics and progress.
+
+[![Samsung Internet dashboard](/images/pages/portfolio/samsung-internet-dashboard.png)](https://samsunginter.net/dashboard)
+
+
 ### [InspireHub PWAs whitepaper (2017)](http://info.inspirehub.com/the-future-of-web-apps-whitepaper)
 
 I was featured alongside Alex Russell in InspireHub's ["Future of Apps 2017" whitepaper](http://info.inspirehub.com/the-future-of-web-apps-whitepaper).
@@ -29,21 +36,21 @@ A progressive web app 'super selfies' demo. I wrote a [blog post to share some l
 
 ### [Web drone controller (2016)](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
 
-A progressive web app I developed to try out Web Bluetooth. *JavaScript, Web Bluetooth*.
+A progressive web app I developed to control my Parrot Mini Drone via Web Bluetooth. *JavaScript, Web Bluetooth*.
 
 [![Web drone](/images/pages/portfolio/web-drone.png)](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
 
 
 ### [ByBox (2016)](https://play.google.com/store/apps/details?id=com.bybox.stockonnect&hl=en_GB)
 
-I was the tech lead for this Bluetooth app for iOS and Android. *JavaScript, React, Cordova*.
+I was the tech lead for a Bluetooth locker app for iOS and Android. *JavaScript, React, Cordova*.
 
 [![ByBox app](/images/pages/portfolio/ble-app.png)](https://play.google.com/store/apps/details?id=com.bybox.stockonnect&hl=en_GB)
 
 
 ### [hac-man (2016)](http://pebblecode.com/hac-man/)
 
-I was a developer in the hac-man team that won first prize at our pebble {code} games hackathon. *JavaScript, Phaser*.
+I was a developer in the 'hac-man' team that won first prize at our pebble {code} games hackathon. *JavaScript, Phaser*.
 
 [![hac-man](/images/pages/portfolio/hac-man.png)](http://pebblecode.com/hac-man/)
 
