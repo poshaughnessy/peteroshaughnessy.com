@@ -8,6 +8,15 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [Web Payments: Introducing new browser APIs for easier online purchases](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
+
+<p class="venue-and-date">[London JS](https://www.meetup.com/London-JavaScript-Community/events/242200101/), Sep 2017</p>
+
+[![Presentation](/images/pages/talks/londonjs-sep-2017.jpg)](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/web-payments-londonjs-2017/)</p>
+
+
 ### [The Samsung Internet Story: Why Samsung Made a Web Browser](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
 
 <p class="venue-and-date">[Coldfront 2017](https://2017.coldfront.co/), Sep 2017</p>
