@@ -8,6 +8,15 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [Mighty Morphin' Browser Strangers (a.k.a. The Samsung Internet Story)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
+
+<p class="venue-and-date">[State of the Browser 6](https://www.stateofthebrowser.com/), Sep 2017</p>
+
+[![Presentation](/images/pages/talks/state-of-the-browser-6-2017.jpg)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)</p>
+
+
 ### [Web Payments: Introducing new browser APIs for easier online purchases](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
 
 <p class="venue-and-date">[London JS](https://www.meetup.com/London-JavaScript-Community/events/242200101/), Sep 2017</p>
