@@ -12,7 +12,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">[State of the Browser 6](https://www.stateofthebrowser.com/), Sep 2017</p>
 
-[![Presentation](/images/pages/talks/state-of-the-browser-6-2017.jpg)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
+[![Photo credit: Ginestra Ferraro](/images/pages/talks/state-of-the-browser-6-2017.jpg)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)</p>
 
@@ -21,7 +21,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">[London JS](https://www.meetup.com/London-JavaScript-Community/events/242200101/), Sep 2017</p>
 
-[![Presentation](/images/pages/talks/londonjs-sep-2017.jpg)](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
+[![Photo credit: Luca Mezzalira](/images/pages/talks/londonjs-sep-2017.jpg)](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/web-payments-londonjs-2017/)</p>
 
@@ -30,7 +30,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">[Coldfront 2017](https://2017.coldfront.co/), Sep 2017</p>
 
-[![Presentation](/images/pages/talks/coldfront-2017.jpg)](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
+[![Photo credit: Kenneth Rohde Christiansen](/images/pages/talks/coldfront-2017.jpg)](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)</p>
 
@@ -39,7 +39,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">[FullStack 2017](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things), July 2017</p>
 
-[![Presentation](/images/pages/talks/fullstack-2017.jpg)](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
+[![Photo credit: Skills Matter](/images/pages/talks/fullstack-2017.jpg)](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/web-payments-fullstack-2017/)</p>
 <p class="read-link">[Watch recording](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)</p>
