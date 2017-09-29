@@ -8,6 +8,26 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [New & Unusual Uses for Virtual Reality - and How the Web Can Help](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)
+
+<p class="venue-and-date">[Oxford's VR Crowd](https://www.meetup.com/Oxfords-Virtual-Reality-Crowd/events/242379096/), Sep 2017</p>
+
+[![Presentation](/images/pages/talks/oxford-vr-crowd-2017.jpg)](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)</p>
+
+
+### [Progressive WebVR Apps](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/edit?usp=sharing)
+
+<p class="venue-and-date">[JS Monthly](https://www.meetup.com/js-monthly/events/242589180/), Sep 2017</p>
+
+Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).
+
+[![Presentation](/images/pages/talks/js-monthly-2017.jpg)](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/edit?usp=sharing)
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/edit?usp=sharing)</p>
+
+
 ### [Mighty Morphin' Browser Strangers (a.k.a. The Samsung Internet Story)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
 
 <p class="venue-and-date">[State of the Browser 6](https://www.stateofthebrowser.com/), Sep 2017</p>

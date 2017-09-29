@@ -396,8 +396,7 @@ nav li a.active {
 }
 
 .pages-page img {
-  width: 500px;
-  border: 1px solid #ccc;
+  max-width: 500px;
   -webkit-transition: opacity 1s;
   transition: opacity 0.5s;
 }
