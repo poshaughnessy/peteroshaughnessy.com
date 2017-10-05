@@ -6,6 +6,13 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+### [Net Magazine browser diversity article (2017)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-november-2017-issue-299/)
+
+I wrote a 1 page article on web browser diversity and Samsung Internet.
+
+[![Net magazine article](/images/pages/portfolio/net-mag-article-browsers.jpg)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-november-2017-issue-299/)
+
+
 ### [Samsung Internet Dashboard (2017)](https://samsunginter.net/dashboard)
 
 I created a semi-automated dashboard PWA, to share team metrics and progress.
@@ -63,11 +70,11 @@ Three.js (WebGL), Goo Engine, Pixi.js, CSS3D...*
 [![hac-man](/images/pages/portfolio/christmas.png)](https://peter.christmas/)
 
 
-### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
+### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/how-immersive-computing-can-help-solve-our-big-data-explosion/)
 
 I wrote a 500 word article on virtual/augmented reality data visualisation.
 
-[![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/solving-big-data-for-humans/)
+[![Net magazine article](/images/pages/portfolio/disrupt-mag-article.jpg)](https://peteroshaughnessy.com/posts/how-immersive-computing-can-help-solve-our-big-data-explosion/)
 
 
 ### [Apoc (2015)](https://vimeo.com/118092380)
