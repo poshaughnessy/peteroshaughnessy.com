@@ -11,8 +11,7 @@
             </a>
           {{/if}}
           <div class="title-and-date">
-            <h3><a href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}">
-              {{this.title}}{{#if this.site_name}} ({{this.site_name}}){{/if}}</a></h3>
+            <h3><a href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}">{{this.title}}</a></h3>
             <p class="date">{{formatDate this.date}}</p>
           </div>
           {{#if this.tags}}

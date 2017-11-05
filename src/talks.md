@@ -8,12 +8,25 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [AI Voice Assistants & The Web](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/edit?usp=sharing)
+
+<p class="venue-and-date">[Mozilla Festival](https://mozillafestival.org/), Oct 2017</p>
+
+Co-presented with [Patrick H. Lauke](https://twitter.com/patrick_h_lauke) and [Michael Henretty](https://twitter.com/mikehenrty).
+
+[![Photo credit: @jennybeaumont](/images/pages/talks/mozfest-2017-voice.jpg)](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/edit?usp=sharing)
+
+<p class="read-link">[Read blog post](https://medium.com/samsung-internet-dev/the-voice-powered-web-combining-browsers-with-ai-voice-assistants-77344195a1f9)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/edit?usp=sharing)</p>
+
+
 ### [New & Unusual Uses for Virtual Reality - and How the Web Can Help](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)
 
 <p class="venue-and-date">[Oxford's VR Crowd](https://www.meetup.com/Oxfords-Virtual-Reality-Crowd/events/242379096/), Sep 2017</p>
 
 [![Presentation](/images/pages/talks/oxford-vr-crowd-2017.jpg)](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)
 
+<p class="read-link">[Read blog post](https://medium.com/samsung-internet-dev/not-just-games-new-unusual-uses-of-virtual-reality-4ff5787a58eb)</p>
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)</p>
 
 
