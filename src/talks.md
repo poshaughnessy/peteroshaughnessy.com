@@ -53,10 +53,12 @@ Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).
 ### [Web Payments: Introducing new browser APIs for easier online purchases](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
 
 <p class="venue-and-date">[London JS](https://www.meetup.com/London-JavaScript-Community/events/242200101/), Sep 2017</p>
+<p class="venue-and-date">[Elsevier, Oxford](https://www.elsevier.com/), Oct 2017</p>
 
 [![Photo credit: Luca Mezzalira](/images/pages/talks/londonjs-sep-2017.jpg)](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
 
-<p class="read-link">[View slides](https://poshaughnessy.github.io/web-payments-londonjs-2017/)</p>
+<p class="read-link">[View London JS slides](https://poshaughnessy.github.io/web-payments-londonjs-2017/)</p>
+<p class="read-link">[View Elsevier slides](https://poshaughnessy.github.io/web-payments-elsevier-2017/)</p>
 
 
 ### [The Samsung Internet Story: Why Samsung Made a Web Browser](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
