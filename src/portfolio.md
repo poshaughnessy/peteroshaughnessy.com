@@ -6,6 +6,20 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+### [Hedgehog Curling (2017)](https://hedgehog-curling.glitch.me/)
+
+I worked with my colleague Jo on a demo that enables a Bluetooth controller as input. *Web Bluetooth*.
+
+[![Hedgehog Curling](/images/pages/portfolio/hedgehog-curling.jpg)](https://hedgehog-curling.glitch.me/)
+
+
+### [Hungry Pandas (2017)](http://hungry-pandas2.glitch.me/)
+
+I worked with my colleagues Uve and Diego on a multiplayer WebVR demo for Chrome Dev Summit 2017. *A-Frame, Networked A-Frame*.
+
+[![Hungry Pandas](/images/pages/portfolio/hungry-pandas.jpg)](https://hungry-pandas2.glitch.me/)
+
+
 ### [Net Magazine browser diversity article (2017)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-november-2017-issue-299/)
 
 I wrote a 1 page article on web browser diversity and Samsung Internet.
