@@ -17,4 +17,4 @@ physical and digital worlds are converging (Physical Web, Web Bluetooth, VR, Mix
 more and more interested in ethical technology: how to avoid some of the problems we have seen technology contribute to recently and how to 
 apply web technologies to help make the world a better place.
 
-I've recently started coaching at [Codebar](https://codebar.io/) and [mentoring new web developers remotely](https://twitter.com/poshaughnessy/status/947487783085641729).
+I've recently started coaching at [Codebar](https://codebar.io/) and providing some remote mentoring for developers early on in their careers.
