@@ -68,6 +68,7 @@ Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).
 [![Photo credit: Kenneth Rohde Christiansen](/images/pages/talks/coldfront-2017.jpg)](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)</p>
+<p class="read-link">[Watch recording](https://youtu.be/WSW_9lxDwTA)</p>
 
 
 ### [Web Payments & The Future of Online Payments](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
