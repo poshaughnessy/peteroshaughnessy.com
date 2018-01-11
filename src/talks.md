@@ -244,6 +244,17 @@ Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
 <p class="read-link">[Read blog post](/posts/web-bluetooth-controlling-the-real-world)</p>
 
 
+### [Rum: A Treasure Hunt](https://youtu.be/II8BslQYTxg)
+
+<p class="venue-and-date">[pebble {code}](https://youtu.be/II8BslQYTxg), Nov 2015</p>
+
+NB. Not <em>Real User Monitoring</em>! This was a non-tech talk I gave, as we were encouraged to at pebble {code}!
+
+[![Presentation](/images/pages/talks/pebble-code-rum-2015.png)](https://youtu.be/II8BslQYTxg)
+
+<p class="read-link">[Watch recording](https://youtu.be/II8BslQYTxg)</p>
+
+
 ### [React and Three.js: React All The Things!](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
 <p class="venue-and-date">[FullStack Conference](https://skillsmatter.com/conferences/6612-fullstack), London, Oct 2015</p>
@@ -272,6 +283,15 @@ Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
 
 <p class="read-link">[Watch recording](https://youtu.be/AonfnG-31hA)</p>
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1rz7zsrUDAo3pbr7Vij5GAJM_EodWMqR3gza_rXlYqJo/edit?usp=sharing)</p>
+
+
+### [Hacking your brain for effortless learning](https://youtu.be/TeoBG3onbjs)
+
+<p class="venue-and-date">[pebble {code}](https://youtu.be/TeoBG3onbjs), Jul 2015</p>
+
+[![Presentation](/images/pages/talks/pebble-code-brain-hacking-2015.png)](https://youtu.be/TeoBG3onbjs)
+
+<p class="read-link">[Watch recording](https://www.youtube.com/watch?v=TeoBG3onbjs)</p>
 
 
 ### [Combining React and WebGL for 2D + 3D web apps](/posts/combining-react-and-webgl/)
