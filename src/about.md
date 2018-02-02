@@ -18,3 +18,6 @@ more and more interested in ethical technology: how to avoid some of the problem
 apply web technologies to help make the world a better place.
 
 I've recently started coaching at [Codebar](https://codebar.io/) and providing some remote mentoring for developers early on in their careers.
+
+If you would like to ask me something about web development or Samsung Internet, please send me a message on 
+[Mastodon](https://toot.cafe/@peter), [Twitter](https://twitter.com/poshaughnessy), or [send me an email](mailto:peter.oshaughnessy@gmail.com).
