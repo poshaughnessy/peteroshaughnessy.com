@@ -2,7 +2,7 @@
 title: Augmented Reality & Virtual Reality for Education
 slug: augmented-reality-virtual-reality-education
 excerpt: Prototypes that start to hint at how AR and VR could transform education.
-thumbnail: /images/pages/portfolio/interactive-vr.png
+thumbnail: /images/pages/projects/interactive-vr.png
 date: 2015-02-26
 tags: talks, virtual-reality, augmented-reality
 template: post.hbs
