@@ -8,6 +8,15 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [Reducing the friction of online payments](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)
+
+<p class="venue-and-date">[RenderConf, Oxford](https://2018.render-conf.com/), Mar 2018</p>
+
+[![Photo credit: @chicgeek](/images/pages/talks/renderconf-2018.jpg)](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)</p>
+
+
 ### [AI Voice Assistants & The Web](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/edit?usp=sharing)
 
 <p class="venue-and-date">[Mozilla Festival](https://mozillafestival.org/), Oct 2017</p>
