@@ -1,5 +1,5 @@
 ---
-template: page.hbs
+template: about.hbs
 ---
 
 ## About me

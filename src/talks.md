@@ -14,40 +14,44 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Photo credit: @chicgeek](/images/pages/talks/renderconf-2018.jpg)](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)
 
+<p class="credit">Photo credit: [@chicgeek](https://twitter.com/chicgeek). Thanks!</p>
+
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)</p>
 
 
-### [AI Voice Assistants & The Web](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/edit?usp=sharing)
+### [AI Voice Assistants & The Web](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing)
 
 <p class="venue-and-date">[Mozilla Festival](https://mozillafestival.org/), Oct 2017</p>
 
-Co-presented with [Patrick H. Lauke](https://twitter.com/patrick_h_lauke) and [Michael Henretty](https://twitter.com/mikehenrty).
+<p class="info">Co-presented with [Patrick H. Lauke](https://twitter.com/patrick_h_lauke) and [Michael Henretty](https://twitter.com/mikehenrty).</p>
 
-[![Photo credit: @jennybeaumont](/images/pages/talks/mozfest-2017-voice.jpg)](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/edit?usp=sharing)
+[![Photo credit: @jennybeaumont](/images/pages/talks/mozfest-2017-voice.jpg)](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing)
+
+<p class="credit">Photo credit: [@jennybeaumont](https://twitter.com/jennybeaumont). Thanks!</p>
 
 <p class="read-link">[Read blog post](https://medium.com/samsung-internet-dev/the-voice-powered-web-combining-browsers-with-ai-voice-assistants-77344195a1f9)</p>
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing)</p>
 
 
-### [New & Unusual Uses for Virtual Reality - and How the Web Can Help](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)
+### [New & Unusual Uses for Virtual Reality - and How the Web Can Help](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/present?usp=sharing)
 
 <p class="venue-and-date">[Oxford's VR Crowd](https://www.meetup.com/Oxfords-Virtual-Reality-Crowd/events/242379096/), Sep 2017</p>
 
-[![Presentation](/images/pages/talks/oxford-vr-crowd-2017.jpg)](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)
+[![Presentation](/images/pages/talks/oxford-vr-crowd-2017.jpg)](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/present?usp=sharing)
 
 <p class="read-link">[Read blog post](https://medium.com/samsung-internet-dev/not-just-games-new-unusual-uses-of-virtual-reality-4ff5787a58eb)</p>
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/present?usp=sharing)</p>
 
 
-### [Progressive WebVR Apps](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/edit?usp=sharing)
+### [Progressive WebVR Apps](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/present?usp=sharing)
 
 <p class="venue-and-date">[JS Monthly](https://www.meetup.com/js-monthly/events/242589180/), Sep 2017</p>
 
-Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).
+<p class="info">Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).</p>
 
-[![Presentation](/images/pages/talks/js-monthly-2017.jpg)](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/edit?usp=sharing)
+[![Presentation](/images/pages/talks/js-monthly-2017.jpg)](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/present?usp=sharing)
 
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/present?usp=sharing)</p>
 
 
 ### [Mighty Morphin' Browser Strangers (a.k.a. The Samsung Internet Story)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
@@ -55,6 +59,8 @@ Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).
 <p class="venue-and-date">[State of the Browser 6](https://www.stateofthebrowser.com/), Sep 2017</p>
 
 [![Photo credit: Ginestra Ferraro](/images/pages/talks/state-of-the-browser-6-2017.jpg)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
+
+<p class="credit">Photo credit: [Ginestra Ferraro](https://twitter.com/ginez_17). Thanks!</p>
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)</p>
 
@@ -76,6 +82,8 @@ Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).
 
 [![Photo credit: Kenneth Rohde Christiansen](/images/pages/talks/coldfront-2017.jpg)](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
 
+<p class="credit">Photo credit: [Kenneth Rohde Christiansen](https://twitter.com/kennethrohde). Thanks!</p>
+
 <p class="read-link">[View slides](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)</p>
 <p class="read-link">[Watch recording](https://youtu.be/WSW_9lxDwTA)</p>
 
@@ -90,24 +98,24 @@ Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).
 <p class="read-link">[Watch recording](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)</p>
 
 
-### [Samsung Internet @ Web Community Leads Summit](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/edit?usp=sharing)
+### [Samsung Internet @ Web Community Leads Summit](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/present?usp=sharing)
 
 <p class="venue-and-date">[Web Community Leads Summit](https://events.withgoogle.com/web-community-leads-summit-uk-ireland/), June 2017</p>
 
-Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
+<p class="info">Co-presented with [Daniel Appelquist](https://twitter.com/torgo).</p>
 
 [![Presentation](/images/pages/talks/web-community-2017.jpg)](https://events.withgoogle.com/web-community-leads-summit-uk-ireland/)
 
-<p class="read-link">[View slides](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/present?usp=sharing)</p>
 
 
-### [Bringing the Real World to Your Browser](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
+### [Bringing the Real World to Your Browser](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/present?usp=sharing)
 
 <p class="venue-and-date">[Zollhof, Nuremberg Web Week](http://nueww.de/programm/2017/event/show/hack-bay-201/587181b03b5048b1faa05e1063feeb01/), May 2017</p>
 
-[![Presentation](/images/pages/talks/nuremberg-web-week-physical-web-2017.jpg)](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)
+[![Presentation](/images/pages/talks/nuremberg-web-week-physical-web-2017.jpg)](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/present?usp=sharing)
 
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/present?usp=sharing)</p>
 
 
 ### [WebVR: Getting started with Virtual Reality for the web](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
@@ -138,13 +146,13 @@ Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
 <p class="read-link">[View slides](https://poshaughnessy.github.io/webvr-london-apr-2017/)</p>
 
 
-### [Progressive Web Apps and What They Mean for VR](https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/edit?usp=sharing)
+### [Progressive Web Apps and What They Mean for VR](https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/present?usp=sharing)
 
 <p class="venue-and-date">[IEEE VR, Los Angeles](http://www.ieeevr.org/2017/), Mar 2017</p>
 
-[![Presentation](/images/pages/talks/ieeevr-2017.jpg)](https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/edit?usp=sharing)
+[![Presentation](/images/pages/talks/ieeevr-2017.jpg)](https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/present?usp=sharing)
 
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/present?usp=sharing)</p>
 
 
 ### [Web Payments and the Future of Online Checkouts](https://poshaughnessy.github.io/javascript-london-2017-web-payments/)
@@ -187,13 +195,13 @@ Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
 <p class="read-link">[View recording & slides](https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/)</p>
 
 
-### [The Power of VR + the Web](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)
+### [The Power of VR + the Web](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/present?usp=sharing)
 
 <p class="venue-and-date">[Augmenting Reality](https://www.meetup.com/Augmenting-Reality/events/230087591/), London, Sep 2016</p>
 
-[![Presentation](/images/pages/talks/augmenting-reality-2016.jpg)](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)
+[![Presentation](/images/pages/talks/augmenting-reality-2016.jpg)](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/present?usp=sharing)
 
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/present?usp=sharing)</p>
 
 
 ### [WebVR: Creating Virtual Worlds with JavaScript](https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/)
@@ -236,13 +244,13 @@ Co-presented with [Daniel Appelquist](https://twitter.com/torgo).
 <p class="read-link">[Watch London AJAX recording](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)</p>
 
 
-### [Coding Exercises: How to maintain your body for 8hrs+/day developing](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)
+### [Coding Exercises: How to maintain your body for 8hrs+/day developing](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/present?usp=sharing)
 
 <p class="venue-and-date">pebble {code}, May 2016</p>
 
-[![Presentation](/images/pages/talks/coding-exercises.jpg)](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)
+[![Presentation](/images/pages/talks/coding-exercises.jpg)](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/present?usp=sharing)
 
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/present?usp=sharing)</p>
 
 
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
@@ -282,7 +290,7 @@ NB. Not <em>Real User Monitoring</em>! This was a non-tech talk I gave, as we we
 [![Presentation](/images/pages/talks/cant-believe-its-js.jpg)](/posts/robots-vr-iot-cant-believe-its-javascript/)
 
 <p class="read-link">[Read blog post](/posts/robots-vr-iot-cant-believe-its-javascript/)</p>
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1-ywfHu_o4-7UxAL1G2N-t8isngucMiW849-y1xihhXs/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1-ywfHu_o4-7UxAL1G2N-t8isngucMiW849-y1xihhXs/present?usp=sharing)</p>
 
 
 ### [A Hybrid App Journey: Connected Devices, Cordova… and Cats](https://youtu.be/AonfnG-31hA)
@@ -292,7 +300,7 @@ NB. Not <em>Real User Monitoring</em>! This was a non-tech talk I gave, as we we
 [![Presentation](/images/pages/talks/epicfel-hybrid-journey.jpg)](https://youtu.be/AonfnG-31hA)
 
 <p class="read-link">[Watch recording](https://youtu.be/AonfnG-31hA)</p>
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1rz7zsrUDAo3pbr7Vij5GAJM_EodWMqR3gza_rXlYqJo/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1rz7zsrUDAo3pbr7Vij5GAJM_EodWMqR3gza_rXlYqJo/present?usp=sharing)</p>
 
 
 ### [Hacking your brain for effortless learning](https://youtu.be/TeoBG3onbjs)
@@ -312,7 +320,7 @@ NB. Not <em>Real User Monitoring</em>! This was a non-tech talk I gave, as we we
 
 <p class="read-link">[Read blog post](/posts/combining-react-and-webgl/)</p>
 <p class="read-link">[Watch recording](https://www.youtube.com/watch?v=LcsGax4F6Xo)</p>
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1moVaB4nnSRyHO53Ic8TPbTTX-M8P1OtLgcdkVejd8o4/edit?usp=sharing)</p>
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1moVaB4nnSRyHO53Ic8TPbTTX-M8P1OtLgcdkVejd8o4/present?usp=sharing)</p>
 
 
 ### [2020: Looking Ahead To The Future of Web Development](/posts/2020-future-of-web-development/)

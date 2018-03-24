@@ -17,6 +17,10 @@ h6 {
   font-weight: normal;
 }
 
+p {
+  margin: 0;
+}
+
 img {
   max-width: 100%;
 }
@@ -223,17 +227,32 @@ nav li a.active {
   color: #666;
 }
 
+.page .credit {
+  margin: 0 0 1.5em 0;
+  font-size: 0.8em;
+  color: #aaa;
+}
+
+.page .credit a,
+.page .credit a:visited {
+  color: #999;
+}
+
 .page .venue-and-date {
   font-style: italic;
-  margin: 0;
 }
 
 .page .venue-and-date a {
   text-decoration: none;
 }
 
-.page .venue-and-date + p {
+.page .info {
   margin: 0.5em 0 1em 0;
+}
+
+/* E.g. event photos, project images */
+.page p a img {
+  margin-top: 1em;
 }
 
 .page blockquote {
@@ -262,6 +281,10 @@ nav li a.active {
 
 .page .tags {
   margin: 2em 0;
+}
+
+.about p {
+  margin-bottom: 1em;
 }
 
 .blog-links {
@@ -314,7 +337,7 @@ nav li a.active {
 }
 
 .blog-link .read-link {
-  margin-top: 0.8em;
+  margin: 0.8em 0 1em 0;
 }
 
 @media (max-width: 700px) {
@@ -355,6 +378,10 @@ nav li a.active {
     -ms-flex-order: 5;
     order: 5;
   }
+}
+
+.read-link {
+  margin: 1em 0;
 }
 
 .read-link a {
