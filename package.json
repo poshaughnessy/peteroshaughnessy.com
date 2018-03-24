@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node dev-server",
     "build": "node build",
-    "watch": "nodemon --ignore build --watch src --watch templates --ext md,hbs,js,css ./dev-server.js",
+    "watch": "nodemon -V --ignore build --watch src --watch templates --ext md,hbs,js,css ./dev-server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "git subtree push --prefix build origin gh-pages"
   },
@@ -33,7 +33,7 @@
     "metalsmith-permalinks": "^0.4.1",
     "metalsmith-redirect": "^1.1.0",
     "metalsmith-templates": "^0.7.0",
-    "nodemon": "^1.9.1"
+    "nodemon": "^1.17.2"
   },
   "dependencies": {
     "moment": "^2.11.2"
