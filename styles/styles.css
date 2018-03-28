@@ -17,10 +17,6 @@ h6 {
   font-weight: normal;
 }
 
-p {
-  margin: 0;
-}
-
 img {
   max-width: 100%;
 }
@@ -210,6 +206,10 @@ nav li a.active {
   margin: 0.5em 0;
 }
 
+.page-post h2 {
+  margin-top: 1em;
+}
+
 .page h3 {
   margin-top: 2em;
 }
@@ -281,10 +281,6 @@ nav li a.active {
 
 .page .tags {
   margin: 2em 0;
-}
-
-.pages-about p {
-  margin-bottom: 1em;
 }
 
 .blog-links {
@@ -399,6 +395,10 @@ nav li a.active {
   color: #444;
   -webkit-border-radius: 5px;
   border-radius: 5px;
+}
+
+.pages-page p {
+  margin: 0;
 }
 
 .pages-page h3 {
