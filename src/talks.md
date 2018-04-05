@@ -8,6 +8,17 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [6 Myths of PWAs](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)
+
+<p class="venue-and-date">[London Progressive Web Apps](https://www.meetup.com/London-Progressive-Web-Apps/events/248498204/), Mar 2018</p>
+
+[![Photo credit: @chicgeek](/images/pages/talks/londonpwa-2018.jpg)](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)
+
+<p class="credit">Photo credit: [@simona_cotin](https://twitter.com/simona_cotin). Thanks!</p>
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)</p>
+
+
 ### [Reducing the friction of online payments](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)
 
 <p class="venue-and-date">[RenderConf, Oxford](https://2018.render-conf.com/), Mar 2018</p>
