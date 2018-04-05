@@ -401,6 +401,10 @@ nav li a.active {
   margin: 0;
 }
 
+.pages-page p.read-link {
+  margin: 0.5em 0 1em 0;
+}
+
 .pages-page h3 {
   margin: 2.4em 0 0.5em 0;
 }
