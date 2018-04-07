@@ -17,6 +17,7 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="credit">Photo credit: [@simona_cotin](https://twitter.com/simona_cotin). Thanks!</p>
 
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)</p>
+<p class="read-link">[Watch recording](https://skillsmatter.com/skillscasts/11680-6-myths-of-progressive-web-apps)</p>
 
 
 ### [Reducing the friction of online payments](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)
