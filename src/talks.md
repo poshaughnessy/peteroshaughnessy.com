@@ -42,6 +42,7 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="credit">Photo credit: [@chicgeek](https://twitter.com/chicgeek). Thanks!</p>
 
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)</p>
+<p class="read-link">[Watch recording](https://youtu.be/RQ1uChMJcHM)</p>
 
 
 ### [AI Voice Assistants & The Web](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing)
