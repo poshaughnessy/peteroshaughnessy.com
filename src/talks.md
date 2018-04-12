@@ -8,6 +8,19 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [WebXR: Introducing Mixed Reality &amp; the Immersive Web](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)
+
+<p class="venue-and-date">[WebXR London](https://www.meetup.com/Web-XR/events/249114199/), Apr 2018</p>
+
+<p class="info">Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).</p>
+
+[![Photo credit: @diekus](/images/pages/talks/webxr-london-2018.jpg)](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)
+
+<p class="credit">Photo credit: [@diekus](https://twitter.com/diekus). Thanks!</p>
+
+<p class="read-link">[View slides](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)</p>
+
+
 ### [6 Myths of PWAs](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)
 
 <p class="venue-and-date">[London Progressive Web Apps](https://www.meetup.com/London-Progressive-Web-Apps/events/248498204/), Mar 2018</p>
