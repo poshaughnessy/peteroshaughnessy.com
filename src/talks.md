@@ -8,17 +8,32 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [Web Bluetooth for Fun and Profit](https://poshaughnessy.github.io/samsung-create-web-bluetooth-2018/)
+
+<p class="venue-and-date">[Samsung Create](https://samsungcreate.com/), San Jose, Apr 2018</p>
+
+[![Photo credit: @diekus](/images/pages/talks/samsungcreate-2018.jpg)](https://poshaughnessy.github.io/samsung-create-web-bluetooth-2018/)
+
+<p class="credit">Photo credit: [@karolynhart](https://twitter.com/karolynhart/status/987102801674125312)</p>
+
+<p class="read-link">[View slides](https://poshaughnessy.github.io/samsung-create-web-bluetooth-2018/)</p>
+
+
 ### [WebXR: Introducing Mixed Reality &amp; the Immersive Web](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)
 
 <p class="venue-and-date">[WebXR London](https://www.meetup.com/Web-XR/events/249114199/), Apr 2018</p>
 
-<p class="info">Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).</p>
+<p class="venue-and-date">[Codemotion Rome](https://www.meetup.com/Web-XR/events/249114199/), Apr 2018</p>
+
+<p class="info">Co-presented at WebXR London with [Diego González-Zúñiga](https://twitter.com/diekus).</p>
 
 [![Photo credit: @diekus](/images/pages/talks/webxr-london-2018.jpg)](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)
 
-<p class="credit">Photo credit: [@diekus](https://twitter.com/diekus). Thanks!</p>
+<p class="credit">Photo credit: [@diekus](https://twitter.com/diekus)</p>
 
-<p class="read-link">[View slides](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)</p>
+<p class="read-link">[View WebXR London slides](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)</p>
+
+<p class="read-link">[View Codemotion Rome slides](https://docs.google.com/presentation/d/16cXuCPA0ObeKsEvsNO70--0rWfoB7kpGHXKctCqP5V0/present)</p>
 
 
 ### [6 Myths of PWAs](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)
@@ -27,7 +42,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Photo credit: @chicgeek](/images/pages/talks/londonpwa-2018.jpg)](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)
 
-<p class="credit">Photo credit: [@simona_cotin](https://twitter.com/simona_cotin). Thanks!</p>
+<p class="credit">Photo credit: [@simona_cotin](https://twitter.com/simona_cotin)</p>
 
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)</p>
 <p class="read-link">[Watch recording](https://skillsmatter.com/skillscasts/11680-6-myths-of-progressive-web-apps)</p>
@@ -39,7 +54,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Photo credit: @chicgeek](/images/pages/talks/renderconf-2018.jpg)](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)
 
-<p class="credit">Photo credit: [@chicgeek](https://twitter.com/chicgeek). Thanks!</p>
+<p class="credit">Photo credit: [@chicgeek](https://twitter.com/chicgeek)</p>
 
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)</p>
 <p class="read-link">[Watch recording](https://youtu.be/RQ1uChMJcHM)</p>
@@ -53,7 +68,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Photo credit: @jennybeaumont](/images/pages/talks/mozfest-2017-voice.jpg)](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing)
 
-<p class="credit">Photo credit: [@jennybeaumont](https://twitter.com/jennybeaumont). Thanks!</p>
+<p class="credit">Photo credit: [@jennybeaumont](https://twitter.com/jennybeaumont)</p>
 
 <p class="read-link">[Read blog post](https://medium.com/samsung-internet-dev/the-voice-powered-web-combining-browsers-with-ai-voice-assistants-77344195a1f9)</p>
 <p class="read-link">[View slides](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing)</p>
@@ -86,7 +101,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Photo credit: Ginestra Ferraro](/images/pages/talks/state-of-the-browser-6-2017.jpg)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
 
-<p class="credit">Photo credit: [Ginestra Ferraro](https://twitter.com/ginez_17). Thanks!</p>
+<p class="credit">Photo credit: [Ginestra Ferraro](https://twitter.com/ginez_17)</p>
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)</p>
 
@@ -108,7 +123,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Photo credit: Kenneth Rohde Christiansen](/images/pages/talks/coldfront-2017.jpg)](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
 
-<p class="credit">Photo credit: [Kenneth Rohde Christiansen](https://twitter.com/kennethrohde). Thanks!</p>
+<p class="credit">Photo credit: [Kenneth Rohde Christiansen](https://twitter.com/kennethrohde)</p>
 
 <p class="read-link">[View slides](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)</p>
 <p class="read-link">[Watch recording](https://youtu.be/WSW_9lxDwTA)</p>
