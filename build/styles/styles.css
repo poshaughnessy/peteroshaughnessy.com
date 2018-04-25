@@ -376,11 +376,23 @@ nav li a.active {
   }
 }
 
-.read-link {
+.view-links {
   margin: 1em 0;
 }
 
-.read-link a {
+.view-links:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.view-links span {
+  margin: 0 0.5em 1em 0;
+  display: inline-block;
+  float: left;
+}
+
+.view-links a {
   background: #505080;
   color: white;
   text-decoration: none;
@@ -401,16 +413,12 @@ nav li a.active {
   margin: 0;
 }
 
-.pages-page p.read-link {
+.pages-page p.view-links {
   margin: 0.5em 0 1em 0;
 }
 
 .pages-page h3 {
-  margin: 2.4em 0 0.5em 0;
-}
-
-.pages-page h3:first-of-type {
-  margin-top: 2em;
+  margin: 2em 0 0.5em 0;
 }
 
 .pages-page ul {

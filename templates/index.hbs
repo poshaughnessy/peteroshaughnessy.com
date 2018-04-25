@@ -25,9 +25,9 @@
             <p class="excerpt">{{this.excerpt}}</p>
           {{/if}}
           {{#if this.site_name}}
-            <p class="read-link"><a href="{{this.url}}">Read post on {{this.site_name}}</a></p>
+            <p class="view-links"><span><a href="{{this.url}}">Read post on {{this.site_name}}</a></span></p>
           {{else}}
-            <p class="read-link"><a href="{{this.path}}">Read post</a></p>
+            <p class="view-links"><span><a href="{{this.path}}">Read post</a></span></p>
           {{/if}}
         </div>
       {{/each}}

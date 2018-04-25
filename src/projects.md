@@ -7,11 +7,22 @@ template: page.hbs
 Some of the projects I have worked on in recent years include:
 
 
+### [Samsung Create (2018)](https://samsungcreate.com)
+
+I designed and developed a simple static site for our conference. *HTML, CSS*.
+
+[![Samsung Create](/images/pages/projects/samsung-create.png)](https://samsungcreate.com)
+
+<p class="view-links"><span>[View project](https://samsungcreate.com)</span> <span>[View source](https://github.com/SamsungInternet/samsung-create)</span></p>
+
+
 ### [Hedgehog Curling (2017)](https://hedgehog-curling.glitch.me/)
 
 I helped out on a demo led by my colleague Jo that enables a Bluetooth controller as input. *Web Bluetooth, WebVR*.
 
 [![Hedgehog Curling](/images/pages/projects/hedgehog-curling.jpg)](https://hedgehog-curling.glitch.me/)
+
+<p class="view-links"><span>[View project](https://hedgehog-curling.glitch.me/)</span> <span>[View source](https://glitch.com/edit/#!/hedgehog-curling)</span></p>
 
 
 ### [Hungry Pandas (2017)](http://hungry-pandas2.glitch.me/)
@@ -19,6 +30,8 @@ I helped out on a demo led by my colleague Jo that enables a Bluetooth controlle
 I worked with my colleagues Uve and Diego on a multiplayer WebVR demo for Chrome Dev Summit 2017. *A-Frame, Networked A-Frame*.
 
 [![Hungry Pandas](/images/pages/projects/hungry-pandas.jpg)](https://hungry-pandas2.glitch.me/)
+
+<p class="view-links"><span>[View project](http://hungry-pandas2.glitch.me/)</span> <span>[View source](https://glitch.com/edit/#!/hungry-pandas2)</span></p>
 
 
 ### [Net Magazine browser diversity article (2017)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-november-2017-issue-299/)
@@ -30,9 +43,11 @@ I wrote a 1 page article on web browser diversity and Samsung Internet.
 
 ### [Samsung Internet Dashboard (2017)](https://samsunginter.net/dashboard)
 
-I created a semi-automated dashboard PWA, to share team metrics and progress.
+I designed and developed a semi-automated dashboard PWA, to share team metrics and progress.
 
 [![Samsung Internet dashboard](/images/pages/projects/samsung-internet-dashboard.png)](https://samsunginter.net/dashboard)
+
+<p class="view-links"><span>[View project](https://samsunginter.net/dashboard)</span> <span>[View source](https://github.com/samsunginternet/dashboard)</span></p>
 
 
 ### [InspireHub PWAs whitepaper (2017)](http://info.inspirehub.com/the-future-of-web-apps-whitepaper)
@@ -49,18 +64,22 @@ I wrote a 6 page tutorial featured in the December edition.
 [![Net magazine article](/images/pages/projects/net-mag-article.jpg)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-december-2016-issue-287/)
 
 
-### [Snapwat (2016)](https://github.com/samsunginternet/snapwat)
+### [Snapwat (2016)](https://snapw.at)
 
 A progressive web app 'super selfies' demo. I wrote a [blog post to share some lessons learned](https://medium.com/samsung-internet-dev/things-i-learned-making-a-progressive-web-app-for-super-selfies-49e76d154e4f#.ou5dsn6r8). *JavaScript, WebRTC*.
 
-[![Snapwat](/images/pages/projects/snapwat.png)](https://github.com/samsunginternet/snapwat)
+[![Snapwat](/images/pages/projects/snapwat.png)](https://snapw.at)
+
+<p class="view-links"><span>[View project](https://snapw.at)</span> <span>[View source](https://github.com/samsunginternet/snapwat)</span></p>
 
 
-### [Web drone controller (2016)](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
+### [Web drone controller (2016)](https://webdr.one)
 
 A progressive web app I developed to control my Parrot Mini Drone via Web Bluetooth. *JavaScript, Web Bluetooth*.
 
-[![Web drone](/images/pages/projects/web-drone.png)](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)
+[![Web drone](/images/pages/projects/web-drone.png)](https://webdr.one)
+
+<p class="view-links"><span>[View project](https://webdr.one)</span> <span>[View source](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)</span></p>
 
 
 ### [ByBox (2016)](https://play.google.com/store/apps/details?id=com.bybox.stockonnect&hl=en_GB)
@@ -83,6 +102,8 @@ Each Christmas since 2010 I have created a web project to say happy holidays to 
 Three.js (WebGL), Goo Engine, Pixi.js, CSS3D...*
 
 [![hac-man](/images/pages/projects/christmas.png)](https://peter.christmas/)
+
+<p class="view-links"><span>[View project](https://peter.christmas/)</span> <span>[View source](https://github.com/poshaughnessy/peter.christmas)</span></p>
 
 
 ### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/how-immersive-computing-can-help-solve-our-big-data-explosion/)
