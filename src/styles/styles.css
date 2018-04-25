@@ -369,7 +369,7 @@ nav li a.active {
     order: 4;
     margin-top: 6px;
   }
-  .blog-link .read-link {
+  .blog-link .view-links {
     -webkit-order: 5;
     -ms-flex-order: 5;
     order: 5;
