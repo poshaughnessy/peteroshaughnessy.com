@@ -31,7 +31,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="credit">Photo credit: [@diekus](https://twitter.com/diekus)</p>
 
-<p class="view-links"><span>[View WebXR London slides](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)</span> <span>[Watch WebXR London recording](https://skillsmatter.com/skillscasts/11775-webxr-in-2018)</span> <span>[View Codemotion Rome slides](https://docs.google.com/presentation/d/16cXuCPA0ObeKsEvsNO70--0rWfoB7kpGHXKctCqP5V0/present)</span></p>
+<p class="view-links"><span>[View WebXR London slides](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)</span> <span>[Watch WebXR London recording](https://skillsmatter.com/skillscasts/11775-webxr-in-2018)</span> <span>[View Codemotion Rome slides](https://docs.google.com/presentation/d/16cXuCPA0ObeKsEvsNO70--0rWfoB7kpGHXKctCqP5V0/present)</span> <span>[Watch Codemotion Rome recording](https://youtu.be/oYn-RaydHVQ)</p>
 
 
 ### [6 Myths of PWAs](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)
