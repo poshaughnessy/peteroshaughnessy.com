@@ -8,6 +8,27 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [The Web: Now and Next](https://docs.google.com/presentation/d/1Tw-GdxpRvTp9CREQWh6ePDEvSF2O7_hGJ_Pb8vhEFCk/present)
+
+<p class="venue-and-date">[Constructor Labs](https://constructorlabs.com/), London, Jun 2018</p>
+
+[![Photo credit: @constructorlabs](/images/pages/talks/constructor-labs-2018-06.jpg)](https://docs.google.com/presentation/d/1Tw-GdxpRvTp9CREQWh6ePDEvSF2O7_hGJ_Pb8vhEFCk/present)
+
+<p class="credit">Photo credit: [@constructorlabs](https://twitter.com/ConstructorLabs/status/1007640768863965184)</p>
+
+<p class="view-links"></span>[View slides](https://docs.google.com/presentation/d/1Tw-GdxpRvTp9CREQWh6ePDEvSF2O7_hGJ_Pb8vhEFCk/present)</span></p>
+
+
+### [Web Payment APIs](https://docs.google.com/presentation/d/1SwVoEymBxE0cygwLGphltVMVRjLrN-nOLlLlWX0VgoY/present)
+
+<p class="venue-and-date">[Government Digital Service](https://gds.blog.gov.uk/), London, May 2018</p>
+
+[![Presentation](/images/pages/talks/gds-web-payments-2018.jpg)](https://docs.google.com/presentation/d/1SwVoEymBxE0cygwLGphltVMVRjLrN-nOLlLlWX0VgoY/present)
+
+<p class="view-links"></span>[View slides](https://docs.google.com/presentation/d/1SwVoEymBxE0cygwLGphltVMVRjLrN-nOLlLlWX0VgoY/present)</span></p>
+
+
+
 ### [Web Bluetooth for Fun and Profit](https://poshaughnessy.github.io/samsung-create-web-bluetooth-2018/)
 
 <p class="venue-and-date">[Samsung Create](https://samsungcreate.com/), San Jose, Apr 2018</p>
