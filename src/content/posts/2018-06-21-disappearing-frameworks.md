@@ -41,7 +41,7 @@ I asked Nolan how he found using Svelte and Sapper. He told me that he found Sve
 
 ### Stencil
 
-Svelte has also [inspired](https://news.ycombinator.com/item?id=15081241) an alternative project from Ionic: [Stencil](https://www.stenciljs.com/).
+Svelte has also [inspired](https://news.ycombinator.com/item?id=15081241) an alternative project from Ionic: [Stencil](https://stenciljs.com/).
 
 ![Stencil](/images/posts/2018-06-21-disappearing-frameworks/stencil.png)
 <p class="credit">More magic! — [stencil.js](https://stenciljs.com/)</p>
@@ -49,7 +49,7 @@ Svelte has also [inspired](https://news.ycombinator.com/item?id=15081241) an alt
 Again, the goal is to adopt “the best concepts of the most popular frameworks”, but to achieve better performance:
 
 <blockquote>
-“With… traditional frameworks and bundling techniques, the team was struggling to meet latency and code size demands for Progressive Web Apps that ran equally well on fast and slow networks, across a diversity of platforms and devices.” — [stenciljs.com](https://www.stenciljs.com/)
+“With… traditional frameworks and bundling techniques, the team was struggling to meet latency and code size demands for Progressive Web Apps that ran equally well on fast and slow networks, across a diversity of platforms and devices.” — [stenciljs.com](https://stenciljs.com/)
 </blockquote>
 
 To understand what Stencil consists of, I found this [introduction from Rob Bearman useful](https://component.kitchen/blog/posts/a-look-at-stenciljs). There’s also a [video intro here](https://youtu.be/MqMYaT1GlWY) by [Maximilian](https://twitter.com/maxedapps). The output from Stencil is a standard Web Component (more on Web Components below), not specific to Stencil. This means you could use them in conjunction with another framework if you wanted (but this post is about frameworks disappearing, not multiplying! 😉).
