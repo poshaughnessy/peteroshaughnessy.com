@@ -33,7 +33,7 @@
   <article class="page page-post">
     <h1>Disappearing Frameworks</h1>
     <p class="date"><time>21st Jun 2018</time></p>
-    <h3 id="_how-new-web-platform-features-and-compile-time-frameworks-are-establishing-the-next-era-of-web-development_"><em>How new web platform features and compile-time frameworks are establishing the next era of web development</em></h3>
+    <h3 id="how-new-web-platform-features-and-compile-time-frameworks-are-establishing-the-next-era-of-web-development"><em>How new web platform features and compile-time frameworks are establishing the next era of web development</em></h3>
 <p><img src="/images/posts/2018-06-21-disappearing-frameworks/cover.jpg" alt="Credit: Stefan Bucher"></p>
 <p class="credit">Photo credit: <a href="https://www.flickr.com/photos/bucher/684595491">Stefan Bucher</a></p>
 
@@ -54,13 +54,13 @@
 <p>Svelte itself is pretty minimal, but it has a related project called <a href="https://sapper.svelte.technology/">Sapper</a> which builds a whole developer experience on top of it. Inspired by <a href="https://github.com/zeit/next.js/">Next.js</a>, it includes server-side rendering, code-splitting, scoped styling, declarative routing and live reloading with hot-module replacement. Furthermore, the <a href="https://github.com/sveltejs/sapper-template">Sapper starter template</a> gives you a <a href="https://developer.mozilla.org/en-US/Apps/Progressive">PWA</a> by default, with a web app manifest and a service worker with automatic resource caching.</p>
 <p>I asked Nolan how he found using Svelte and Sapper. He told me that he found Svelte “a dream to work with”. Sapper “is a little less mature” and he had <a href="https://github.com/sveltejs/svelte/issues/1411">some</a> <a href="https://github.com/sveltejs/sapper/issues/242">issues</a> with it, but he’s happy with it too. I’ve also started using them for a new project and so far the combination of all those developer features along with the super performance really does <a href="https://svelte.technology/blog/sapper-towards-the-ideal-web-app-framework">feel ideal</a>!</p>
 <h3 id="stencil">Stencil</h3>
-<p>Svelte has also <a href="https://news.ycombinator.com/item?id=15081241">inspired</a> an alternative project from Ionic: <a href="https://www.stenciljs.com/">Stencil</a>.</p>
+<p>Svelte has also <a href="https://news.ycombinator.com/item?id=15081241">inspired</a> an alternative project from Ionic: <a href="https://stenciljs.com/">Stencil</a>.</p>
 <p><img src="/images/posts/2018-06-21-disappearing-frameworks/stencil.png" alt="Stencil"></p>
 <p class="credit">More magic! — <a href="https://stenciljs.com/">stencil.js</a></p>
 
 <p>Again, the goal is to adopt “the best concepts of the most popular frameworks”, but to achieve better performance:</p>
 <blockquote>
-“With… traditional frameworks and bundling techniques, the team was struggling to meet latency and code size demands for Progressive Web Apps that ran equally well on fast and slow networks, across a diversity of platforms and devices.” — <a href="https://www.stenciljs.com/">stenciljs.com</a>
+“With… traditional frameworks and bundling techniques, the team was struggling to meet latency and code size demands for Progressive Web Apps that ran equally well on fast and slow networks, across a diversity of platforms and devices.” — <a href="https://stenciljs.com/">stenciljs.com</a>
 </blockquote>
 
 <p>To understand what Stencil consists of, I found this <a href="https://component.kitchen/blog/posts/a-look-at-stenciljs">introduction from Rob Bearman useful</a>. There’s also a <a href="https://youtu.be/MqMYaT1GlWY">video intro here</a> by <a href="https://twitter.com/maxedapps">Maximilian</a>. The output from Stencil is a standard Web Component (more on Web Components below), not specific to Stencil. This means you could use them in conjunction with another framework if you wanted (but this post is about frameworks disappearing, not multiplying! 😉).</p>
