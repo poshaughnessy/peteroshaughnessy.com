@@ -8,6 +8,18 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [The Why and How of Augmented Reality on the Web](https://docs.google.com/presentation/d/1Axe5KPZ-ZEmp_IUIe9_U37MHVIjmMi1afYKnnzyYAFk/present)
+
+<p class="venue-and-date">[HackBay](https://www.hackbay.de/), Nuremberg, Jul 2018</p>
+
+[![Photo credit: @zollhofhq](/images/pages/talks/hackbay-2018-07.jpg)](https://docs.google.com/presentation/d/1Axe5KPZ-ZEmp_IUIe9_U37MHVIjmMi1afYKnnzyYAFk/present)
+
+<p class="credit">Photo credit: [@zollhofhq](https://twitter.com/zollhofHQ/status/1016649758826524673)</p>
+
+<p class="view-links"></span>[View slides](https://docs.google.com/presentation/d/1Axe5KPZ-ZEmp_IUIe9_U37MHVIjmMi1afYKnnzyYAFk/present)</span></p>
+
+
+
 ### [The Web: Now and Next](https://docs.google.com/presentation/d/1Tw-GdxpRvTp9CREQWh6ePDEvSF2O7_hGJ_Pb8vhEFCk/present)
 
 <p class="venue-and-date">[Constructor Labs](https://constructorlabs.com/), London, Jun 2018</p>
@@ -143,7 +155,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 ### [Web Payments & The Future of Online Payments](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
 
-<p class="venue-and-date">[FullStack 2017](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things), July 2017</p>
+<p class="venue-and-date">[FullStack 2017](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things), Jul 2017</p>
 
 [![Photo credit: Skills Matter](/images/pages/talks/fullstack-2017.jpg)](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
 
