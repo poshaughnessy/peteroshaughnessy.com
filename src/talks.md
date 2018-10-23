@@ -8,6 +8,30 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [Bridging Realities with WebXR and Web Bluetooth](https://www.slideshare.net/secret/cIybseMqmYvFzO)
+
+<p class="venue-and-date">[Heapcon](https://heapcon.io/), Serbia, Oct 2018</p>
+
+<p class="info">Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).</p>
+
+[![Photo credit: Mitar Mitrović](/images/pages/talks/heapcon-2018.jpg)](https://www.slideshare.net/secret/cIybseMqmYvFzO)
+
+<p class="credit">Photo credit: [Mitar Mitrović](https://www.facebook.com/media/set/?set=a.10155865491116485)</p>
+
+<p class="view-links"></span>[View slides](https://www.slideshare.net/secret/cIybseMqmYvFzO)</span></p>
+
+
+### [Physical and Immersed: WebXR and Web Bluetooth](https://www.slideshare.net/secret/JogKDKMRbFFQOM)
+
+<p class="venue-and-date">[GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Oct 2018</p>
+
+[![Photo credit: GDG DevFest](/images/pages/talks/gdg-devfest-ua-2018.jpg)](https://www.slideshare.net/secret/JogKDKMRbFFQOM)
+
+<p class="credit">Photo credit: [GDG DevFest](https://photos.app.goo.gl/kFuL5K5cZXjvqzef6)</p>
+
+<p class="view-links"></span>[View slides](https://www.slideshare.net/secret/JogKDKMRbFFQOM)</span></p>
+
+
 ### [The Why and How of Augmented Reality on the Web](https://docs.google.com/presentation/d/1Axe5KPZ-ZEmp_IUIe9_U37MHVIjmMi1afYKnnzyYAFk/present)
 
 <p class="venue-and-date">[HackBay](https://www.hackbay.de/), Nuremberg, Jul 2018</p>
