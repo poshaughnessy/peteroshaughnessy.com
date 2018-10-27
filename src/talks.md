@@ -25,6 +25,8 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date">[GDG DevFest Ukraine](https://devfest.gdg.org.ua/), Oct 2018</p>
 
+<p class="info">Co-presented with [Diego González-Zúñiga](https://twitter.com/diekus).</p>
+
 [![Photo credit: GDG DevFest](/images/pages/talks/gdg-devfest-ua-2018.jpg)](https://www.slideshare.net/secret/JogKDKMRbFFQOM)
 
 <p class="credit">Photo credit: [GDG DevFest](https://photos.app.goo.gl/kFuL5K5cZXjvqzef6)</p>
