@@ -1,0 +1,122 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Hybrid app workflow with Grunt, via XCode - Peter O'Shaughnessy</title>
+    <meta name="description" content="Web developer especially interested in web APIs and the future of the web">
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic,700italic">
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <div class="avatar-container">
+          <a href="/"><img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/></a>
+        </div>
+        <div class="title-and-tagline-container">
+          <h1><a href="/">Peter O'Shaughnessy</a></h1>
+          <h2>Experiments with web technologies</h2>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+<div class="contents">
+  <article class="page page-post">
+    <h1>Hybrid app workflow with Grunt, via XCode</h1>
+    <p class="date"><time>31st Oct 2013</time></p>
+    <p>These days, with web apps getting more complex, it’s getting more
+common to have have an automated JavaScript-based build process -
+including things like:</p>
+<ul>
+<li>Running tests and linting</li>
+<li>CSS compilation (from SASS/Less)</li>
+<li>Combining and minifying JavaScript files</li>
+<li>Single-command build and deployment</li>
+<li>Live re-loading of changes during development</li>
+</ul>
+<p><a href="http://gruntjs.com/">Grunt</a> (like Ant for web apps) enables all of
+these and a whole lot more. It’s only been on the scene since 2012, but
+it seems to be exploding in popularity right now.</p>
+<p>But how about using Grunt for a <em>hybrid</em> app?</p>
+<p>I’ve been reading and talking about hybrid apps for a long time, but I’m
+actually just developing one for the first time now. Despite being a
+newbie, I thought it would be worth sharing how we’re setting it up.</p>
+<p>NB. Despite the aim being to make the app as cross-platform portable as
+possible, this post is going to specifically talk about iOS (we’re only
+targeting one platform for the initial prototype).</p>
+<p>The first thing I tried was - of course - PhoneGap. But I was
+disappointed with the standard workflow. I don’t want to have to run the
+PhoneGap build first, then load the resulting project in XCode, and then
+build and run the app from there. That makes the feedback loop for
+development too slow.</p>
+<p>It might have been OK if we could have just tested the app in the web
+browser most of the time - if we just wanted to wrap a pure web app
+inside a native wrapper, or bolt on a plugin or two. But we need to
+develop a significant portion of this app in native code, so we need to
+be testing the actual native app very regularly. We don’t want to
+have two separate compilation steps. We need to build it and run it on
+an iOS device or emulator as quickly as possible.</p>
+<p>It was about this time that we stopped looking at PhoneGap and started
+investigating how much work it would be to just write a UIWebView app
+with a simple iOS JavaScript bridge. I think we’ll probably go with the
+latter now, although I’m still wondering about PhoneGap (see below)…</p>
+<p>So, what about Grunt? As I mentioned, we don’t want two separate build
+processes, so we need to combine the Grunt build
+process with the XCode build process. Thankfully we can do
+that quite easily with a Build Phase <a href="https://developer.apple.com/library/ios/recipes/xcode_help-project_editor/Articles/AddingaRunScriptBuildPhase.html">Run
+Script</a>. </p>
+<p>A <a href="http://stackoverflow.com/questions/14315648/how-to-run-grunt-tasks-during-xcode-build-phase">handy StackOverflow
+post</a> told
+me this wasn’t too crazy an idea. I soon run into a problem though: the
+Compass SASS compilation failed. It was just a case of fiddling with the
+PATH and environment variables though. I’ve written up the solution as a
+self-answered StackOverflow post:</p>
+<p><a href="http://stackoverflow.com/questions/19710361/grunt-compass-task-fails-in-xcode-build-script/">http://stackoverflow.com/questions/19710361/grunt-compass-task-fails-in-xcode-build-script/</a></p>
+<p>So now our workflow is simply:</p>
+<ol>
+<li>Open up both our preferred web IDE (I use WebStorm) and
+XCode</li>
+<li>Edit the web code in the web IDE</li>
+<li>Do Build + Run in XCode.</li>
+</ol>
+<p><strong>Update</strong></p>
+<p>It’s now a few weeks later. Unfortunately we’ve since ditched this
+XCode-Grunt integration! For the following reasons:</p>
+<ul>
+<li>We’re sharing our XCode project settings via Git, and we don’t have
+the same build paths.</li>
+<li>For some reason it doesn’t update the JavaScript code until you
+re-build twice! I’m not sure why, but I guess it may be to do with
+the stage of the build process when the Grunt task takes place -
+perhaps it happens too late?</li>
+<li>We’ve split up the work so my colleague is mainly working on the
+Objective-C side and I’m working mainly on the Web side. So far, my
+colleague hasn’t needed to update the Web code much, and I haven’t
+needed to run it up inside the native wrapper much.</li>
+<li>I’ve realised it’s not actually that hard just to run <em>grunt build</em>
+separately first ;-)</li>
+</ul>
+<p>Oh well… always learning!</p>
+
+      <p class="tags">
+          <span>mobile</span>
+          <span> hybrid-apps</span>
+      </p>
+  </article>
+</div>
+    <footer>
+      <p><a rel="me" href="https://toot.cafe/@peter">Mastodon</a> | <a rel="me" href="https://twitter.com/@poshaughnessy">Twitter</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a> | <a href="https://github.com/poshaughnessy/peteroshaughnessy.com">Source</a> | <a href="rss.xml">RSS</a></p>
+      <p>© 2017 Peter O'Shaughnessy</p>
+    </footer>
+  </body>
+</html>
