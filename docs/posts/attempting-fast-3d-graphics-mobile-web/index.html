@@ -1,0 +1,94 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Attempting fast 3D graphics for mobile web, without WebGL - Peter O'Shaughnessy</title>
+    <meta name="description" content="Web developer especially interested in web APIs and the future of the web">
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic,700italic">
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <div class="avatar-container">
+          <a href="/"><img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/></a>
+        </div>
+        <div class="title-and-tagline-container">
+          <h1><a href="/">Peter O'Shaughnessy</a></h1>
+          <h2>Experiments with web technologies</h2>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+<div class="contents">
+  <article class="page page-post">
+    <h1>Attempting fast 3D graphics for mobile web, without WebGL</h1>
+    <p class="date"><time>10th Sep 2013</time></p>
+    <p>Is it possible to create fast 3D interactive graphics for mobile
+devices, using web technologies? Since WebGL is not yet well supported
+on mobile devices, what technology should you use? CSS3D? Canvas? Or
+something else? And is there a high-level graphics library that could
+help you?</p>
+<p>That was the subject of my presentation last night at the <a href="http://www.meetup.com/HTML5-CodeShow/events/135509012/">HTML5
+CodeShow
+meetup</a>.</p>
+<p><img src="/images/posts/2013-09-10-attempting-fast-3d-graphics-mobile-web/speed-web.jpg" alt="HTML5 Codeshow presentation"></p>
+<p>I’ve been fortunate enough to be able to use
+<a href="http://threejs.org/">Three.js</a> for a couple
+of desktop web projects recently, and I’ve been very impressed with how
+easy it makes it to develop WebGL applications.</p>
+<p>So when we were tasked with creating a new prototype <em>mobile</em> web
+application that may benefit from 3D graphics (an app for helping
+students to revise, called <em>ZamBlocks</em>), I jumped at the chance to try
+Three.js again. In this case, I wouldn’t be able to use its
+WebGLRenderer, but it also comes with a CSS3DRenderer and a
+CanvasRenderer. Both have good support on mobile devices. But then
+there’s the question of performance…</p>
+<p>My presentation runs through the different things I attempted, to
+try to achieve a good frame rate on various mobile devices. Along the
+way, I ran into some big hurdles, but I also found a couple of
+optimisations that helped significantly.</p>
+<p>And as it turned out, the final designs for this particular
+prototype didn’t really require any 3D elements or whizzy animations.
+(In fact, the whole thing turned out to be very simple. If I was to
+start from scratch, I’d probably just use DOM elements, or maybe
+&lt;canvas&gt; directly without a library). But since we’re
+an R&amp;D team, it’s good for us to try pushing the boundaries and seeing
+what we can learn along the way. It was a great opportunity
+to try the other Three.js renderers and explore what’s currently
+feasible for mobile devices.</p>
+<p>As well as Three.js, my presentation also briefly covers
+<a href="http://www.pixijs.com/">Pixi.js</a>, a fairly new 2D graphics engine. A
+bit like a 2D version of Three.js, it’s built for speed. It will use
+WebGL if it’s available, but if not fall back to Canvas.</p>
+<p>My slides contain lots of embedded examples and videos of how things
+look on mobile. You can check them out here (arrow keys / swipe to
+navigate):</p>
+<p><a href="http://speedy-web-uis.herokuapp.com">http://speedy-web-uis.herokuapp.com</a></p>
+<p>And the code is on GitHub here:</p>
+<p><a href="https://github.com/poshaughnessy/speedy-web-uis">https://github.com/poshaughnessy/speedy-web-uis</a></p>
+
+      <p class="tags">
+          <span>web</span>
+          <span> three.js</span>
+          <span> performance</span>
+          <span> ui</span>
+      </p>
+  </article>
+</div>
+    <footer>
+      <p><a rel="me" href="https://toot.cafe/@peter">Mastodon</a> | <a rel="me" href="https://twitter.com/@poshaughnessy">Twitter</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a> | <a href="https://github.com/poshaughnessy/peteroshaughnessy.com">Source</a> | <a href="rss.xml">RSS</a></p>
+      <p>© 2017 Peter O'Shaughnessy</p>
+    </footer>
+  </body>
+</html>

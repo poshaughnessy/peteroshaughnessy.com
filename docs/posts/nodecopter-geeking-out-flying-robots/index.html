@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>NodeCopter - geeking out with flying robots - Peter O'Shaughnessy</title>
+    <meta name="description" content="Web developer especially interested in web APIs and the future of the web">
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,400italic,700italic">
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <div class="avatar-container">
+          <a href="/"><img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/></a>
+        </div>
+        <div class="title-and-tagline-container">
+          <h1><a href="/">Peter O'Shaughnessy</a></h1>
+          <h2>Experiments with web technologies</h2>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+<div class="contents">
+  <article class="page page-post">
+    <h1>NodeCopter - geeking out with flying robots</h1>
+    <p class="date"><time>27th Mar 2013</time></p>
+    <p><strong>What happens when you combine a room full of geeks with a bunch of
+programmable flying robots?</strong></p>
+<p>That’s what I found out when I attended
+<a href="http://nodecopter-london.eventbrite.com/">NodeCopter</a> last weekend, a
+“small, full day event where teams of 3 or 4 get together to hack on
+flying robots using JavaScript”.</p>
+<p>A sell-out at Forward’s offices in London, I was fortunate to see a
+tweet from organiser Andrew Nesbitt just in time to snap up a free
+ticket before the last one went.</p>
+<p><img src="/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter1.jpg" alt="Nodecopter"></p>
+<h6 id="photo-by-andrew-nesbitt">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></h6>
+<p>A number of companies had each sponsored a
+<a href="http://ardrone2.parrot.com/usa/">Parrot AR Drone 2</a> (they cost about $300 each).</p>
+<p>It was great fun and amazing to see all the very different - but
+equally cool - hacks that the different teams came up with.</p>
+<p>My favourites were:</p>
+<p><strong>Making the drone bounce up and down in time to music beats</strong>,
+using <a href="https://developer.mozilla.org/en-US/demos/detail/dancerjs">dancer.js</a>,
+a JavaScript audio library.</p>
+<p><img src="/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter2.jpg" alt="Drone hovering"></p>
+<h6 id="photo-by-andrew-nesbitt">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></h6>
+<p><strong>Controlling the drone using QR codes</strong>. They got the drone to hover in
+the air and walked up to it with a QR code on their phone or printed on
+paper. The code is recognised through the drone’s in-built video camera,
+instructing it to do various things such as ‘dancing’ in the air.</p>
+<p><img src="/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter3.jpg" alt="QR drone"></p>
+<h6 id="photo-by-andrew-nesbitt">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></h6>
+<p><strong>Controlling the drone by pressing buttons drawn with ink on a piece of
+A4 paper</strong>. They used special conductive ink hooked up to Arduino.</p>
+<p><img src="/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter4.jpg" alt="E-ink drone"></p>
+<h6 id="photo-by-andrew-nesbitt">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></h6>
+<p><strong>Controlling the drone with a Playstation controller</strong>, using the
+<a href="http://active.tutsplus.com/tutorials/games/an-introduction-to-the-html5-gamepad-api/">HTML5 Gamepad API</a>.</p>
+<p><img src="/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter5.jpg" alt="Gamepad"></p>
+<p>As for me, I teamed up with Markus Kobler and Matt Copperwaite and
+created a <strong>Leap Motion hack</strong>.</p>
+<p><img src="/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter6.jpg" alt="Markus, me and Matt"></p>
+<h6 id="markus-me-and-matt-photo-by-andrew-nesbitt">Markus, me and Matt - photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></h6>
+<p>For those who haven’t heard of it yet, the <a href="https://www.leapmotion.com/">Leap
+Motion</a> is a very small and accurate 3D
+gestural input device. In other words, you can simply wave your hands or
+fingers in the air to control things through your computer.</p>
+<p>We programmed it so that moving your hand controls the movement of
+the drone in 3 dimensions. A simple &#39;tap’ gesture in the air makes the
+drone land back down. And the best bit: a &#39;circle’ gesture makes it do a
+barrel roll!</p>
+<p>Here’s our demo from the end of the event:</p>
+<iframe src="https://player.vimeo.com/video/62417807?title=0&amp;byline=0&amp;portrait=0" width="540" height="304" frameborder="0" title="Nodecopter London"></iframe>
+###### [Nodecopter London](http://vimeo.com/62417807) from [Markus Kobler](http://vimeo.com/user4571538)
+
+<p>All in all, it was surely the geekiest event I’ve ever attended, but also one of the most memorable!</p>
+<p>NodeCopter events continue to be staged across the globe, so if you’d
+like to attend one yourself, be sure to keep an eye on the <a href="http://nodecopter.com/#upcoming-events">Upcoming
+Events</a> page.</p>
+
+      <p class="tags">
+          <span>hacks</span>
+          <span> javascript</span>
+          <span> node</span>
+      </p>
+  </article>
+</div>
+    <footer>
+      <p><a rel="me" href="https://toot.cafe/@peter">Mastodon</a> | <a rel="me" href="https://twitter.com/@poshaughnessy">Twitter</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a> | <a href="https://github.com/poshaughnessy/peteroshaughnessy.com">Source</a> | <a href="rss.xml">RSS</a></p>
+      <p>© 2017 Peter O'Shaughnessy</p>
+    </footer>
+  </body>
+</html>
