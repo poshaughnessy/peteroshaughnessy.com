@@ -1,7 +1,7 @@
 'use strict';
 
 const express = require('express'),
-  docs = require('./docs'),
+  build = require('./build'),
   PORT = process.env.PORT || 9000;
 
 build();
