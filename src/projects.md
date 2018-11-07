@@ -13,7 +13,7 @@ I designed and developed a simple static site for our conference. *HTML, CSS*.
 
 [![Samsung Create](/images/pages/projects/samsung-create.png)](https://samsungcreate.com)
 
-<p class="view-links"><span>[View project](https://samsungcreate.com)</span> <span>[View source](https://github.com/SamsungInternet/samsung-create)</span></p>
+<p class="view-links"><span><a href="https://samsungcreate.com">View project</a></span> <span><a href="https://github.com/SamsungInternet/samsung-create">View source</a></span></p>
 
 
 ### [Hedgehog Curling (2017)](https://hedgehog-curling.glitch.me/)
@@ -22,7 +22,7 @@ I helped out on a demo led by my colleague Jo that enables a Bluetooth controlle
 
 [![Hedgehog Curling](/images/pages/projects/hedgehog-curling.jpg)](https://hedgehog-curling.glitch.me/)
 
-<p class="view-links"><span>[View project](https://hedgehog-curling.glitch.me/)</span> <span>[View source](https://glitch.com/edit/#!/hedgehog-curling)</span></p>
+<p class="view-links"><span><a href="https://hedgehog-curling.glitch.me/">View project</a></span> <span><a href="https://glitch.com/edit/#!/hedgehog-curling">View source</a></span></p>
 
 
 ### [Hungry Pandas (2017)](http://hungry-pandas2.glitch.me/)
@@ -31,7 +31,7 @@ I worked with my colleagues Uve and Diego on a multiplayer WebVR demo for Chrome
 
 [![Hungry Pandas](/images/pages/projects/hungry-pandas.jpg)](https://hungry-pandas2.glitch.me/)
 
-<p class="view-links"><span>[View project](http://hungry-pandas2.glitch.me/)</span> <span>[View source](https://glitch.com/edit/#!/hungry-pandas2)</span></p>
+<p class="view-links"><span><a href="http://hungry-pandas2.glitch.me/">View project</a></span> <span><a href="https://glitch.com/edit/#!/hungry-pandas2">View source</a></span></p>
 
 
 ### [Net Magazine browser diversity article (2017)](https://www.myfavouritemagazines.co.uk/design/net-magazine-back-issues/net-november-2017-issue-299/)
@@ -47,7 +47,7 @@ I designed and developed a semi-automated dashboard PWA, to share team metrics a
 
 [![Samsung Internet dashboard](/images/pages/projects/samsung-internet-dashboard.png)](https://samsunginter.net/dashboard)
 
-<p class="view-links"><span>[View project](https://samsunginter.net/dashboard)</span> <span>[View source](https://github.com/samsunginternet/dashboard)</span></p>
+<p class="view-links"><span><a href="https://samsunginter.net/dashboard">View project</a></span> <span><a href="https://github.com/samsunginternet/dashboard">View source</a></span></p>
 
 
 ### [InspireHub PWAs whitepaper (2017)](http://info.inspirehub.com/the-future-of-web-apps-whitepaper)
@@ -70,7 +70,7 @@ A progressive web app 'super selfies' demo. I wrote a [blog post to share some l
 
 [![Snapwat](/images/pages/projects/snapwat.png)](https://snapw.at)
 
-<p class="view-links"><span>[View project](https://snapw.at)</span> <span>[View source](https://github.com/samsunginternet/snapwat)</span></p>
+<p class="view-links"><span><a href="https://snapw.at">View project</a></span> <span><a href="https://github.com/samsunginternet/snapwat">View source</a></span></p>
 
 
 ### [Web drone controller (2016)](https://webdr.one)
@@ -79,7 +79,7 @@ A progressive web app I developed to control my Parrot Mini Drone via Web Blueto
 
 [![Web drone](/images/pages/projects/web-drone.png)](https://webdr.one)
 
-<p class="view-links"><span>[View project](https://webdr.one)</span> <span>[View source](https://github.com/poshaughnessy/web-bluetooth-parrot-drone)</span></p>
+<p class="view-links"><span><a href="https://webdr.one">View project</a></span> <span><a href="https://github.com/poshaughnessy/web-bluetooth-parrot-drone">View source</a></span></p>
 
 
 ### [ByBox (2016)](https://play.google.com/store/apps/details?id=com.bybox.stockonnect&hl=en_GB)
@@ -103,7 +103,7 @@ Three.js (WebGL), Goo Engine, Pixi.js, CSS3D...*
 
 [![hac-man](/images/pages/projects/christmas.png)](https://peter.christmas/)
 
-<p class="view-links"><span>[View project](https://peter.christmas/)</span> <span>[View source](https://github.com/poshaughnessy/peter.christmas)</span></p>
+<p class="view-links"><span><a href="https://peter.christmas/">View project</a></span> <span><a href="https://github.com/poshaughnessy/peter.christmas">View source</a></span></p>
 
 
 ### [Disrupts Magazine article (2015)](https://peteroshaughnessy.com/posts/how-immersive-computing-can-help-solve-our-big-data-explosion/)

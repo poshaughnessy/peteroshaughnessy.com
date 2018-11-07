@@ -39,7 +39,7 @@ function build() {
       collection: 'posts', 
       site_url: 'https://peteroshaughnessy.com',
       title: 'Peter O\'Shaughnessy',
-      description: 'Tech geek, web developer and advocate',
+      description: 'Web technologies and browser-based experiments',
       limit: 50
     }))
     .destination('./docs')
