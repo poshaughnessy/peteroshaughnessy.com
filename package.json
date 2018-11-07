@@ -6,9 +6,8 @@
   "scripts": {
     "start": "npm run develop",
     "build": "node build",
-    "develop": "nodemon -V --ignore build --watch src --watch templates --ext md,hbs,js,css ./dev-server.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "git subtree push --prefix build origin gh-pages"
+    "develop": "nodemon -V --ignore docs --watch src --watch templates --ext md,hbs,js,css ./dev-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
     "node": ">=4"

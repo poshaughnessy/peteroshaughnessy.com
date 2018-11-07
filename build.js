@@ -42,7 +42,7 @@ function build() {
       description: 'Tech geek, web developer and advocate',
       limit: 50
     }))
-    .destination('./build')
+    .destination('./docs')
     .build(function(err) {
       if (err) throw err;
     });
