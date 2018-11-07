@@ -14,10 +14,9 @@ To build the static site manually:
 
     npm run build
 
-The built site will be outputted to the `build` directory.
+The built site will be outputted to the `docs` directory.
 
 ## Deployment
 
-To push to Github Pages:
+Just push the `master` branch to Github. Github Pages will serve the built `docs` folder :)
 
-    npm run deploy
