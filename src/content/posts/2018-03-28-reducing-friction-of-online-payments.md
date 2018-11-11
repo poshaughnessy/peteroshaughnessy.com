@@ -26,7 +26,7 @@ And web users have been seeing many reasons to be nervous of ads recently too 
 So it’s not surprising that ad blocker usage is continuing to rise, with ad blockers installed on over 600 million devices now, according to PageFair. Ad blocking [has been called](https://boingboing.net/2017/12/27/fuzz-buster-buster-buster.html) “the largest consumer revolt in history”.
 
 ![Ad blocking still rising - graph of data from PageFair](/images/posts/2018-03-28-reducing-friction-of-online-payments/ad-blocker-rise.png)
-###### [Stats from PageFair](https://pagefair.com/blog/2017/adblockreport/), [slide by Peter](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.g314761559a_0_23)
+<p class="caption"><a href="https://pagefair.com/blog/2017/adblockreport/">Stats from PageFair</a>, <a href="https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.g314761559a_0_23">slide by Peter</a></p>
 
 We certainly know that not all ads are bad. However, we do want to help protect our users from ads and trackers that are overly invasive — and we’re pro consumer choice. So the Samsung Internet mobile browser [introduced optional support for 3rd party ‘content blockers’ in 2016](https://www.theverge.com/2016/1/31/10880394/samsung-internet-android-ad-content-blocker-adblock-fast) and an [in-built, optional tracking blocker in 2017](https://medium.com/samsung-internet-dev/introducing-our-new-tracking-blocker-powered-by-disconnect-c00f118c1151). We’ve been seeing the arrival of browsers focused on privacy, with tracking blocking enabled by default, such as [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/). And even Google, who are reliant on advertising for their core business model, have been moved to follow this trend by [introducing their ad filter](https://arstechnica.com/gadgets/2017/12/chromes-ad-blocker-goes-live-on-february-15th/), based on blocking ads from specific domains that are known to violate the [‘Better Ads’ standards](https://www.betterads.org/).
 
@@ -39,19 +39,19 @@ But asking for money directly from our users has traditionally been hard too. Fr
 But we also know from native mobile apps that in-app purchases can be a massive revenue generator — one that now outweighs the revenue made from advertising and apps paid for up-front:
 
 ![Rise of in-app purchases - graph of data from Statista](/images/posts/2018-03-28-reducing-friction-of-online-payments/in-app-payments-rise.png)
-###### [Stats from Statista](https://www.statista.com/statistics/269025/worldwide-mobile-app-revenue-forecast/), [slide by Peter](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.g3137704e2c_2_42)
+<p class="caption"><a href="https://www.statista.com/statistics/269025/worldwide-mobile-app-revenue-forecast/">Stats from Statista</a>, <a href="https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.g3137704e2c_2_42">slide by Peter</a></p>
 
 One reason that they’ve become so popular is because it’s possible to let people in and try before they buy. We’re more willing to buy 10 alpaca coins after we’ve spent a while playing with cute alpacas.
 
 ![Alpaca Coin purchase prompt from the 'Alpaca World' app](/images/posts/2018-03-28-reducing-friction-of-online-payments/alpacas.png)
-###### Alpaca Coin purchase prompt from the 'Alpaca World' app
+<p class="caption">Alpaca Coin purchase prompt from the 'Alpaca World' app</p>
 
-In-app payments can be problematic too though. There’s a burden of responsibility on us as developers to consider the ethics, and not try to tap into addictive behaviours, especially when it comes to children. But focusing on the user experience, what we can we learn from in-app payments’ rise is that reducing friction is so important. Google already have my payment details, so all I have to do to buy my alpaca coins is to tap ‘Buy’ and then confirm my identity — and I can do this easily using the biometric capabilities on modern smartphones. Nowadays we don’t just have fingerprint sensors, but also iris scanners, face ID and a [combination of the two](https://android.gadgethacks.com/how-to/use-intelligent-scan-unlock-your-galaxy-s9-faster-0183275/).
+In-app payments can be problematic too though. There’s a burden of responsibility on us as developers to consider the ethics, and not try to tap into addictive behaviours, especially when it comes to children. But focusing on the user experience, what we can we learn from in-app payments’ rise is that reducing friction is so important. Google already have my payment details, so all I have to do to buy my alpaca coins is to tap ‘Buy’ and then confirm my identity — and I can do this easily using the biometric capabilities on modern smartphones. Nowadays we don’t just have fingerprint sensors, but also iris scanners, face ID and a <a href="https://android.gadgethacks.com/how-to/use-intelligent-scan-unlock-your-galaxy-s9-faster-0183275/)">combination of the two</a></p>
 
 Now if we look back at the traditional check out process on the web, the difference is stark. I’m sure you’ve all come across purchase flows like this too — with pages’ worth of fields to fill out — for billing, contact, payment and shipping details. It’s likely to make us give up, especially when we’re out and about on our phones.
 
 ![A typical checkout form on the web](/images/posts/2018-03-28-reducing-friction-of-online-payments/traditional-web-checkout.png)
-###### A typical checkout form on the web
+<p class="caption">A typical checkout form on the web</p>
 
 The numbers confirm how big a problem this is. Studies have shown [68% of shopping carts are abandoned on desktop, and a massive 84% on mobile](https://econsultancy.com/blog/64343-checkout-abandonment-mobile-ux-examples-to-help-boost-conversions/), where the process of typing out all that information on a touchscreen is that much harder. This [costs businesses billions in lost revenues](https://baymard.com/lists/cart-abandonment-rate) every year.
 
@@ -64,12 +64,12 @@ Thankfully that’s been the focus of the [W3C Web Payments group](https://www.w
 And the first result of that work is the [Payment Request API](https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API), which provides an in-built payment UI for web browsers. Browser support is pretty good; it’s in Chrome, Edge, Samsung Internet and Brave. It’s also in Safari Tech Preview and Safari in the iOS 11.3 beta, although Safari only supports Apple Pay. And it’s in development for Firefox.
 
 ![Payment Request browser support - Firefox, Edge, Samsung Internet, Brave...](/images/posts/2018-03-28-reducing-friction-of-online-payments/payment-request-support.png)
-###### [Slide by Peter](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.g314ace258e_0_41) showing Payment Request API browser support
+<p class="caption"><a href="https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.g314ace258e_0_41">Slide by Peter showing Payment Request API browser support</a></p>
 
 The idea is that you allow the browser itself to provide the user interface for the checkout process. This can be very useful, especially for your new customers — because the browser is likely to have the users’ payment details remembered already.
 
 ![(Dummy) Payment Request information remembered by the browser](/images/posts/2018-03-28-reducing-friction-of-online-payments/payment-request-info.png)
-###### (Dummy) Payment Request information remembered by the browser
+<p class="caption">(Dummy) Payment Request information remembered by the browser</p>
 
 If they’ve used any other website that uses the Payment Request API — and accepted the browser’s request to save those details for next time — then the browser will already have information like their card, delivery and shipping details. So let it auto-populate it for you.
 
@@ -78,7 +78,7 @@ Payment Request is better than standard auto-fill though — because the bro
 Here’s how it looks in Samsung Internet on Android:
 
 ![Simple Payment Request demo in Samsung Internet](/images/posts/2018-03-28-reducing-friction-of-online-payments/payment-request-simple.gif)
-###### Payment Request demo in Samsung Internet browser
+<p class="caption">Payment Request demo in Samsung Internet browser</p>
 
 When we click ‘Purchase’, it brings up a native browser payment sheet with our card details pre-populated, so all we have to do is tap ‘Pay’, type in the 3 digit code from the back of our card, and then confirm with our fingerprint.
 
@@ -89,14 +89,14 @@ The API is not just for taking payment details. You can also request the user’
 Here’s an example where we’re collecting some extra details. Again, they’re already known by the browser in this case, but the user can go in and edit any of them (and it’s the same UI if they’re inputting them for the first time). This time we’re specifying a delivery method. It’s also possible to update the delivery options dynamically, based on the address that the user enters or selects.
 
 ![Payment Request demo with additional options](/images/posts/2018-03-28-reducing-friction-of-online-payments/payment-request-options.gif)
-###### Payment Request demo with additional options
+<p class="caption">Payment Request demo with additional options</p>
 
 Furthermore, it’s possible to call [`canMakePayment`](https://developer.mozilla.org/en-US/docs/Web/API/PaymentRequest/canMakePayment) if you want to know if the user already has a valid payment method set up and ready to go. For example, you might decide that if a new customer already has their card stored in the browser, to go ahead and use the Payment Request API so they can check out as quickly as possible. Then perhaps ask if they’d like to set up an account on your site, after the checkout flow. Otherwise if they don’t already have a card set up, you could decide to funnel them through your existing checkout process instead.
 
 Browsers have designed their Payment Request UIs with the mobile UX very much in mind, but it’s quite similar on desktop — with the checkout form usually displayed in a special panel or popup:
 
 ![Payment Requests in Chrome and Edge](/images/posts/2018-03-28-reducing-friction-of-online-payments/payment-request-desktop.png)
-###### Payment Requests in Chrome desktop (left) and Edge (right)
+<p class="caption">Payment Requests in Chrome desktop (left) and Edge (right)</p>
 
 Most often, we won’t be processing payments ourselves, but using a third party payment gateway or e-commerce platform. In this case, we can use their platform / JavaScript library / iframe / redirect solution. They’ll probably be the ones to call the Payment Request API and process the response securely, saving us from having to touch the sensitive payment data ourselves.
 
@@ -123,7 +123,7 @@ The good news is that this is being worked on too, as part of the [Payment Handl
 Here’s how it looks in Chrome (with the [#service-worker-payment-apps]() flag switched on):
 
 ![Payment Handler demo](/images/posts/2018-03-28-reducing-friction-of-online-payments/payment-handler-demo.gif)
-###### [This Payment Request demo](https://rsolomakhin.github.io/pr/bob/) combined with [this Payment Handler demo](https://bobpay.xyz/)
+<p class="caption"><a href="https://rsolomakhin.github.io/pr/bob/">This Payment Request demo</a> combined with <a href="https://bobpay.xyz/">this Payment Handler demo</a></p>
 
 ## Subscriptions
 
@@ -134,7 +134,7 @@ Thankfully there’s been some good news here too. In the last year or two, a lo
 Another one to keep an eye on is Brave’s payment system based on [Basic Attention Tokens (or “BAT”)](https://basicattentiontoken.org/). Brave blocks ads by default, but you can choose to reward websites with a monthly contribution, which Brave automatically divides up between the sites you visit, based on your attention time.
 
 ![Brave Payments](/images/posts/2018-03-28-reducing-friction-of-online-payments/brave-payments.png)
-###### Brave Payments
+<p class="caption">Brave Payments</p>
 
 In the [next stage they’re planning](https://vimeo.com/209336437), it could work the other way around too: you can choose to see ads and get rewarded with a share of the tokens for doing so. BAT is a cryptocurrency and this has a barrier to entry; cryptocurrencies also have some well-reported problems which I’d better not get into here! But I think that it’s an intriguing concept.
 

@@ -10,7 +10,7 @@ template: post.hbs
 
 ![Human vs Cyclon rollercoaster](/images/posts/2015-11-09-solving-big-data-for-humans/rollercoaster.jpg)
 
-###### *Photo by [Jeremy Thompson](http://www.flickr.com/people/32916425@N04)*
+<p class="caption">*Photo by <a href="http://www.flickr.com/people/32916425@N04)">Jeremy Thompson</a></p>
 
 **Modern computing and the Internet are causing a data explosion; how can we process it all? That’s the question at the
 heart of the ‘Big Data’ theme; a concept especially familiar for the FinTech world, with its dependence on numbers,

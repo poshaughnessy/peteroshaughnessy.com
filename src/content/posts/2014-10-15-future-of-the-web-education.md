@@ -21,7 +21,7 @@ affecting everyone. So what were the major themes? And what does it mean
 for education?
 
 ![To The Future!](/images/posts/2015-02-26-future-of-the-web-education/to-the-future.png)
-###### Credit: [Future Insights](https://twitter.com/fowa/status/517319990882877441)
+<p class="caption">Credit: <a href="https://twitter.com/fowa/status/517319990882877441">Future Insights</a></p>
 
 ### Theme 1: More Powers for the Web
 
@@ -107,7 +107,7 @@ mobile-friendly. A demo that I particularly like is [Racer
 S](http://www.chromeexperiments.com/detail/racer-s/).
 
 ![Samsung Racer S](/images/posts/2015-02-26-future-of-the-web-education/samsung-racer-s.png)
-###### Credit: [Samsung Racer S](http://helloracer.com/racer-s/)
+<p class="caption">Credit: <a href="http://helloracer.com/racer-s/">Samsung Racer S</a></p>
 
 **Audio**
 
@@ -176,7 +176,7 @@ developers and pay dividends for users of the Web too.
 ### The future of the Web? It’s bright
 
 ![Bright future](/images/posts/2015-02-26-future-of-the-web-education/bright-orange-web.jpg)
-###### Credit: [CLUC, Flickr](https://www.flickr.com/photos/35378394@N03/3280622749/)
+<p class="caption">Credit: <a href="https://www.flickr.com/photos/35378394@N03/3280622749/">CLUC, Flickr</a></p>
 
 In the near future, watch out for websites that retain all the great
 benefits of the World Wide Web, but also have more of the things we love

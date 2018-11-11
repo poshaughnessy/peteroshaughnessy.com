@@ -214,8 +214,7 @@ nav li a.active {
   margin-top: 2em;
 }
 
-/* Used for captions */
-.page h6 {
+.page .caption {
   color: #666;
   font-size: 0.8em;
   margin: -0.75em 0 3em;

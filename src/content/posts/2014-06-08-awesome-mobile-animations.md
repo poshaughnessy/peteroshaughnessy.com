@@ -29,7 +29,7 @@ For example, the game Dots uses this neat little effect throughout:
 
 ![Dots animation](/images/posts/2014-06-08-awesome-mobile-animations/dots.gif)
 
-###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*
+<p class="caption"><a href="http://capptivate.co">http://capptivate.co/</a></p>
 
 Just the addition of some acceleration, deceleration and a bounce effect
 turns a lifeless movement into something fluid and life-like.
@@ -39,7 +39,7 @@ their pull-to-refresh animation:
 
 ![Yelp animation](/images/posts/2014-06-08-awesome-mobile-animations/yelp.gif)
 
-###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*
+<p class="caption"><a href="http://capptivate.co">http://capptivate.co/</a></p>
 
 It might seem silly, but these little additions can help to surprise and
 delight our users.
@@ -49,7 +49,7 @@ uses this little animation to indicate how to access the menu:
 
 ![Moldiv animation](/images/posts/2014-06-08-awesome-mobile-animations/moldiv.gif)
 
-###### *[http://capptivate.co](http://capptivate.co/). <https://twitter.com/CapptivateCo>*\
+<p class="caption"><a href="http://capptivate.co">http://capptivate.co/</a></p>
 
 Another example is the bounce effect when you tap the camera icon on the
 iPhone lock screen; it informs you that you need to swipe up.

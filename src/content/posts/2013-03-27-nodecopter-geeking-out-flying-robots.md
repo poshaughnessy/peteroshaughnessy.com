@@ -21,7 +21,7 @@ tweet from organiser Andrew Nesbitt just in time to snap up a free
 ticket before the last one went.
 
 ![Nodecopter](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter1.jpg)
-###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
+<p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 A number of companies had each sponsored a
 [Parrot AR Drone 2](http://ardrone2.parrot.com/usa/) (they cost about $300 each).
@@ -36,7 +36,7 @@ using [dancer.js](https://developer.mozilla.org/en-US/demos/detail/dancerjs),
 a JavaScript audio library.
 
 ![Drone hovering](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter2.jpg)
-###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
+<p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 **Controlling the drone using QR codes**. They got the drone to hover in
 the air and walked up to it with a QR code on their phone or printed on
@@ -44,13 +44,13 @@ paper. The code is recognised through the drone’s in-built video camera,
 instructing it to do various things such as ‘dancing’ in the air.
 
 ![QR drone](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter3.jpg)
-###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
+<p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 **Controlling the drone by pressing buttons drawn with ink on a piece of
 A4 paper**. They used special conductive ink hooked up to Arduino.
 
 ![E-ink drone](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter4.jpg)
-###### Photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
+<p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 **Controlling the drone with a Playstation controller**, using the
 [HTML5 Gamepad API](http://active.tutsplus.com/tutorials/games/an-introduction-to-the-html5-gamepad-api/).
@@ -61,7 +61,7 @@ As for me, I teamed up with Markus Kobler and Matt Copperwaite and
 created a **Leap Motion hack**.
 
 ![Markus, me and Matt](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter6.jpg)
-###### Markus, me and Matt - photo by [Andrew Nesbitt](http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/)
+<p class="caption">Markus, me and Matt - photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 For those who haven’t heard of it yet, the [Leap
 Motion](https://www.leapmotion.com/) is a very small and accurate 3D
@@ -76,7 +76,7 @@ barrel roll!
 Here’s our demo from the end of the event:
 
 <iframe src="https://player.vimeo.com/video/62417807?title=0&amp;byline=0&amp;portrait=0" width="540" height="304" frameborder="0" title="Nodecopter London"></iframe>
-###### [Nodecopter London](http://vimeo.com/62417807) from [Markus Kobler](http://vimeo.com/user4571538)
+<p class="caption"><a href="http://vimeo.com/62417807) from [Markus Kobler](http://vimeo.com/user4571538">Nodecopter London</a></p>
 
 All in all, it was surely the geekiest event I’ve ever attended, but also one of the most memorable!
 

@@ -10,7 +10,8 @@ template: post.hbs
 ### It’s a mistake to judge the fediverse as though it’s a Valley startup
 
 ![The Masto-Don invites you to join the fediverse. But don’t feel you have to…](/images/posts/2018-11-10-mastodon-critical-mass/masto-don.png)
-###### The Masto-Don invites you to join the fediverse. But don’t feel you have to…
+
+<p class="caption">The Masto-Don invites you to join the fediverse. But don’t feel you have to…</p>
 
 Mastodon is now [over two years old](https://blog.joinmastodon.org/2018/10/mastodons-2-year-anniversary/) and (to borrow a turn of phrase from Terry Pratchett), it’s still not dead yet. Somehow it’s managed to defy those early critics who said it [“won’t survive”](https://mashable.com/2017/04/05/mastodon-wont-survive/?europe=true) and was [“dead in the water”](https://hackernoon.com/mastodon-is-dead-in-the-water-888c10e8abb1). Even some of those posting on Mastodon in its early days doubted its longevity:
 

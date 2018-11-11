@@ -74,7 +74,7 @@ I think we’ll also see a rise in visual programming. Many of us are familiar w
 
 ![Treeline](/images/posts/2015-04-07-artificial-intelligence-future-of-coding/treeline.png)
 
-###### *Credit: [TechCrunch](http://techcrunch.com/2015/03/11/treeline-wants-to-take-the-coding-out-of-building-a-backend/)*
+<p class="caption">*Credit: <a href="http://techcrunch.com/2015/03/11/treeline-wants-to-take-the-coding-out-of-building-a-backend/)">TechCrunch</a></p>
 
 ### Easier programming. Harder debugging.
 
