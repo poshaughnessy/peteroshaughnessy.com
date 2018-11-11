@@ -256,7 +256,7 @@ development. If you would like to invite me to speak at your event, please [get 
 ### [Beyond the Browser](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/London-JavaScript-Community/events/235924973/">London JS</a>, Jan 2017</p>
-<p class="venue-and-date">[Codebar, London](https://codebar.io/meetings/monthly-feb-2017), Feb 2017</p>
+<p class="venue-and-date"><a href="https://codebar.io/meetings/monthly-feb-2017">Codebar, London</a>, Feb 2017</p>
 
 [![Presentation](/images/pages/talks/beyond-browser-js-london-2017.jpg)](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)
 
@@ -319,7 +319,8 @@ development. If you would like to invite me to speak at your event, please [get 
 
 ### [Bluetooth for Web Developers: Programming Flying Robots with JavaScript](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
-<p class="venue-and-date"><a href="https://www.meetup.com/halfstack/events/229686980/">London AJAX / London HalfStack</a>, Apr 2016 <br> [FullStack Conference](https://skillsmatter.com/conferences/7278-fullstack-2016-the-conference-on-javascript-node-and-internet-of-things), London, Jul 2016</p>
+<p class="venue-and-date"><a href="https://www.meetup.com/halfstack/events/229686980/">London AJAX / London HalfStack</a>, Apr 2016</p> 
+<p class="venue-and-date"><a href="https://skillsmatter.com/conferences/7278-fullstack-2016-the-conference-on-javascript-node-and-internet-of-things">FullStack Conference</a>, London, Jul 2016</p>
 
 [![Presentation](/images/pages/talks/bluetooth-for-web-devs-london-ajax.jpg)](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
@@ -348,7 +349,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="venue-and-date"><a href="https://youtu.be/II8BslQYTxg">pebble {code}</a>, Nov 2015</p>
 
-NB. Not <em>Real User Monitoring</em>! This was a non-tech talk I gave, as we were encouraged to at pebble {code}!
+<p class="info">NB. Not <em>Real User Monitoring</em>, the other 'rum'! (A non-tech talk I gave, as we were encouraged to at pebble {code}!)</p>
 
 [![Presentation](/images/pages/talks/pebble-code-rum-2015.png)](https://youtu.be/II8BslQYTxg)
 
