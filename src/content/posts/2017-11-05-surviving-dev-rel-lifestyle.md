@@ -1,6 +1,6 @@
 ---
-title: Surviving the Developer Relations lifestyle
-slug: surviving-the-developer-relations-lifestyle
+title: Dealing with the Developer Relations lifestyle
+slug: dealing-with-the-developer-relations-lifestyle
 excerpt: Some tips for avoiding burnout in Developer Relations roles...
 thumbnail: /images/posts/2017-11-05-surviving-dev-rel-lifestyle/thumb.jpg
 date: 2017-11-05
