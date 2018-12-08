@@ -8,6 +8,17 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [10 Things I Learned as a Developer Advocate](https://docs.google.com/presentation/d/13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE/present)
+
+<p class="venue-and-date"><a href="https://jsoxford.com/">JS Oxford</a>, Dec 2018</p>
+
+[![Photo credit: JS Oxford](/images/pages/talks/jsoxford-2018.jpg)](https://docs.google.com/presentation/d/13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE/present)
+
+<p class="credit">Photo credit: <a href="https://twitter.com/JSOxford/status/1070397908783153156">JS Oxford</a></p>
+
+<p class="view-links"><span><a href="https://docs.google.com/presentation/d/13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE/present">View slides</a></span></p>
+
+
 ### [Bridging Realities with WebXR and Web Bluetooth](https://www.slideshare.net/secret/cIybseMqmYvFzO)
 
 <p class="venue-and-date"><a href="https://heapcon.io/">Heapcon</a>, Serbia, Oct 2018</p>
