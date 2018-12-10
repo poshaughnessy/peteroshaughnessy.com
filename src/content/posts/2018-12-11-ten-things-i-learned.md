@@ -1,6 +1,6 @@
 ---
-title: "10 Truths I Learned about Developer Advocacy"
-slug: ten-truths-i-learned-about-developer-advocacy
+title: "10 Things I Learned as a Developer Advocate"
+slug: ten-things-i-learned-as-a-developer-advocate
 excerpt: "Especially for developers considering different career options, here are ten truths I learned from my time as a developer advocate (a.k.a. developer evangelist / developer relations engineer)"
 thumbnail: /images/posts/2018-12-11-ten-things-i-learned/thumb.jpg
 date: 2018-12-11
@@ -8,7 +8,7 @@ tags: developer-relations
 template: post.hbs
 ---
 
-*This is the blog post version (with a slightly updated title) of a lightning talk I gave at JS Oxford last week ([slides](https://medium.com/r/?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE%2Fpresent), [video](https://youtu.be/B6l5YQ8xA9g)). If you would prefer to read it on Medium, you can find it [here](https://medium.com/@poshaughnessy/10-things-i-learned-as-a-developer-advocate-a4d830bab704).*
+*This is the blog post version of a lightning talk I gave at JS Oxford last week ([slides](https://medium.com/r/?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE%2Fpresent), [video](https://youtu.be/B6l5YQ8xA9g)). If you would prefer to read it on Medium, you can find it [here](https://medium.com/@poshaughnessy/10-things-i-learned-as-a-developer-advocate-a4d830bab704).*
 
 I recently spent a bit over 2 years as a developer advocate for [Samsung Internet](https://samsunginter.net). If you're not familiar with the term "developer advocacy", it's a type of role also known as "developer evangelism" or "developer relations". It's about being a bridge between an organisation's developer platform (in Samsung Internet's case, the web) and any developers who might use it. (I recommend Christian Heilmann's [Developer Evangelism handbook](http://developer-evangelism.com/) for a more thorough introduction).
 
