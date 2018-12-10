@@ -16,7 +16,7 @@ I recently spent a bit over 2 years as a developer advocate for [Samsung Interne
 
 The stereotype for developer advocates is that they’re always jetting off on exotic trips, acting like rockstar engineers and partying all the time. Sometimes there might be an element of truth to that! But really most of the time is spent on a computer, responding to questions from developers, writing tech docs and blog posts, making demos and preparing presentations. There is often a lot of travelling, but it’s not always super glamorous. And of course there’s time spent in the office and in meetings like in most tech jobs.
 
-To help share more about the reality of the role, here are ten truths I learned from my time as a developer advocate:
+To help share more about the role, here are ten truths I learned from my time as a developer advocate:
 
 ### 1. There’s lots of freedom
 
@@ -33,8 +33,7 @@ Even more than in a regular developer role, it can feel like nothing’s ever re
 It can be easy to take on too much — for example, speaking at too many events. Some developer advocates I know seem to be forever on the road — I can’t even fathom their schedules! It’s important to take care of yourself though, because I’ve seen hectic schedules lead people to burnout.
 
 My advice is to set achievable goals that stretch yourself in a good way, but not *too* much. This can help to have a good mindset and keep going, year by year. I’ve shared more tips about the developer advocacy lifestyle in this earlier blog post:
-[**Dealing with the Developer Relations lifestyle**
-*Developer Relations can bring amazing opportunities and I’m thankful to be in such a role myself. In fact, if you’re…*medium.com](https://medium.com/@poshaughnessy/surviving-the-developer-relations-lifestyle-27bd8bcf1f5f)
+[Dealing with the Developer Relations lifestyle](https://medium.com/@poshaughnessy/surviving-the-developer-relations-lifestyle-27bd8bcf1f5f)
 
 One thing to note: it’s a role that you don’t necessarily have to do full-time. There are people in developer roles who also give talks and write blog posts. You might start out this way and find you love it so much, that you want to do it full-time. For me, I found eventually that developer advocacy is  like a doughnut; great as a snack on the side, but not for the whole meal!
 
@@ -78,7 +77,7 @@ And finally… This one’s specific to the web (I was a web developer advocate)
 
 We don’t want the web to be too centred around one popular Internet company, so it’s important for other organisations to have a strong voice too. And we need a diverse set of voices, with better representation from minority groups in tech.
 
-I’ve tried to be as honest as possible about developer advocacy in this post. If it still sounds like something you’d be suited to, then I hope I haven’t put you off! It can also be very rewarding, as well as fun.
+I’ve tried to be as honest as possible about developer advocacy in this post, sharing both the positives and the challenges. If it still sounds like something you’d be suited to, then I hope I haven’t put you off! It can also be very rewarding, as well as fun.
 
 --
 
