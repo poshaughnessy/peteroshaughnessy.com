@@ -35,7 +35,7 @@ It can be easy to take on too much — for example, speaking at too many events.
 My advice is to set achievable goals that stretch yourself in a good way, but not *too* much. This can help to have a good mindset and keep going, year by year. I’ve shared more tips about the developer advocacy lifestyle in this earlier blog post:
 [Dealing with the Developer Relations lifestyle](https://medium.com/@poshaughnessy/surviving-the-developer-relations-lifestyle-27bd8bcf1f5f)
 
-One thing to note: it’s a role that you don’t necessarily have to do full-time. There are people in developer roles who also give talks and write blog posts. You might start out this way and find you love it so much, that you want to do it full-time. For me, I found eventually that developer advocacy is  like a doughnut; great as a snack on the side, but not for the whole meal!
+One thing to note: it’s a role that you don’t necessarily have to do full-time. There are people in developer roles who also give talks and write blog posts. You might start out this way and find you love it so much, that you want to do it full-time. For me, I found eventually that developer advocacy is like a doughnut; great as a snack on the side, but not for my whole meal!
 
 ![Is developer advocacy your doughnut, or your main meal? ([CC0 Creative Commons](https://pixabay.com/en/background-donut-donuts-sweet-food-15226/))](/images/posts/2018-12-11-ten-things-i-learned/donuts.png)*Is developer advocacy your doughnut, or your main meal? ([CC0 Creative Commons](https://pixabay.com/en/background-donut-donuts-sweet-food-15226/))*
 
