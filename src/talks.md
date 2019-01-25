@@ -8,6 +8,17 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [Front Trends: The Web in 2019 and Beyond](https://docs.google.com/presentation/d/1sljguzFBy2m9hT9znczoiUnB82MW17S2U_udi0TPvu0/present)
+
+<p class="venue-and-date">Waitrose HQ, Jan 2019</p>
+
+[![Photo credit: Sam Hodges](/images/pages/talks/tech-byte-waitrose-jan-2019.jpg)](https://docs.google.com/presentation/d/1sljguzFBy2m9hT9znczoiUnB82MW17S2U_udi0TPvu0/present)
+
+<p class="credit">Photo credit: <a href="https://twitter.com/smhdgs">Sam Hodges</a></p>
+
+<p class="view-links"><span><a href="https://docs.google.com/presentation/d/1sljguzFBy2m9hT9znczoiUnB82MW17S2U_udi0TPvu0/present">View slides</a></span></p>
+
+
 ### [10 Things I Learned as a Developer Advocate](https://docs.google.com/presentation/d/13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE/present)
 
 <p class="venue-and-date"><a href="https://jsoxford.com/">JS Oxford</a>, Dec 2018</p>
