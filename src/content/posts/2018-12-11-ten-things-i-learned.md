@@ -1,7 +1,7 @@
 ---
 title: "10 Things I Learned as a Developer Advocate"
 slug: ten-things-i-learned-as-a-developer-advocate
-excerpt: "Especially for developers considering different career options, here are ten truths I learned from my time as a developer advocate (a.k.a. developer evangelist / developer relations engineer)"
+excerpt: "Especially for developers considering different career options, here are ten things I learned from my time as a developer advocate (a.k.a. developer evangelist / developer relations engineer)"
 thumbnail: /images/posts/2018-12-11-ten-things-i-learned/thumb.jpg
 date: 2018-12-11
 tags: developer-relations
@@ -16,7 +16,7 @@ I recently spent a bit over 2 years as a developer advocate for [Samsung Interne
 
 The stereotype for developer advocates is that they’re always jetting off on exotic trips, acting like rockstar engineers and partying all the time. Sometimes there might be an element of truth to that! But really most of the time is spent on a computer, responding to questions from developers, writing tech docs and blog posts, making demos and preparing presentations. There is often a lot of travelling, but it’s not always super glamorous. And of course there’s time spent in the office and in meetings like in most tech jobs.
 
-To help share more about the role, here are ten truths I learned from my time as a developer advocate:
+To help share more about the role, here are ten things I learned from my experience as a developer advocate:
 
 ### 1. There’s lots of freedom
 
