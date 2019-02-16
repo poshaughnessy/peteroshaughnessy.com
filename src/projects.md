@@ -6,6 +6,32 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+### [Dude Where's My Llama? (2019)](https://wheres-my-llama.glitch.me)
+
+I created a website which lets you find where your llama is hiding in a photograph. *TensorFlow.js*.
+
+[![Dude Where's My Llama?](/images/pages/projects/wheres-my-llama.jpg)](https://wheres-my-llama.glitch.me)
+
+<p class="view-links"><span><a href="https://wheres-my-llama.glitch.me">View project</a></span> <span><a href="https://glitch.com/edit/#!/wheres-my-llama">View source</a></span></p>
+
+
+### [Pet Pose Analyser (2019)](https://pet-pose.glitch.me)
+
+I created a demo which lets you analyse your pet's pose, to see if it can fool a machine learning algorithm into thinking it's a human. *TensorFlow.js, PoseNet*.
+
+[![Pet Pose Analyser](/images/pages/projects/pet-pose.jpg)](https://pet-pose.glitch.me)
+
+<p class="view-links"><span><a href="https://pet-pose.glitch.me">View project</a></span> <span><a href="https://glitch.com/edit/#!/pet-pose">View source</a></span></p>
+
+
+### [Llama Vision (2018)](https://llama.vision)
+
+I created a web app which detects llamas through your webcam in realtime. *TensorFlow.js, getUserMedia*.
+
+[![Llama Vision](/images/pages/projects/llama-vision.jpg)](https://llama.vision)
+
+<p class="view-links"><span><a href="https://llama.vision">View project</a></span> <span><a href="https://github.com/poshaughnessy/llama-vision">View source</a></span> <span><a href="https://medium.com/samsung-internet-dev/introducing-llama-vision-a-website-that-detects-llamas-through-your-camera-aa6f16144ac4">Read more</a></span></p>
+
 
 ### [Samsung Create (2018)](https://samsungcreate.com)
 
