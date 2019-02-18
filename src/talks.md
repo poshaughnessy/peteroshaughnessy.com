@@ -8,6 +8,15 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### [A Lazy Developer's Guide to TensorFlow.js: Having fun with pre-trained models](https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present)
+
+<p class="venue-and-date"><a href="https://www.meetup.com/AI-JavaScript-London/events/258670905/">AI JavaScript London</a>, Feb 2019</p>
+
+[![Presentation](/images/pages/talks/tensorflowjs-feb-2019.jpg)](https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present)
+
+<p class="view-links"><span><a href="https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present">View slides</a></span></p>
+
+
 ### [Front Trends: The Web in 2019 and Beyond](https://docs.google.com/presentation/d/1sljguzFBy2m9hT9znczoiUnB82MW17S2U_udi0TPvu0/present)
 
 <p class="venue-and-date">Waitrose HQ, Jan 2019</p>
