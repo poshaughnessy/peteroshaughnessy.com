@@ -13,7 +13,7 @@ a "future technologies" lab at an education company and as a tech lead at a nati
 agencies. For over two years I was a developer advocate for [Samsung Internet](https://samsunginter.net), 
 Samsung's mobile web browser ([which may be bigger than you think!](https://medium.com/samsung-internet-dev/think-you-know-the-top-web-browsers-458a0a070175)).
 
-In my day job, the two things that I most hope that I can help out with are web performance and accessibility. Other key technology interests of mine are around the convergence of web and native app capabilities (e.g. Progressive Web App 
+At the organisation where I work, the top two things that I hope to help out with are web performance and accessibility. Other key technology interests of mine are around the convergence of web and native app capabilities (e.g. Progressive Web App 
 technologies) and the convergence of the physical and digital worlds (Physical Web, Web Bluetooth, VR, Mixed Reality...). 
 Recently I've been spending more time reading about and contemplating the ethics of technology: how to avoid some of 
 the problems we have seen technology contribute to recently and how to apply web technologies to help make the world a 
