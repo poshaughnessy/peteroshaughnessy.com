@@ -8,6 +8,15 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### Front End Web Performance: An Intro To Why and How
+
+<p class="venue-and-date">Waitrose HQ, May 2019</p>
+
+![Presentation](/images/pages/talks/fe-web-perf-may-2019.png)
+
+<p><em>This was an internal-only presentation as it contains financial data, but I would be happy to give a public version of this talk too.</em></p>
+
+
 ### [A Lazy Developer's Guide to TensorFlow.js: Having fun with pre-trained models](https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/AI-JavaScript-London/events/258670905/">AI JavaScript London</a>, Feb 2019</p>

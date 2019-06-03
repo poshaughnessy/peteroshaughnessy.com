@@ -250,8 +250,12 @@ nav li a.active {
 }
 
 /* E.g. event photos, project images */
-.page p a img {
+.page p img {
   margin-top: 1em;
+}
+
+.pages-about p img {
+  margin-top: 0;
 }
 
 .page blockquote {
