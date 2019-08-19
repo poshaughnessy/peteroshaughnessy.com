@@ -8,13 +8,22 @@ I love to speak at technology conferences and meetups about upcoming technologie
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
 
+### The Innovation Process: Learnings from Pearson Future Tech
+
+<p class="venue-and-date">Waitrose HQ, August 2019</p>
+
+![Presentation](/images/pages/talks/innovation-process-aug-2019.jpg)
+
+<p><em>This was an internal-only presentation as it contained business plans, but I would be happy to give a public version of this talk too.</em></p>
+
+
 ### Front End Web Performance: An Intro To Why and How
 
 <p class="venue-and-date">Waitrose HQ, May 2019</p>
 
-![Presentation](/images/pages/talks/fe-web-perf-may-2019.png)
+![Presentation](/images/pages/talks/fe-web-perf-may-2019.jpg)
 
-<p><em>This was an internal-only presentation as it contains financial data, but I would be happy to give a public version of this talk too.</em></p>
+<p><em>This was an internal-only presentation as it contained financial data, but I would be happy to give a public version of this talk too.</em></p>
 
 
 ### [A Lazy Developer's Guide to TensorFlow.js: Having fun with pre-trained models](https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present)
