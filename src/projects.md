@@ -6,6 +6,16 @@ template: page.hbs
 
 Some of the projects I have worked on in recent years include:
 
+
+### [VR Developer Gems (2019)](https://www.taylorfrancis.com/books/e/9781315157764)
+
+With my former colleague Diego González-Zúñiga, I co-authored a chapter on WebXR for the VR Developer Gems book, published by Taylor & Francis.
+
+[![VR Developer Gems chapter 7](/images/pages/projects/vr-developer-gems.jpg)](https://www.taylorfrancis.com/books/e/9781315157764)
+
+<p class="view-links"><span><a href="https://www.taylorfrancis.com/books/e/9781315157764">View book</a></span></p>
+
+
 ### [Where's My Llama? (2019)](https://wheres-my-llama.glitch.me)
 
 I created a website which lets you find where your llama is hiding in a photograph. *TensorFlow.js*.
