@@ -24,7 +24,7 @@
   "devDependencies": {
     "express": "^4.16.3",
     "handlebars": "^4.1.2",
-    "lodash": ">=4.17.5",
+    "lodash": ">=4.17.13",
     "merge": ">=1.2.1",
     "metalsmith": "^2.3.0",
     "metalsmith-assets": "^0.1.0",
