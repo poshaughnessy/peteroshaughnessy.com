@@ -456,7 +456,7 @@ development. If you would like to invite me to speak at your event, please [get 
 
 [![Presentation](/images/pages/talks/emberlondon-2020-web-dev.jpg)](/posts/2020-future-of-web-development/)
 
-<p class="view-links"><span><a href="/posts/2020-future-of-web-development/">Read blog post</a></span> <span><a href="https://vimeo.com/122421169">Watch recording</a></span>
+<p class="view-links"><span><a href="/posts/2020-future-of-web-development/">Read blog post</a></span> <span><a href="https://youtu.be/ajI-qi9MZmM">Watch recording</a></span>
 <span><a href="https://future-of-web-dev-2020.herokuapp.com/">View slides</a></span></p>
 
 

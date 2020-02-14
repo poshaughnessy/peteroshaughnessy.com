@@ -19,7 +19,7 @@ I invite you to time travel with me, by checking out the talk below!
 
 **Video**
 
-<https://vimeo.com/122421169>
+<https://youtu.be/ajI-qi9MZmM>
 
 **Slides**
 
