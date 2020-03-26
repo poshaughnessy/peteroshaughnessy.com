@@ -9,15 +9,15 @@ template: post.hbs
 
 With many more of us working from home now, I’d like to share these 12 tips for avoiding/treating computer-related neck and wrist pain. Based on personal experience over a few years. I hope they might help for some of you :)
 
-1. **Don't stare down at your laptop screen** on your lap or on a table. The neck strain will add up after many hours. Hook up an external monitor, or even just use a laptop stand to raise it higher, with an external keyboard and mouse. (I've gotten on well with a Microsoft Natural keyboard and a vertical mouse).
+1. **Don't stare down at your laptop screen** on your lap or on a table. The neck strain will add up after many hours. If you can, hook up an external monitor or use a laptop stand to raise it higher, with an external keyboard and mouse. (I've gotten on well with a Microsoft Natural keyboard and a vertical mouse).
 
-2. **Get a decent chair and try not to slump down**. A proper office chair suitable for 8 hours a day might cost \$\$\$ but if you can afford it and you have room for it, it should be worth it!
+2. **Get a decent chair and try not to slump down**. A proper office chair suitable for 8 hours a day might cost \$\$\$ but if you can afford it / your company will pay for it and you have room for it, it should be worth it!
 
-3. You could try switching to **use a standing desk** for a short while each day (you could use it gradually more each day as you get used to it). If you don't have the room or budget for an actual standing desk, you can get table-top ones, or you might even find a stack of boxes works OK for you for short periods.
+3. You could try switching to **use a standing desk** for a short while each day (you could use it gradually more each day as you get used to it). If you don't have the room or budget for an actual standing desk, you can get table-top ones, or you might even find a stack of boxes works OK for you for short periods!
 
 4. **Take frequent breaks**. Using a break reminder app could help you not to forget.
 
-5. **Keep your neck and wrists mobile**. When I first started getting pain and stiffness I thought the answer was to immobilise them with a neck support, wrist straps etc. That was a big mistake. Keep moving, try to reach their full movement and avoid them stiffening up too much.
+5. **Keep your neck and wrists mobile**. When I first started getting pain and stiffness I thought the answer was to immobilise them with a neck support, wrist straps etc. Turned out that was a big mistake. Keep moving, try to reach their full movement and avoid them stiffening up too much.
 
 6. **Do some regular neck and wrist exercises**: shoulder shrugs, shoulder rolls, wrist rolls, chin tucks, head turns, head tilts, arms across your chest, hands down your spine... There are some images to depict all these in [this presentation I gave a few years ago](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/present).
 
