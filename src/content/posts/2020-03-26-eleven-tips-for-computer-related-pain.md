@@ -33,7 +33,7 @@ With many more of us working from home now, I’d like to share these 12 tips fo
 
 12. **Physio?** Normally I'd recommend seeing one early on, but with lockdowns in place, that might not be possible. If not, try to see one after the lockdown ends!
 
-Best wishes and let me know if you have any of your own tips you'd like to share!
+Best wishes and let me know if you have any of your own tips you'd like to share.
 
 --
 
