@@ -29,6 +29,7 @@ function build() {
 
   Metalsmith(__dirname)
     .source("src/content")
+    .clean(false)
     .use(
       assets({
         src: "src/static/",
@@ -39,7 +40,7 @@ function build() {
     .use(
       collections({
         posts: {
-          pattern: "src/content/posts/*.md",
+          pattern: "posts/*.md",
           sortBy: "date",
           reverse: true,
         },
