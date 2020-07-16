@@ -1,18 +1,18 @@
 ---
-title:  Robots, Virtual Reality and the Internet of Things? I Can't Believe It's JavaScript!
+title: Robots, Virtual Reality and the Internet of Things? I Can't Believe It's JavaScript!
 slug: robots-vr-iot-cant-believe-its-javascript
 excerpt: Many of the kinds of applications that we previously would have considered impossible to build in JavaScript, are now possible.
 thumbnail: /images/posts/2015-11-09-robots-vr-iot-cant-believe-its-javascript/thumbnail-cant-believe.jpg
 date: 2015-11-09 00:00:01
 tags: talks, virtual-reality, future-tech, iot, javascript
-template: post.hbs
+layout: post.hbs
 ---
 
-*This is the blog post version of [a talk I recently gave at JS Monthly](https://docs.google.com/presentation/d/1-ywfHu_o4-7UxAL1G2N-t8isngucMiW849-y1xihhXs/edit?usp=sharing)*
+_This is the blog post version of [a talk I recently gave at JS Monthly](https://docs.google.com/presentation/d/1-ywfHu_o4-7UxAL1G2N-t8isngucMiW849-y1xihhXs/edit?usp=sharing)_
 
 --
 
-It’s not that long ago that [many people thought that JavaScript was a “toy” language](http://www.davidarno.org/2010/05/18/why-javascript-is-a-toy-language/). I always enjoyed writing JavaScript myself, but I confess that a decade ago, I too, saw it as just a way to do little bits of scripting in the browser - things like clickable tabs, photo galleries and AJAX. Not a language that you could build _real_ applications with.
+It’s not that long ago that [many people thought that JavaScript was a “toy” language](http://www.davidarno.org/2010/05/18/why-javascript-is-a-toy-language/). I always enjoyed writing JavaScript myself, but I confess that a decade ago, I too, saw it as just a way to do little bits of scripting in the browser - things like clickable tabs, photo galleries and AJAX. Not a language that you could build *real* applications with.
 
 But since then, we have witnessed JavaScript’s meteoric rise. This data from Github shows how it’s soared well out in front compared to other languages:
 
@@ -20,9 +20,9 @@ But since then, we have witnessed JavaScript’s meteoric rise. This data from G
 
 Graph by [loggly](https://www.loggly.com/blog/the-most-popular-programming-languages-in-to-github-since-2012/) - data from [Github](https://github.com/)
 
-Many of the kinds of applications that we previously would have considered impossible to build in JavaScript, are now being built in it. 
+Many of the kinds of applications that we previously would have considered impossible to build in JavaScript, are now being built in it.
 
-As [Atwood’s Law says](http://blog.codinghorror.com/the-principle-of-least-power/):  
+As [Atwood’s Law says](http://blog.codinghorror.com/the-principle-of-least-power/):
 
 _“Any application that can be written in JavaScript, will eventually be written in JavaScript”._
 
@@ -60,11 +60,11 @@ Did you know you can use JavaScript to control robots too? Here’s an example 
 
 <iframe width="540" height="405" src="https://www.youtube.com/embed/VCjbUJzYYvI?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0"></iframe>
 
-It was built with [Jonny-Five](http://johnny-five.io/), a JavaScript robotics programming framework. It lets you interface with Arduino and a bunch of other types of electronics boards and kits too.  
+It was built with [Jonny-Five](http://johnny-five.io/), a JavaScript robotics programming framework. It lets you interface with Arduino and a bunch of other types of electronics boards and kits too.
 
-Now imagine having a whole army of robots mimicking your motions. Yes, you could take over the world - using JavaScript!  
+Now imagine having a whole army of robots mimicking your motions. Yes, you could take over the world - using JavaScript!
 
-If you want some air cover for your apocalyptic land army, good news: JavaScript can also do drones. Here’s one of my favourite examples from [Nodecopter](http://www.nodecopter.com/):  
+If you want some air cover for your apocalyptic land army, good news: JavaScript can also do drones. Here’s one of my favourite examples from [Nodecopter](http://www.nodecopter.com/):
 
 <iframe width="540" height="304" src="https://www.youtube.com/embed/3oWdOhVAHgM?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0"></iframe>
 
@@ -110,15 +110,15 @@ You can even develop Pebble.js apps in the browser using their [cloud IDE](https
 
 ## Virtual Reality
 
-Finally... the latest hot thing, about to take off with the consumer version of the Oculus Rift, HTC Vive et al… JavaScript can also do Virtual Reality.  
+Finally... the latest hot thing, about to take off with the consumer version of the Oculus Rift, HTC Vive et al… JavaScript can also do Virtual Reality.
 
 Here’s one I made earlier: Virtual Reality fire safety training, using the Oculus Rift along with a Leap Motion controller so you can use your hands to interact with the scene:
 
 <iframe src="https://player.vimeo.com/video/114942905?title=0&amp;byline=0&amp;portrait=0" width="540" height="304" frameborder="0" title="InteractiveVR-demovideo"></iframe>
 
-It uses [Web VR](http://webvr.info/), a new JavaScript API that lets you integrate with the Oculus Rift or Google Cardboard, using your browser. It’s not in a mainstream browser release yet, but you can get hold of Firefox Nightly or a special build of Chrome to try it out (check out [mozvr.com](http://mozvr.com/)). 
+It uses [Web VR](http://webvr.info/), a new JavaScript API that lets you integrate with the Oculus Rift or Google Cardboard, using your browser. It’s not in a mainstream browser release yet, but you can get hold of Firefox Nightly or a special build of Chrome to try it out (check out [mozvr.com](http://mozvr.com/)).
 
-Essentially it extends the full screen API so you can launch your web page on the actual Head Mounted Display. It gives you the transformation you need to morph the view appropriately for the device. Plus the orientation data so you can move your scene around appropriately as the user turns their head.  
+Essentially it extends the full screen API so you can launch your web page on the actual Head Mounted Display. It gives you the transformation you need to morph the view appropriately for the device. Plus the orientation data so you can move your scene around appropriately as the user turns their head.
 
 Then [LeapJS](https://github.com/leapmotion/leapjs) provides the hand and finger position data, via a web socket data stream.
 
@@ -129,4 +129,3 @@ Then [LeapJS](https://github.com/leapmotion/leapjs) provides the hand and finger
 From desktop apps, to virtual reality - JavaScript can do it all. Some of these examples might be on the bleeding edge; you might not be able to put some of this into production just yet. But I reckon it’s a safe bet that these technologies are up-and-coming, and by exploring them now, we can get ready for when they take off. All using our favourite language. One that no one can call a toy language anymore.... unless they simply mean that there’s so much to play with!
 
 It’s a great time to be a JavaScript developer, don’t you think?
-

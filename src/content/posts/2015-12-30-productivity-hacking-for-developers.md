@@ -1,14 +1,14 @@
 ---
-title:  Productivity Hacking for Developers
+title: Productivity Hacking for Developers
 slug: productivity-hacking-for-developers
 excerpt: “There’s nothing you can’t do if you get the habits right.”
-thumbnail: /images/posts/2015-12-30-productivity-hacking-for-developers/thumbnail-habit-loop.png 
+thumbnail: /images/posts/2015-12-30-productivity-hacking-for-developers/thumbnail-habit-loop.png
 date: 2015-12-30
 tags: productivity, programming
-template: post.hbs
+layout: post.hbs
 ---
 
-*Cross-posting my article on the [pebble {code} blog](http://pebblecode.com/blog/productivity-hacking/)*
+_Cross-posting my article on the [pebble {code} blog](http://pebblecode.com/blog/productivity-hacking/)_
 
 --
 
@@ -49,15 +49,15 @@ analysing how we are currently performing, that we can figure out ways to perfor
 
 Having analysed his existing routines, Gordan began experimenting with **time management techniques** - defining specific
 time slots when he would try to focus, switching off from distractions. Initially he attempted 10 slots of 45 minutes,
-surrounded by breaks. Unfortunately this led to probably his *“least productive day ever!”* Why had it gone so wrong?
+surrounded by breaks. Unfortunately this led to probably his _“least productive day ever!”_ Why had it gone so wrong?
 
 It’s clear that particular routines work better for different people. [Pomodoro](http://pomodorotechnique.com/), a
 well-known time management technique, specifically defines 25 minute time slots. Developer/blogger Kevin O’Shaughnessy
 (my brother) [finds that](http://zombiecodekill.com/2015/06/08/why-im-not-yet-sold-on-the-pomodoro-technique/) that 25
-minutes is too short: *“I can usually focus quite well on a task for up to 2 hours. Breaking after only 25 minutes seems
-premature.”* However, for Phil Powell, CTO of Alertacall, the Pomodoro Technique - along with daily meditation - has
-given him “huge productivity gains”. His key to success? *“Being strictly disciplined. It’s too easy to think: ‘just
-5 more minutes’”*.
+minutes is too short: _“I can usually focus quite well on a task for up to 2 hours. Breaking after only 25 minutes seems
+premature.”_ However, for Phil Powell, CTO of Alertacall, the Pomodoro Technique - along with daily meditation - has
+given him “huge productivity gains”. His key to success? _“Being strictly disciplined. It’s too easy to think: ‘just
+5 more minutes’”_.
 
 As for Gordan, he found his ideal routine through experimentation. After trying a couple of variations, he soon found
 that one worked very well for him: 4 slots of 90 minutes per day. Following this pattern, he felt significantly more
@@ -69,15 +69,15 @@ for exercise to start making you feel more energised.
 
 Exercise also has many other health benefits, such as helping you to feel less stressed. Not only that, it can often be
 a **“keystone habit”** - that is, a habit that has the power to start a chain reaction, helping other good habits to
-take hold. For example, people who start exercising often find it easier to start eating healthier food. In *The Power
-of Habit*, Duhigg explains how a couple of keystone habits - visualisation and relaxation - helped Michael Phelps to
-become the most decorated Olympian of all time. Once he had established those core habits, *“all the other habits -
-his diet and practice schedules, the stretching and sleep routines - seemed to fall into place on their own.”*
+take hold. For example, people who start exercising often find it easier to start eating healthier food. In _The Power
+of Habit_, Duhigg explains how a couple of keystone habits - visualisation and relaxation - helped Michael Phelps to
+become the most decorated Olympian of all time. Once he had established those core habits, _“all the other habits -
+his diet and practice schedules, the stretching and sleep routines - seemed to fall into place on their own.”_
 
 So time management and exercise were very beneficial new habits for Gordan, but he didn’t stop there; he discovered
 other techniques helped him too. **Breaking tasks down** into smaller chunks helped him to feel good about continuously
-achieving things. **Making notes** helped him to pick up where he left off and to process his thoughts (*“like rubber
-ducking, but with yourself”*). And **changing his environment** from time to time (working from home some days, or
+achieving things. **Making notes** helped him to pick up where he left off and to process his thoughts (_“like rubber
+ducking, but with yourself”_). And **changing his environment** from time to time (working from home some days, or
 moving to a standing desk for a while) helped him to stay fresh and free from distractions.
 
 Altogether, he felt transformed.
@@ -85,7 +85,7 @@ Altogether, he felt transformed.
 ~
 
 To introduce new habits, or to modify bad ones, it is useful to understand the **Habit Loop**. Habits consist of a
-*cue*, a *routine* and a *reward*. Thinking about the reward helps to form a *craving*.
+_cue_, a _routine_ and a _reward_. Thinking about the reward helps to form a _craving_.
 
 ![Habit Loop](/images/posts/2015-12-30-productivity-hacking-for-developers/habit-loop1.png)
 
@@ -93,8 +93,8 @@ If we want to stick to a new routine (e.g. going for a run before work), it is u
 going off) and the reward we get from it (e.g. the implicit endorphin rush - or perhaps treating ourselves to a fruit
 smoothie). Hopefully we’ll start to crave that reward and our motivation for this good habit will be sustained.
 
-As for stopping *bad* habits, the bad news is that they cannot simply be cut out. But, like our code, they can be
-*refactored*. This is the “Golden Rule of Habit Change”:
+As for stopping _bad_ habits, the bad news is that they cannot simply be cut out. But, like our code, they can be
+_refactored_. This is the “Golden Rule of Habit Change”:
 
 > “You can't extinguish a bad habit, you can only change it”.  
 > &mdash; The Power of Habit
@@ -110,8 +110,8 @@ At my old company, Luis was always the first person in the office. While many of
 was already in the office, tackling the toughest problems of the day while his brain was most active. By mid-afternoon
 he would start winding down, switching to reading, or other less intensive tasks.
 
-One day I asked him if he ever found it difficult to wake up so early. I was amazed when he told me *“not any more, but
-I never used to be a morning person at all!”*
+One day I asked him if he ever found it difficult to wake up so early. I was amazed when he told me _“not any more, but
+I never used to be a morning person at all!”_
 
 Luis had adopted his early-riser habit in the US Marine Corps, where there was really no choice but to do so. The
 transition wasn’t easy; it involved placing alarm clocks further and further away from his bed to force himself into
@@ -127,5 +127,5 @@ With a new year about to begin, it’s a good time to reflect on our routines an
 identifying our existing habits and analysing our habit loops, we can learn how to reprogram them. So who wants to join
 me in making some productivity-hacking New Year’s resolutions?
 
-*If you have benefitted from any particular productivity hacking techniques, please [let me know](https://twitter.com/poshaughnessy).
-Happy New Year!*
+_If you have benefitted from any particular productivity hacking techniques, please [let me know](https://twitter.com/poshaughnessy).
+Happy New Year!_

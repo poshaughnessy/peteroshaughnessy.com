@@ -4,7 +4,7 @@ slug: nodecopter-geeking-out-flying-robots
 excerpt: What happens when you combine a room full of geeks with a bunch of programmable flying robots?
 thumbnail: /images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/thumbnail-nodecopter.jpg
 date: 2013-03-27
-template: post.hbs
+layout: post.hbs
 tags: hacks, javascript, node
 ---
 
@@ -21,10 +21,11 @@ tweet from organiser Andrew Nesbitt just in time to snap up a free
 ticket before the last one went.
 
 ![Nodecopter](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter1.jpg)
+
 <p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 A number of companies had each sponsored a
-[Parrot AR Drone 2](http://ardrone2.parrot.com/usa/) (they cost about $300 each).
+[Parrot AR Drone 2](http://ardrone2.parrot.com/usa/) (they cost about \$300 each).
 
 It was great fun and amazing to see all the very different - but
 equally cool - hacks that the different teams came up with.
@@ -36,6 +37,7 @@ using [dancer.js](https://developer.mozilla.org/en-US/demos/detail/dancerjs),
 a JavaScript audio library.
 
 ![Drone hovering](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter2.jpg)
+
 <p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 **Controlling the drone using QR codes**. They got the drone to hover in
@@ -44,12 +46,14 @@ paper. The code is recognised through the drone’s in-built video camera,
 instructing it to do various things such as ‘dancing’ in the air.
 
 ![QR drone](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter3.jpg)
+
 <p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 **Controlling the drone by pressing buttons drawn with ink on a piece of
 A4 paper**. They used special conductive ink hooked up to Arduino.
 
 ![E-ink drone](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter4.jpg)
+
 <p class="caption">Photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 **Controlling the drone with a Playstation controller**, using the
@@ -61,6 +65,7 @@ As for me, I teamed up with Markus Kobler and Matt Copperwaite and
 created a **Leap Motion hack**.
 
 ![Markus, me and Matt](/images/posts/2013-03-27-nodecopter-geeking-out-flying-robots/nodecopter6.jpg)
+
 <p class="caption">Markus, me and Matt - photo by <a href="http://www.flickr.com/photos/nez/sets/72157633047313444/with/8575918404/">Andrew Nesbitt</a></p>
 
 For those who haven’t heard of it yet, the [Leap

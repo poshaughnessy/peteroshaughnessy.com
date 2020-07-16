@@ -5,12 +5,12 @@ excerpt: Getting started with 3D graphics for the Web - featuring dinosaurs and 
 thumbnail: /images/pages/talks/londonweb-webgl.jpg
 date: 2013-01-31
 tags: talks, webgl, three.js
-template: post.hbs
+layout: post.hbs
 ---
 
 Earlier this month I gave a [talk at the London Web
 meetup](http://www.meetup.com/londonweb/events/51508282/) to introduce
-developers to the world of WebGL and the *3D Web.*
+developers to the world of WebGL and the _3D Web._
 
 WebGL can be pretty daunting at first, for those of us without a
 background in OpenGL or 3D programming. So I want to help other
@@ -34,4 +34,3 @@ video, so you may wish to click through the slides yourself at the same
 time to follow along:
 
 <http://londonweb.s3.amazonaws.com/2013-01-17_the_3rd_dimension-with_webgl_and_three_js-peter_oshaughnessy.m4v>
-

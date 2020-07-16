@@ -5,7 +5,7 @@ excerpt: Prototypes that start to hint at how AR and VR could transform educatio
 thumbnail: /images/pages/projects/interactive-vr.png
 date: 2015-02-26
 tags: talks, virtual-reality, augmented-reality
-template: post.hbs
+layout: post.hbs
 ---
 
 Last night I presented at an education-themed [Augmenting Reality
@@ -15,8 +15,6 @@ and Virtual Reality that we have created here in the [Future
 Technologies team at
 Pearson](http://labs.pearson.com/prototypes/welcome-to-the-future-technologies-prototypes-page/):
 
-
-
 **LangAR - AR talking phrasebook (2011)**
 
 Back in 2011, we were keen to explore Augmented Reality on mobile
@@ -24,8 +22,6 @@ phones. The idea was to combine location-based AR with language content
 based on the type of location.
 
 See: <http://labs.pearson.com/prototypes/langar-augmented-reality-talking-phrasebook/>
-
-
 
 **VirtualAssist - Leap Motion training tool (2013)**
 
@@ -37,8 +33,6 @@ At the time, it wasn’t possible to use ‘pinch’ or 'grab’ gestures.
 
 See: <http://labs.pearson.com/prototypes/virtualassist/>
 
-
-
 **FishFinder - VR for conflict solving (2014)**
 
 In early 2014, we developed our first prototype for the Oculus Rift.
@@ -47,8 +41,6 @@ for treating psychological problems such as post-traumatic stress and
 phobias, we applied it to the problem of bullying in schools.
 
 See: <http://labs.pearson.com/prototypes/fishfinder/>
-
-
 
 **TRex VR - Web VR explorations (2014)**
 
@@ -61,8 +53,6 @@ a mobile version using Google Cardboard.
 See: <http://www.peteroshaughnessy.com/post/93776809854/interfaces-of-the-future-and-how-to-hack-around> (scroll
 down for the section on Web VR)
 
-
-
 **Interactive VR - natural interactions + VR (2014)**
 
 Our most recent VR prototype combined Oculus Rift with Leap Motion, to
@@ -72,8 +62,6 @@ pick the right one!) and aim it at the fire to extinguish it.
 
 See: <http://labs.pearson.com/prototypes/interactive-vr/>
 
-
-
 **What next?**
 
 These prototypes were quick explorations, in order to learn more about
@@ -81,10 +69,9 @@ the possibilities for these technologies and start exploring the
 potential for education. It is still very much the “early days”, but it
 is a particularly exciting time for AR right now, with devices like
 Magic Leap and HoloLens on the horizon. Soon, AR won’t be restricted to
-overlays *on top of* the real world, it will be *seamlessly interleaved*
+overlays _on top of_ the real world, it will be _seamlessly interleaved_
 with the real world. Augmented Reality and Virtual Reality are merging -
 and we believe that the potential for education will be huge.
 
 To see what we develop in the future, keep an eye on our [Prototypes
 page](http://labs.pearson.com/prototypes/).
-

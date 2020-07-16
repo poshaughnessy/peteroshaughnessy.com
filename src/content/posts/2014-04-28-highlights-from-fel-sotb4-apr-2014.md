@@ -4,7 +4,7 @@ slug: highlights-from-fel-and-sotb4-apr-2014
 excerpt: Bridging the gap between designers and developers, Open Web Apps, and why Mobile Web is rubbish.
 thumbnail: /images/posts/2014-04-28-highlights-from-fel-sotb4-apr-2014/thumb-pie-chart.jpg
 date: 2014-04-28
-template: post.hbs
+layout: post.hbs
 tags: meetups, conferences, web
 ---
 
@@ -12,10 +12,10 @@ Last week I attended [Front End
 London](http://www.frontendlondon.co.uk/) and [State of the Browser
 4](http://browser.londonwebstandards.org/). Here are my highlights
 ([what were yours?](http://twitter.com/home/?status=@poshaughnessy)):
- 
+
 ## Bridging the gap between developers & designers
 
-*[Link to presentation slides and notes](http://www.slideshare.net/kaelig)*
+_[Link to presentation slides and notes](http://www.slideshare.net/kaelig)_
 
 [Kaelig Deloumeau-Prigent](https://twitter.com/kaelig) from the Guardian
 gave some insights into how they’re developing the new [responsive
@@ -23,10 +23,10 @@ Guardian website](http://www.theguardian.com/uk?view=mobile).
 
 The numbers are impressive/scary:
 
--   About 16K lines of Sass (full compilation takes “a while”!)
--   55 contributors to the GitHub project (all internal so far), 25 of
-    those working on HTML + CSS
--   About 4 releases per day
+- About 16K lines of Sass (full compilation takes “a while”!)
+- 55 contributors to the GitHub project (all internal so far), 25 of
+  those working on HTML + CSS
+- About 4 releases per day
 
 So if their designers and developers aren’t communicating efficiently,
 they have a problem. That’s why they define their whole [Design
@@ -43,15 +43,13 @@ queries in a more elegant way. It allows them to do things like this:
       ...
     }
 
-   
-
 ## “Mobile Web is rubbish”
 
-*[Link to presentation slides](https://speakerdeck.com/stopsatgreen/over-promised-and-under-delivered)*
+_[Link to presentation slides](https://speakerdeck.com/stopsatgreen/over-promised-and-under-delivered)_
 
 [Peter Gasston](https://twitter.com/stopsatgreen) gave an entertaining
 talk, titled “Over-promised and under-delivered”, about how we need to
-up our game, because too many Mobile Web experiences are just *rubbish*!
+up our game, because too many Mobile Web experiences are just _rubbish_!
 
 Only 41% of the top 100 sites have an actual mobile site, and only 6%
 are significantly optimised in terms of page weight.
@@ -97,20 +95,19 @@ landscape.
 
 But:
 
--   Don’t set user-scalable=no or
-    maximum-scale=1! That’s an accessibility no-no. Think
-    about people who are partially sighted.
--   A member of the audience said they’d done some user testing
-    and with minimal-ui switched on, users didn’t know how
-    to find the back button, or how to exit their app!
--   [Apparently](https://twitter.com/poshaughnessy/status/459454237077164032)
-    minimal-ui causes problems if you’re also using smart
-    app banners.
--   Also, the viewport meta tag is not a standard and there are
-    efforts to replace it with a @viewport CSS spec (unfortunately
-    although it’s CSS, to ensure it’s picked up as quickly as possible,
-    you are advised to include it inline!).\
-    
+- Don’t set user-scalable=no or
+  maximum-scale=1! That’s an accessibility no-no. Think
+  about people who are partially sighted.
+- A member of the audience said they’d done some user testing
+  and with minimal-ui switched on, users didn’t know how
+  to find the back button, or how to exit their app!
+- [Apparently](https://twitter.com/poshaughnessy/status/459454237077164032)
+  minimal-ui causes problems if you’re also using smart
+  app banners.
+- Also, the viewport meta tag is not a standard and there are
+  efforts to replace it with a @viewport CSS spec (unfortunately
+  although it’s CSS, to ensure it’s picked up as quickly as possible,
+  you are advised to include it inline!).\
 
 And hopefully the new “Picture 2.0” &lt;picture&gt; element
 standard will help with responsive images. There’s a polyfill called
@@ -118,11 +115,9 @@ standard will help with responsive images. There’s a polyfill called
 it’s up to date with the latest spec. And it should actually ship in
 browsers in “a few months”.
 
- 
-
 ## Network: Optional (Service Workers)
 
-*[Earlier version of the talk here](https://speakerdeck.com/jaffathecake/network-optional)*
+_[Earlier version of the talk here](https://speakerdeck.com/jaffathecake/network-optional)_
 
 Always entertaining, [Jake Archibald](https://twitter.com/jaffathecake)
 gave a great talk (mainly) about [Service
@@ -154,11 +149,9 @@ ServiceWorker should move to a public draft and get an implementation in
 Chrome in the next few weeks (NB. currently there’s a flag to switch on
 Service Workers, but you can only test registering/unregistering!)
 
- 
-
 ## Open Web Apps
 
-*[Link to presentation slides](http://www.slideshare.net/cheilmann/open-web-apps-state-of-the-browser-2014)*
+_[Link to presentation slides](http://www.slideshare.net/cheilmann/open-web-apps-state-of-the-browser-2014)_
 
 Another great speaker, [Christian
 Heilmann](http://www.twitter.com/codepo8) from Mozilla talked about
@@ -179,8 +172,6 @@ OS](https://hacks.mozilla.org/2014/02/building-cordova-apps-for-firefox-os/)
 and there’s an [article about porting existing web apps to Firefox OS
 here](https://hacks.mozilla.org/2013/12/write-elsewhere-run-on-firefox/).
 
- 
-
 ## Update
 
 These are just four talks from the many across the two events that
@@ -191,6 +182,3 @@ Take a look
 at [www.frontendlondon.co.uk](http://www.frontendlondon.co.uk/) and
 [browser.londonwebstandards.org/schedule/](http://browser.londonwebstandards.org/schedule/)
 for the slides/videos of the rest!
-
- 
-

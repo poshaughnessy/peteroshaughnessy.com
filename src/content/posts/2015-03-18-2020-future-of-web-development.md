@@ -5,7 +5,7 @@ excerpt: What will web development look like in the year 2020?
 thumbnail: /images/pages/talks/emberlondon-2020-web-dev.jpg
 date: 2015-03-18
 tags: talks, future-tech, web
-template: post.hbs 
+layout: post.hbs
 old-url: http://www.peteroshaughnessy.com
 ---
 
@@ -23,9 +23,9 @@ I invite you to time travel with me, by checking out the talk below!
 
 **Slides**
 
--   Best in Chrome or Firefox on the desktop
--   Best on a good wifi connection (there’s lots of big images)
--   Arrow keys to navigate
+- Best in Chrome or Firefox on the desktop
+- Best on a good wifi connection (there’s lots of big images)
+- Arrow keys to navigate
 
 <https://future-of-web-dev-2020.herokuapp.com>
 
@@ -52,4 +52,3 @@ Please let me know in the comments if you spot anything else!
 
 Thanks to Jamie White and Ember London for hosting me, and to everyone
 who responded to my survey and passed on their ideas.
-

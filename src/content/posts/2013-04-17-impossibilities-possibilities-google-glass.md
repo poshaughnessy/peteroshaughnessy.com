@@ -5,7 +5,7 @@ excerpt: Google have just released the API and developer docs. Let's take a look
 thumbnail: /images/posts/2013-04-17-impossibilities-possibilities-google-glass/thumb-google-glass.jpg
 date: 2013-04-17
 tags: wearables, future-tech
-template: post.hbs
+layout: post.hbs
 ---
 
 In the last few days, Google have released the [API and developer
@@ -22,21 +22,21 @@ information so far):
 
 **The following are *not* possible:**
 
-*‘Apps’*
+_‘Apps’_
 
 You can’t develop 'apps’ as such, or actually install anything on the
-device. But you can develop services through *timeline cards*. These
+device. But you can develop services through _timeline cards_. These
 cards can contain small amounts of text, HTML, images, or a map, but
 there’s no scrolling, JavaScript, or form elements.
 
-**Update:** This isn’t quite true! It turns out it *is* possible for
+**Update:** This isn’t quite true! It turns out it _is_ possible for
 techies to install Android APKs - by plugging it in with USB and
 enabling debug mode, on the Explorer version of the device at
 least. See this post by Mike DiGiovanni:
 
 <https://plus.google.com/116031914637788986927/posts/Abvh8vmvPJk>
 
-*Realtime picture/video, or voice integration*
+_Realtime picture/video, or voice integration_
 
 It’s only possible to tap into user’s images and video if they
 choose to share it through your service, after they’ve been taken. And
@@ -49,7 +49,7 @@ retrieving a camera feed or an audio stream”
 
 <http://arstechnica.com/security/2013/05/rooting-exploit-could-turn-google-glass-into-secret-surveillance-tool/>
 
-*AR*
+_AR_
 
 Early discussions about Google Glass kept referring to it as an AR
 device. It’s not really AR at all. It doesn’t give you the capability to
@@ -57,13 +57,13 @@ augment the user’s real-world view, except indirectly, through the
 small, fixed screen. (It’s actually less of an AR device than a mobile
 phone held up in front of your face).
 
-*Web browsing*
+_Web browsing_
 
 “Users don’t browse the web on Glass (well, they can ask questions
 to Google but there is no API for that yet)” ([Max
 Firtman](http://www.mobilexweb.com/blog/google-glass-web-mirror-api-html5))
 
-*Notifications*
+_Notifications_
 
 “We push, update and delete cards from our server, just for being
 there if the user thinks it’s time to see the timeline. It’s probable
@@ -71,7 +71,7 @@ that our card will never be seen by the user… It’s not like a mobile
 push notification.” ([Max
 Firtman](http://www.mobilexweb.com/blog/google-glass-web-mirror-api-html5))
 
-*Eye-tracking*
+_Eye-tracking_
 
 Early [unofficial
 reports](http://www.slashgear.com/google-glass-in-focus-ui-apps-more-22270783/)
@@ -86,14 +86,14 @@ there’s definitely an eye tracking camera - that’s what enables 'Winky’:
 
 <http://arstechnica.com/gadgets/2013/05/google-glass-developer-writes-an-app-to-snap-photos-with-just-a-wink/>
 
-*Location, unless paired with Android 4+ phone*
+_Location, unless paired with Android 4+ phone_
 
 It was popularly reported that Glass would work with phones other
 than Android. But MyGlass, which includes the GPS and SMS capability,
 requires Android ICS or higher
 ([source](http://support.google.com/glass/answer/3064128?hl=en&ref_topic=3063354))
 
-*Direct revenue*
+_Direct revenue_
 
 There’s no charging for timeline cards, no payment for virtual
 goods or upgrades, and no advertising
@@ -101,7 +101,7 @@ goods or upgrades, and no advertising
 
 **So what kind of services *are* feasible?**
 
-*Services for often-updated content*
+_Services for often-updated content_
 
 To provide short snippets of content that the user will often want
 to have a quick glance at, to see the latest. For example, news
@@ -112,18 +112,18 @@ for the user, using the “read-aloud” feature. See:
 
 <http://thenextweb.com/media/2013/04/25/the-new-york-times-releases-a-google-glass-app-that-reads-article-summaries-aloud/>
 
-*Location services*
+_Location services_
 
 To provide advice/information about nearby locations. For example,
 travel information or tourist destination tips.
 
-*Share services*
+_Share services_
 
 For sharing your photos and video with your friends. Or sharing them
 with services (automated or not) that can do something with them and
 send you something back.
 
-*Simple communication / social networking*
+_Simple communication / social networking_
 
 It’s possible not just to consume 3rd party content, but to reply with
 text or respond with selections. So reading and creating emails, text
@@ -137,6 +137,5 @@ remember this is the very first API for the very first commercial device
 of its kind. (Compare it to the first version of the iPhone, which
 didn’t have an SDK or an App Store).
 
-To quote [Timothy Jordan](http://youtu.be/JpWmGX55a40), *“It’s
-early days… We’re really just getting started”*.
-
+To quote [Timothy Jordan](http://youtu.be/JpWmGX55a40), _“It’s
+early days… We’re really just getting started”_.

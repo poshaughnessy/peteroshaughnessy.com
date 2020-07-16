@@ -5,7 +5,7 @@ excerpt: The web browser can be an interface to hardware hacking.
 thumbnail: /images/posts/2014-04-07-arduino-with-javascript-breakoutjs/thumb-arduino.jpg
 date: 2014-04-07
 tags: hacks, javascript
-template: post.hbs
+layout: post.hbs
 ---
 
 On 19th March, I attended an [Introduction to Arduino with
@@ -38,10 +38,10 @@ GitHub](https://github.com/poshaughnessy/intro-to-arduino-with-javascript).
 
 The biggest issues I found with Breakout.js were:
 
--   The interface with the hardware is only live while your tab is open
-    in the browser
--   Most of us had to keep restarting the Breakout server often while we
-    were developing, due to weird errors
+- The interface with the hardware is only live while your tab is open
+  in the browser
+- Most of us had to keep restarting the Breakout server often while we
+  were developing, due to weird errors
 
 So it’s not for real, consumer applications, but it’s a cool prototyping
 tool and could make for some fun personal/office projects. For example,
@@ -51,4 +51,3 @@ release. Or a set of build server traffic lights.
 All in all, it was a really fun event. A fellow attendee also
 wrote up a [nice blog post about it
 here](http://blog.caplin.com/2014/03/28/using-javascript-to-program-an-arduino/).
-

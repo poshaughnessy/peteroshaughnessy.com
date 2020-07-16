@@ -1,11 +1,11 @@
 ---
-title: How Immersive Computing Can Help Solve Our Big Data Explosion 
+title: How Immersive Computing Can Help Solve Our Big Data Explosion
 slug: how-immersive-computing-can-help-solve-our-big-data-explosion
 excerpt: Augmented Reality and Virtual Reality could help to make data more user-centred, intuitive and engaging.
 thumbnail: /images/posts/2015-11-09-solving-big-data-for-humans/thumbnail-rollercoaster.jpg
 date: 2015-11-09
 tags: big-data, virtual-reality, augmented-reality, future-tech
-template: post.hbs
+layout: post.hbs
 ---
 
 ![Human vs Cyclon rollercoaster](/images/posts/2015-11-09-solving-big-data-for-humans/rollercoaster.jpg)
@@ -14,7 +14,7 @@ template: post.hbs
 
 **Modern computing and the Internet are causing a data explosion; how can we process it all? That’s the question at the
 heart of the ‘Big Data’ theme; a concept especially familiar for the FinTech world, with its dependence on numbers,
-trends and forecasts. However, most discussions about this seem to miss a vital element: *us humans*.**
+trends and forecasts. However, most discussions about this seem to miss a vital element: _us humans_.**
 
 Yes, we can throw more computing power at the problem. We can use better databases and smarter systems; computers can
 crunch the numbers for us and spit out the results. We can even use Artificial Intelligence and have computers suggest
@@ -23,8 +23,8 @@ decisions for us. But what about us humans? How can we keep up, without losing o
 For centuries, since the earliest graphs were drawn, we have recognised that we understand data best when it’s conveyed
 graphically. In the last couple of decades, the world of dataviz has really exploded. Now there’s practically a
 dashboard wherever you look. Yet just throwing more graphs and charts at the problem isn’t going to fix the information
-overload. We need to find even smarter ways to convey complex datasets. Perhaps ways such as *Augmented Reality* and
-*Virtual Reality*...
+overload. We need to find even smarter ways to convey complex datasets. Perhaps ways such as _Augmented Reality_ and
+_Virtual Reality_...
 
 Through Augmented Reality - with upcoming devices such as [Microsoft’s HoloLens](https://www.microsoft.com/microsoft-hololens/en-us)
 and [DAQRI’s industrial smart helmet](http://hardware.daqri.com/) - we can enhance the real world with appropriate
@@ -49,12 +49,12 @@ social media mentions and road traffic to indicate trading volume!
 
 Emotional engagement is a driver for this too. Earlier this year the Wall Street Journal transformed the highs and lows
 of the Nasdaq into a [virtual roller coaster ride](http://graphics.wsj.com/3d-nasdaq/). In doing so, they turned a set
-of raw numbers into an experience that people could feel. They described the public reaction: *“We were getting tweets
-like ‘I would never read an annotated timeline of the Nasdaq but this brings it to life for me’”*.
+of raw numbers into an experience that people could feel. They described the public reaction: _“We were getting tweets
+like ‘I would never read an annotated timeline of the Nasdaq but this brings it to life for me’”_.
 
 These will surely be just the first of many AR and VR examples, attempting to make data more user-centred, intuitive
-and engaging. Let’s hope that if we keep progressing, we can solve *Big Data for humans*.
+and engaging. Let’s hope that if we keep progressing, we can solve _Big Data for humans_.
 
 --
 
-*This article featured in August's FinTech edition of [Disrupts Magazine](http://www.disrupts.co.uk) under the title "Solving Big Data for Humans"*
+_This article featured in August's FinTech edition of [Disrupts Magazine](http://www.disrupts.co.uk) under the title "Solving Big Data for Humans"_

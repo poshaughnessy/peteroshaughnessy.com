@@ -5,14 +5,14 @@ excerpt: If it's possible to inspire just one or two...
 thumbnail: /images/posts/2015-03-27-primary-school-children-programming/thumb-child-coding.jpg
 date: 2015-03-27
 tags: talks, careers, programming
-template: post.hbs
+layout: post.hbs
 old-url: http://www.peteroshaughnessy.com
 ---
 
 ![Child coding with Scratch](/images/posts/2015-03-27-primary-school-children-programming/child-coding.png)
 
 Last week I was invited to talk to a Year 5 class at [St. Andrew’s
-primary school in Stockwell](http://www.standrewsprimaryschoolstockwell.org/). 
+primary school in Stockwell](http://www.standrewsprimaryschoolstockwell.org/).
 The aim was to help them see some of the benefits and potential of learning to code,
 and to help them realise that coding goes beyond the games they’re
 currently making with Scratch. It struck me when planning it, that even
@@ -35,4 +35,3 @@ I used:
 I’d love to hear any feedback, whether you’re a teacher, parent or
 programmer. What do you think? Anything I should add, change or take out
 next time?
-

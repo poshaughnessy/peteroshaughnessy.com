@@ -1,8 +1,0 @@
-name: peteroshaughnessy
-
-build:
-  command: |
-    npm install
-    npm run build
-
-publish: build
