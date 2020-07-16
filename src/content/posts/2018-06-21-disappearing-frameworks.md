@@ -5,12 +5,13 @@ excerpt: How new web platform features and compile-time frameworks are establish
 thumbnail: /images/posts/2018-06-21-disappearing-frameworks/thumb.jpg
 date: 2018-06-21
 tags: javascript, performance
-template: post.hbs
+layout: post.hbs
 ---
 
 ### _How new web platform features and compile-time frameworks are establishing the next era of web development_
 
 ![Credit: Stefan Bucher](/images/posts/2018-06-21-disappearing-frameworks/cover.jpg)
+
 <p class="credit">Photo credit: [Stefan Bucher](https://www.flickr.com/photos/bucher/684595491)</p>
 
 Frameworks like Angular, React and Ember are par-for-the-course for complex web development these days. Over this decade (Angular was first released in 2010) they have grown to become defacto standards for many of us, helping countless organisations to structure their code, manage state and build complex UIs, based on reusable components.
@@ -26,6 +27,7 @@ Can we have the benefits that we’ve become used to from these frameworks, whil
 An example of this trend is [Svelte](https://svelte.technology/), “the magical disappearing UI framework”.
 
 ![Svelte](/images/posts/2018-06-21-disappearing-frameworks/svelte.png)
+
 <p class="credit">[svelte.technology/](https://svelte.technology/) (not to be confused with sveltejs.com :))</p>
 
 Svelte is a _compile-time framework_, not a client-side framework. We’re used to sending big JavaScript bundles over to our users, and expecting their browsers to parse and execute the scripts. Svelte doesn’t work like that. Instead, it compiles your application into small, standalone, vanilla JavaScript modules. In other words, by the time it gets to your users, it will have disappeared!
@@ -33,6 +35,7 @@ Svelte is a _compile-time framework_, not a client-side framework. We’re used 
 An example of an app that was built using Svelte is [Pinafore](https://pinafore.social/), a Progressive Web App client for the [Mastodon decentralised social network](https://joinmastodon.org/), built by [Nolan Lawson](https://medium.com/@nolan_lawson) from Microsoft. Pinafore gets a [very fast result from Web Page Test](https://www.webpagetest.org/result/180618_CB_d0e10506615eb99ebd4e2a97166070fe/) and a score of 98 for performance from [Lighthouse](https://developers.google.com/web/tools/lighthouse/).
 
 ![Pinafore](/images/posts/2018-06-21-disappearing-frameworks/pinafore.png)
+
 <p class="credit">A [toot](https://toot.cafe/@flakoot/100226502630578333) about pinafore.social, viewed at pinafore.social :)</p>
 
 Svelte itself is pretty minimal, but it has a related project called [Sapper](https://sapper.svelte.technology/) which builds a whole developer experience on top of it. Inspired by [Next.js](https://github.com/zeit/next.js/), it includes server-side rendering, code-splitting, scoped styling, declarative routing and live reloading with hot-module replacement. Furthermore, the [Sapper starter template](https://github.com/sveltejs/sapper-template) gives you a [PWA](https://developer.mozilla.org/en-US/Apps/Progressive) by default, with a web app manifest and a service worker with automatic resource caching.
@@ -44,6 +47,7 @@ I asked Nolan how he found using Svelte and Sapper. He told me that he found Sve
 Svelte has also [inspired](https://news.ycombinator.com/item?id=15081241) an alternative project from Ionic: [Stencil](https://stenciljs.com/).
 
 ![Stencil](/images/posts/2018-06-21-disappearing-frameworks/stencil.png)
+
 <p class="credit">More magic! — [stencil.js](https://stenciljs.com/)</p>
 
 Again, the goal is to adopt “the best concepts of the most popular frameworks”, but to achieve better performance:
@@ -65,6 +69,7 @@ Thanks to Rich Harris for informing me that Angular is following this trend too!
 Plus Angular’s [next-gen Ivy renderer](https://github.com/angular/angular/issues/21706) is designed to drastically reduce the output code size. (Although worth a look: in the spirit of friendly competition, Rich has created [a comparison of the output](https://github.com/Rich-Harris/ivy-code-size) from Svelte, compiling to Web Components, versus Ivy!).
 
 ![Credit: Auntie P](/images/posts/2018-06-21-disappearing-frameworks/ivy.jpg)
+
 <p class="credit">(Kind of angular) ivy. Credit: [Auntie P](https://www.flickr.com/photos/auntiep/28551118/)</p>
 
 It’s great that popular frameworks are embracing this approach and making their output leaner too. Hopefully, as more and more web apps transition over, it will have a big impact on web performance.

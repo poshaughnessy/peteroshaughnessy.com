@@ -5,14 +5,14 @@ excerpt: "Especially for developers considering different career options, here a
 thumbnail: /images/posts/2018-12-11-ten-things-i-learned/thumb.jpg
 date: 2018-12-11
 tags: developer-relations
-template: post.hbs
+layout: post.hbs
 ---
 
-*This is the blog post version of a lightning talk I gave at JS Oxford last week ([slides](https://medium.com/r/?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE%2Fpresent), [video](https://youtu.be/B6l5YQ8xA9g)). If you would prefer to read it on Medium, you can find it [here](https://medium.com/@poshaughnessy/10-things-i-learned-as-a-developer-advocate-a4d830bab704).*
+_This is the blog post version of a lightning talk I gave at JS Oxford last week ([slides](https://medium.com/r/?url=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE%2Fpresent), [video](https://youtu.be/B6l5YQ8xA9g)). If you would prefer to read it on Medium, you can find it [here](https://medium.com/@poshaughnessy/10-things-i-learned-as-a-developer-advocate-a4d830bab704)._
 
 I recently spent a bit over 2 years as a developer advocate for [Samsung Internet](https://samsunginter.net). If you're not familiar with the term "developer advocacy", it's a type of role also known as "developer evangelism" or "developer relations". It's about being a bridge between an organisation's developer platform (in Samsung Internet's case, the web) and any developers who might use it. (I recommend Christian Heilmann's [Developer Evangelism handbook](http://developer-evangelism.com/) for a more thorough introduction).
 
-![What people think dev advocates do versus what they actually do](/images/posts/2018-12-11-ten-things-i-learned/what-people-think-vs-actually.jpg)*What people think dev advocates do versus what they actually do*
+![What people think dev advocates do versus what they actually do](/images/posts/2018-12-11-ten-things-i-learned/what-people-think-vs-actually.jpg)_What people think dev advocates do versus what they actually do_
 
 The stereotype for developer advocates is that they’re always jetting off on exotic trips, acting like rockstar engineers and partying all the time. Sometimes there might be an element of truth to that! But really most of the time is spent on a computer, responding to questions from developers, writing tech docs and blog posts, making demos and preparing presentations. There is often a lot of travelling, but it’s not always super glamorous. And of course there’s time spent in the office and in meetings like in most tech jobs.
 
@@ -26,18 +26,18 @@ This could vary a bit in different companies, but I found there’s lots of free
 
 On the flip-side, this freedom means you’ll need to continually motivate yourself and be self-disciplined to keep good habits and stay productive. For example, it can be difficult coming back from a big event to pick yourself up again straight away and start on something new.
 
-Even more than in a regular developer role, it can feel like nothing’s ever really *done*. There aren’t the usual kind of times — such as the end of a project or a big new feature going live — when it’s natural to take stock. Each calendar year is the most obvious occasion, but that can feel like a long time. So it’s important to have regular retrospectives and remember to celebrate successes.
+Even more than in a regular developer role, it can feel like nothing’s ever really _done_. There aren’t the usual kind of times — such as the end of a project or a big new feature going live — when it’s natural to take stock. Each calendar year is the most obvious occasion, but that can feel like a long time. So it’s important to have regular retrospectives and remember to celebrate successes.
 
 ### 3. You have to be careful not to overstretch yourself
 
 It can be easy to take on too much — for example, speaking at too many events. Some developer advocates I know seem to be forever on the road — I can’t even fathom their schedules! It’s important to take care of yourself though, because I’ve seen hectic schedules lead people to burnout.
 
-My advice is to set achievable goals that stretch yourself in a good way, but not *too* much. This can help to have a good mindset and keep going, year by year. I’ve shared more tips about the developer advocacy lifestyle in this earlier blog post:
+My advice is to set achievable goals that stretch yourself in a good way, but not _too_ much. This can help to have a good mindset and keep going, year by year. I’ve shared more tips about the developer advocacy lifestyle in this earlier blog post:
 [Dealing with the Developer Relations lifestyle](https://medium.com/@poshaughnessy/surviving-the-developer-relations-lifestyle-27bd8bcf1f5f)
 
 One thing to note: it’s a role that you don’t necessarily have to do full-time. There are people in developer roles who also give talks and write blog posts. You might start out this way and find you love it so much, that you want to do it full-time. For me, I found eventually that developer advocacy is like a doughnut; great as a snack on the side, but not for my whole meal!
 
-![Is developer advocacy your doughnut, or your main meal? ([CC0 Creative Commons](https://pixabay.com/en/background-donut-donuts-sweet-food-15226/))](/images/posts/2018-12-11-ten-things-i-learned/donuts.png)*Is developer advocacy your doughnut, or your main meal? ([CC0 Creative Commons](https://pixabay.com/en/background-donut-donuts-sweet-food-15226/))*
+![Is developer advocacy your doughnut, or your main meal? ([CC0 Creative Commons](https://pixabay.com/en/background-donut-donuts-sweet-food-15226/))](/images/posts/2018-12-11-ten-things-i-learned/donuts.png)_Is developer advocacy your doughnut, or your main meal? ([CC0 Creative Commons](https://pixabay.com/en/background-donut-donuts-sweet-food-15226/))_
 
 ### 4. Mental health issues are scarily common
 
@@ -49,7 +49,7 @@ In terms of developer advocates’ psychology in general, the common preconcepti
 
 ### 5. You’ll get trolled
 
-At some point you will surely get trolled too! I had it pretty easy — I’m sure it’s a lot worse for people who are high profile and people from minority groups in tech. I still experienced it on the odd occasion though, both on social media and in real life. 
+At some point you will surely get trolled too! I had it pretty easy — I’m sure it’s a lot worse for people who are high profile and people from minority groups in tech. I still experienced it on the odd occasion though, both on social media and in real life.
 
 Although it’s common advice, I do think it’s important to remember not to feed the trolls! It’s difficult sometimes, but it’s much better to ignore it, or diffuse the situation and move on as quickly as possible. When it gets your blood pressure up and it’s hard to put it out of your mind, don’t just bottle it up, but speak to friends or family about it.
 
@@ -81,4 +81,4 @@ I’ve tried to be as honest as possible about developer advocacy in this post, 
 
 --
 
-*Thank you again to my former colleagues at Samsung Internet, for all the opportunities, fun times and llamas!*
+_Thank you again to my former colleagues at Samsung Internet, for all the opportunities, fun times and llamas!_

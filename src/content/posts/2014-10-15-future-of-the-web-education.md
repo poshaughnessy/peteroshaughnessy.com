@@ -5,10 +5,10 @@ excerpt: What did the Future of Web Apps conference tell us about the future of 
 thumbnail: /images/posts/2015-02-26-future-of-the-web-education/thumb-to-the-future.jpg
 date: 2014-10-15
 tags: conferences, web, future-tech
-template: post.hbs
+layout: post.hbs
 ---
 
-*Cross-posting of my [blog post at labs.pearson.com](http://labs.pearson.com/the-future-of-web-and-what-it-means-for-education/)*
+_Cross-posting of my [blog post at labs.pearson.com](http://labs.pearson.com/the-future-of-web-and-what-it-means-for-education/)_
 
 --
 
@@ -21,6 +21,7 @@ affecting everyone. So what were the major themes? And what does it mean
 for education?
 
 ![To The Future!](/images/posts/2015-02-26-future-of-the-web-education/to-the-future.png)
+
 <p class="caption">Credit: <a href="https://twitter.com/fowa/status/517319990882877441">Future Insights</a></p>
 
 ### Theme 1: More Powers for the Web
@@ -107,6 +108,7 @@ mobile-friendly. A demo that I particularly like is [Racer
 S](http://www.chromeexperiments.com/detail/racer-s/).
 
 ![Samsung Racer S](/images/posts/2015-02-26-future-of-the-web-education/samsung-racer-s.png)
+
 <p class="caption">Credit: <a href="http://helloracer.com/racer-s/">Samsung Racer S</a></p>
 
 **Audio**
@@ -114,8 +116,9 @@ S](http://www.chromeexperiments.com/detail/racer-s/).
 We can also expect the web to make better use of audio in the
 future; the topic of [Web
 Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+
 - a powerful system for generating and controlling audio - came up in
-multiple talks.
+  multiple talks.
 
 If you’d like to test it out, here’s a demo that you can try in
 Chrome on the desktop:
@@ -153,7 +156,7 @@ innovation.
 Another common theme was that we’re all responsible for defining
 the future of the Web. It won’t simply be dictated to us by those who
 make web browsers. The Web is based on open standards that we can all
-contribute to. 
+contribute to.
 
 However, in the past, browsers have sometimes provided features
 that were too “magical”; they didn’t allow web developers enough control
@@ -176,6 +179,7 @@ developers and pay dividends for users of the Web too.
 ### The future of the Web? It’s bright
 
 ![Bright future](/images/posts/2015-02-26-future-of-the-web-education/bright-orange-web.jpg)
+
 <p class="caption">Credit: <a href="https://www.flickr.com/photos/35378394@N03/3280622749/">CLUC, Flickr</a></p>
 
 In the near future, watch out for websites that retain all the great
@@ -187,4 +191,3 @@ flexible through the use of APIs.
 
 And since the Web is open and extensible, we can all have our own say in
 its future too.
-

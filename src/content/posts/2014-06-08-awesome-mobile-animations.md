@@ -5,21 +5,21 @@ excerpt: Native apps and games are showing how mobile animations should be done.
 thumbnail: /images/posts/2014-06-08-awesome-mobile-animations/thumb-dots.jpg
 date: 2014-06-08
 tags: talks, mobile, performance, ui
-template: post.hbs
+layout: post.hbs
 ---
 
-*Earlier this week I gave a talk at the [EdTech Developers
+_Earlier this week I gave a talk at the [EdTech Developers
 Meetup](http://www.meetup.com/EdTech-Developers-Meetup/events/184368552/). Here’s
 the blog post version. You might also like to check out the
 [slides](http://awesome-mobile-animations.herokuapp.com/) and the
 [source
-code](https://github.com/poshaughnessy/edtechdevs-awesome-mobile-animations).*
+code](https://github.com/poshaughnessy/edtechdevs-awesome-mobile-animations)._
 
 --
 
 If you’ve been using apps and playing games on a modern smartphone
 recently, you might have noticed something that the best ones all have
-in common: *awesome animations*.
+in common: _awesome animations_.
 
 Take another look at your favourite apps and see how fluid they feel
 when you navigate around. Most likely, they’ve ditched dull, linear
@@ -74,8 +74,7 @@ impressive results.
 
 Let’s take a look at some examples…
 
-CSS
----
+## CSS
 
 Here’s a neat demo of React.js-powered CSS transitions. In particular,
 check out the menu effects from 0:43 and the photo gallery from 2:10:
@@ -98,8 +97,7 @@ Demo: <https://www.cubeslam.com>
 
 About the tech: <https://www.cubeslam.com/tech>
 
-Canvas
-------
+## Canvas
 
 [Pixi.js](http://www.pixijs.com/) is a fast graphics library for games
 and interactive animations. One of the best things about it is that you
@@ -110,8 +108,7 @@ their Run Pixie Run demo:
 
 Demo: <http://www.goodboydigital.com/runpixierun/>
 
-WebGL
------
+## WebGL
 
 Up until recently, WebGL hasn’t had great support from mobile browsers.
 But it’s available with Chrome for Android, Firefox for Android and
@@ -125,7 +122,7 @@ Demo: <http://threejs.org/examples/webgl_lines_sphere.html>
 
 Pixi.js’ [Bunnymark
 demo](http://www.goodboydigital.com/pixijs/bunnymark/) is really useful
-to demonstrate the difference that WebGL makes. Here it is without WebGL - 
+to demonstrate the difference that WebGL makes. Here it is without WebGL -
 just using the regular 2D Canvas context:
 
 <iframe width="540" height="405" id="youtube_iframe" src="https://www.youtube.com/embed/5Mt65ktdHfU?feature=oembed&amp;enablejsapi=1&amp;wmode=opaque" frameborder="0"></iframe>
@@ -142,8 +139,7 @@ results, but we still need to be careful as developers and make sure we
 make the best use of the browsers’ power. Let’s run through some general
 tips:
 
-Tips
-----
+## Tips
 
 **1. For 60 frames per second, you only have 16ms to prepare each
 frame**
@@ -251,8 +247,7 @@ providing a Virtual DOM. They can determine the minimal set of changes
 that need to be made to the real DOM and modify it only at the best
 times.
 
-Awesome mobile web animations? Yes we can
------------------------------------------
+## Awesome mobile web animations? Yes we can
 
 The text from Pete Hunt’s React Touch demo sums things up nicely:
 
@@ -263,15 +258,14 @@ The text from Pete Hunt’s React Touch demo sums things up nicely:
 So let’s ditch those boring animations and make our mobile web apps more
 fluid, and more awesome!
 
-Further reading
----------------
+## Further reading
 
--   [Motion UI Design
-    Principles](http://www.beyondkinetic.com/motion-ui-design-principles)
--   [Motion Design is the Future of UI](https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f#.x2627i8iq)
--   [High Performance Animations
-    (HTML5 Rocks)](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
--   [Jank Busting for Better Rendering Performance
-    (HTML5 Rocks)](http://www.html5rocks.com/en/tutorials/speed/rendering/)
--   [Preventing Layout Thrashing
-    (Wilson Page)](http://wilsonpage.co.uk/preventing-layout-thrashing/)
+- [Motion UI Design
+  Principles](http://www.beyondkinetic.com/motion-ui-design-principles)
+- [Motion Design is the Future of UI](https://blog.prototypr.io/motion-design-is-the-future-of-ui-fc83ce55c02f#.x2627i8iq)
+- [High Performance Animations
+  (HTML5 Rocks)](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+- [Jank Busting for Better Rendering Performance
+  (HTML5 Rocks)](http://www.html5rocks.com/en/tutorials/speed/rendering/)
+- [Preventing Layout Thrashing
+  (Wilson Page)](http://wilsonpage.co.uk/preventing-layout-thrashing/)

@@ -4,7 +4,7 @@ slug: twelve-tips-for-computer-related-neck-wrist-pain
 excerpt: "With many more of us working from home now, I’d like to share these 12 tips for avoiding/treating computer-related neck and wrist pain. Based on personal experience over a few years..."
 thumbnail: /images/posts/2020-03-26-twelve-tips-for-computer-pain/thumb-rsi.jpg
 date: 2020-03-26
-template: post.hbs
+layout: post.hbs
 ---
 
 With many more of us working from home now, I’d like to share these 12 tips for avoiding/treating computer-related neck and wrist pain. Based on personal experience over a few years. I hope they might help for some of you :)

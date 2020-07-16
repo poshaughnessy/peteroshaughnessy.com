@@ -5,7 +5,7 @@ excerpt: Is it possible to create fast 3D interactive graphics for mobile device
 thumbnail: /images/posts/2013-09-10-attempting-fast-3d-graphics-mobile-web/speed-web.jpg
 date: 2013-09-10
 tags: web, three.js, performance, ui
-template: post.hbs
+layout: post.hbs
 ---
 
 Is it possible to create fast 3D interactive graphics for mobile
@@ -25,9 +25,9 @@ I’ve been fortunate enough to be able to use
 of desktop web projects recently, and I’ve been very impressed with how
 easy it makes it to develop WebGL applications.
 
-So when we were tasked with creating a new prototype *mobile* web
+So when we were tasked with creating a new prototype _mobile_ web
 application that may benefit from 3D graphics (an app for helping
-students to revise, called *ZamBlocks*), I jumped at the chance to try
+students to revise, called _ZamBlocks_), I jumped at the chance to try
 Three.js again. In this case, I wouldn’t be able to use its
 WebGLRenderer, but it also comes with a CSS3DRenderer and a
 CanvasRenderer. Both have good support on mobile devices. But then
@@ -62,4 +62,3 @@ navigate):
 And the code is on GitHub here:
 
 <https://github.com/poshaughnessy/speedy-web-uis>
-

@@ -5,7 +5,7 @@ excerpt: Virtual Reality is hitting the Web and this is why it's exciting...
 thumbnail: /images/pages/talks/enter-the-metaverse.jpg
 date: 2014-11-27
 tags: talks, virtual-reality
-template: post.hbs
+layout: post.hbs
 ---
 
 This week I gave a presentation at the [Front Endgineers meetup](http://meetup.com/Front-Endgineers-London/events/213532342/) 
@@ -20,6 +20,3 @@ If you’d like to check out the recording, it’s here:
 And the slides (including all the links) are available here:
 
 [poshaughnessy.github.io/enter-the-metaverse-webvr/](http://poshaughnessy.github.io/enter-the-metaverse-webvr/)
-
-
-

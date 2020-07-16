@@ -5,11 +5,11 @@ excerpt: The Web is moving out from behind the screen...
 thumbnail: /images/posts/2014-08-04-interfaces-of-the-future/thumb-pictures-under-glass.jpg
 date: 2014-08-04
 tags: talks, future-tech, virtual-reality, augmented-reality
-template: post.hbs
+layout: post.hbs
 ---
 
-*On 31st July I gave the following talk at [Front End London](http://www.frontendlondon.co.uk/). The [slides are
-here](http://poshaughnessy.github.io/fel-interfaces-of-the-future/).*
+_On 31st July I gave the following talk at [Front End London](http://www.frontendlondon.co.uk/). The [slides are
+here](http://poshaughnessy.github.io/fel-interfaces-of-the-future/)._
 
 I’d like to talk today about some of the new kinds of interfaces that
 are on the horizon and may be taking off in the next few years. And for
@@ -26,6 +26,7 @@ the parent company of the Financial Times).
 First, let’s think about where we are now, in the world of the Web.
 
 ![Cuddling with multiple devices](/images/posts/2014-08-04-interfaces-of-the-future/devices.jpg)
+
 <p class="caption">Credit: <a href="http://en.wikipedia.org/wiki/Digital_omnivore#mediaviewer/File:Cuddling_with_multiple_devices.jpg">Jeremy Keith</a></p>
 
 We’ve moved on from the Desktop Era, and having travelled through
@@ -40,15 +41,17 @@ Bret Victor memorably said, it’s all just [Pictures Under
 Glass](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/).
 
 ![Pictures Under Glass](/images/posts/2014-08-04-interfaces-of-the-future/pictures-under-glass.jpg)
+
 <p class="caption">Credit: <a href="https://placeit.net/">PlaceIt</a></p>
 
 That surely can’t be it… So what’s next?
 
 Well I’m sure we’ve all been hearing a lot of hype about wearables
 recently. Interest in smartwatches has surged since 2012 when Pebble (on
-the left here) became the first $10m Kickstarter campaign.
+the left here) became the first \$10m Kickstarter campaign.
 
 ![Smartwatches](/images/posts/2014-08-04-interfaces-of-the-future/smartwatches.jpg)
+
 <p class="caption">Credit: <a href="https://www.flickr.com/photos/janitors/10345415843/">Kārlis Dambrāns</a></p>
 
 Now Google, Samsung, LG, Motorola and many others are getting in on the
@@ -58,10 +61,11 @@ reveal later this year.
 And who could forget the poster child of geeky new tech, Google Glass?
 
 ![Google Glass](/images/posts/2014-08-04-interfaces-of-the-future/google-glass-geeky.jpg)
+
 <p class="caption">Credit: <a href="https://www.flickr.com/photos/thomashawk/14259298346">Thomas Hawk</a></p>
 
 If you haven’t already tried it out, I’m sure you’ve all heard
-lots of opinions about it already. 
+lots of opinions about it already.
 
 You might be, quite rightly, feeling a bit skeptical about these
 wearable devices taking off. Are people really going to want to use
@@ -69,10 +73,10 @@ them? Are they actually useful? How many people would actually be happy
 to wear things like this out in public? And you might be thinking that
 they aren’t really that different to what we have now. Even if they do
 become popular, aren’t they merely additions to the Multi-device Era
-we’re already in? 
+we’re already in?
 
 I think those are all very reasonable thoughts, when looking at
-the wearables space right now. 
+the wearables space right now.
 
 But I’d like to offer up a couple of reasons why I think that
 certain kinds of wearable devices could become a very big deal in the
@@ -91,10 +95,11 @@ can make for a great “lean back” device, something that we’re more
 comfortable using on the sofa.
 
 ![Lean back experiences](/images/posts/2014-08-04-interfaces-of-the-future/lean-back-experience.jpg)
+
 <p class="caption">Credit: <a href="https://www.flickr.com/photos/plantronicsgermany/8071203642">plantronicsgermany</a></p>
 
 So I think we should think carefully about the kinds of experiences that
-new devices might lend themselves to as well. 
+new devices might lend themselves to as well.
 
 Especially because some of the ways that we end up interacting with new
 technology are often difficult to predict. Before the smartphone
@@ -102,6 +107,7 @@ explosion, who would have predicted that so many of us would use them
 for this:
 
 ![Selfie](/images/posts/2014-08-04-interfaces-of-the-future/selfie.jpg)
+
 <p class="caption">The “Selfie”. Credit: <a href="http://en.wikipedia.org/wiki/Selfie">Wikimedia</a></p>
 
 **The Long Nose of Innovation**
@@ -114,6 +120,7 @@ everything comes together: affordability, ease of use, good marketing…
 and finally they can take off and gain traction.
 
 ![Long Nose of Innovation](/images/posts/2014-08-04-interfaces-of-the-future/long-nose-of-innovation.png)
+
 <p class="caption">Credit: <a href="http://www.sketchplanations.com/post/60700964916/the-long-nose-of-innovation-bill-buxton-i-love">Sketchplanations</a></p>
 
 We’ve seen this many times over the years. For example, multi-touch
@@ -125,6 +132,7 @@ And we all kind of know this, yet we still seem to go through this hype
 curve every time:
 
 ![Hype Curve](/images/posts/2014-08-04-interfaces-of-the-future/hype-curve.png)
+
 <p class="caption">Credit: <a href="http://en.wikipedia.org/wiki/Hype_cycle">Wikipedia</a></p>
 
 I’m guilty of this too. We hear about a cool new technology, and we get
@@ -142,6 +150,7 @@ years…
 **Augmented Reality and Holographics**
 
 ![Augmented Reality](/images/posts/2014-08-04-interfaces-of-the-future/augmented-reality-holographics.jpg)
+
 <p class="caption">Credit: <a href="http://youtu.be/yQRdIZR_LYY">Pearson School of Thought</a></p>
 
 Firstly, holographic-style augmented reality interfaces, where you can
@@ -158,6 +167,7 @@ before we can start to try it out at least. Meta are planning to bring
 “the first holographic interface” to market next year.
 
 ![Meta Pro glasses](/images/posts/2014-08-04-interfaces-of-the-future/meta-pro.jpg)
+
 <p class="caption">Credit: <a href="https://www.spaceglasses.com">Meta</a></p>
 
 This Pro version will be \$3,650 and it’ll be attached to a pocket
@@ -166,6 +176,7 @@ shoot up that traction axis straight away. But some smart people predict
 that it will only be 5 years before it becomes this:
 
 ![Ray Bans](/images/posts/2014-08-04-interfaces-of-the-future/ray-bans.jpg)
+
 <p class="caption">Credit: <a href="http://upload.wikimedia.org/wikipedia/commons/4/4b/RayBanAviator.jpg">Wikimedia</a></p>
 
 Just regular looking glasses or shades. That could really help to open
@@ -176,6 +187,7 @@ it up to the mass market.
 And how about Virtual Reality?
 
 ![The Matrix](/images/posts/2014-08-04-interfaces-of-the-future/matrix.jpg)
+
 <p class="caption">Credit: <a href="http://www.flickr.com/photos/sudhee/82891943">Sudhee</a></p>
 
 Again, people have been talking about it for decades. But it should only
@@ -183,6 +195,7 @@ be next year before we have the first affordable Virtual Reality
 consumer devices go on sale, like the Oculus Rift:
 
 ![Oculus Rift](/images/posts/2014-08-04-interfaces-of-the-future/oculus-rift.jpg)
+
 <p class="caption">Credit: <a href="http://www.oculusvr.com/">Oculus Rift</a></p>
 
 The unique thing about VR is the feeling of “presence”; you’re
@@ -191,6 +204,7 @@ virtual reality and you should find that you get sweaty palms and a
 quickening heart beat, like you would in real life.
 
 ![Feet hanging off a cliff](/images/posts/2014-08-04-interfaces-of-the-future/presence-cliff.jpg)
+
 <p class="caption">Credit: <a href="http://www.fotolia.com/">Fotolia</a></p>
 
 Of course, your conscious brain knows that you’re just wearing what is
@@ -203,6 +217,7 @@ another person, to enable a person in a wheelchair to see herself
 dancing on her feet:
 
 ![VR choreography](/images/posts/2014-08-04-interfaces-of-the-future/vr-choreography.jpg)
+
 <p class="caption">Credit: <a href="http://vimeo.com/74254297">BeAnotherLab</a></p>
 
 We’re only really just scratching the surface of it right now, but we
@@ -210,6 +225,7 @@ have the potential to create some amazing experiences for people, which
 can lead to reactions like this:
 
 ![VR joy grandma](/images/posts/2014-08-04-interfaces-of-the-future/vr-joy-grandma.jpg)
+
 <p class="caption">Credit: <a href="http://youtu.be/pAC5SeNH8jw">Paul Rivot</a></p>
 
 **WebVR**
@@ -218,28 +234,28 @@ This is why I think Virtual Reality is exciting, and it’s an especially
 exciting time for us Web developers right now. Because just in the last
 few weeks:
 
--   Apple finally [embraced
-    WebGL](http://blog.ludei.com/webgl-ios-8-safari-webview/), a key
-    technology for creating 3D experiences in the browser
--   And
-    [Mozilla](http://blog.bitops.com/blog/2014/06/26/first-steps-for-vr-on-the-web/)
-    and
-    [Google](http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html)
-    have both released special builds of their browsers, with initial
-    support for Virtual Reality
+- Apple finally [embraced
+  WebGL](http://blog.ludei.com/webgl-ios-8-safari-webview/), a key
+  technology for creating 3D experiences in the browser
+- And
+  [Mozilla](http://blog.bitops.com/blog/2014/06/26/first-steps-for-vr-on-the-web/)
+  and
+  [Google](http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html)
+  have both released special builds of their browsers, with initial
+  support for Virtual Reality
 
 This is what they’re implementing:
 
--   The ability to discover available Virtual Reality devices (in
-    practice just the Oculus Rift right now, but more will
-    be coming…)
--   Full screen extensions so you can request an element goes full
-    screen on the VR headset
--   Sensor integration so you can use for example, the orientation
-    of the device
--   And the particular distortion effect required for rendering on
-    different VR devices - you should be able to be hardware
-    agnostic
+- The ability to discover available Virtual Reality devices (in
+  practice just the Oculus Rift right now, but more will
+  be coming…)
+- Full screen extensions so you can request an element goes full
+  screen on the VR headset
+- Sensor integration so you can use for example, the orientation
+  of the device
+- And the particular distortion effect required for rendering on
+  different VR devices - you should be able to be hardware
+  agnostic
 
 Google are calling this “WebVR” (Mozilla don’t seem to be naming it
 anything in particular yet). It’s at “version zero” and it’s not even in
@@ -250,12 +266,15 @@ Here’s how you use it… With a WebGL scene, you render it twice, side by
 side: one for your left eye and one for your right eye.
 
 ![VR stereo](/images/posts/2014-08-04-interfaces-of-the-future/webgl-stereo.jpg)
+
 <p class="caption">Credit: <a href="http://www.oculusvr.com/">Oculus Rift</a></p>
 
 The browser can apply the distortion required for the particular device
+
 - it’s like this for the Oculus Rift:
 
 ![VR distortion](/images/posts/2014-08-04-interfaces-of-the-future/webgl-distortion.jpg)
+
 <p class="caption">Credit: <a href="http://www.oculusvr.com/">Oculus Rift</a></p>
 
 This is what the lenses will turn into something that covers as much of
@@ -294,7 +313,7 @@ we can get sensor data out for the orientation.
     var leftFOV =
         vrHMD.getRecommendedEyeFieldOfView('left');
 
-    var leftTrans = vrHMD.getEyeTranslation('left');   
+    var leftTrans = vrHMD.getEyeTranslation('left');
 
 For each eye, we can ask for the recommended field of view which we can
 use to set the right camera projection, and also the translation to
@@ -370,18 +389,18 @@ Google have a [code example up here](http://bit.ly/cardboard-example).
 ![TRex](/images/posts/2014-08-04-interfaces-of-the-future/trex.png)
 
 Hopefully I’ve given just a taster about some exciting new technology
-coming up, and how you can get started with Virtual Reality right now. 
+coming up, and how you can get started with Virtual Reality right now.
 
 I’ll leave you with this thought…
 
-Today, we’re creating pictures under glass. 
+Today, we’re creating pictures under glass.
 
 Tomorrow we’ll create whole new worlds.
 
 ![New world](/images/posts/2014-08-04-interfaces-of-the-future/new-world.png)
+
 <p class="caption">Credit: <a href="http://mind-criminal.deviantart.com/art/Universe-From-a-Meadow-257284639">mind-criminal</a></p>
 
 So let’s get ahead of the curve and start hacking now!
 
 Thank you.
-

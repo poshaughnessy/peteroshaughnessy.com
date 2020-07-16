@@ -5,24 +5,24 @@ excerpt: An exploration into improving the hybrid app development workflow.
 thumbnail: /images/posts/2013-10-31-hybrid-app-workflow-grunt-xcode/thumb-xcode-grunt.jpg
 date: 2013-10-31
 tags: mobile, hybrid-apps
-template: post.hbs
+layout: post.hbs
 ---
 
 These days, with web apps getting more complex, it’s getting more
 common to have have an automated JavaScript-based build process -
 including things like:
 
--   Running tests and linting
--   CSS compilation (from SASS/Less)
--   Combining and minifying JavaScript files
--   Single-command build and deployment
--   Live re-loading of changes during development
+- Running tests and linting
+- CSS compilation (from SASS/Less)
+- Combining and minifying JavaScript files
+- Single-command build and deployment
+- Live re-loading of changes during development
 
 [Grunt](http://gruntjs.com/) (like Ant for web apps) enables all of
 these and a whole lot more. It’s only been on the scene since 2012, but
 it seems to be exploding in popularity right now.
 
-But how about using Grunt for a *hybrid* app?
+But how about using Grunt for a _hybrid_ app?
 
 I’ve been reading and talking about hybrid apps for a long time, but I’m
 actually just developing one for the first time now. Despite being a
@@ -55,7 +55,7 @@ So, what about Grunt? As I mentioned, we don’t want two separate build
 processes, so we need to combine the Grunt build
 process with the XCode build process. Thankfully we can do
 that quite easily with a Build Phase [Run
-Script](https://developer.apple.com/library/ios/recipes/xcode_help-project_editor/Articles/AddingaRunScriptBuildPhase.html). 
+Script](https://developer.apple.com/library/ios/recipes/xcode_help-project_editor/Articles/AddingaRunScriptBuildPhase.html).
 
 A [handy StackOverflow
 post](http://stackoverflow.com/questions/14315648/how-to-run-grunt-tasks-during-xcode-build-phase) told
@@ -73,27 +73,22 @@ So now our workflow is simply:
 2.  Edit the web code in the web IDE
 3.  Do Build + Run in XCode.
 
-
-
 **Update**
 
 It’s now a few weeks later. Unfortunately we’ve since ditched this
 XCode-Grunt integration! For the following reasons:
 
--   We’re sharing our XCode project settings via Git, and we don’t have
-    the same build paths.
--   For some reason it doesn’t update the JavaScript code until you
-    re-build twice! I’m not sure why, but I guess it may be to do with
-    the stage of the build process when the Grunt task takes place -
-    perhaps it happens too late?
--   We’ve split up the work so my colleague is mainly working on the
-    Objective-C side and I’m working mainly on the Web side. So far, my
-    colleague hasn’t needed to update the Web code much, and I haven’t
-    needed to run it up inside the native wrapper much.
--   I’ve realised it’s not actually that hard just to run *grunt build*
-    separately first ;-)
+- We’re sharing our XCode project settings via Git, and we don’t have
+  the same build paths.
+- For some reason it doesn’t update the JavaScript code until you
+  re-build twice! I’m not sure why, but I guess it may be to do with
+  the stage of the build process when the Grunt task takes place -
+  perhaps it happens too late?
+- We’ve split up the work so my colleague is mainly working on the
+  Objective-C side and I’m working mainly on the Web side. So far, my
+  colleague hasn’t needed to update the Web code much, and I haven’t
+  needed to run it up inside the native wrapper much.
+- I’ve realised it’s not actually that hard just to run _grunt build_
+  separately first ;-)
 
 Oh well… always learning!
-
-
-

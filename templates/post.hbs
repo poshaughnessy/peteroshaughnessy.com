@@ -5,11 +5,11 @@
     <p class="date"><time>{{formatDate date}}</time></p>
     {{{ contents }}}
     {{#if this.tags}}
-      <p class="tags">
-        {{#eachCommaSeparated this.tags}}
-          <span>{{this}}</span>
-        {{/eachCommaSeparated}}
-      </p>
+    <p class="tags">
+      {{#eachCommaSeparated this.tags}}
+      <span>{{this}}</span>
+      {{/eachCommaSeparated}}
+    </p>
     {{/if}}
   </article>
 </div>

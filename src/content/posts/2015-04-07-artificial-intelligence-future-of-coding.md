@@ -5,7 +5,7 @@ excerpt: Your IDE could be about to get really, really smart.
 thumbnail: /images/posts/2015-04-07-artificial-intelligence-future-of-coding/thumb-treeline.jpg
 date: 2015-04-07
 tags: artificial-intelligence, future-tech
-template: post.hbs
+layout: post.hbs
 ---
 
 A question for programmers: how intelligent is your IDE? It warns you when you type something that won’t compile? It makes simple suggestions for how to fix broken code? It can scaffold some basic code for you? That sounds fairly clever...
@@ -16,7 +16,7 @@ IDEs - and the way that we code in general - are set for a revolution. The futur
 
 ### Artificial Intelligence: where it’s at
 
-You’ve probably been hearing a lot of buzz about AI recently, yet it might still sound like science fiction. It’s an old term, loaded with the baggage of decades of sci-fi books and movies.  
+You’ve probably been hearing a lot of buzz about AI recently, yet it might still sound like science fiction. It’s an old term, loaded with the baggage of decades of sci-fi books and movies.
 
 Yet, AI is already a reality. We’re still quite a way off from “general” intelligence or any systems comparable to our range of human abilities. But we’re doing pretty well with “narrow” intelligence - that is, computers learning to solve particular kinds of problems - and we’re starting to make more rapid progress. Due to [the recent breakthroughs of cheap parallel computation, the rise of "Big Data", and better algorithms like "Deep Learning"](http://www.wired.com/2014/10/future-of-artificial-intelligence/), computers are becoming able to perform more and more complex tasks, with less and less specific up-front guidance. A recent example that hit the headlines is [Deep-Q, Google’s agent that learns to play Atari games](http://arstechnica.com/science/2015/02/ai-masters-49-atari-2600-games-without-instructions/).
 
@@ -80,6 +80,6 @@ I think we’ll also see a rise in visual programming. Many of us are familiar w
 
 It’s worth remembering though that the more complex computers become and the further away we get from their inner workings, the more we’ll struggle if we want to understand what’s actually going on under the hood.
 
-How do you debug a complex AI agent? In the future, that might become about as difficult to answer as “how do you debug a human?" As Samuel Arbesman writes, [“human ingenuity has created a world that the mind cannot master”](http://aeon.co/magazine/technology/is-technology-making-the-world-too-complex/). 
+How do you debug a complex AI agent? In the future, that might become about as difficult to answer as “how do you debug a human?" As Samuel Arbesman writes, [“human ingenuity has created a world that the mind cannot master”](http://aeon.co/magazine/technology/is-technology-making-the-world-too-complex/).
 
 But let’s not give up on understanding as much as we can. After all, in our future world of unfathomable machine intellect, us humans will need _something_ to keep us occupied!

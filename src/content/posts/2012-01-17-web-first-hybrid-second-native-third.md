@@ -2,10 +2,10 @@
 title: Web First, Hybrid Second, Native Third
 slug: web-first-hybrid-second-native-third
 excerpt: If you want to create a mobile app, should you go Web, hybrid or native? Here's what I propose...
-thumbnail: /images/posts/2012-01-17-web-first-hybrid-second-native-third/thumb-podium.jpg 
+thumbnail: /images/posts/2012-01-17-web-first-hybrid-second-native-third/thumb-podium.jpg
 date: 2012-01-17
 tags: mobile, web, hybrid-apps, native
-template: post.hbs
+layout: post.hbs
 ---
 
 If you want to create a mobile app, one of the big questions you need to
@@ -28,13 +28,13 @@ Not all applications need to work on multiple platforms. If you’re
 setting out to write an iPhone game, it’s a valid choice to just target
 iPhones. But for most application developers, we need to consider
 multiple platforms. How do we cater for people with Android, Blackberry
-or Windows Phones? This is a problem that’s *growing fast*. In 2009,
+or Windows Phones? This is a problem that’s _growing fast_. In 2009,
 Android’s market share [was
 4%](http://en.wikipedia.org/wiki/Smartphone#Market_share). Now
 it’s [over
 50%](http://articles.businessinsider.com/2011-11-15/tech/30400455_1_ios-iphone-smartphone-market).
 And Nokia are expected to sell [37 million Windows Phones in
-2012](http://www.techspot.com/vb/topic176086.html). 
+2012](http://www.techspot.com/vb/topic176086.html).
 
 Avoid locking yourself into one vendor by using open, standardised
 technologies that can work for many. Avoid writing two or three separate
@@ -59,7 +59,7 @@ Once again, it won’t be easy. You’ll need different sets of styles and
 lots of tweaking. You’ll probably end up reading a lot about Responsive
 Design (and perhaps like me you’ll think we’re not quite there yet when
 you load the much-hailed [Boston Globe](http://bostonglobe.com/) on your
-mobile phone and find one very, very long column). But… it’s *possible*
+mobile phone and find one very, very long column). But… it’s _possible_
 to cater for this variety and you can’t say that for anything else but
 the Web.
 
@@ -125,7 +125,7 @@ extra features, payments and discoverability.
 
 The biggest reason to put your web app within a native wrapper is to add
 native features that you can’t implement with the Web. For example,
-integrating with the camera or the contacts book. 
+integrating with the camera or the contacts book.
 
 I won’t try and list all the things you can and can’t do yet with the
 Web, but it’s worth saying for the benefit of us future-gazers that the

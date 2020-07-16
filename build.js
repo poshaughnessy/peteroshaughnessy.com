@@ -1,54 +1,83 @@
-'use strict';
+"use strict";
 
-const Metalsmith = require('metalsmith');
-const markdown = require('metalsmith-markdown');
-const collections = require('metalsmith-collections');
-const permalinks  = require('metalsmith-permalinks');
-const templates = require('metalsmith-templates');
-const redirect = require('metalsmith-redirect');
-const rssFeed = require('metalsmith-feed');
-const Handlebars = require('handlebars');
-const helpers = require('./templates/helpers');
-const fs = require('fs');
+const fs = require("fs");
+const Handlebars = require("handlebars");
+const Metalsmith = require("metalsmith");
 
-const redirects = require('./redirects.js');
+const assets = require("metalsmith-assets-improved");
+const collections = require("metalsmith-collections");
+const layouts = require("metalsmith-layouts");
+const markdown = require("metalsmith-markdown");
+const permalinks = require("metalsmith-permalinks");
+const redirect = require("metalsmith-redirect");
+const rssFeed = require("metalsmith-feed");
 
-Handlebars.registerPartial('header', fs.readFileSync(__dirname + '/templates/partials/header.hbs').toString());
-Handlebars.registerPartial('footer', fs.readFileSync(__dirname + '/templates/partials/footer.hbs').toString());
+Handlebars.registerPartial(
+  "header",
+  fs.readFileSync(__dirname + "/templates/partials/header.hbs").toString()
+);
+Handlebars.registerPartial(
+  "footer",
+  fs.readFileSync(__dirname + "/templates/partials/footer.hbs").toString()
+);
+const helpers = require("./templates/helpers");
+
+const redirects = require("./redirects.js");
 
 function build() {
-
-  console.log('Running Metalsmith build...');
+  console.log("Running Metalsmith build...");
 
   Metalsmith(__dirname)
-    .use(collections({
-      posts: {
-        pattern: 'content/posts/*.md',
-        sortBy: 'date',
-        reverse: true
-      }
-    }))
+    .source("src/content")
+    .clean(false)
+    .use(
+      assets({
+        src: "src/static/",
+        dest: ".",
+        replace: "old",
+      })
+    )
+    .use(
+      collections({
+        posts: {
+          pattern: "posts/*.md",
+          sortBy: "date",
+          reverse: true,
+        },
+      })
+    )
     .use(markdown())
-    .use(permalinks({
-      pattern: ':collection/:slug',
-      relative: false
-    }))
-    .use(templates('handlebars'))
+    .use(
+      permalinks({
+        pattern: ":collection/:slug",
+        relative: false,
+      })
+    )
+    .use(
+      layouts({
+        engine: "handlebars",
+        default: "post.hbs",
+        directory: "templates",
+        partials: "templates/partials/",
+        partialExtension: ".hbs",
+      })
+    )
     .use(redirect(redirects))
-    .use(rssFeed({
-      collection: 'posts', 
-      site_url: 'https://peteroshaughnessy.com',
-      title: 'Peter O\'Shaughnessy',
-      description: 'Web technologies and browser-based experiments',
-      limit: 50
-    }))
-    .destination('./docs')
-    .build(function(err) {
+    .use(
+      rssFeed({
+        collection: "posts",
+        site_url: "https://peteroshaughnessy.com",
+        title: "Peter O'Shaughnessy",
+        description: "Web technologies and browser-based experiments",
+        limit: 50,
+      })
+    )
+    .destination("./docs")
+    .build(function (err) {
       if (err) throw err;
     });
 
-  console.log('Build complete');
-
+  console.log("Build complete");
 }
 
 // If being included as a dependency, export function, otherwise run immediately

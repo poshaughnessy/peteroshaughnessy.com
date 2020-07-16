@@ -1,12 +1,11 @@
 ---
-template: page.hbs
+layout: page.hbs
 ---
 
 ## Talks
 
-I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web 
+I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
-
 
 ### The Innovation Process: Learnings from Pearson Future Tech
 
@@ -16,7 +15,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p><em>This was an internal-only presentation as it contained business plans, but I would be happy to give a public version of this talk too.</em></p>
 
-
 ### Front End Web Performance: An Intro To Why and How
 
 <p class="venue-and-date">Waitrose HQ, May 2019</p>
@@ -25,7 +23,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p><em>This was an internal-only presentation as it contained financial data, but I would be happy to give a public version of this talk too.</em></p>
 
-
 ### [A Lazy Developer's Guide to TensorFlow.js: Having fun with pre-trained models](https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/AI-JavaScript-London/events/258670905/">AI JavaScript London</a>, Feb 2019</p>
@@ -33,7 +30,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/tensorflowjs-feb-2019.jpg)](https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present)
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1xq7Wi6X582kT0HpH3eb0vpq-9H9oC5TH4uupI-j4KE8/present">View slides</a></span></p>
-
 
 ### [Front Trends: The Web in 2019 and Beyond](https://docs.google.com/presentation/d/1sljguzFBy2m9hT9znczoiUnB82MW17S2U_udi0TPvu0/present)
 
@@ -45,7 +41,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1sljguzFBy2m9hT9znczoiUnB82MW17S2U_udi0TPvu0/present">View slides</a></span></p>
 
-
 ### [10 Things I Learned as a Developer Advocate](https://docs.google.com/presentation/d/13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE/present)
 
 <p class="venue-and-date"><a href="https://jsoxford.com/">JS Oxford</a>, Dec 2018</p>
@@ -55,7 +50,6 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="credit">Photo credit: <a href="https://twitter.com/JSOxford/status/1070397908783153156">JS Oxford</a></p>
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/13s4nXNLzxNLccnr4MJrNbaOrQSU6CKQoPljXeJdgkOE/present">View slides</a></span></p>
-
 
 ### [Bridging Realities with WebXR and Web Bluetooth](https://www.slideshare.net/secret/cIybseMqmYvFzO)
 
@@ -69,7 +63,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://www.slideshare.net/secret/cIybseMqmYvFzO">View slides</a></span></p>
 
-
 ### [Physical and Immersed: WebXR and Web Bluetooth](https://www.slideshare.net/secret/JogKDKMRbFFQOM)
 
 <p class="venue-and-date"><a href="https://devfest.gdg.org.ua/">GDG DevFest Ukraine</a>, Oct 2018</p>
@@ -82,7 +75,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://www.slideshare.net/secret/JogKDKMRbFFQOM">View slides</a></span></p>
 
-
 ### [The Why and How of Augmented Reality on the Web](https://docs.google.com/presentation/d/1Axe5KPZ-ZEmp_IUIe9_U37MHVIjmMi1afYKnnzyYAFk/present)
 
 <p class="venue-and-date"><a href="https://www.hackbay.de/">HackBay</a>, Nuremberg, Jul 2018</p>
@@ -92,8 +84,6 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="credit">Photo credit: <a href="https://twitter.com/zollhofHQ/status/1016649758826524673">@zollhofhq</a></p>
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1Axe5KPZ-ZEmp_IUIe9_U37MHVIjmMi1afYKnnzyYAFk/present">View slides</a></span></p>
-
-
 
 ### [The Web: Now and Next](https://docs.google.com/presentation/d/1Tw-GdxpRvTp9CREQWh6ePDEvSF2O7_hGJ_Pb8vhEFCk/present)
 
@@ -105,7 +95,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1Tw-GdxpRvTp9CREQWh6ePDEvSF2O7_hGJ_Pb8vhEFCk/present">View slides</a></span></p>
 
-
 ### [Web Payment APIs](https://docs.google.com/presentation/d/1SwVoEymBxE0cygwLGphltVMVRjLrN-nOLlLlWX0VgoY/present)
 
 <p class="venue-and-date"><a href="https://gds.blog.gov.uk/">Government Digital Service</a>, London, May 2018</p>
@@ -113,8 +102,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/gds-web-payments-2018.jpg)](https://docs.google.com/presentation/d/1SwVoEymBxE0cygwLGphltVMVRjLrN-nOLlLlWX0VgoY/present)
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1SwVoEymBxE0cygwLGphltVMVRjLrN-nOLlLlWX0VgoY/present">View slides</a></span></p>
-
-
 
 ### [Web Bluetooth for Fun and Profit](https://poshaughnessy.github.io/samsung-create-web-bluetooth-2018/)
 
@@ -125,7 +112,6 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="credit">Photo credit: <a href="https://twitter.com/karolynhart/status/987102801674125312">@karolynhart</a></p>
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/samsung-create-web-bluetooth-2018/">View slides</a></span></p>
-
 
 ### [WebXR: Introducing Mixed Reality &amp; the Immersive Web](https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing)
 
@@ -141,7 +127,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1CWld6MeoNccZ3YXAR1xrrZerDAaNZkgrJyaT9nj4xDU/present?usp=sharing">View WebXR London slides</a></span> <span><a href="https://skillsmatter.com/skillscasts/11775-webxr-in-2018">Watch WebXR London recording</a></span> <span><a href="https://docs.google.com/presentation/d/16cXuCPA0ObeKsEvsNO70--0rWfoB7kpGHXKctCqP5V0/present">View Codemotion Rome slides</a></span> <span><a href="https://youtu.be/oYn-RaydHVQ">Watch Codemotion Rome recording</a></p>
 
-
 ### [6 Myths of PWAs](https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/London-Progressive-Web-Apps/events/248498204/">London Progressive Web Apps</a>, Mar 2018</p>
@@ -152,7 +137,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1DveHEej9Z4uV9FNTw6lPDXPOKnuHA4ygK23ksUtVph4/present?slide=id.p">View slides</a></span> <span><a href="https://skillsmatter.com/skillscasts/11680-6-myths-of-progressive-web-apps">Watch recording</a></span></p>
 
-
 ### [Reducing the friction of online payments](https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p)
 
 <p class="venue-and-date"><a href="https://2018.render-conf.com/">RenderConf, Oxford</a>, Mar 2018</p>
@@ -162,7 +146,6 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="credit">Photo credit: <a href="https://twitter.com/chicgeek">@chicgeek</a></p>
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1KnPNQ-3bKJwKu72h3OEqnvd9CZHU3HQeIHovXqojHWY/present#slide=id.p">View slides</a></span> <span><a href="https://youtu.be/RQ1uChMJcHM">Watch recording</a></span></p>
-
 
 ### [AI Voice Assistants & The Web](https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing)
 
@@ -176,7 +159,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://medium.com/samsung-internet-dev/the-voice-powered-web-combining-browsers-with-ai-voice-assistants-77344195a1f9">Read blog post</a></span> <span><a href="https://docs.google.com/presentation/d/1ruH198MSRfvUu7qQ6T1QTQjHn0qTgQAsL8DegvmIHaw/present?usp=sharing">View slides</a></span></p>
 
-
 ### [New & Unusual Uses for Virtual Reality - and How the Web Can Help](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/present?usp=sharing)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/Oxfords-Virtual-Reality-Crowd/events/242379096/">Oxford's VR Crowd</a>, Sep 2017</p>
@@ -184,7 +166,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/oxford-vr-crowd-2017.jpg)](https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/present?usp=sharing)
 
 <p class="view-links"><span><a href="https://medium.com/samsung-internet-dev/not-just-games-new-unusual-uses-of-virtual-reality-4ff5787a58eb">Read blog post</a></span> <span><a href="https://docs.google.com/presentation/d/1BaFtfdNs2dHRoOYReIFS7ZmM6UjpD8B2u7xGsraD5vs/present?usp=sharing">View slides</a></span></p>
-
 
 ### [Progressive WebVR Apps](https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/present?usp=sharing)
 
@@ -196,7 +177,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1b27LiMtxkOgReHEI6FZGc8lyuu0wrKjwgQ2ZbDz6yak/present?usp=sharing">View slides</a></span></p>
 
-
 ### [Mighty Morphin' Browser Strangers (a.k.a. The Samsung Internet Story)](https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/)
 
 <p class="venue-and-date"><a href="https://www.stateofthebrowser.com/">State of the Browser 6</a>, Sep 2017</p>
@@ -207,7 +187,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/mighty-morphin-browser-strangers-sotb-2017/">View slides</a></span></p>
 
-
 ### [Web Payments: Introducing new browser APIs for easier online purchases](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/London-JavaScript-Community/events/242200101/">London JS</a>, Sep 2017</span> <span><a href="https://www.elsevier.com/">Elsevier, Oxford</a>, Oct 2017</span></p>
@@ -215,7 +194,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Photo credit: Luca Mezzalira](/images/pages/talks/londonjs-sep-2017.jpg)](https://poshaughnessy.github.io/web-payments-londonjs-2017/)
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/web-payments-londonjs-2017/">View London JS slides</a></span> <span><a href="https://poshaughnessy.github.io/web-payments-elsevier-2017/">View Elsevier slides</a></span></p>
-
 
 ### [The Samsung Internet Story: Why Samsung Made a Web Browser](https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/)
 
@@ -227,7 +205,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/the-samsung-internet-story-coldfront-2017/">View slides</a></span> <span><a href="https://youtu.be/WSW_9lxDwTA">Watch recording</a></span></p>
 
-
 ### [Web Payments & The Future of Online Payments](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
 
 <p class="venue-and-date"><a href="https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things">FullStack 2017</a>, Jul 2017</p>
@@ -235,7 +212,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Photo credit: Skills Matter](/images/pages/talks/fullstack-2017.jpg)](https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases)
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/web-payments-fullstack-2017/">View slides</a></span> <span><a href="https://skillsmatter.com/skillscasts/10331-web-payments-and-the-future-of-online-purchases">Watch recording</a></span></p>
-
 
 ### [Samsung Internet @ Web Community Leads Summit](https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/present?usp=sharing)
 
@@ -247,7 +223,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/a/oshaughnessy.io/presentation/d/1r0iADEmN0p4YzDpJFZd2m6_fwHEe_uOcy4eNSQSIZtI/present?usp=sharing">View slides</a></span></p>
 
-
 ### [Bringing the Real World to Your Browser](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/present?usp=sharing)
 
 <p class="venue-and-date"><a href="http://nueww.de/programm/2017/event/show/hack-bay-201/587181b03b5048b1faa05e1063feeb01/">Zollhof, Nuremberg Web Week</a>, May 2017</p>
@@ -255,7 +230,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/nuremberg-web-week-physical-web-2017.jpg)](https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/present?usp=sharing)
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1WYeluRHM-qtQSAbWtHb2chIKSVmxo-w6ADhY6bC1J1s/present?usp=sharing">View slides</a></span></p>
-
 
 ### [WebVR: Getting started with Virtual Reality for the web](https://poshaughnessy.github.io/webvr-nuremberg-2017/)
 
@@ -265,7 +239,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/webvr-nuremberg-2017/">View slides</a></span> <span><a href="https://www.facebook.com/LansynLP/videos/1947301062170980/">Watch recording</a></span></p>
 
-
 ### [The Browser Strikes Back!](https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/JSOxford/events/239534664/">JS Oxford</a>, May 2017</p>
@@ -273,7 +246,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/browser-strikes-back-jsoxford-2017.jpg)](https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/)
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/browser-strikes-back-jsoxford-2017/">View slides</a></span></p>
-
 
 ### [WebVR @ Samsung](https://poshaughnessy.github.io/webvr-london-apr-2017/)
 
@@ -283,7 +255,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/webvr-london-apr-2017/">View slides</a></span></p>
 
-
 ### [Progressive Web Apps and What They Mean for VR](https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/present?usp=sharing)
 
 <p class="venue-and-date"><a href="http://www.ieeevr.org/2017/">IEEE VR, Los Angeles</a>, Mar 2017</p>
@@ -292,7 +263,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1Exp-0o4uR7EQruihtESHlbVWB8m7xNqtyRwDmH_HoJg/present?usp=sharing">View slides</a></span></p>
 
-
 ### [Web Payments and the Future of Online Checkouts](https://poshaughnessy.github.io/javascript-london-2017-web-payments/)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/JavaScript-London/events/237427195/">JavaScript London</a>, Mar 2017</p>
@@ -300,7 +270,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/javascript-london-2017.jpg)](https://poshaughnessy.github.io/javascript-london-2017-web-payments/)
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/javascript-london-2017-web-payments/">View slides</a></span></p>
-
 
 ### [Beyond the Browser](https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c)
 
@@ -311,15 +280,13 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://medium.com/samsung-internet-dev/beyond-the-browser-3690a589bf7c">Read blog post</a></span> <span><a href="https://poshaughnessy.github.io/london-js-beyond-browser-2017/">View London JS slides</a></span> <span><a href="https://www.youtube.com/watch?v=ZSOhY1r8dwI">Watch London JS recording</a></span> <span><a href="https://poshaughnessy.github.io/codebar-beyond-browser-2017/">View Codebar slides</a></span></p>
 
-
-### [Web Bluetooth in Action](https://poshaughnessy.github.io/over-the-air-2016-bluetooth/) 
+### [Web Bluetooth in Action](https://poshaughnessy.github.io/over-the-air-2016-bluetooth/)
 
 <p class="venue-and-date"><a href="http://lanyrd.com/2016/over-the-air/">Over The Air</a>, London, Nov 2016</p>
 
 [![Presentation](/images/pages/talks/over-the-air-2016.png)](https://poshaughnessy.github.io/over-the-air-2016-bluetooth/)
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/over-the-air-2016-bluetooth/">View slides</a></span></p>
-
 
 ### [Progressive Web Apps: Service Workers and Server-free Selfies](https://speakerdeck.com/ldnwebperf/ldnwebperf-november-2016-peter-oshaughnessy)
 
@@ -329,7 +296,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://ldnwebperf.org/sessions/progressive-web-apps-service-workers-and-server-free-selfies/">View recording & slides</a></span></p>
 
-
 ### [The Power of VR + the Web](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/present?usp=sharing)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/Augmenting-Reality/events/230087591/">Augmenting Reality</a>, London, Sep 2016</p>
@@ -337,7 +303,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/augmenting-reality-2016.jpg)](https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/present?usp=sharing)
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/17TihX-IiX_UUt6NctP2oxnDDAXmgdQ3UgdpMjLqEm9Y/present?usp=sharing">View slides</a></span></p>
-
 
 ### [WebVR: Creating Virtual Worlds with JavaScript](https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/)
 
@@ -347,7 +312,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://pusher.com/sessions/meetup/js-monthly-london/webvr-how-to-create-virtual-worlds-with-javascript">Watch recording</a></span> <span><a href="https://poshaughnessy.github.io/js-monthly-sep-2016-webvr/">View slides</a></span></p>
 
-
 ### [Progressive Web Apps and the biggest browser you’ve probably never thought of](https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3)
 
 <p class="venue-and-date"><a href="https://www.bytesconf.co.uk/">Bytes Conf</a>, Brighton, Sep 2016</p>
@@ -356,7 +320,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://medium.com/samsung-internet-dev/bytesconf-2016-the-word-about-pwas-is-spreading-30fe821050d3">Read blog post</a></span> <span><a href="https://youtu.be/M8yuVXJUMN8?list=PLPs419gH1FQJXk8q13pTMin4GLICfqz5z">Watch recording</a></span> <span><a href="https://poshaughnessy.github.io/bytes-conf-2016-pwas/">View slides</a></span></p>
 
-
 ### [Web Bluetooth: How to Control a Drone from your Browser and More](https://skillsmatter.com/skillscasts/8583-fullstack-nights)
 
 <p class="venue-and-date"><a href="https://skillsmatter.com/meetups/8333-fullstack-nights">FullStack Bytes</a>, London, Aug 2016</p>
@@ -364,7 +327,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/web-bluetooth-fullstack-bytes.jpg)](https://skillsmatter.com/skillscasts/8583-fullstack-nights)
 
 <p class="view-links"><span><a href="https://poshaughnessy.github.io/fullstack-bytes-2016-bluetooth/">View slides</a></span></p>
-
 
 ### [Bluetooth for Web Developers: Programming Flying Robots with JavaScript](https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video)
 
@@ -375,7 +337,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://skillsmatter.com/skillscasts/8135-bluetooth-for-web-developers-programming-flying-robots-with-javascript">Watch FullStack recording</a></span> <span><a href="https://skillsmatter.com/skillscasts/7814-london-ajax-user-group-april-meetup#video">Watch London AJAX recording</a></span></p>
 
-
 ### [Coding Exercises: How to maintain your body for 8hrs+/day developing](https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/present?usp=sharing)
 
 <p class="venue-and-date">pebble {code}, May 2016</p>
@@ -384,7 +345,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://docs.google.com/presentation/d/1XveZ1qQnUmT_63PNx9Q8nqAItSzO40hKoWGvLtXdl8E/present?usp=sharing">View slides</a></span></p>
 
-
 ### [Web Bluetooth: Controlling the Real World from your Browser](/posts/web-bluetooth-controlling-the-real-world)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/Front-Endgineers-London/events/228029543/">Front Endgineers</a>, London, Feb 2016</p>
@@ -392,7 +352,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/web-bluetooth.jpg)](/posts/web-bluetooth-controlling-the-real-world)
 
 <p class="view-links"><span><a href="/posts/web-bluetooth-controlling-the-real-world">Read blog post</a></span></p>
-
 
 ### [Rum: A Treasure Hunt](https://youtu.be/II8BslQYTxg)
 
@@ -404,7 +363,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://youtu.be/II8BslQYTxg">Watch recording</a></span></p>
 
-
 ### [React and Three.js: React All The Things!](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
 <p class="venue-and-date"><a href="https://skillsmatter.com/conferences/6612-fullstack">FullStack Conference</a>, London, Oct 2015</p>
@@ -412,7 +370,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/fullstack-2015.jpg)](https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-thingshttps://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things)
 
 <p class="view-links"><span><a href="https://skillsmatter.com/skillscasts/6772-react-and-three-js-react-all-the-things">Watch recording</a></span> <span><a href="https://github.com/poshaughnessy/react-threejs-fullstack-2015">View slides</a></span></p>
-
 
 ### [I Can’t Believe It’s JavaScript!](/posts/robots-vr-iot-cant-believe-its-javascript/)
 
@@ -422,7 +379,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="/posts/robots-vr-iot-cant-believe-its-javascript/">Read blog post</a></span> <span><a href="https://docs.google.com/presentation/d/1-ywfHu_o4-7UxAL1G2N-t8isngucMiW849-y1xihhXs/present?usp=sharing">View slides</a></span></p>
 
-
 ### [A Hybrid App Journey: Connected Devices, Cordova… and Cats](https://youtu.be/AonfnG-31hA)
 
 <p class="venue-and-date"><a href="http://www.frontendlondon.co.uk/epic/">Epic FEL</a>, London, Sep 2015</p>
@@ -430,7 +386,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/epicfel-hybrid-journey.jpg)](https://youtu.be/AonfnG-31hA)
 
 <p class="view-links"><span><a href="https://youtu.be/AonfnG-31hA">Watch recording</a></span> <span><a href="https://docs.google.com/presentation/d/1rz7zsrUDAo3pbr7Vij5GAJM_EodWMqR3gza_rXlYqJo/present?usp=sharing">View slides</a></span></p>
-
 
 ### [Hacking your brain for effortless learning](https://youtu.be/TeoBG3onbjs)
 
@@ -440,7 +395,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="https://www.youtube.com/watch?v=TeoBG3onbjs">Watch recording</a></span></p>
 
-
 ### [Combining React and WebGL for 2D + 3D web apps](/posts/combining-react-and-webgl/)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/London-React-User-Group/events/221725048/">London React</a>, May 2015</p>
@@ -448,7 +402,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/londonreact-react-webgl.jpg)](/posts/combining-react-and-webgl/)
 
 <p class="view-links"><span><a href="/posts/combining-react-and-webgl/">Read blog post</a></span> <span><a href="https://www.youtube.com/watch?v=LcsGax4F6Xo">Watch recording</a></span> <span><a href="https://docs.google.com/presentation/d/1moVaB4nnSRyHO53Ic8TPbTTX-M8P1OtLgcdkVejd8o4/present?usp=sharing">View slides</a></span></p>
-
 
 ### [2020: Looking Ahead To The Future of Web Development](/posts/2020-future-of-web-development/)
 
@@ -459,7 +412,6 @@ development. If you would like to invite me to speak at your event, please [get 
 <p class="view-links"><span><a href="/posts/2020-future-of-web-development/">Read blog post</a></span> <span><a href="https://youtu.be/ajI-qi9MZmM">Watch recording</a></span>
 <span><a href="https://future-of-web-dev-2020.herokuapp.com/">View slides</a></span></p>
 
-
 ### [Enter the Metaverse: Introducing Virtual Reality for the Web (WebVR)](/posts/enter-the-metaverse-webvr/)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/Front-Endgineers-London/events/213532342/">Front Endgineers</a>, London, Nov 2014</p>
@@ -467,7 +419,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/enter-the-metaverse.jpg)](/posts/enter-the-metaverse-webvr/)
 
 <p class="view-links"><span><a href="/posts/enter-the-metaverse-webvr/">Read blog post</a></span> <span><a href="http://skillsmatter.com/skillscasts/5913-enter-the-metaverse-introducing-virtual-reality-for-the-web#video">Watch recording</a></span> <span><a href="http://poshaughnessy.github.io/enter-the-metaverse-webvr/">View slides</a></span></p>
-
 
 ### [Introducing WebVR](http://poshaughnessy.github.io/vr-showcase-intro-to-webvr/)
 
@@ -477,7 +428,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="http://poshaughnessy.github.io/vr-showcase-intro-to-webvr/">View slides</a></span></p>
 
-
 ### [Interfaces of the future, and how to hack around with them now](/posts/interfaces-of-the-future/)
 
 <p class="venue-and-date"><a href="http://www.frontendlondon.co.uk/archive#fel16">Front End London</a>, Jul 2014</p>
@@ -485,7 +435,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/interfaces-of-the-future.jpg)](/posts/interfaces-of-the-future/)
 
 <p class="view-links"><span><a href="/posts/interfaces-of-the-future/">Read my blog post</a></span> <span><a href="https://www.rocketmill.co.uk/front-end-london-july-2014-faster-page-rendering-design-techniques-new-technologies">Read Lotte Jackson's blog post</a></span> <span><a href="http://poshaughnessy.github.io/fel-interfaces-of-the-future/">View slides</a></span></p>
-
 
 ### [Awesome Mobile Animations](/posts/awesome-mobile-animations/)
 
@@ -495,7 +444,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="/posts/awesome-mobile-animations/">Read blog post</a></span></p>
 
-
 ### [Speedy Web UIs: Attempting Fast 2D/3D Graphics for Desktop & Mobile Web](/posts/attempting-fast-3d-graphics-mobile-web/)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/HTML5-CodeShow/events/135509012/">HTML5 CodeShow</a>, London, Sep 2013</p>
@@ -503,7 +451,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/speedy.jpg)](/posts/attempting-fast-3d-graphics-mobile-web/)
 
 <p class="view-links"><span><a href="/posts/attempting-fast-3d-graphics-mobile-web/">Read blog post</a></span></p>
-
 
 ### [The Third Dimension - an introduction to WebGL and Three.js](/posts/third-dimension-introduction-webgl-threejs/)
 
@@ -513,7 +460,6 @@ development. If you would like to invite me to speak at your event, please [get 
 
 <p class="view-links"><span><a href="/posts/third-dimension-introduction-webgl-threejs/">Read blog post</a></span> <span><a href="http://third-dimension-webgl-threejs.herokuapp.com/">View slides</a></span></p>
 
-
 ### [Augmented Reality for Web Developers](/posts/augmented-reality-for-web-developers/)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/londonweb/events/27064511/">London Web</a>, May 2012</p>
@@ -521,7 +467,6 @@ development. If you would like to invite me to speak at your event, please [get 
 [![Presentation](/images/pages/talks/londonweb-ar.jpg)](/posts/augmented-reality-for-web-developers/)
 
 <p class="view-links"><span><a href="/posts/augmented-reality-for-web-developers/">Read blog post</a></span> <span><a href="http://augmented-reality-for-web-devs.herokuapp.com/">View slides</a></span> <span><a href="https://vimeo.com/43317655">Watch recording</a></span></p>
-
 
 ### [Plug and Play APIs](http://developer.pearson.com/blog/plug-and-play-droidcon-amsterdam)
 
