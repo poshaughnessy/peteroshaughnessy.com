@@ -5,7 +5,7 @@ layout: page.hbs
 ## Talks
 
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web
-development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
+development. If you would like to invite me to speak at your event, please get in touch.
 
 ### The Two Sides to Tech Trends: The Push and Pull of Progress And When To Join The Rebel Alliance
 
