@@ -7,9 +7,17 @@ layout: page.hbs
 I love to speak at technology conferences and meetups about upcoming technologies and pushing the boundaries of web
 development. If you would like to invite me to speak at your event, please [get in touch](mailto:peter.oshaughnessy@gmail.com).
 
+### The Two Sides to Tech Trends: The Push and Pull of Progress And When To Join The Rebel Alliance
+
+<p class="venue-and-date">Waitrose HQ, Jan 2020</p>
+
+![Presentation](/images/pages/talks/two-sides-to-tech-trends-2020.jpg)
+
+<p><em>This was an internal-only presentation, but I would be happy to give a public version of this talk too.</em></p>
+
 ### The Innovation Process: Learnings from Pearson Future Tech
 
-<p class="venue-and-date">Waitrose HQ, August 2019</p>
+<p class="venue-and-date">Waitrose HQ, Aug 2019</p>
 
 ![Presentation](/images/pages/talks/innovation-process-aug-2019.jpg)
 

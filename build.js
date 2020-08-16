@@ -32,9 +32,8 @@ function build() {
     .clean(false)
     .use(
       assets({
-        src: "src/static/",
+        src: "src/static",
         dest: ".",
-        replace: "old",
       })
     )
     .use(
