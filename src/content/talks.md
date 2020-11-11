@@ -4,6 +4,14 @@ layout: page.hbs
 
 ## Talks
 
+### Migrating Waitrose.com to React, Node & Micro-services: A Smörgåsbord of Lessons Learned
+
+<p class="venue-and-date"><a href="https://www.meetup.com/JavaScript-Cambridge/events/272872527/">JS and NodeJS Cambridge (online)</a>, Nov 2020</p>
+
+![Presentation](/images/pages/talks/migrating-waitrose-com-2020.jpg)
+
+<p class="view-links"><span><a href="https://www.slideshare.net/secret/ySnMM7HAOQAUJH">View slides</a></span> <span><a href="https://vimeo.com/478018506">Watch recording</a></span></p>
+
 ### The Two Sides to Tech Trends: The Push and Pull of Progress And When To Join The Rebel Alliance
 
 <p class="venue-and-date">Waitrose HQ, Jan 2020</p>

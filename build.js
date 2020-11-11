@@ -29,7 +29,7 @@ function build() {
 
   Metalsmith(__dirname)
     .source("src/content")
-    .clean(false)
+    .clean(true)
     .use(
       assets({
         src: "src/static",
