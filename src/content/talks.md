@@ -4,7 +4,7 @@ layout: page.hbs
 
 ## Talks
 
-### Migrating Waitrose.com to React, Node & Micro-services: A Smörgåsbord of Lessons Learned
+### [Migrating Waitrose.com to React, Node & Micro-services: A Smörgåsbord of Lessons Learned](https://vimeo.com/478018506)
 
 <p class="venue-and-date"><a href="https://www.meetup.com/JavaScript-Cambridge/events/272872527/">JS and NodeJS Cambridge (online)</a>, Nov 2020</p>
 
