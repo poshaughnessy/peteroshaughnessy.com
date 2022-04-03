@@ -6,7 +6,7 @@ date: 2022-04-03
 layout: post.hbs
 ---
 
-Last October, I switched being a web developer for an altogether tougher test! I became a full-time parent, on paternity leave for 5½ months, thanks to the generous [equal parenthood leave policy from my employer](https://www.johnlewispartnership.co.uk/media/press/y2021/jlp-launches-new-support.html) (this post is written in a personal capacity). Tomorrow I'm starting back at work and I wanted to write a bit about my experience, because:
+Last October, I switched being a web developer for an altogether tougher test! I became a full-time parent, on paternity leave for 5½ months, thanks to the very generous, new [equal parenthood leave policy from my employer](https://www.johnlewispartnership.co.uk/media/press/y2021/jlp-launches-new-support.html) (this post is written in a personal capacity). Tomorrow I'm starting back at work and I wanted to write a bit about my experience, because:
 
 - My colleagues are bound to ask me _"how was your paternity leave?"_ and it's going to be difficult to answer without me sighing and inviting them for a chat over a coffee. Either that or pointing them to this blog post.
 - I need to say a big thank you to my employer for giving me all this time off, and a big thank you to my wife and my parents-in-law
