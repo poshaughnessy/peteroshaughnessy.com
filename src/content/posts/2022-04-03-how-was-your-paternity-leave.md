@@ -28,4 +28,4 @@ We don't want to get over-reliant on a drug and we need to speak with the GP or 
 
 _"What will you say when your colleagues ask you how your paternity leave was?"_, my wife asked me this evening. _"Necessary"_, I replied!
 
-Thank you very much to the John Lewis Partnership (we'll be writing to the [chairman Sharon White](https://www.johnlewispartnership.co.uk/about/meet-the-board.html) to thank her directly too), to my wife for putting up with my awful, sleep-deprived moods, and to my wife's parents for all their continued support.
+Thank you very much to the John Lewis Partnership (we'll be writing to the [chairman Sharon White](https://www.johnlewispartnership.co.uk/about/meet-the-board.html) to thank her directly too), to my wife for putting up with my awful, sleep-deprived moods, and to my wife's parents for all their continued support. ❤️
