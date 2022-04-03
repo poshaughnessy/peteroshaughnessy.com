@@ -1,0 +1,31 @@
+---
+title: "How was your paternity leave? 😳"
+slug: how-was-your-paternity-leave
+excerpt: "Last October, I switched being a web developer for an altogether tougher test..."
+date: 2022-04-03
+layout: post.hbs
+---
+
+Last October, I switched being a web developer for an altogether tougher test! I became a full-time parent, on paternity leave for 5½ months, thanks to the generous [equal parenthood leave policy from my employer](https://www.johnlewispartnership.co.uk/media/press/y2021/jlp-launches-new-support.html) (this post is written in a personal capacity). Tomorrow I'm starting back at work and I wanted to write a bit about my experience, because:
+
+- My colleagues are bound to ask me _"how was your paternity leave?"_ and it's going to be difficult to answer without me sighing and inviting them for a chat over a coffee. Either that or pointing them to this blog post.
+- I need to say a big thank you to my employer for giving me all this time off, and a big thank you to my wife and my parents-in-law
+- I seem to recall there was some Twitter spat a few months back about paternity leave. Something like only woke millennial work-shy loser dads would want to take time out from work to help out with the kids? Dads don't breastfeed, so why do they need time off work? Hmm. Well, in our case it was really important and necessary that I had time off to help - this post will explain why!
+
+The first thing I should say is that our two kids are OK, they're doing alright. That's the most important thing. It's been hard though. Really hard! I mean, I knew it was going to be hard, but it's been harder than that. I thought it would get a bit easier towards the end. Well, that's actually been true, but literally just in the last couple of days.
+
+Let's start with the birth... Our baby was born in our bathroom at home. The ambulance arrived nearly an hour after he did. The midwife arrived sometime after that. First I called our midwife hotline but they'd changed the telephone number without telling us. Then I called 999 but I was put on hold. I finally got to speak with someone literally as baby's head was popping out. Then we had to wait until the 6am ambulance crew changeover for an ambulance to be available. Thank goodness my wife's mum and dad arrived just in time - about 10 minutes before the birth - and helped deliver him. And our two-year-old stayed asleep through the birth, even though he was in the room next door!
+
+Subsequently our parental experience has felt mostly defined by sleep, or rather the lack of it. Our two-year-old has never been a great sleeper, but at least when we had one kid we could share the night-time duties. Now we both have one to look after each - and we've both been averaging something like a wake-up every hour or two!
+
+Now it seems pretty clear that our two-year-old has an allergy, or allergies. But for a long time we figured has was just getting hit by one illness after another. He's now had four episodes of a viral-induced wheeze, with three trips to the hospital and one to urgent care. The first time was particularly scary - his breathing had gotten so bad you could see the muscles straining in his neck. Besides that, we expected a bunch of colds and fevers over the winter, especially as he was a baby during lockdown so his immune system is probably still playing catch up. But it took us until just the last few weeks to properly realise that it can't just be constant illnesses causing him to wake up all the time snoring, snuffling, sneezing and snorting. He's been like that for months now!
+
+Next, getting hold of a GP wasn't easy. We've had text messages from our local surgery telling us they can only offer a service for those with the greatest clinical need. Once we did get a phone call back, we were told we need to try a few weeks of [strict dust mite prevention measures](https://patient.info/allergies-blood-immune/allergies/house-dust-mite-and-pet-allergy#nav-6) before we can get referred for anything like an allergy test. Those measures include things like switching curtains for blinds and ripping up carpets, so they're not that simple. The easier (but still time-consuming) things we've tried so far don't seem to have made a noticeable difference yet, but it's only been a week and a half so far.
+
+But we just had what feels like a breakthrough in the past two days. We'd previously tried an antihistamine for our two-year-old called Chlorphenamine Maleate (commonly known as Piriton), but it's short acting and never got us through much of the night before he'd start getting worse again. So we tried a longer-lasting one called Cetirizine (Benadryl brand). Finally the last couple of nights he's been sleeping through til 4am or so before waking up. Sweet, sweet sleep is returning! And he's a sweeter boy for it, too. Because that was the toughest part - a sleep-deprived toddler can be really, really hard to look after without a tonne of patience, and a tonne of patience is really hard to retain when you're sleep deprived too! Furthermore, our two-year-old has been jealous of our baby since he was born (probably not helped by the way he was introduced to him at the home birth) and hasn't wanted to be near him much. But the last couple of days everything's been a bit better. And today was a nice send-off for my paternity leave - we were quite well-rested and our two-year-old was in a good mood the whole day.
+
+We don't want to get over-reliant on a drug and we need to speak with the GP or pharmacist more to figure out a longer term plan. We're only a couple of days in, so I probably shouldn't speak too soon anyway. And we're going to have to manage now (finally) with me back at work. I'm sure there will be big challenges ahead. But it does feel like a light at the end of a tunnel.
+
+_"What will you say when your colleagues ask you how your paternity leave was?"_, my wife asked me this evening. _"Necessary"_, I replied!
+
+Thank you very much to the John Lewis Partnership (we'll be writing to the [chairman Sharon White](https://www.johnlewispartnership.co.uk/about/meet-the-board.html) to thank her directly too), to my wife for putting up with my awful, sleep-deprived moods, and to my wife's parents for all their continued support.
