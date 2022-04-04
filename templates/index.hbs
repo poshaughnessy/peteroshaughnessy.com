@@ -4,32 +4,34 @@
     {{{ contents }}}
     <div class="blog-links">
       {{#each collections.posts}}
-      <div class="blog-link">
         {{#if this.thumbnail}}
-        <a class="thumbnail" href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}">
-          <img src="{{this.thumbnail}}" />
-        </a>
+          <div class="blog-link">
+            {{#if this.thumbnail}}
+            <a class="thumbnail" href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}">
+              <img src="{{this.thumbnail}}" />
+            </a>
+            {{/if}}
+            <div class="title-and-date">
+              <h3><a href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}">{{this.title}}</a></h3>
+              <p class="date">{{formatDate this.date}}</p>
+            </div>
+            {{#if this.tags}}
+            <p class="tags">
+              {{#eachCommaSeparated this.tags}}
+              <span>{{this}}</span>
+              {{/eachCommaSeparated}}
+            </p>
+            {{/if}}
+            {{#if this.excerpt}}
+            <p class="excerpt">{{this.excerpt}}</p>
+            {{/if}}
+            {{#if this.site_name}}
+            <p class="view-links"><span><a href="{{this.url}}">Read post on {{this.site_name}}</a></span></p>
+            {{else}}
+            <p class="view-links"><span><a href="{{this.path}}">Read post</a></span></p>
+            {{/if}}
+          </div>
         {{/if}}
-        <div class="title-and-date">
-          <h3><a href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}">{{this.title}}</a></h3>
-          <p class="date">{{formatDate this.date}}</p>
-        </div>
-        {{#if this.tags}}
-        <p class="tags">
-          {{#eachCommaSeparated this.tags}}
-          <span>{{this}}</span>
-          {{/eachCommaSeparated}}
-        </p>
-        {{/if}}
-        {{#if this.excerpt}}
-        <p class="excerpt">{{this.excerpt}}</p>
-        {{/if}}
-        {{#if this.site_name}}
-        <p class="view-links"><span><a href="{{this.url}}">Read post on {{this.site_name}}</a></span></p>
-        {{else}}
-        <p class="view-links"><span><a href="{{this.path}}">Read post</a></span></p>
-        {{/if}}
-      </div>
       {{/each}}
     </div>
   </section>
