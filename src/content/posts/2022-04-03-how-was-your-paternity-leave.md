@@ -1,5 +1,5 @@
 ---
-title: "How was your paternity leave? 😳"
+title: "\"How was your paternity leave?\" 😳"
 slug: how-was-your-paternity-leave
 excerpt: "Last October, I switched being a web developer for an altogether tougher test..."
 date: 2022-04-03
