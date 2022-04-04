@@ -9,8 +9,8 @@ layout: post.hbs
 Last October, I switched being a web developer for an altogether tougher test! I became a full-time parent, on paternity leave for 5½ months, thanks to the very generous, new [equal parenthood leave policy from my employer](https://www.johnlewispartnership.co.uk/media/press/y2021/jlp-launches-new-support.html) (this post is written in a personal capacity). Tomorrow I'm starting back at work and I wanted to write a bit about my experience, because:
 
 - My colleagues are bound to ask me _"how was your paternity leave?"_ and it's going to be difficult to answer without me sighing and inviting them for a chat over a coffee. Either that or pointing them to this blog post.
-- I need to say a big thank you to my employer for giving me all this time off, and a big thank you to my wife and my parents-in-law
-- I seem to recall there was some Twitter spat a few months back about paternity leave. Something like only woke millennial work-shy loser dads would want to take time out from work to help out with the kids? Dads don't breastfeed, so why do they need time off work? Hmm. Well, in our case it was really important and necessary that I had time off to help - this post will explain why!
+- I need to say a big thank you to my employer for giving me all this time off.
+- I seem to recall there was some Twitter spat a few months back about paternity leave. Something like only woke millennial work-shy loser dads would want to take time out from work to help out with the kids? Dads don't breastfeed, so why do they need time off work? Hmm. Well, in our case it was really important and necessary that I had time off to help - this post will hopefully explain why!
 
 The first thing I should say is that our two kids are OK, they're doing alright. That's the most important thing. It's been hard though. Really hard! I mean, I knew it was going to be hard, but it's been harder than that. I thought it would get a bit easier towards the end. Well, that's actually been true, but literally just in the last couple of days.
 
