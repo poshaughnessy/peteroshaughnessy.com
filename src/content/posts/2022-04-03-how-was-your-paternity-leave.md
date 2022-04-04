@@ -6,7 +6,7 @@ date: 2022-04-03
 layout: post.hbs
 ---
 
-Last October, I switched being a web developer for an altogether tougher test! I became a full-time parent, on paternity leave for 5½ months, thanks to the very generous, new [equal parenthood leave policy from my employer](https://www.johnlewispartnership.co.uk/media/press/y2021/jlp-launches-new-support.html) (this post is written in a personal capacity). Tomorrow I'm starting back at work and I wanted to write a bit about my experience, because:
+Last October, I switched being a web developer for an altogether tougher test! I became a full-time parent, on paternity leave for 5½ months, thanks to the very generous, new [equal parenthood leave policy from my employer](https://www.johnlewispartnership.co.uk/media/press/y2021/jlp-launches-new-support.html) (this post is written in a personal capacity). Tomorrow I'm starting back at work and I wanted to write a bit about my experience - although everyone's experience will be different - because:
 
 - My colleagues are bound to ask me _"how was your paternity leave?"_ and it's going to be difficult to answer without me sighing and inviting them for a chat over a coffee. Either that or pointing them to this blog post.
 - I need to say a big thank you to my employer for giving me all this time off.
@@ -28,6 +28,10 @@ But we just had what feels like a breakthrough in the past two days. We'd previo
 
 We don't want to get over-reliant on a drug and we need to speak with the GP or pharmacist more to figure out a longer term plan. We're only a couple of days in, so I probably shouldn't speak too soon anyway. And we're going to have to manage now (finally) with me back at work. I'm sure there will be big challenges still ahead - parenting is never easy. But it does feel like a light at the end of a tunnel.
 
-_"What will you say when your colleagues ask you how your paternity leave was?"_, my wife asked me this evening. _"Necessary"_, I replied! _"Are you ready to go back to work?"_ my father-in-law asked. _"Just give me another two or three years"_, I replied 😂
+Although I often felt too tired and/or stressed out to really enjoy it, I know that it was really good for me to get all that time to bond with the kids. I'm sure I'll miss that now that my paternity leave has finished. At the same time, I think starting back at work will be good for me, to have some more variety in my life and to interact more with different people again. I'm looking forward to having one day a week in the office, to get out of the house a little bit, whilst still being grateful that I can work from home for the rest of the week.
 
-Thank you very much to the John Lewis Partnership (we'll be writing to the [chairman Sharon White](https://www.johnlewispartnership.co.uk/about/meet-the-board.html) to thank her directly too), to my wife for putting up with my awful, sleep-deprived moods, and to my wife's parents for all their continued support. ❤️
+_"What will you say when your colleagues ask how your paternity leave was?"_, my wife asked me this evening. _"Necessary"_, I replied! 
+
+_"Are you ready to go back to work?"_ my father-in-law asked. _"Just give me another two or three years"_, I replied 😂
+
+Thank you very much to the John Lewis Partnership (we'll be writing to the [chairman Sharon White](https://www.johnlewispartnership.co.uk/about/meet-the-board.html) to thank her directly too). Thank you to my wife for being so great looking after the kids and for putting up with my awful, sleep-deprived moods. And thank you to my wife's parents for all their continued support. ❤️
