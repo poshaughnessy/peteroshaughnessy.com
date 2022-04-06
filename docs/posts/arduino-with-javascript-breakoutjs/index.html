@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Arduino with JavaScript (Breakout.js) - Peter O'Shaughnessy</title>
+    <meta name="description" content="Web developer especially interested in web APIs and the future of the web">
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@poshaughnessy">
+    <meta name="twitter:creator" content="@poshaughnessy">
+      <meta name="twitter:title" content="Arduino with JavaScript (Breakout.js)">
+      <meta name="twitter:description" content="The web browser can be an interface to hardware hacking.">
+      <meta name="twitter:image" content="https://peteroshaughnessy.com/images/posts/2014-04-07-arduino-with-javascript-breakoutjs/thumb-arduino.jpg">
+  </head>
+  <body>
+    <header>
+      <div>
+        <div class="avatar-container">
+          <a href="/"><img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/></a>
+        </div>
+        <div class="title-and-tagline-container">
+          <h1><a href="/">Peter O'Shaughnessy</a></h1>
+          <h2>Web technologies and browser-based experiments</h2>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+<div class="contents">
+  <article class="page page-post">
+    <h1>Arduino with JavaScript (Breakout.js)</h1>
+    <p class="date"><time>7th Apr 2014</time></p>
+    <p>On 19th March, I attended an <a href="http://www.eventhandler.co.uk/events/ldnjsnightclass-introtoarduino">Introduction to Arduino with
+JavaScript</a> night
+class.</p>
+<p>In 3 hours, <a href="https://twitter.com/Lily_2point0">Lily Madar</a> guided us to
+create our first Arduino applications
+using <a href="http://breakoutjs.com/">Breakout.js</a>, a JavaScript Arduino
+interface for the browser.</p>
+<p>First, we just made an LED blink:</p>
+<p><img src="/images/posts/2014-04-07-arduino-with-javascript-breakoutjs/arduino-led.png" alt="Arduino LED"></p>
+<p>But soon we were playing with colour-changing LEDs, buttons
+and <a href="http://www.arduino.cc/en/Tutorial/Potentiometer">potentiometers</a>. It
+was exciting to be able to create a custom, physical hardware interface
+for the browser.</p>
+<p>For our final project, we had a choice. I chose an HTML5 Canvas
+Etch-a-Sketch. It was easy to hook up two potentiometers for drawing the
+line horizontally and vertically. And I included a button for erasing
+the picture.</p>
+<p><img src="/images/posts/2014-04-07-arduino-with-javascript-breakoutjs/arduino-etch-a-sketch.png" alt="Arduino Etch-a-sketch"></p>
+<p>My (messy) source code is <a href="https://github.com/poshaughnessy/intro-to-arduino-with-javascript">up on
+GitHub</a>.</p>
+<p>The biggest issues I found with Breakout.js were:</p>
+<ul>
+<li>The interface with the hardware is only live while your tab is open
+in the browser</li>
+<li>Most of us had to keep restarting the Breakout server often while we
+were developing, due to weird errors</li>
+</ul>
+<p>So it’s not for real, consumer applications, but it’s a cool prototyping
+tool and could make for some fun personal/office projects. For example,
+you could make an LED countdown clock, counting down to your next
+release. Or a set of build server traffic lights.</p>
+<p>All in all, it was a really fun event. A fellow attendee also
+wrote up a <a href="http://blog.caplin.com/2014/03/28/using-javascript-to-program-an-arduino/">nice blog post about it
+here</a>.</p>
+
+    <p class="tags">
+      <span>hacks</span>
+      <span> javascript</span>
+    </p>
+  </article>
+</div>
+    <footer>
+      <p><a rel="me" href="https://toot.cafe/@peter">Mastodon</a> | <a rel="me" href="https://twitter.com/@poshaughnessy">Twitter</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a> | <a href="https://github.com/poshaughnessy/peteroshaughnessy.com">Source</a> | <a href="rss.xml">RSS</a></p>
+      <p>© 2019 Peter O'Shaughnessy</p>
+    </footer>
+  </body>
+</html>

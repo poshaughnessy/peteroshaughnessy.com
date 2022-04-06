@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Combining React and WebGL - Peter O'Shaughnessy</title>
+    <meta name="description" content="Web developer especially interested in web APIs and the future of the web">
+    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@poshaughnessy">
+    <meta name="twitter:creator" content="@poshaughnessy">
+      <meta name="twitter:title" content="Combining React and WebGL">
+      <meta name="twitter:description" content="React is great for building user interfaces, but how does it fit in with WebGL?">
+      <meta name="twitter:image" content="https://peteroshaughnessy.com/images/posts/2015-05-23-combining-react-and-webgl/thumbnail-apoc.png">
+  </head>
+  <body>
+    <header>
+      <div>
+        <div class="avatar-container">
+          <a href="/"><img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/></a>
+        </div>
+        <div class="title-and-tagline-container">
+          <h1><a href="/">Peter O'Shaughnessy</a></h1>
+          <h2>Web technologies and browser-based experiments</h2>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+<div class="contents">
+  <article class="page page-post">
+    <h1>Combining React and WebGL</h1>
+    <p class="date"><time>23rd May 2015</time></p>
+    <p><a href="https://facebook.github.io/react/">React</a> is great for building user interfaces, but how does it fit in if you want to render 3D elements to a WebGL canvas? That was the theme of a talk I gave at <a href="http://www.meetup.com/London-React-User-Group/events/221725048/">London React</a> this week:</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=LcsGax4F6Xo">Link to recording</a></li>
+<li><a href="https://docs.google.com/presentation/d/1moVaB4nnSRyHO53Ic8TPbTTX-M8P1OtLgcdkVejd8o4/edit?usp=sharing">Link to slides</a></li>
+</ul>
+<p>I talked about the journey we had been on with our <a href="http://labs.pearson.com/prototypes/apoc/">‘Apoc’ prototype</a>, a tablet-friendly web app for interactive geology simulations. The majority of the UI is made up of our usual React.DOM components, but a key component is an interactive 3D scene, powered by <a href="http://threejs.org/">Three.js</a>.</p>
+<p><img src="/images/posts/2015-05-23-combining-react-and-webgl/apoc.png" alt="Project Apoc"></p>
+<p>It was surprisingly easy to simply kick off a Three.js module and let it render itself to a canvas element supplied by React. However, there are a few gotchas around the canvas lifecycle - especially if you’re turning the canvas off an on as you flip between different pages. A wider issue is around code structure and not ending up with messy two-way communication between the React component and the Three.js module.</p>
+<p>A great example of a React + Three.js UI is <a href="http://shapex.bodylabs.com">BodyLab’s BMI Visualiser</a>. Developer Paul Melnikow was kind enough to share some information about how they developed it, and what they’d change next time. Should you use React’s <em>setState</em> interface for controlling your Three.js model state too, or is that too much of a fudge?</p>
+<p>Finally, I introduced <a href="https://github.com/Izzimach/react-three">react-three</a>, a library specifically to provide the React bindings for creating and controlling a scene using Three.js. Essentially it handles the lifecycle of the Three.js WebGLRenderer etc for you so you don’t need to worry about the canvas lifecycle yourself. It also provides an easy-to-understand interface where creating Three.js objects feels as easy as creating regular React elements. To demonstrate react-three, I created a robot viewer demo. The <a href="https://github.com/poshaughnessy/react-three-demo">source code is here on GitHub</a>. If you’re on a good network connection and don’t mind waiting a few seconds - because the models are very big - then you can try <a href="react-three-demo.herokuapp.com">the demo online</a>.</p>
+<p>Thanks to Red Badger for hosting me, Paul Melnikow for sharing his insights and Gary Haussmann for creating react-three and answering my questions!</p>
+
+    <p class="tags">
+      <span>talks</span>
+      <span> react</span>
+      <span> webgl</span>
+      <span> three.js</span>
+      <span> ui</span>
+    </p>
+  </article>
+</div>
+    <footer>
+      <p><a rel="me" href="https://toot.cafe/@peter">Mastodon</a> | <a rel="me" href="https://twitter.com/@poshaughnessy">Twitter</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a> | <a href="https://github.com/poshaughnessy/peteroshaughnessy.com">Source</a> | <a href="rss.xml">RSS</a></p>
+      <p>© 2019 Peter O'Shaughnessy</p>
+    </footer>
+  </body>
+</html>
