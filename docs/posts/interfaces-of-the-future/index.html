@@ -54,7 +54,7 @@ the world’s leading learning company. (Some of you here may know it as
 the parent company of the Financial Times).</p>
 <p>First, let’s think about where we are now, in the world of the Web.</p>
 <p><img src="/images/posts/2014-08-04-interfaces-of-the-future/devices.jpg" alt="Cuddling with multiple devices"></p>
-<p class="caption">Credit: <a href="http://en.wikipedia.org/wiki/Digital_omnivore#mediaviewer/File:Cuddling_with_multiple_devices.jpg">Jeremy Keith</a></p>
+<p class="caption">Credit: <a href="http://en.wikipedia.org/wiki/Digital_omnivore#mediaviewer/File:Cuddling_with_multiple_devices.jpg">Jeremy Keith</a></p>
 
 <p>We’ve moved on from the Desktop Era, and having travelled through
 the Age of Mobile, we’re now in the Multi-Device Era, where we no longer
@@ -62,25 +62,25 @@ have neat categories of devices (“smartphone”, “tablet”, “desktop”),
 a continuum of different screen sizes and an assortment of touch-screens
 and non-touch screens.</p>
 <p>But in a way, all these devices are still kind of the same. They’re all
-flat, 2D screens that we have in our hands, or just in front of us. As
-Bret Victor memorably said, it’s all just <a href="http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/">Pictures Under
+flat, 2D screens that we have in our hands, or just in front of us. As
+Bret Victor memorably said, it’s all just <a href="http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/">Pictures Under
 Glass</a>.</p>
 <p><img src="/images/posts/2014-08-04-interfaces-of-the-future/pictures-under-glass.jpg" alt="Pictures Under Glass"></p>
-<p class="caption">Credit: <a href="https://placeit.net/">PlaceIt</a></p>
+<p class="caption">Credit: <a href="https://placeit.net/">PlaceIt</a></p>
 
 <p>That surely can’t be it… So what’s next?</p>
 <p>Well I’m sure we’ve all been hearing a lot of hype about wearables
 recently. Interest in smartwatches has surged since 2012 when Pebble (on
 the left here) became the first $10m Kickstarter campaign.</p>
 <p><img src="/images/posts/2014-08-04-interfaces-of-the-future/smartwatches.jpg" alt="Smartwatches"></p>
-<p class="caption">Credit: <a href="https://www.flickr.com/photos/janitors/10345415843/">Kārlis Dambrāns</a></p>
+<p class="caption">Credit: <a href="https://www.flickr.com/photos/janitors/10345415843/">Kārlis Dambrāns</a></p>
 
 <p>Now Google, Samsung, LG, Motorola and many others are getting in on the
 act, and of course we’re all waiting to see what Apple may or may not
 reveal later this year.</p>
 <p>And who could forget the poster child of geeky new tech, Google Glass?</p>
 <p><img src="/images/posts/2014-08-04-interfaces-of-the-future/google-glass-geeky.jpg" alt="Google Glass"></p>
-<p class="caption">Credit: <a href="https://www.flickr.com/photos/thomashawk/14259298346">Thomas Hawk</a></p>
+<p class="caption">Credit: <a href="https://www.flickr.com/photos/thomashawk/14259298346">Thomas Hawk</a></p>
 
 <p>If you haven’t already tried it out, I’m sure you’ve all heard
 lots of opinions about it already.</p>
@@ -120,13 +120,13 @@ for this:</p>
 
 <p><strong>The Long Nose of Innovation</strong></p>
 <p>And I’d like to talk about being patient… Disruptive technology
-doesn’t take off as soon as it’s been invented. New types of devices
+doesn’t take off as soon as it’s been invented. New types of devices
 start off in research labs as big, clunky, expensive things. Then they
 go through years of refinement and augmentation until eventually
 everything comes together: affordability, ease of use, good marketing…
 and finally they can take off and gain traction.</p>
 <p><img src="/images/posts/2014-08-04-interfaces-of-the-future/long-nose-of-innovation.png" alt="Long Nose of Innovation"></p>
-<p class="caption">Credit: <a href="http://www.sketchplanations.com/post/60700964916/the-long-nose-of-innovation-bill-buxton-i-love">Sketchplanations</a></p>
+<p class="caption">Credit: <a href="http://www.sketchplanations.com/post/60700964916/the-long-nose-of-innovation-bill-buxton-i-love">Sketchplanations</a></p>
 
 <p>We’ve seen this many times over the years. For example, multi-touch
 interfaces have been around in some form for decades, but didn’t really
@@ -167,7 +167,7 @@ before we can start to try it out at least. Meta are planning to bring
 
 <p>This Pro version will be $3,650 and it’ll be attached to a pocket
 computer. So there’s a couple of reasons already why it’s unlikely to
-shoot up that traction axis straight away. But some smart people predict
+shoot up that traction axis straight away. But some smart people predict
 that it will only be 5 years before it becomes this:</p>
 <p><img src="/images/posts/2014-08-04-interfaces-of-the-future/ray-bans.jpg" alt="Ray Bans"></p>
 <p class="caption">Credit: <a href="http://upload.wikimedia.org/wikipedia/commons/4/4b/RayBanAviator.jpg">Wikimedia</a></p>
@@ -209,7 +209,7 @@ can lead to reactions like this:</p>
 <p class="caption">Credit: <a href="http://youtu.be/pAC5SeNH8jw">Paul Rivot</a></p>
 
 <p><strong>WebVR</strong></p>
-<p>This is why I think Virtual Reality is exciting, and it’s an especially
+<p>This is why I think Virtual Reality is exciting, and it’s an especially
 exciting time for us Web developers right now. Because just in the last
 few weeks:</p>
 <ul>
@@ -267,19 +267,25 @@ need to add. Warning: these APIs are brand new - they will undoubtedly
 change.</p>
 <pre><code>if( navigator.getVRDevices ) {
   navigator.getVRDevices().then( vrDeviceCallback );
-}</code></pre><p>This is the discovery bit. [Update: Chrome and Firefox now both use
+}
+</code></pre>
+<p>This is the discovery bit. [Update: Chrome and Firefox now both use
 promises].</p>
 <pre><code>function vrDeviceCallback( vrDevices ) {
     for( var i=0; i &lt; vrDevices.length; i++ ) {
         // If instance of HMDVRDevice...
         // If instance of PositionSensorVRDevice...
     }
-}</code></pre><p>In our callback we can check it’s a Head-Mounted Display and also see if
+}
+</code></pre>
+<p>In our callback we can check it’s a Head-Mounted Display and also see if
 we can get sensor data out for the orientation.</p>
 <pre><code>var leftFOV =
     vrHMD.getRecommendedEyeFieldOfView(&#39;left&#39;);
 
-var leftTrans = vrHMD.getEyeTranslation(&#39;left&#39;);</code></pre><p>For each eye, we can ask for the recommended field of view which we can
+var leftTrans = vrHMD.getEyeTranslation(&#39;left&#39;);
+</code></pre>
+<p>For each eye, we can ask for the recommended field of view which we can
 use to set the right camera projection, and also the translation to
 apply, as in how far apart the cameras should be.</p>
 <pre><code>if( canvas.webkitRequestFullscreen ) {
@@ -289,7 +295,9 @@ apply, as in how far apart the cameras should be.</p>
 } else if( container.mozRequestFullScreen ) {
     container.mozRequestFullScreen({
         vrDisplay: hmdDevice });
-}</code></pre><p>And we call requestFullscreen, passing in our VR device. (Note that for
+}
+</code></pre>
+<p>And we call requestFullscreen, passing in our VR device. (Note that for
 Chrome “Fullscreen” has a small ‘s’ and you need to do it on the actual
 actual WebGL canvas element. For Firefox, it’s a big ‘S’ and their
 example calls it on the element containing the canvas).</p>
@@ -300,12 +308,12 @@ sky map from <a href="http://www.eyeonline.com/">eyeon Software</a>. And I made
 this…</p>
 <p>I’m hoping to release the code, but I haven’t been able to yet. Brandon
 Jones from Google has the <a href="http://bit.ly/oculus-example">code for his demo up
-here</a> though, plus be sure to check out
+here</a> though, plus be sure to check out
 <a href="http://blog.tojicode.com/2014/07/bringing-vr-to-chrome.html">his blog
 post</a>.</p>
 <p><strong>Google Cardboard</strong></p>
 <p>Also just in the last few weeks, Google unveiled
-<a href="https://developers.google.com/cardboard/">Cardboard</a> which, as it
+<a href="https://developers.google.com/cardboard/">Cardboard</a> which, as it
 sounds, is literally made out of cardboard, but it just takes a couple
 of lenses and a button made out of a magnet, and it can turn your
 existing smartphone into a rudimentary Virtual Reality device for just a
@@ -319,7 +327,9 @@ be able to get it to work.</p>
 easy to render the same scene for both eyes side by side:</p>
 <pre><code>var effect = new THREE.StereoEffect( renderer );
 ...
-effect.render( scene, camera );</code></pre><p>And Three.js also has a controls module that uses the standard HTML5
+effect.render( scene, camera );
+</code></pre>
+<p>And Three.js also has a controls module that uses the standard HTML5
 orientation API in order to render things according to the orientation
 of the phone:</p>
 <pre><code>var controls = new THREE.DeviceOrientationControls(
@@ -327,7 +337,9 @@ of the phone:</p>
 
 controls.connect();
 ...
-controls.update();</code></pre><p>Here’s what that looks like:</p>
+controls.update();
+</code></pre>
+<p>Here’s what that looks like:</p>
 <p>Again, unfortunately I can’t share the code for this right now, but
 Google have a <a href="http://bit.ly/cardboard-example">code example up here</a>.</p>
 <p><strong>Just a taster</strong></p>

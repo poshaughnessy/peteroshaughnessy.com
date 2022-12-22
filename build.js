@@ -5,10 +5,10 @@ const Handlebars = require("handlebars");
 const Metalsmith = require("metalsmith");
 
 const assets = require("metalsmith-assets-improved");
-const collections = require("metalsmith-collections");
-const layouts = require("metalsmith-layouts");
-const markdown = require("metalsmith-markdown");
-const permalinks = require("metalsmith-permalinks");
+const collections = require("@metalsmith/collections");
+const layouts = require("@metalsmith/layouts");
+const markdown = require("@metalsmith/markdown");
+const permalinks = require("@metalsmith/permalinks");
 const redirect = require("metalsmith-redirect");
 const rssFeed = require("metalsmith-feed");
 

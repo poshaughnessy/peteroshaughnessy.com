@@ -84,7 +84,9 @@ can connect to it, grab the relevant service and characteristic, and read out it
   .then(characteristic =&gt; {
     // Read battery level...
     return characteristic.readValue();
-  });</code></pre><p>This simple example is not all that exciting though, so I thought I&#39;d introduce a
+  });
+</code></pre>
+<p>This simple example is not all that exciting though, so I thought I&#39;d introduce a
 <a href="http://www.parrot.com/usa/products/minidrones/">Parrot Mini Drone</a>!</p>
 <p><img src="/images/posts/2016-02-03-web-bluetooth-controlling-the-real-world/parrot-mini-drone.jpg" alt="Parrot Mini Drone"></p>
 <p>I wrote a little <a href="https://github.com/poshaughnessy/web-bluetooth-parrot-drone">Drone Controller app</a> that lets you

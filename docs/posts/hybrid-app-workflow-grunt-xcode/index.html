@@ -50,7 +50,7 @@ including things like:</p>
 <li>Single-command build and deployment</li>
 <li>Live re-loading of changes during development</li>
 </ul>
-<p><a href="http://gruntjs.com/">Grunt</a> (like Ant for web apps) enables all of
+<p><a href="http://gruntjs.com/">Grunt</a> (like Ant for web apps) enables all of
 these and a whole lot more. It’s only been on the scene since 2012, but
 it seems to be exploding in popularity right now.</p>
 <p>But how about using Grunt for a <em>hybrid</em> app?</p>
@@ -63,13 +63,13 @@ targeting one platform for the initial prototype).</p>
 <p>The first thing I tried was - of course - PhoneGap. But I was
 disappointed with the standard workflow. I don’t want to have to run the
 PhoneGap build first, then load the resulting project in XCode, and then
-build and run the app from there. That makes the feedback loop for
+build and run the app from there. That makes the feedback loop for
 development too slow.</p>
 <p>It might have been OK if we could have just tested the app in the web
 browser most of the time - if we just wanted to wrap a pure web app
 inside a native wrapper, or bolt on a plugin or two. But we need to
 develop a significant portion of this app in native code, so we need to
-be testing the actual native app very regularly. We don’t want to
+be testing the actual native app very regularly. We don’t want to
 have two separate compilation steps. We need to build it and run it on
 an iOS device or emulator as quickly as possible.</p>
 <p>It was about this time that we stopped looking at PhoneGap and started
@@ -78,11 +78,11 @@ with a simple iOS JavaScript bridge. I think we’ll probably go with the
 latter now, although I’m still wondering about PhoneGap (see below)…</p>
 <p>So, what about Grunt? As I mentioned, we don’t want two separate build
 processes, so we need to combine the Grunt build
-process with the XCode build process. Thankfully we can do
+process with the XCode build process. Thankfully we can do
 that quite easily with a Build Phase <a href="https://developer.apple.com/library/ios/recipes/xcode_help-project_editor/Articles/AddingaRunScriptBuildPhase.html">Run
 Script</a>.</p>
 <p>A <a href="http://stackoverflow.com/questions/14315648/how-to-run-grunt-tasks-during-xcode-build-phase">handy StackOverflow
-post</a> told
+post</a> told
 me this wasn’t too crazy an idea. I soon run into a problem though: the
 Compass SASS compilation failed. It was just a case of fiddling with the
 PATH and environment variables though. I’ve written up the solution as a
