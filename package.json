@@ -1,6 +1,6 @@
 {
   "name": "peteroshaughnessy.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Peter O'Shaughnessy's personal website",
   "main": "index.js",
   "scripts": {
@@ -41,6 +41,6 @@
     "moment": "^2.27.0"
   },
   "overrides": {
-    "marked": "4.0.10"
+    "marked": "6.0.0"
   }
 }
