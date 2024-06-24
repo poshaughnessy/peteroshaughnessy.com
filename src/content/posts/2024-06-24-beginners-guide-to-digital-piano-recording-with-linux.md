@@ -16,6 +16,8 @@ But first, I'll jump straight to how it sounds and what my current setup is, in 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKxXBEO-WY?si=gv8_iym6Yk-TDjsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<p class="caption" style="margin: 0">One I recorded earlier. Output with the Steinway Model D virtual grand piano from Pianoteq, with a few minimal tweaks such as reverb (I set the room size to about 20 metres) </p>
+
 ## My working setup (MIDI)
 
 - Roland FP-10 digital piano
@@ -52,6 +54,10 @@ My audio output is set to: `HDA Intel PCA, ALC256 Analog; Direct hardware device
 
 Now when I have the piano plugged into the USB port of the laptop, I have the piano switched on, and I have Pianoteq open, it "just works" and I can see the keys I'm pressing and hear how it sounds with my selected virtual piano and settings.
 
+<img src="/images/posts/2024-06-24-beginners-guide-digital-piano-recording-linux/pianoteq.jpg" alt="Pianoteq STAGE on Linux Mint"/>
+
+<p class="caption" style="margin: 0">Pianoteq STAGE on Linux Mint</p>
+
 ### OpenShot Video Editor
 
 OpenShot can be a bit unintuitive and even a bit buggy, but I've managed alright with it since I made sure I was running the latest version downloaded [from the OpenShot website](https://www.openshot.org/download/).
@@ -81,4 +87,4 @@ I needed to set the audio channel to "Mono" in the Open Camera video settings (`
 
 ## Summary
 
-That's all the key points I can think of, for how I record my digital piano using MIDI - and how I previously recorded it using audio. I hope you might have found it useful. Happy recording!
+That's all the key points I can think of, for how I now record my digital piano using MIDI - and how I previously recorded it using audio. I hope you might have found it useful. Happy recording!
