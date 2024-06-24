@@ -1,6 +1,6 @@
 {
   "name": "peteroshaughnessy.com",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Peter O'Shaughnessy's personal website",
   "main": "index.js",
   "scripts": {
@@ -35,7 +35,7 @@
     "metalsmith-assets-improved": "^1.0.1",
     "metalsmith-feed": "^1.0.0",
     "metalsmith-redirect": "^3.0.3",
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.0.0"
   },
   "dependencies": {
     "moment": "^2.27.0"
