@@ -46,7 +46,7 @@ And I setup the `audio` group and added my user to it. Please see [the post on j
 
 To record the MIDI and play and export it with different virtual pianos, I tried and subsequently decided to purchase [Pianoteq Stage](https://www.modartt.com/pianoteq_stage). It costs a fair bit, but they have a free trial so you can decide if you think it's worth it. For me, I really love the sound of the Steinway Model D grand piano (that's the one I used for the recording above) and I haven't regretted it.
 
-To configure Pianoteq, I followed [used a tip I read here](https://forum.pianoworld.com/ubbthreads.php/topics/3162235/re-roland-fp-10-usb-to-windows-10-direct-connection-and-midi.html): go to `Edit --> Preferences --> Devices --> Active MIDI inputs` and check `Listen to all MIDI inputs`.
+To configure Pianoteq, I followed [a tip I read here](https://forum.pianoworld.com/ubbthreads.php/topics/3162235/re-roland-fp-10-usb-to-windows-10-direct-connection-and-midi.html): When you first load it up, go to `Edit --> Preferences --> Devices --> Active MIDI inputs` and check `Listen to all MIDI inputs`.
 
 My audio output is set to: `HDA Intel PCA, ALC256 Analog; Direct hardware device without any conversions`.
 
@@ -66,7 +66,7 @@ I was worried at first that it would take me ages to sync the audio and video up
 
 Before I realised MIDI was the way to go for me, I tried recording the actual audio output via the headphone jack. This is basically because I had a naive view of MIDI. I had briefly tried recording MIDI through Roland's Piano Partner 2 phone app via Bluetooth and it recorded badly and sounded bad. I didn't realise how powerful and accurate MIDI could be if I set it up properly. Now I think of MIDI a bit like a computer program I can use to re-generate the audio. I can run the 'program' as many times as I like and change how it sounds (you could even edit the MIDI to fix mistakes if you wanted - I haven't gone that far!)
 
-But my previous setup does have one big advantage over my MIDI setup - this way I can record directly on my phone. I don't need to sync up the video and audio in post-production - I don't need to use a laptop at all. However, I much prefer the resulting sound when I do go to that effort - and the flexibility to be able to change how it sounds afterwards - so for me, it's worth it.
+But my previous setup did have one big advantage over my MIDI setup: I could record directly on my phone. I didn't need to sync up the video and audio in post-production - I didn't need to use a laptop at all. However, I much prefer the resulting sound when I do go to that effort - and the flexibility to be able to change how it sounds afterwards - so for me, it's worth it.
 
 Anyway, before I learned that - here's how I recorded the audio:
 
