@@ -48,8 +48,13 @@ function build() {
     .use(markdown())
     .use(
       permalinks({
-        pattern: ":collection/:slug",
-        relative: false,
+        pattern: ":dirname?/:basename",
+        linksets: [
+          {
+            match: { collection: "posts" },
+            pattern: "posts/:slug",
+          },
+        ],
       })
     )
     .use(

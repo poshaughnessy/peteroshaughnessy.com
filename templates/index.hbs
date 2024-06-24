@@ -8,12 +8,12 @@
         {{#if this.thumbnail}}
           <div class="blog-link">
             {{#if this.thumbnail}}
-            <a class="thumbnail" href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}" aria-label="{{#if this.site_name}}Read '{{this.title}}' post on {{this.site_name}}{{else}}Read '{{this.title}}' post{{/if}}">
+            <a class="thumbnail" href="{{#if this.url}}{{this.url}}{{else}}{{this.permalink}}{{/if}}" aria-label="{{#if this.site_name}}Read '{{this.title}}' post on {{this.site_name}}{{else}}Read '{{this.title}}' post{{/if}}">
               <img src="{{this.thumbnail}}" alt="" />
             </a>
             {{/if}}
             <div class="title-and-date">
-              <h3><a href="{{#if this.url}}{{this.url}}{{else}}{{this.path}}{{/if}}">{{this.title}}</a></h3>
+              <h3><a href="{{#if this.url}}{{this.url}}{{else}}{{this.permalink}}{{/if}}">{{this.title}}</a></h3>
               <p class="date">{{formatDate this.date}}</p>
             </div>
             {{#if this.tags}}

@@ -16,7 +16,7 @@ But first, I'll jump straight to how it sounds and what my current setup is, in 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKxXBEO-WY?si=gv8_iym6Yk-TDjsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## My working setup
+## My working setup (MIDI)
 
 - Roland FP-10 digital piano
 - USB-B to USB-C cable ([this one](https://www.amazon.co.uk/dp/B0769LM3BY))
@@ -58,7 +58,7 @@ OpenShot can be a bit unintuitive and even a bit buggy, but I've managed alright
 
 I was worried at first that it would take me ages to sync the audio and video up exactly, but thankfully I realised that I didn't need to be super-accurate - as long as you hear the note around the time you press the key, it looks normal enough.
 
-## My previous setup
+## My previous setup (audio)
 
 Before I realised MIDI was the way to go for me, I tried recording the actual audio output via the headphone jack. This is basically because I had a naive view of MIDI. I had briefly tried recording MIDI through Roland's Piano Partner 2 phone app via Bluetooth and it recorded badly and sounded bad. I didn't realise how powerful and accurate MIDI could be if I set it up properly. Now I think of MIDI a bit like a computer program I can use to re-generate the audio. I can run the 'program' as many times as I like and change how it sounds (you could even edit the MIDI to fix mistakes if you wanted - I haven't gone that far!)
 
