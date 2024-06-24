@@ -41,6 +41,7 @@
     "moment": "^2.27.0"
   },
   "overrides": {
-    "marked": "13.0.1"
+    "marked": "13.0.1",
+    "lodash": "$lodash"
   }
 }
