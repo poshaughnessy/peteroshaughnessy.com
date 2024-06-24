@@ -21,7 +21,15 @@ But first, I'll jump straight to what my current setup is and how it sounds, in 
 - Android phone - for recording the video of me playing (without audio)
 - OpenShot Video Editor - for merging the video and audio back together
 
-I found this setup fairly straightforward to get working, except for the following details:
+I found this setup fairly straightforward to get working, except for the details below. But first, here's how it actually sounds.
+
+## How it sounds
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKxXBEO-WY?si=gv8_iym6Yk-TDjsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p class="caption" style="margin: 0">One I recorded earlier (Maxence Cyrin's arrangement of Where Is My Mind by the Pixies). Output with the Steinway Model D virtual grand piano from Pianoteq, with a few minimal tweaks such as reverb - I set the room size to about 20 metres. (I've only been playing piano for a short while, so please try to look past the standard of playing!)</p>
+
+## How to get it working
 
 ### Realtime scheduling
 
@@ -55,12 +63,6 @@ Now when I have the piano plugged into the USB port of the laptop, I have the pi
 I use [OpenShot](https://www.openshot.org/) to combine the video recorded on my phone with the audio recorded via MIDI. OpenShot can be a bit unintuitive and even a bit buggy, but I've managed alright with it since I made sure I was running the latest version downloaded [from the OpenShot website](https://www.openshot.org/download/).
 
 I was worried at first that it would take me ages to sync the audio and video up exactly, but thankfully I realised that I didn't need to be super-accurate - as long as you hear the note around the time you press the key, it looks normal enough.
-
-## OK, here's how it sounds
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKxXBEO-WY?si=gv8_iym6Yk-TDjsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p class="caption" style="margin: 0">One I recorded earlier (Maxence Cyrin's arrangement of Where Is My Mind by the Pixies). Output with the Steinway Model D virtual grand piano from Pianoteq, with a few minimal tweaks such as reverb (I set the room size to about 20 metres). (I've only been playing piano for a short while, so please excuse the standard of playing!)</p>
 
 ## My previous setup (audio)
 
