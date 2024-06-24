@@ -10,13 +10,7 @@ I've recently learned the hard way how to record my digital piano. I'd like to s
 
 I personally use Linux Mint, although most of this should be transferrable to any other operating system. I'll explain why I started by recording the audio through the headphone jack, using an Audiobox GO audio interface - and switched to recording MIDI through the USB port.
 
-But first, I'll jump straight to how it sounds and what my current setup is, in case you want the _tl;dr_!
-
-## Here's how it sounds
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKxXBEO-WY?si=gv8_iym6Yk-TDjsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p class="caption" style="margin: 0">One I recorded earlier. Output with the Steinway Model D virtual grand piano from Pianoteq, with a few minimal tweaks such as reverb (I set the room size to about 20 metres) </p>
+But first, I'll jump straight to what my current setup is and how it sounds, in case you want the _tl;dr_!
 
 ## My working setup (MIDI)
 
@@ -44,7 +38,7 @@ And I setup the `audio` group and added my user to it. Please see [the post on j
 
 ### Pianoteq
 
-To record the MIDI and play and export it with different virtual pianos, I tried and subsequently decided to purchase [Pianoteq Stage](https://www.modartt.com/pianoteq_stage). It costs a fair bit, but they have a free trial so you can decide if you think it's worth it. For me, I really love the sound of the Steinway Model D grand piano (that's the one I used for the recording above) and I haven't regretted it.
+To record the MIDI and play and export it with different virtual pianos, I tried and subsequently decided to purchase [Pianoteq Stage](https://www.modartt.com/pianoteq_stage). It costs a fair bit, but they have a free trial so you can decide if you think it's worth it. For me, I really love the sound of the Steinway Model D grand piano in particular (that's the one I used for the recording above) and I haven't regretted it.
 
 To configure Pianoteq, I followed [a tip I read here](https://forum.pianoworld.com/ubbthreads.php/topics/3162235/re-roland-fp-10-usb-to-windows-10-direct-connection-and-midi.html): When you first load it up, go to `Edit --> Preferences --> Devices --> Active MIDI inputs` and check `Listen to all MIDI inputs`.
 
@@ -58,9 +52,15 @@ Now when I have the piano plugged into the USB port of the laptop, I have the pi
 
 ### OpenShot Video Editor
 
-OpenShot can be a bit unintuitive and even a bit buggy, but I've managed alright with it since I made sure I was running the latest version downloaded [from the OpenShot website](https://www.openshot.org/download/).
+I use [OpenShot](https://www.openshot.org/) to combine the video recorded on my phone with the audio recorded via MIDI. OpenShot can be a bit unintuitive and even a bit buggy, but I've managed alright with it since I made sure I was running the latest version downloaded [from the OpenShot website](https://www.openshot.org/download/).
 
 I was worried at first that it would take me ages to sync the audio and video up exactly, but thankfully I realised that I didn't need to be super-accurate - as long as you hear the note around the time you press the key, it looks normal enough.
+
+## OK, here's how it sounds
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKxXBEO-WY?si=gv8_iym6Yk-TDjsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p class="caption" style="margin: 0">One I recorded earlier (Maxence Cyrin's arrangement of Where Is My Mind by the Pixies). Output with the Steinway Model D virtual grand piano from Pianoteq, with a few minimal tweaks such as reverb (I set the room size to about 20 metres). (I've only been playing piano for a short while, so please excuse the standard of playing!)</p>
 
 ## My previous setup (audio)
 
