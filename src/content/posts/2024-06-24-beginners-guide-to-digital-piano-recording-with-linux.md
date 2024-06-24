@@ -8,9 +8,9 @@ date: 2024-06-24
 
 I've recently learned the hard way how to record my digital piano. I'd like to share my setup in case it helps save anyone else some of the time and hassle it took for me.
 
-I personally use Linux Mint, although most of this should be transferrable to any other operating system. I'll explain why I started by recording the audio through the headphone jack, using a Audiobox GO audio interface - and switched to recording MIDI through the USB port.
+I personally use Linux Mint, although most of this should be transferrable to any other operating system. I'll explain why I started by recording the audio through the headphone jack, using an Audiobox GO audio interface - and switched to recording MIDI through the USB port.
 
-But first, I'll jump straight to how it sounds and what my current setup is, in case you want the "too long; didn't read"!
+But first, I'll jump straight to how it sounds and what my current setup is, in case you want the _tl;dr_!
 
 ## Here's how it sounds
 
@@ -46,9 +46,7 @@ And I setup the `audio` group and added my user to it. Please see [the post on j
 
 To record the MIDI and play and export it with different virtual pianos, I tried and subsequently decided to purchase [Pianoteq Stage](https://www.modartt.com/pianoteq_stage). It costs a fair bit, but they have a free trial so you can decide if you think it's worth it. For me, I really love the sound of the Steinway Model D grand piano (that's the one I used for the recording above) and I haven't regretted it.
 
-To configure Pianoteq, I followed [this guide](https://forum.pianoworld.com/ubbthreads.php/topics/3162235/re-roland-fp-10-usb-to-windows-10-direct-connection-and-midi.html).
-
-So when I first started it up, I went to `Edit --> Preferences --> Devices --> Active MIDI inputs` and checked `Listen to all MIDI inputs`.
+To configure Pianoteq, I followed [used a tip I read here](https://forum.pianoworld.com/ubbthreads.php/topics/3162235/re-roland-fp-10-usb-to-windows-10-direct-connection-and-midi.html): go to `Edit --> Preferences --> Devices --> Active MIDI inputs` and check `Listen to all MIDI inputs`.
 
 My audio output is set to: `HDA Intel PCA, ALC256 Analog; Direct hardware device without any conversions`.
 
