@@ -25,9 +25,9 @@ I found this setup fairly straightforward to get working, except for the details
 
 ## How it sounds
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZbKxXBEO-WY?si=gv8_iym6Yk-TDjsq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LIbaksAaDOs?si=y7oDphPN-D7R9Ac4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p class="caption" style="margin: 0">One I recorded earlier (Maxence Cyrin's arrangement of Where Is My Mind by the Pixies). Output with the Steinway Model D virtual grand piano from Pianoteq, with a few minimal tweaks such as reverb - I set the room size to about 20 metres. (I've only been playing piano for a short while, so please try to look past the standard of playing!)</p>
+<p class="caption" style="margin: 0">One I recorded earlier (Maxence Cyrin's arrangement of No Cars Go by Arcade Fire). Output with the Steinway Model D virtual grand piano from Pianoteq. (I've only been playing piano for a short while, so please try to look past the actual standard of playing!)</p>
 
 ## How to get it working
 
@@ -63,6 +63,8 @@ Now when I have the piano plugged into the USB port of the laptop, I have the pi
 I use [OpenShot](https://www.openshot.org/) to combine the video recorded on my phone with the audio recorded via MIDI. OpenShot can be a bit unintuitive and even a bit buggy, but I've managed alright with it since I made sure I was running the latest version downloaded [from the OpenShot website](https://www.openshot.org/download/).
 
 I was worried at first that it would take me ages to sync the audio and video up exactly, but thankfully I realised that I didn't need to be super-accurate - as long as you hear the note around the time you press the key, it looks normal enough.
+
+The final thing I needed to learn was which export type to select. For my camera (OnePlus Nord 3) which takes 1080p video, for a portrait video, a good option is 'FHD Vertical 1080p 29.97 fps (1080x1920)'.
 
 ## My previous setup (audio)
 
