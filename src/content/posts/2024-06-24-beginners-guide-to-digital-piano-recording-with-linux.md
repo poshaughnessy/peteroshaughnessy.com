@@ -25,9 +25,9 @@ I found this setup fairly straightforward to get working, except for the details
 
 ## How it sounds
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wB6Hc8jhI-k?si=NqPlt4Jz6_8s227N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4gy6ETV8AyY?si=4DywcMlX42q1NEri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p class="caption" style="margin: 0">One I recorded earlier (Maxence Cyrin's arrangement of Clubbed to Death by Rob Dougan). Output with the Steinway Model D virtual grand piano from Pianoteq. (I've only been playing piano for a short while, so please try to look past the actual standard of playing!)</p>
+<p class="caption" style="margin: 0">One I recorded earlier (7 arrangements by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (It includes mistakes, and I've only been playing piano for a short while, so please try to look past the actual standard of playing!)</p>
 
 ## How to get it working
 
