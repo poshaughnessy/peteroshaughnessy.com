@@ -25,9 +25,9 @@ I found this setup fairly straightforward to get working, except for the details
 
 ## How it sounds
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4gy6ETV8AyY?si=4DywcMlX42q1NEri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDhUNQnO3yc?si=HNLK6hpLDERMWQSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p class="caption" style="margin: 0">One I recorded earlier (7 arrangements by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (It includes mistakes, and I've only been playing piano for a short while, so please try to look past the actual standard of playing!)</p>
+<p class="caption" style="margin: 0">One I recorded earlier (Clubbed to Death arrangement by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (I'm self-taught and I only started playing in my 40s, so please try to look past the actual standard of playing!)</p>
 
 ## How to get it working
 
@@ -64,15 +64,17 @@ I use [OpenShot](https://www.openshot.org/) to combine the video recorded on my 
 
 I was worried at first that it would take me ages to sync the audio and video up exactly, but thankfully I realised that I didn't need to be super-accurate - as long as you hear the note around the time you press the key, it looks normal enough.
 
-The final thing I needed to learn was which export type to select. For my camera (OnePlus Nord 3) which takes 1080p video, for a portrait video, a good option is 'FHD Vertical 1080p 29.97 fps (1080x1920)'.
+The final thing I needed to learn was which export type to select. For my camera (OnePlus Nord 3) which takes 1080p video, good options are e.g. 'FHD 1080p 29.97 fps (1920x1080)' for landscape videos or 'FHD Vertical 1080p 29.97 fps (1080x1920)' for portrait (depending on how high quality you want).
 
 ## My previous setup (audio)
 
-Before I realised MIDI was the way to go for me, I tried recording the actual audio output via the headphone jack. This is basically because I had a naive view of MIDI. I had briefly tried recording MIDI through Roland's Piano Partner 2 phone app via Bluetooth and it recorded badly and sounded bad. I didn't realise how powerful and accurate MIDI could be if I set it up properly. Now I think of MIDI a bit like a computer program I can use to re-generate the audio. I can run the 'program' as many times as I like and change how it sounds (you could even edit the MIDI to fix mistakes if you wanted - I haven't gone that far!)
+Before I realised MIDI was the way to go for me, I tried recording the actual audio output via the headphone jack. This is basically because I had a naive view of MIDI. I had briefly tried recording MIDI through Roland's Piano Partner 2 phone app via Bluetooth and it recorded badly and sounded bad. I didn't realise how powerful and accurate MIDI could be if I set it up properly. Now I think of MIDI a bit like a computer program I can use to re-generate the audio. I can run the 'program' as many times as I like and change how it sounds.
 
-But my previous setup did have one big advantage over my MIDI setup: I could record directly on my phone. I didn't need to sync up the video and audio in post-production - I didn't need to use a laptop at all. However, I much prefer the resulting sound when I do go to that effort - and the flexibility to be able to change how it sounds afterwards - so for me, it's worth it.
+You can even edit the MIDI to tweak things or fix mistakes if you like. I've done this for little bits here and there when it doesn't feel too much like cheating! ;\) I use a free online MIDI editor called [Signal](https://signalmidi.app/).
 
-Anyway, before I learned that - here's how I recorded the audio:
+However, my previous setup did have one big advantage over my MIDI setup: I could record directly on my phone. I didn't need to sync up the video and audio in post-production - I didn't need to use a laptop at all. However, I much prefer the resulting sound when I do go to that effort - and the flexibility to be able to change how it sounds afterwards - so for me, it's worth it.
+
+Before I learned that though, here is how I recorded the audio:
 
 - Roland FP-10 digital piano
 - 3.5mm to 6.35mm TRS stereo audio cable ([this one](https://www.amazon.co.uk/dp/B08LCZSZQJ))
