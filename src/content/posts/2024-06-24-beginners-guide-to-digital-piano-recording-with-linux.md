@@ -25,9 +25,11 @@ I found this setup fairly straightforward to get working, except for the details
 
 ## How it sounds
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gDhUNQnO3yc?si=HNLK6hpLDERMWQSn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1D8tSA_VVTQ?si=9e9VJcllP0nn5hWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p class="caption" style="margin: 0">One I recorded earlier (Clubbed to Death arrangement by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (I'm self-taught and I only started playing in my 40s, so please try to look past the actual standard of playing!)</p>
+<p class="caption" style="margin: 0">One I recorded earlier (Disorder, arrangement by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (I'm self-taught and I only started playing in my 40s, so please try to look past the actual standard of playing!)</p>
+
+**September 2025 update**: I've since learned that I needed to calibrate Pianoteq for my piano. It sounds better now! Apologies if you listened to an earlier demo of mine as it definitely didn't do it justice!
 
 ## How to get it working
 
