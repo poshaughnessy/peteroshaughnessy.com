@@ -29,7 +29,7 @@ I found this setup fairly straightforward to get working, except for the details
 
 <p class="caption" style="margin: 0">One I recorded earlier (Disorder, arrangement by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (I'm self-taught and I only started playing in my 40s, so please try to look past the actual standard of playing!)</p>
 
-**September 2025 update**: I've since learned that I needed to calibrate Pianoteq for my piano. It sounds better now! Apologies if you listened to an earlier demo of mine as it definitely didn't do it justice!
+**September 2025 update**: I only recently learned that I needed to calibrate Pianoteq for my piano. It sounds better now! Apologies if you listened to an earlier recording of mine as it did it even less justice!
 
 ## How to get it working
 
