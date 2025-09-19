@@ -25,9 +25,9 @@ I found this setup fairly straightforward to get working, except for the details
 
 ## How it sounds
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5DLIoMKFlI8?si=sDIHB07zuiKfBI0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R6j2e29qWjQ?si=3Wm3nknlYWjoOY2T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p class="caption" style="margin: 0">One I recorded earlier (No Cars Go by Arcade Fire, arrangement by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (I'm self-taught and I only started playing in my 40s, so please try to look past the actual standard of playing!)</p>
+<p class="caption" style="margin: 0">One I recorded earlier (Clubbed to Death by Rob Dougan, arrangement by Maxence Cyrin). Output with the Steinway Model D virtual grand piano from Pianoteq. (I'm self-taught and I only started playing in my 40s, so please try to look past the actual standard of playing!) <a href="https://www.youtube.com/@PeterOShaughnessy/search?query=piano">More examples here</a>.</p>
 
 ## How to get it working
 
