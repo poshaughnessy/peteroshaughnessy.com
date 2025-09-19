@@ -54,7 +54,7 @@ My audio output is set to: `HDA Intel PCA, ALC256 Analog; Direct hardware device
 
 Now when I have the piano plugged into the USB port of the laptop, I have the piano switched on, and I have Pianoteq open, it "just works" and I can see the keys I'm pressing and hear how it sounds with my selected virtual piano and settings.
 
-_Update:_ Another tip, which I missed earlier myself. Do make sure you calibrate Pianoteq for your piano. I belatedly did this and it sounds much better now!
+_Update:_ Another tip, which I missed earlier myself. Do make sure you calibrate Pianoteq for your piano (the "Calibration" button, on the left, above the keys). I belatedly did this and it sounds much better now!
 
 <img src="/images/posts/2024-06-24-beginners-guide-digital-piano-recording-linux/pianoteq.jpg" alt="Pianoteq STAGE on Linux Mint"/>
 
