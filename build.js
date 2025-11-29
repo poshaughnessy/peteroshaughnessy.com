@@ -72,7 +72,7 @@ function build() {
         collection: "posts",
         site_url: "https://peteroshaughnessy.com",
         title: "Peter O'Shaughnessy",
-        description: "Web technologies and browser-based experiments",
+        description: "Front-End Developer",
         limit: 50,
       })
     )
