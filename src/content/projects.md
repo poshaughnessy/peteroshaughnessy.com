@@ -4,7 +4,7 @@ layout: page.hbs
 
 ## Projects
 
-Some of the projects I have worked on in recent years include:
+Some of the projects I have worked on over the years include:
 
 ### [VR Developer Gems (2019)](https://www.taylorfrancis.com/books/e/9781315157764)
 
