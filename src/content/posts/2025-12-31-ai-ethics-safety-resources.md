@@ -1,22 +1,24 @@
 ---
-title: AI trajectory, ethics and safety - a starter-pack of links
+title: AI trajectory, ethics and safety — a starter-pack of links
 slug: ai-trajectory-ethics-and-safety
 excerpt: A collection of articles, podcasts, videos etc which I found helpful for catching up on AI trajectory, ethics and safety topics
 thumbnail: /images/posts/2025-12-31-ai-ethics-safety-resources/thumb.jpg
-date: 2024-06-24
+date: 2025-12-31
 ---
 
 After recently reading [blog posts from my brother Kevin](https://medium.com/@ZombieCodeKill) who is studying for an MSc in AI, I became very concerned about the "race to AGI" (Artificial General Intelligence).
 
-There really is no concensus on how close we are to AGI, nor even a consensus on the exact definition. However, using services from companies explicitly aiming to reach AGI to replace human labour (OpenAI, Microsoft, Google et al) feels to me rather like [turkeys voting for Christmas](https://en.wikipedia.org/wiki/Turkeys_voting_for_Christmas). And that's not even getting on to the existential risks.
+There really is no concensus on how close we are to AGI, nor even a consensus on the exact definition. However, using services from (and therefore helping to fund) companies explicitly aiming to reach AGI to replace human labour (OpenAI, Microsoft, Google et al) feels to me rather like [turkeys voting for Christmas](https://en.wikipedia.org/wiki/Turkeys_voting_for_Christmas). And that's not even getting on to the existential risks.
 
-So I have spent the past couple of months trying to catch up, reading, watching and listening to lots and lots on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risk of superintelligence and more. Particularly to help share with colleagues in our Ethics and Sustainability community, I have collected a lot of links. I thought I would share them here too, them to help anyone else wanting to "speed run" these topics. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the first thing we can do to help right now is to try to increase public awareness and clarity.
+So I have spent the past couple of months trying to catch up by reading, watching and listening to lots and lots on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risk of superintelligence and more. Particularly to help share with colleagues in our Ethics and Sustainability community, I have collected a lot of links. I thought I would share them here too, them to help anyone else wanting to "speed run" these topics. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the first thing we can do to help right now is to try to increase public awareness and clarity.
 
 Given the links are broadly about ethics and safety, there is naturally more of a focus on the dangers of AI. However, I have also been mindful to try to include some counter-arguments and differing views, to help paint a fuller picture - particularly with regard to potential AGI timelines. I will try to keep this list of resources up to date every now and then. Please do _not_ view it as a comprehensive list, but as a starting point. If you're hoping to catch up like me, or just looking for anything you might have missed, I hope you might find it useful.
 
 ## 1. AI capability and trajectory
 
-Content which can help us to understand how AI is advancing and how near or far we might be from Artifcial General Inteligence (AGI). _Note:_ Alternative terms for AGI include “powerful AI” (Dario Amodei’s preferred term) and “Higher Level Machine Intelligence” (HLMI, used by the ESPAI survey, for “when unaided machines can accomplish every task better and more cheaply than human workers”). This seems roughly equivalent to the term “strong AGI” used in the ‘Common Ground between AI 2027 & AI as Normal Technology’ essay.
+Content to help understand how AI is advancing and how near or far we might be from Artifcial General Inteligence (AGI).
+
+_Note:_ Alternative terms for AGI include “powerful AI” ([Dario Amodei’s preferred term](https://www.darioamodei.com/essay/machines-of-loving-grace#basic-assumptions-and-framework)) and “Higher Level Machine Intelligence” (HLMI, used by the [ESPAI survey](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai), for _“when unaided machines can accomplish every task better and more cheaply than human workers”_). This seems essentially equivalent to the term “strong AGI” used in the [Common Ground between AI 2027 & AI as Normal Technology](https://asteriskmag.substack.com/p/common-ground-between-ai-2027-and) essay (_"AI systems which can... do virtually everything humans can do just as well but faster and cheaper"_).
 
 ### Articles
 
@@ -53,10 +55,10 @@ Content which can help us to understand how AI is advancing and how near or far 
 
 ### Podcasts / Videos
 
-- [Paul Krugman - Talking With Paul Kedrosky](https://paulkrugman.substack.com/p/talking-with-paul-kedrosky)
-- [Ilya Sutskever – We're moving from the age of scaling to the age of research](https://youtu.be/aR20FWCCjAs)
+- [Dwarkesh Podcast - Ilya Sutskever – We're moving from the age of scaling to the age of research](https://youtu.be/aR20FWCCjAs)
+- [Dwarkesh Podcast - Andrej Karpathy - AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy) (Oct 2025)
 - [The AI Daily Brief: 51 Charts That Will Shape AI in 2026](https://youtu.be/HcyUUvxkykE) (Dec 2025)
-- [Andrej Karpathy - AGI is still a decade away](https://www.dwarkesh.com/p/andrej-karpathy) (Oct 2025)
+- [Paul Krugman - Talking With Paul Kedrosky](https://paulkrugman.substack.com/p/talking-with-paul-kedrosky) (on the economics and signs of a bubble)
 
 ### Quotes
 
@@ -67,7 +69,7 @@ Content which can help us to understand how AI is advancing and how near or far 
 
 ## 2. Current and near-term AI safety risks and ethics
 
-Content which can help us to understand near-term harms and risks from AI.
+Content to help understand near-term harms and risks from AI.
 
 ### Articles
 
@@ -78,10 +80,10 @@ Content which can help us to understand near-term harms and risks from AI.
 
 - [Anthropic - Agentic misalignment](https://www.anthropic.com/research/agentic-misalignment)
 - [Gov.UK Responsible AI Toolkit](https://www.gov.uk/government/collections/responsible-ai-toolkit)
+- [AI Security Institute](https://www.aisi.gov.uk/) (UK government department)
 - [Future of Life Institute - AI Safety Index - Winter 2025](https://futureoflife.org/ai-safety-index-winter-2025/)
 - [Distributed AI Research (DAIR) Institute](https://www.dair-institute.org/) (founded by Timnit Gebru to “counter Big Tech’s pervasive influence on AI research, development and deployment”)
 - [Partnership on AI (PAI)](https://partnershiponai.org/) (non-profit for positive AI outcomes)
-- [AI Security Institute](https://www.aisi.gov.uk/) (UK government department)
 - [Humane Intelligence](https://humane-intelligence.org/) (non-profit for making AI “more accountable, responsible, and fair”)
 - [CivAI (Civic AI Security Program)](https://civai.org/) (non-profit that educates about AI's capabilities and dangers using live demonstrations)
 
@@ -127,7 +129,7 @@ Content about the risk of artificial superintelligence (ASI).
 ### Podcasts / Videos
 
 - [TED Talk - Tristan Harris - Why AI is our ultimate test and greatest invitation](https://www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation) (written version [here](https://centerforhumanetechnology.substack.com/p/the-narrow-path-why-ai-is-our-ultimate))
-- [AI Expert: We Have 2 Years Before Everything Changes | Tristan Harris | Diary Of A CEO](https://youtu.be/CYgcJoOwysY) (please look past the scary Terminator style preview image) (podcast version [here](https://episode.flightcast.com/01KB0GWEH63PB47R8VEVSN95KW.mp3))
+- [Diary of a CEO - AI Expert: We Have 2 Years Before Everything Changes - Tristan Harris](https://youtu.be/CYgcJoOwysY) (please look past the scary Terminator style preview image) (podcast version [here](https://episode.flightcast.com/01KB0GWEH63PB47R8VEVSN95KW.mp3))
 - [Your Undivided Attention - Feed Drop: "Into the Machine" with Tobias Rose-Stockwell and Tristan Harris](https://your-undivided-attention.simplecast.com/episodes/feed-drop-into-the-machine-with-tobias-rose-stockwell-DghO_Lhb)
 - [Future of Life Institute Podcast](https://podcast.futureoflife.org/)
 - [For Humanity: An AI Risk Podcast](https://theairisknetwork.substack.com/s/for-humanity-an-ai-risk-podcast)
@@ -179,7 +181,7 @@ Content about the impact on jobs as AI advances and potentially reaches AGI.
 
 ## 5. The environment
 
-Content about the environmental harms and benefits of AI.
+Content about the environmental harms (and potential benefits) of AI.
 
 ### Articles
 
@@ -223,7 +225,9 @@ Content about AI systems themselves and whether or not we have any moral duty to
 
 ## 8. Open source models and alternative AI providers
 
-Exploring potentially more ethical options, away from the Big Tech AGI arms race. _Note_: this is more like a “to do” list of potential options at this stage, rather than tried-and-tested recommendations.
+Exploring potentially more ethical options, away from the Big Tech AGI arms race.
+
+_Note_: this is more like a “to do” list of potential options at this stage, rather than tried-and-tested recommendations.
 
 - [Hugging Face Visual Studio Code extension](https://huggingface.co/docs/inference-providers/integrations/vscode) - for open source LLMs
 - [Setting Up a Local LLM for Code Assistance](https://medium.com/@walterdeane/setting-up-a-local-llm-for-code-assistance-e4c25afb5757)

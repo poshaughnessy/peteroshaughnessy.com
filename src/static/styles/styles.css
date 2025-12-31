@@ -201,13 +201,21 @@ nav li a.active {
   color: #333;
 }
 
+.page ul {
+  margin-bottom: 1em;
+}
+
+.page li {
+  margin-bottom: 0.5em;
+}
+
 .page h2 {
   font-size: 1.6em;
   margin: 0.5em 0;
 }
 
 .page-post h2 {
-  margin-top: 1em;
+  margin-top: 1.5em;
 }
 
 .page h3 {
