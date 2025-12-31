@@ -8,15 +8,11 @@ date: 2024-06-24
 
 After recently reading [blog posts from my brother Kevin](https://medium.com/@ZombieCodeKill) who is studying for an MSc in AI, I became very concerned about the "race to AGI" (Artificial General Intelligence).
 
-There really is no concensus on how close we are to AGI, nor even a consensus on the exact definition. However, using paid-for services from companies explicitly aiming to reach AGI to replace human labour (OpenAI, Microsoft, Google et al) feels to me very much like [turkeys voting for Christmas](https://en.wikipedia.org/wiki/Turkeys_voting_for_Christmas). And that's not even getting on to the existential risks.
+There really is no concensus on how close we are to AGI, nor even a consensus on the exact definition. However, using services from companies explicitly aiming to reach AGI to replace human labour (OpenAI, Microsoft, Google et al) feels to me rather like [turkeys voting for Christmas](https://en.wikipedia.org/wiki/Turkeys_voting_for_Christmas). And that's not even getting on to the existential risks.
 
-So I have spent the past couple of months (belatedly) reading lots and lots on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risk of superintelligence and more.
+So I have spent the past couple of months trying to catch up, reading and listening to lots and lots on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risk of superintelligence and more. Particularly to help share with colleagues in our Ethics and Sustainability community, I have collected a lot of links. I thought I would share them here too, them to help anyone else wanting to "speed run" these topics. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the first thing we can do to help right now is to try to increase public awareness and clarity.
 
-Particularly to help share with colleagues in our Ethics and Sustainability community, I have collected a lot of links. I thought I would share them here too, them to help anyone else wanting to "speed run" these topics. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the first thing we can do to help right now is to try to increase public awareness and clarity.
-
-Given the links are broadly about ethics and safety, there is naturally more of a focus on the negative and worrying parts of AI. However, I have also been mindful to try to include some counter-arguments and differing views, to help paint a fuller picture.
-
-I will try to keep this list of resources up to date every now and then. I hope you might find it useful.
+Given the links are broadly about ethics and safety, there is naturally more of a focus on the dangers of AI. However, I have also been mindful to try to include some counter-arguments and differing views, to help paint a fuller picture. I will try to keep this list of resources up to date every now and then. Please do _not_ view it as comprehensive, but more as a starting point. I hope you might find it useful.
 
 ## 1. AI capability and trajectory
 
