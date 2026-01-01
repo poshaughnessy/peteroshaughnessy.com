@@ -6,7 +6,7 @@ thumbnail: /images/posts/2025-12-31-ai-ethics-safety-resources/thumb.jpg
 date: 2025-12-31
 ---
 
-## What I've been reading, listening to and watching, to understand AI's dangers and what to do about it
+### What I've been reading, listening to and watching, to understand AI's dangers and what to do about it
 
 Reading the [blog posts from my brother Kevin](https://medium.com/@ZombieCodeKill) who is studying for an MSc in AI, I have recently become very concerned about the "[race to AGI](https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai)" (Artificial General Intelligence).
 
