@@ -45,8 +45,10 @@ module.exports = {
     "/posts/solving-big-data-for-humans",
   "/post/132897105349/robots-virtual-reality-and-the-internet-of":
     "/posts/robots-vr-iot-cant-believe-its-javascript",
-  "/post/reawakening-to-the-threat-of-ai":
-    "/posts/waking-up-to-the-threat-of-ai",
+  "/posts/reawakening-to-the-threat-of-ai":
+    "/posts/ai-trajectory-ethics-and-safety",
+  "/posts/waking-up-to-the-threat-of-ai":
+    "/posts/ai-trajectory-ethics-and-safety",
   "/pages/portfolio": "/projects",
   "/portfolio": "/projects",
   "/pages/talks": "/talks",
