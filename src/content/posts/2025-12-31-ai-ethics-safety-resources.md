@@ -12,11 +12,11 @@ Reading the [blog posts from my brother Kevin](https://medium.com/@ZombieCodeKil
 
 I'm concerned about advanced AI [concentrating power for authoritarians](https://www.authoritarian-stack.info/). I'm concerned about [mass job losses](https://www.ippr.org/media-office/up-to-8-million-uk-jobs-at-risk-from-ai-unless-government-acts-finds-ippr) without [a suitable safety net](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). And I'm concerned about the [existential risk](https://www.thecompendium.ai/) of superintelligence, if or when it arrives.
 
-To try to understand the situation better and find ideas for how to help, I have spent the past couple of months attempting to catch up by reading, watching and listening to _lots and lots_ on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risks of superintelligence and more.
+To try to understand the situation better and find ideas for how to help, I have spent the past couple of months attempting to catch up by reading, watching and listening to _lots and lots_ on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, superintelligence and more.
 
-Particularly to help share with colleagues in an Ethics and Sustainability community I co-organise, I have collected a lot of links. I thought I would share them here too, to help anyone else wanting to "speed run" these topics. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the best thing we can do to help right now is to try to increase public awareness and clarity.
+Particularly to help share with colleagues in an Ethics and Sustainability community I co-organise, I have collected a lot of links. I thought I would share them here too. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the best thing we can do to help right now is to try to increase public awareness and clarity.
 
-The focus is generally on AI's risks, but I have also been mindful to try to include some counter-arguments and differing views, to help paint a fuller picture - particularly with regard to potential AGI timelines.
+I have been mindful to try to include some counter-arguments and differing views, to help paint a fuller picture - particularly with regard to the potential for AGI and possible timelines.
 
 I will try to update the list every now and then. Please do not view it as a comprehensive set of topics, but just as a starting point. If you're hoping to catch up like me, or just looking for anything you might have missed, I hope you might find it useful.
 
@@ -196,9 +196,9 @@ Content about the impact on jobs as AI advances and potentially reaches AGI.
 
 ### Articles
 
-- [Axios - Behind the Curtain: A white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic) (2025)
-- [The Guardian - Why universal basic income still can’t meet the challenges of an AI economy](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang)
-- [“Everyone is so panicked”: Entry-level tech workers describe the AI-fueled jobpocalypse](https://restofworld.org/2025/engineering-graduates-ai-job-losses/)
+- [Axios - Behind the Curtain: A white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic) (May 2025)
+- [The Guardian - Why universal basic income still can’t meet the challenges of an AI economy](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang) (Dec 2025)
+- [“Everyone is so panicked”: Entry-level tech workers describe the AI-fueled jobpocalypse](https://restofworld.org/2025/engineering-graduates-ai-job-losses/) (Dec 2025)
 
 ### Blog posts
 
@@ -225,8 +225,8 @@ Content about the environmental harms (and potential benefits) of AI.
 
 ### Articles
 
-- [The Guardian - More than 200 environmental groups demand halt to new US datacenters](https://www.theguardian.com/us-news/2025/dec/08/us-data-centers)
-- [The Guardian - AI boom has caused same CO2 emissions in 2025 as New York City, report claims](https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds)
+- [The Guardian - More than 200 environmental groups demand halt to new US datacenters](https://www.theguardian.com/us-news/2025/dec/08/us-data-centers) (Dec 2025)
+- [The Guardian - AI boom has caused same CO2 emissions in 2025 as New York City, report claims](https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds) (Dec 2025)
 
 ### Podcasts / Videos
 
@@ -238,7 +238,7 @@ Content about existing and potential regulations and issues of legality.
 
 ### Articles
 
-- [The Guardian - Boost for artists in AI copyright battle as only 3% back UK active opt-out plan](https://www.theguardian.com/technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan)
+- [The Guardian - Boost for artists in AI copyright battle as only 3% back UK active opt-out plan](https://www.theguardian.com/technology/2025/dec/16/boost-for-artists-in-ai-copyright-battle-as-only-3-per-cent-back-uk-active-opt-out-plan) (Dec 2025)
 
 ### Blog posts
 
@@ -255,15 +255,15 @@ Content about AI systems themselves and whether or not we have any moral duty to
 
 ### Articles
 
-- [The evidence for AI consciousness today](https://ai-frontiers.org/articles/the-evidence-for-ai-consciousness-today)
-- [We may never be able to tell if AI becomes conscious, argues philosopher](https://www.cam.ac.uk/research/news/we-may-never-be-able-to-tell-if-ai-becomes-conscious-argues-philosopher)
-- [The Guardian - AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights) (“People demanding that AIs have rights would be a huge mistake”)
+- [The evidence for AI consciousness today](https://ai-frontiers.org/articles/the-evidence-for-ai-consciousness-today) (Dec 2025)
+- [We may never be able to tell if AI becomes conscious, argues philosopher](https://www.cam.ac.uk/research/news/we-may-never-be-able-to-tell-if-ai-becomes-conscious-argues-philosopher) (Dec 2025)
+- [The Guardian - AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer](https://www.theguardian.com/technology/2025/dec/30/ai-pull-plug-pioneer-technology-rights) (Dec 2025) (“People demanding that AIs have rights would be a huge mistake”)
 
 ### Podcasts / Videos
 
-- [Anthropic’s philosopher answers your questions](https://www.youtube.com/watch?v=I9aGC6Ui3eE) (Amanda Askell interview)
+- [Anthropic’s philosopher answers your questions](https://www.youtube.com/watch?v=I9aGC6Ui3eE) (Dec 2025) (Amanda Askell interview)
 
-<h2 id="alternatives">Open source models and alternative AI providers</h2>
+<h2 id="alternatives">8. Open source models and alternative AI providers</h2>
 
 Exploring potentially more ethical options, away from the Big Tech AGI arms race.
 
