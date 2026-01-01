@@ -68,7 +68,7 @@ _Note:_ Alternative terms for AGI include “powerful AI” ([Dario Amodei’s p
   - _“Over and over again, it’s been dangerous to bet against deep learning...Given the massive implications and serious risks, there’s enough evidence to take this possibility \[of AGI\] extremely seriously.”_
 - [Frontier AI: capabilities and risks](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper) - UK government research, Oct 2023
 - [Anthropic - Signs of introspection in large language models](https://www.anthropic.com/research/introspection)
-  - Introspective awareness _“might facilitate more advanced forms of deception or scheming”_. The latest models demonstrated the greatest introspection awareness, suggesting it might scale with general capability. \_“As this capability improves, models might become increasingly resistant to oversight, safety interventions, or course corrections — because they can tell when something external is constraining them.”\_ ([source](https://medium.com/@ZombieCodeKill/claude-on-feeling-and-introspection-bc732c0a206b))
+  - Introspective awareness _“might facilitate more advanced forms of deception or scheming”_. The latest models demonstrated the greatest introspection awareness, suggesting it might scale with general capability. _“As this capability improves, models might become increasingly resistant to oversight, safety interventions, or course corrections — because they can tell when something external is constraining them.”_ ([source](https://medium.com/@ZombieCodeKill/claude-on-feeling-and-introspection-bc732c0a206b))
 
 ### Podcasts / Videos
 
@@ -77,6 +77,7 @@ _Note:_ Alternative terms for AGI include “powerful AI” ([Dario Amodei’s p
 - [Dwarkesh Podcast - Ilya Sutskever – We're moving from the age of scaling to the age of research](https://youtu.be/aR20FWCCjAs) (Nov 2025)
   - Ilya is the former co-founder and chief scientist of OpenAI and now the co-founder of Safe Superintelligence (SSI)
 - [The AI Daily Brief: 51 Charts That Will Shape AI in 2026](https://youtu.be/HcyUUvxkykE) (Dec 2025)
+  - _“There’s no common definition of AGI and there are even plenty of folks out there who think that the term is getting more and more meaningless... If anything, I think people's [AGI] timelines got moved back slightly heading into 2026 from where they were heading into 2025... Andrej Karpathy in particular in a big interview he did might have single-handedly set the timeline back a couple of years.”_
 - [Paul Krugman - Talking With Paul Kedrosky](https://paulkrugman.substack.com/p/talking-with-paul-kedrosky) (Dec 2025) (on the economics and signs of a bubble)
 
 ### Quotes
