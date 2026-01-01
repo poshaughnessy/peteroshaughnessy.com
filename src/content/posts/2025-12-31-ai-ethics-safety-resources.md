@@ -79,6 +79,7 @@ _Note:_ Alternative terms for AGI include “powerful AI” ([Dario Amodei’s p
 - [The AI Daily Brief: 51 Charts That Will Shape AI in 2026](https://youtu.be/HcyUUvxkykE) (Dec 2025)
   - _“There’s no common definition of AGI and there are even plenty of folks out there who think that the term is getting more and more meaningless... If anything, I think people's [AGI] timelines got moved back slightly heading into 2026 from where they were heading into 2025... Andrej Karpathy in particular in a big interview he did might have single-handedly set the timeline back a couple of years.”_
 - [Paul Krugman - Talking With Paul Kedrosky](https://paulkrugman.substack.com/p/talking-with-paul-kedrosky) (Dec 2025) (on the economics and signs of a bubble)
+  - _“...you’re seeing people increasingly look at other approaches. I think in all likelihood, none of them will lead to anything like AGI.”_
 
 ### Quotes
 
