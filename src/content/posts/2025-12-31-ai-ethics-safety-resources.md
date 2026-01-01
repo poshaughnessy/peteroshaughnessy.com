@@ -12,7 +12,7 @@ Reading the [blog posts from my brother Kevin](https://medium.com/@ZombieCodeKil
 
 I'm worried about advanced AI [concentrating power for authoritarians](https://www.authoritarian-stack.info/). I'm worried about [mass job losses](https://www.ippr.org/media-office/up-to-8-million-uk-jobs-at-risk-from-ai-unless-government-acts-finds-ippr) without [a suitable safety net](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). And I'm worried about the [existential risk](https://www.thecompendium.ai/) of superintelligence, if or when it arrives.
 
-To try to understand the situation better and try to find ideas for how to help, I have spent the past couple of months trying to catch up by reading, watching and listening to _lots and lots_ on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risks of superintelligence and more.
+To try to understand the situation better and find ideas for how to help, I have spent the past couple of months attempting to catch up by reading, watching and listening to _lots and lots_ on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risks of superintelligence and more.
 
 Particularly to help share with colleagues in an Ethics and Sustainability community I co-organise, I have collected a lot of links. I thought I would share them here too, to help anyone else wanting to "speed run" these topics. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the best thing we can do to help right now is to try to increase public awareness and clarity.
 
