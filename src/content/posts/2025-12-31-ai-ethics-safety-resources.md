@@ -10,7 +10,7 @@ date: 2025-12-31
 
 Reading the [blog posts from my brother Kevin](https://medium.com/@ZombieCodeKill) who is studying for an MSc in AI, I have recently become very concerned about the "[race to AGI](https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai)" (Artificial General Intelligence).
 
-I'm worried about advanced AI [concentrating power for authoritarians](https://www.authoritarian-stack.info/). I'm worried about [mass job losses](https://www.ippr.org/media-office/up-to-8-million-uk-jobs-at-risk-from-ai-unless-government-acts-finds-ippr) without [a suitable safety net](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). And I'm worried about the [existential risk](https://www.thecompendium.ai/) of superintelligence, if or when it arrives.
+I'm concerned about advanced AI [concentrating power for authoritarians](https://www.authoritarian-stack.info/). I'm concerned about [mass job losses](https://www.ippr.org/media-office/up-to-8-million-uk-jobs-at-risk-from-ai-unless-government-acts-finds-ippr) without [a suitable safety net](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). And I'm concerned about the [existential risk](https://www.thecompendium.ai/) of superintelligence, if or when it arrives.
 
 To try to understand the situation better and find ideas for how to help, I have spent the past couple of months attempting to catch up by reading, watching and listening to _lots and lots_ on AI: how it works, its capabilities and trajectory, near-term safety risks, ethical concerns, the risks of superintelligence and more.
 
