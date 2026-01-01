@@ -1,10 +1,12 @@
 ---
-title: AI trajectory, ethics and safety — a starter-pack of links
+title: AI trajectory, ethics and safety resoures
 slug: ai-trajectory-ethics-and-safety
-excerpt: A collection of articles, podcasts, videos etc which I found helpful for catching up on AI trajectory, ethics and safety topics
+excerpt: What I've been reading, listening to and watching, to understand AI's dangers and what to do about it
 thumbnail: /images/posts/2025-12-31-ai-ethics-safety-resources/thumb.jpg
 date: 2025-12-31
 ---
+
+## What I've been reading, listening to and watching, to understand AI's dangers and what to do about it
 
 Reading the [blog posts from my brother Kevin](https://medium.com/@ZombieCodeKill) who is studying for an MSc in AI, I have recently become very concerned about the "[race to AGI](https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai)" (Artificial General Intelligence).
 
@@ -18,7 +20,20 @@ Given the links are broadly about ethics and safety, there is naturally more of 
 
 I will try to update the list every now and then. Please do not view it as a comprehensive set of topics, but just as a starting point. If you're hoping to catch up like me, or just looking for anything you might have missed, I hope you might find it useful.
 
-## 1. AI capability and trajectory
+## Contents
+
+<ol>
+  <li><a href="#capability">AI capability and trajectory</a></li>
+  <li><a href="#near-term">Current and near-term AI safety risks and ethics</a></li>
+  <li><a href="#superintelligence">Superintelligence risks</a></li>
+  <li><a href="#jobs">Job replacement</a></li>
+  <li><a href="#environment">The environment</a></li>
+  <li><a href="#regulations">Regulations and legality</a></li>
+  <li><a href="#welfare">AI potential consciousness and welfare</a></li>
+  <li><a href="#alternatives">Open source models and alternative AI providers</a></li>
+</ol>
+
+<h2 id="capability">1. AI capability and trajectory</h2>
 
 Content to help understand how AI is advancing and how near or far we might be from Artifcial General Inteligence (AGI).
 
@@ -77,7 +92,7 @@ _Note:_ Alternative terms for AGI include “powerful AI” ([Dario Amodei’s p
 - [Dwarkesh Podcast - Ilya Sutskever – We're moving from the age of scaling to the age of research](https://youtu.be/aR20FWCCjAs) (Nov 2025)
   - Ilya is the former co-founder and chief scientist of OpenAI and now the co-founder of Safe Superintelligence (SSI)
 - [The AI Daily Brief: 51 Charts That Will Shape AI in 2026](https://youtu.be/HcyUUvxkykE) (Dec 2025)
-  - _“There’s no common definition of AGI and there are even plenty of folks out there who think that the term is getting more and more meaningless... If anything, I think people's [AGI] timelines got moved back slightly heading into 2026 from where they were heading into 2025... Andrej Karpathy in particular in a big interview he did might have single-handedly set the timeline back a couple of years.”_
+  - _“There’s no common definition of AGI and there are even plenty of folks out there who think that the term is getting more and more meaningless... If anything, I think people's [AGI] timelines got moved back slightly heading into 2026 from where they were heading into 2025...”_
 - [Paul Krugman - Talking With Paul Kedrosky](https://paulkrugman.substack.com/p/talking-with-paul-kedrosky) (Dec 2025) (on the economics and signs of a bubble)
   - _“...you’re seeing people increasingly look at other approaches. I think in all likelihood, none of them will lead to anything like AGI.”_
 
@@ -88,7 +103,7 @@ _Note:_ Alternative terms for AGI include “powerful AI” ([Dario Amodei’s p
 - _"What I know from the technical people I speak to here in Silicon Valley is the vast majority of them are very dubious that we are even on the path towards some kind of superintelligent, sentient being. The vast majority of them think that the current moment we're in with LLMs... doesn't even put us on the track to that sort of stuff..."_
   - Jacob Ward, journalist and author (CNN, PBS, Al Jazeera, The Loop) on the [For Humanity podcast](https://theairisknetwork.substack.com/p/what-we-lose-when-ai-makes-choices)
 
-## 2. Current and near-term AI safety risks and ethics
+<h2 id="near-term">2. Current and near-term AI safety risks and ethics</h2>
 
 Content to help understand near-term harms and risks from AI.
 
@@ -118,7 +133,7 @@ Content to help understand near-term harms and risks from AI.
 - [BBC News - How hackers are using AI and how to protect yourself](https://youtu.be/vPaF6TypfX8) (Nov 2025)
   - _“This is going to be the most tricky technology to secure that we've ever created... The places that are doing this well are understandably cautious and they are building one small step with a whole load of defensive controls around that...”_
 
-## 3. Superintelligence risks
+<h2 id="superintelligence">3. Superintelligence risks</h2>
 
 Content about the risk of artificial superintelligence (ASI).
 
@@ -175,7 +190,7 @@ Content about the risk of artificial superintelligence (ASI).
 - _“AI companies are racing to build technology that they absolutely do not understand and cannot control.”_
   - Steven Adler, former lead safety researcher at OpenAI
 
-## 4. Job replacement
+<h2 id="jobs">4. Job replacement</h2>
 
 Content about the impact on jobs as AI advances and potentially reaches AGI.
 
@@ -204,7 +219,7 @@ Content about the impact on jobs as AI advances and potentially reaches AGI.
 - Counter-argument: _"I think we live in a very complex, high-friction world where actually intelligence is so multi-dimensional and all this 'replacement' is just incredibly hard and in the real world when you're at the coal face... and humans are just so versatile and so well evolved to deal with the world that we actually live in... I think [AI] will work extraordinarily well in domains that are extraordinarily valuable, but I do not think we're heading for this frictionless, plug-and-play, is-a-human replacement, so I think humans will have comparative advantage in a bunch of things for a very long time."_
   - Matt Clifford, ex government AI advisor, on the Rest Is Politics podcast
 
-## 5. The environment
+<h2 id="environment">5. The environment</h2>
 
 Content about the environmental harms (and potential benefits) of AI.
 
@@ -217,7 +232,7 @@ Content about the environmental harms (and potential benefits) of AI.
 
 - [TED Talks Daily: How to make AI a force for good in climate | Amen Ra Mashariki and Manoush Zomorodi](https://www.ted.com/talks/manoush_zomorodi_amen_ra_mashariki_how_to_make_ai_a_force_for_good_in_climate) (Dec 2025)
 
-## 6. Regulations and legality
+<h2 id="regulations">6. Regulations and legality</h2>
 
 Content about existing and potential regulations and issues of legality.
 
@@ -234,7 +249,7 @@ Content about existing and potential regulations and issues of legality.
 - [EU AI Act: first regulation on artificial intelligence](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence)
 - [UK AI Regulation: Current Status and Outlook](https://gdprlocal.com/uk-ai-act/)
 
-## 7. AI potential consciousness and welfare
+<h2 id="welfare">7. AI potential consciousness and welfare</h2>
 
 Content about AI systems themselves and whether or not we have any moral duty to treat them a certain way.
 
@@ -248,7 +263,7 @@ Content about AI systems themselves and whether or not we have any moral duty to
 
 - [Anthropic’s philosopher answers your questions](https://www.youtube.com/watch?v=I9aGC6Ui3eE) (Amanda Askell interview)
 
-## 8. Open source models and alternative AI providers
+<h2 id="alternatives">Open source models and alternative AI providers</h2>
 
 Exploring potentially more ethical options, away from the Big Tech AGI arms race.
 
