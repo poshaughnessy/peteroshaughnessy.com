@@ -16,7 +16,7 @@ To try to understand the situation better and find ideas for how to help, I have
 
 Particularly to help share with colleagues in an Ethics and Sustainability community I co-organise, I have collected a lot of links. I thought I would share them here too, to help anyone else wanting to "speed run" these topics. As [Tristan Harris says](www.ted.com/talks/tristan_harris_why_ai_is_our_ultimate_test_and_greatest_invitation), the best thing we can do to help right now is to try to increase public awareness and clarity.
 
-Given the links are broadly about ethics and safety, there is naturally more of a focus on the dangers of AI. However, I have also been mindful to try to include some counter-arguments and differing views, to help paint a fuller picture - particularly with regard to potential AGI timelines.
+The focus is generally on AI's risks, but I have also been mindful to try to include some counter-arguments and differing views, to help paint a fuller picture - particularly with regard to potential AGI timelines.
 
 I will try to update the list every now and then. Please do not view it as a comprehensive set of topics, but just as a starting point. If you're hoping to catch up like me, or just looking for anything you might have missed, I hope you might find it useful.
 
