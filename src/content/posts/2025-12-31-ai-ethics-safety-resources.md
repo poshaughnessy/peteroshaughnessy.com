@@ -1,5 +1,5 @@
 ---
-title: AI trajectory, ethics and safety resoures
+title: AI trajectory, ethics and safety resources
 slug: ai-trajectory-ethics-and-safety
 excerpt: What I've been reading, listening to and watching, to understand AI's dangers and what to do about it
 thumbnail: /images/posts/2025-12-31-ai-ethics-safety-resources/thumb.jpg
