@@ -64,7 +64,7 @@ I've seen a lot of back-and-forth on the water consumption of AI data centres, w
 
 And although LLMs have been improving a lot as we’ve probably all been seeing for ourselves, we can't rely on them to be accurate.
 
-The rate of hallucinations - when AI generates made-up, false information - [appears to be reducing somewhat](https://www.uxtigers.com/post/ai-hallucinations), with the AI companies investing billions into finding ways to mitigate them. However, it still seems like a fundamental trait of LLMs which is never going to reach zero.
+The rate of hallucinations - when AI generates made-up, false information - [appears to be reducing somewhat](https://www.uxtigers.com/post/ai-hallucinations), with the AI companies investing billions into finding ways to mitigate them. However, it still seems like [a fundamental trait of LLMs](https://openai.com/index/why-language-models-hallucinate/) which is never going to reach zero.
 
 Us humans aren’t 100% reliable either of course, but at least we usually make it clear when we’re not sure about something, rather than confidently state things we made up as facts.
 
