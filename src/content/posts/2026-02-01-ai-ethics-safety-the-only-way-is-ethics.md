@@ -54,7 +54,7 @@ And by being trained on as much of the Internet as these companies can scrape, t
 
 ### Environment
 
-Then there's the environmental impact. Training LLMs takes a huge amount of computation power. [More than 200 environmental groups have demanded a halt to new data centres in the US](https://www.theguardian.com/us-news/2025/dec/08/us-data-centers), accusing the AI companies of causing planet-heating emissions, worsening the climate crisis, and exacerbating electricity bill increases.
+Then there's the environmental impact. Training frontier LLMs takes a huge amount of computation power. [More than 200 environmental groups have demanded a halt to new data centres in the US](https://www.theguardian.com/us-news/2025/dec/08/us-data-centers), accusing the AI companies of causing planet-heating emissions, worsening the climate crisis, and exacerbating electricity bill increases.
 
 ### Hallucinations
 
