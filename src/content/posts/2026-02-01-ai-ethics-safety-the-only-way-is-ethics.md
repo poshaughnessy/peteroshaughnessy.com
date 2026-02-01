@@ -120,7 +120,7 @@ A race being fuelled by [trillions of dollars of investment](https://www.underst
 
 Just [seven AI companies now account for a third of the entire US stock market](https://www.investopedia.com/the-mag-7-in-charts-how-big-tech-dominates-the-market-11866473).
 
-And the AI execs speak confidently about being close to reaching it, perhaps being even only a year or two away.
+And the AI execs speak confidently about being close to reaching AGI, perhaps being even only a year or two away.
 
 Dario Amodei the CEO of Anthropic [has predicted AI could _"surpass almost all humans at almost everything shortly after 2027"_](<(https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/)>).
 
