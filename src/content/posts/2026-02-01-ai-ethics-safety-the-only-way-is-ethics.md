@@ -118,7 +118,7 @@ Of course, the AI companies care about safety too, but the point is that they ca
 
 A race being fuelled by [trillions of dollars of investment](https://www.understandingai.org/p/16-charts-that-explain-the-ai-boom), betting [that the AI companies are going to achieve this AGI mission soon](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward).
 
-Just [seven AI companies now account for over a third of the entire US stock market](https://www.investopedia.com/the-mag-7-in-charts-how-big-tech-dominates-the-market-11866473).
+Just [seven AI companies now account for a third of the entire US stock market](https://www.investopedia.com/the-mag-7-in-charts-how-big-tech-dominates-the-market-11866473).
 
 And the AI execs speak confidently about being close to reaching it, perhaps being even only a year or two away.
 
