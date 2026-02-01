@@ -1,7 +1,7 @@
 ---
 title: Responsible AI — The Only Way Is Ethics
 slug: responsible-ai-the-only-way-is-ethics
-excerpt: An adapted script from a talk I gave internally on AI ethics and safety
+excerpt: A whistle-stop tour through key AI ethics and safety topics, adapted from a talk I gave at an AI-related hackathon
 thumbnail: /images/posts/2026-02-01-responsible-ai/thumb.jpg
 date: 2026-02-01
 ---
