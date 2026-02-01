@@ -124,9 +124,9 @@ Just [seven AI companies now account for a third of the entire US stock market](
 
 And the AI execs speak confidently about being close to reaching AGI, perhaps being even only a year or two away.
 
-Dario Amodei the CEO of Anthropic [has predicted AI could _"surpass almost all humans at almost everything shortly after 2027"_](<(https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/)>).
+Dario Amodei the CEO of Anthropic [has said AI could _"surpass almost all humans at almost everything shortly after 2027"_](<(https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/)>).
 
-The other day, I searched for "BFF" to look up the definition of backend-for-frontends...
+Sometimes, predictions like that feel very fanciful. For example, the other day, I searched for "BFF" to look up the definition of backend-for-frontends...
 
 <img src="/images/posts/2026-02-01-responsible-ai/bff.jpg" alt="Google AI Overview: 'BFF stands for Big Friendly Giant (BFG)...'"/>
 
@@ -162,7 +162,7 @@ The Institute for Public Policy Research warns that [up to 8 million jobs could 
 
 Some people say that it would be great if we get AGI, because we won't have to work anymore. Computers will do the work and we can put our feet up and get paid a Universal Basic Income (UBI)...
 
-But there are [several issues and uncertainties with this](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). If all the wealth and power ends up going to a few huge AI companies in the US, who's going to pay the taxes that can allow governments to pay universal basic income in countries like the UK?
+But there are [several issues and uncertainties with this](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). If all the wealth and power ends up going to a few huge AI companies in the US, how is that going to be taxed and redistributed fairly to countries across the globe, to allow governments like ours to pay universal basic income?
 
 If we're out of work, we won't have any bargaining power, especially compared to these companies which - with all that AI power and wealth - will have the most incredible ability to lobby and influence governments that the world has ever seen.
 
