@@ -8,28 +8,29 @@
     {{else}}
       <title>Peter O'Shaughnessy</title>
     {{/if}}
-    <meta name="description" content="Front-end developer working at an employee-owned retailer">
-    <link rel="stylesheet" href="/styles/styles.css"/>
-    <link rel="icon" href="/images/favicon.png" type="image/png">
+    <meta name="description" content="Front-end developer working at an employee-owned retailer" />
+    <link rel="stylesheet" href="/styles/styles.css" />
+    <link rel="icon" href="/images/favicon.png" type="image/png" />
     <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@poshaughnessy">
-    <meta name="twitter:creator" content="@poshaughnessy">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@poshaughnessy" />
+    <meta name="twitter:creator" content="@poshaughnessy" />
+    <meta property="og:type" content="website" />
     {{#if title}}
-      <meta name="twitter:title" content="{{title}}">
-      <meta property="og:title" content="{{title}}">
+      <meta name="twitter:title" content="{{title}}" />
+      <meta property="og:title" content="{{title}}" />
     {{else}}
-      <meta name="twitter:title" content="Peter O'Shaughnessy">
+      <meta name="twitter:title" content="Peter O'Shaughnessy" />
     {{/if}}
     {{#if excerpt}}
-      <meta name="twitter:description" content="{{excerpt}}">
-      <meta property="og:description" content="{{excerpt}}">
+      <meta name="twitter:description" content="{{excerpt}}" />
+      <meta property="og:description" content="{{excerpt}}" />
     {{else}}
-      <meta name="twitter:description" content="Front-end developer working at an employee-owned retailer">
+      <meta name="twitter:description" content="Front-end developer working at an employee-owned retailer" />
     {{/if}}
     {{#if thumbnail}}
-      <meta name="twitter:image" content="https://peteroshaughnessy.com{{thumbnail}}">
+      <meta name="twitter:image" content="https://peteroshaughnessy.com{{thumbnail}}" />
+      <meta name="og:image" content="https://peteroshaughnessy.com{{thumbnail}}" />
     {{/if}}
   </head>
   <body>
