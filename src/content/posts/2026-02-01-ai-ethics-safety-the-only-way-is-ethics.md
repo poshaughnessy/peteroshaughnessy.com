@@ -58,6 +58,8 @@ And by being trained on as much of the Internet as these companies can scrape, t
 
 Then there's the environmental impact. Training frontier LLMs takes a huge amount of computation power. [More than 200 environmental groups have demanded a halt to new data centres in the US](https://www.theguardian.com/us-news/2025/dec/08/us-data-centers), accusing the AI companies of causing planet-heating emissions, worsening the climate crisis, and exacerbating electricity bill increases.
 
+I've seen a lot of back-and-forth on the water consumption of AI data centres, with people saying it's only a small amount of water compared to e.g. the amount we use to grow soya beans. However, a UK government report [has warned that the growing demand could pose "a substantial threat to water security worldwide and, critically, within the UK"](https://assets.publishing.service.gov.uk/media/688cb407dc6688ed50878367/Water_use_in_data_centre_and_AI_report.pdf). It's also not just the overall quantity, but [where the water is drawn from](https://www.theatlantic.com/technology/archive/2024/03/ai-water-climate-microsoft/677602/) and the [impact on local water supplies](https://www.bbc.co.uk/news/articles/cy8gy7lv448o).
+
 ### Hallucinations
 
 And although LLMs have been improving a lot as we’ve probably all been seeing for ourselves, we can't rely on them to be accurate.
@@ -66,7 +68,7 @@ The rate of hallucinations - when AI generates made-up, false information - [app
 
 Us humans aren’t 100% reliable either of course, but at least we usually make it clear when we’re not sure about something, rather than confidently state things we made up as facts.
 
-And [studies have found that even with Retrieval-Augmented Generation (RAG) techniques, models still fabricate legal citations](https://www.lakera.ai/blog/guide-to-hallucinations-in-large-language-models).
+And studies have found that even with Retrieval-Augmented Generation (RAG) techniques, [models still fabricate legal citations](https://www.lakera.ai/blog/guide-to-hallucinations-in-large-language-models).
 
 ### Deception
 
@@ -74,7 +76,7 @@ Something which is _increasing_ with newer models is their ability to be decepti
 
 They are even found to demonstrate different behaviour when they know they are being tested, for example strategically underperforming on evaluations to hide their true abilities. They also scheme and fake alignment with the user’s goals.
 
-An [Apollo Research study found instances of Claude attempting to write self-propagating worms, fabricating legal documentation, and leaving hidden notes to future instances of itself all in an effort to undermine its developers' intentions](https://www.livescience.com/technology/artificial-intelligence/the-more-advanced-ai-models-get-the-better-they-are-at-deceiving-us-they-even-know-when-theyre-being-tested).
+An Apollo Research study found instances of Claude [attempting to write self-propagating worms, fabricating legal documentation, and leaving hidden notes to future instances of itself all in an effort to undermine its developers' intentions](https://www.livescience.com/technology/artificial-intelligence/the-more-advanced-ai-models-get-the-better-they-are-at-deceiving-us-they-even-know-when-theyre-being-tested).
 
 An [Anthropic study found AI models even resort to blackmail if they're told they will be removed](https://www.bbc.co.uk/news/articles/cpqeng9d20go).
 
@@ -276,13 +278,13 @@ In fact, the UK already launched the world’s first AI Safety Institute and the
 
 ### 9. Keep talking about it
 
-I'm still new to this myself - I don't have all the answers. If you agree with me that these topics are important, let's keep talking about them and try to figure it out together.
+I'm still new to this myself - I don't have all the answers. The landscape is also shifting very fast. If you agree with me that these topics are important, let's keep talking about them and try to figure it out together.
 
 ### 10. Hack (safely) and learn
 
 And finally, we're not going to succeed by trying to ignore AI and hope it goes away.
 
-To survive and thrive, we need to try to learn about AI as much as we can. So hack days like today are very important. Let's hack (safely) and learn.
+To "survive and thrive", we need to try to learn about AI as much as we can. So hack days like today are very important. Let's hack (safely) and learn.
 
 As technologists, we can then role model using and deploying AI responsibly. And we can help in spreading that public clarity that Tristan Harris called for - to help everyone to prepare for, adapt to, and steer the advance of AI.
 
