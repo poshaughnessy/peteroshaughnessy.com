@@ -34,6 +34,8 @@ The majority of the focus will be on the poster child of AI - Generative AI and 
 
 There's a lot to go through, so I'm going to rattle through it quickly. Or as Freddie would say in The Only Way Is Essex, go _"from like 0 to 100"_ real quick.
 
+(And yes, I did structure my talk around a TV show I’d never actually watched before, just for the purposes of a pun!)
+
 <img src="/images/posts/2026-02-01-responsible-ai/llm-parameter.jpg" alt="A large set of decimal point numbers in green font, on a black background"/>
 
 If you wondered what an LLM looks like, here is a picture of just a part of one parameter in an LLM. OpenAI's GPT-3, released in 2020, had 175 billion parameters. [Google's recent Gemini 3 may have at least a trillion — some think it’s more like 7 trillion](https://www.technologyreview.com/2026/01/07/1130795/what-even-is-a-parameter). Good luck to anyone trying to debug one of these!
@@ -268,7 +270,7 @@ Tristan Harris says that [navigating to a positive AI future all starts with pub
 
 Connor Leahy, founder of AI Safety company [Conjecture](https://www.conjecture.dev/), says that [asking Big Tech to police AI themselves is like expecting oil companies to solve climate change](https://fortune.com/2024/04/15/openai-google-microsoft-responsobile-societal-questions-government-responsibility/). Instead, it's elected governments who should regulate the sector adequately to keep people safe.
 
-So that's not down to us directly, but there are things that we can do to help that to happen.
+So that's not down to us directly, but there _are_ things that we can do to help that to happen.
 
 For example, we can share Connor's campaign, [Control AI](https://controlai.com/), with our MPs. Control AI are [calling on the UK government to introduce binding regulation on the most powerful AI systems](https://controlai.com/statement). They now have [over 100 UK parliamentarians signed up](https://www.theguardian.com/technology/2025/dec/08/scores-of-uk-parliamentarians-join-call-to-regulate-most-powerful-ai-systems).
 
