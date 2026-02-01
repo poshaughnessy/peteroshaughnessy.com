@@ -12,7 +12,7 @@ I've been a developer since graduating in 2003 and mostly developing for the web
 
 I have an interest in tech ethics. At the organisation where I work, I created and co-organise an "ethics &amp; sustainability" community where we've hosted virtual presentations. I'm keen on accessibility and performance, and I've helped to lead our move to micro-frontends, which has given us performance and delivery benefits.
 
-Around November 2025, I became very concerned about [the race to Artificial General Intelligence](https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai) and I decided to focus a lot of my attention on it from now on.
+In 2025, I became concerned about [the race to "Artificial General Intelligence"](https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai) and I started to focus a lot on AI ethics and safety, to try to identify positive actions which might help.
 
 Outside of technology, I bought myself a piano for my 40th birthday and taught myself how to play some pieces that I really love. I've started putting [recordings of them here on YouTube](https://www.youtube.com/@PeterOShaughnessy/search?query=piano) if you're interested.
 
