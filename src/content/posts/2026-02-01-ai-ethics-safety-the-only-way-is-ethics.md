@@ -124,11 +124,7 @@ And the AI execs speak confidently about being close to reaching AGI, perhaps be
 
 Dario Amodei the CEO of Anthropic [has predicted AI could _"surpass almost all humans at almost everything shortly after 2027"_](<(https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/)>).
 
-When I checked [The AGI Clock website](https://theagiclock.com/) and saw their expert consensus prediction for AGI is mid 2029, less than 2 and a half years away, I got pretty worried.
-
-Would we be ready for this? Would our society and institutions be ready for this?
-
-But the other day, I searched for "BFF" to look up the definition of backend-for-frontends...
+The other day, I searched for "BFF" to look up the definition of backend-for-frontends...
 
 <img src="/images/posts/2026-02-01-responsible-ai/bff.jpg" alt="Google AI Overview: 'BFF stands for Big Friendly Giant (BFG)...'"/>
 
@@ -136,7 +132,7 @@ And Google's AI Overview told me _"BFF stands for Big Friendly Giant (BFG)"_.
 
 It can be hard for us to reconcile that on the one hand, AI is really smart at many things and outperforming us humans on tonnes of benchmarks. And on the other hand, it makes stupid mistakes that humans just wouldn't make.
 
-But I think many people perhaps focus a bit too much on those stupid mistakes, because it's comforting to us in terms of our human superiority.
+But I think some people perhaps focus a bit too much on those stupid mistakes, because it's comforting to us in terms of our human superiority.
 
 We need to remember that AI's intelligence is "jagged", with peaks and troughs that are different to our human intelligence...
 
