@@ -26,6 +26,8 @@ So the first section of the talk will be on 'AI: the bad parts'. I would like to
 
 The reason for sharing the concerning and dangerous aspects of AI is to try to help our collective understanding, in preparation for then humbly offering some recommendations in the second part of the talk. In other words, sharing the negatives to help us take positive actions.
 
+### Large Language Models
+
 <img src="/images/posts/2026-02-01-responsible-ai/llms-subset-of-ai.jpg" alt="A set of nested circles showing, in decreasing size order: AI, Machine Learning, Deep Learning, Generative AI, LLMs"/>
 
 The majority of the focus will be on the poster child of AI - Generative AI and specifically Large Language Models (LLMs). Hopefully that fits with the topic of our hack day today. It's also at the forefront of AI where I think the biggest ethical questions lie. But we should remember that this is only a subset of AI.
@@ -40,7 +42,7 @@ They are black boxes, vast and inscrutable. There is no instruction code to foll
 
 ### Training
 
-And there are problems with how they're trained:
+And there are problems with how they're trained.
 
 The labelling of data for supervised training has taken a heavy toll on many low-paid, foreign workers, such as [contractors in Kenya hired by OpenAI](https://www.wsj.com/tech/chatgpt-openai-content-abusive-sexually-explicit-harassment-kenya-workers-on-human-workers-cf191483).
 
