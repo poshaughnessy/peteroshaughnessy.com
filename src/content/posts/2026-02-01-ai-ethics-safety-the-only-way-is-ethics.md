@@ -156,7 +156,7 @@ We could perhaps take some comfort from the fact that plenty of people disagree 
 
 This is a chart from the [2023 Expert Survey on Progress in AI](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai). They used the term Higher Level Machine Intelligence (HLMI) rather than AGI, with the definition: _"when unaided machines can accomplish every task better and more cheaply than human workers"_.
 
-The bold lines are the aggregate forecasts from the thousands of experts they surveyed. The faint lines in the background are a random subset of the individual predictions, showing how much they differ. In other words, how little agreement there really is. (Although the aggregate prediction became significantly more bullish, in the space of one year between surveys).
+The bold lines are the aggregate forecasts from the thousands of experts they surveyed. The faint lines in the background are a random subset of the individual predictions, showing how much they differ. In other words, how little agreement there really is. (Although the aggregate prediction became more bullish in the space of one year between surveys; the 50% chance aggregate date came down by thirteen years).
 
 On the reassuring side, here's a quote I like from Matt Clifford, a former AI advisor to the UK government, on The Rest is Politics podcast:
 
