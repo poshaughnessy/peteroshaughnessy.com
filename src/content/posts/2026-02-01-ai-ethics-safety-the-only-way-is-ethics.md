@@ -180,7 +180,7 @@ And even if we do get UBI, it's only a basic income - for many of us, it wouldn'
 
 Powerful AI could also bring about [a huge concentration of power for the company or companies who achieve it, and any government they're collaborating with](https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/).
 
-Surveillance, manipulation and steering election results are not just theoretical risks, there's [evidence of them happening already](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media) in countries around the world.
+AI-powered surveillance, manipulation and steering election results are not just theoretical risks, there's [evidence of them happening already](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media) in countries around the world.
 
 And the risks ramp up even higher when we start to talk about the potential for _super_-intelligence...
 
