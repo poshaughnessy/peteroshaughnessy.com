@@ -148,13 +148,17 @@ This [timeline from Tomas Pueyo](https://xcancel.com/tomaspueyo/status/199336093
 
 If we don't hit some kind of unforeseen wall, it seems reasonable to expect the field of AI (not necessarily LLMs on their own) to keep progressing like this.
 
-But really there's no consensus on the timeframe for it.
+Dario Amodei's prediction is on the most bullish side, but a lot of independent researchers think we're likely to reach AGI in the next few years too. The "Research Community Prediction Date" from [The AGI Clock](https://theagiclock.com/) is 2036. On Metacalculus, the online forecasting platform, the [aggregate prediction is 2033](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/).
+
+We could perhaps take some comfort from the fact that plenty of people disagree too — it's safe to say there's no real consensus.
 
 <img src="/images/posts/2026-02-01-responsible-ai/espai.jpg" alt="2023 Expert Survey on Progress in AI (ESPAI) graph showing Probability of HLMI on the y-axis and Year (2025 to around 2124) on the x-axis"/>
 
-This is a chart from the [2023 Expert Survey on Progress in AI](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai). They used the term Higher Level Machine Intelligence (HLMI) rather than AGI, with the definition: _"when unaided machines can accomplish every task better and more cheaply than human workers"_. The bold lines are the aggregate forecasts from the thousands of experts they surveyed. The faint lines in the background are a random subset of the individual predictions, showing how much they differ. In other words, how little agreement there really is.
+This is a chart from the [2023 Expert Survey on Progress in AI](https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai). They used the term Higher Level Machine Intelligence (HLMI) rather than AGI, with the definition: _"when unaided machines can accomplish every task better and more cheaply than human workers"_.
 
-And for some reassurance, here's a quote I like from Matt Clifford, a former AI advisor to the UK government, on The Rest is Politics podcast:
+The bold lines are the aggregate forecasts from the thousands of experts they surveyed. The faint lines in the background are a random subset of the individual predictions, showing how much they differ. In other words, how little agreement there really is. (Although the aggregate prediction became significantly more bullish, in the space of one year between surveys).
+
+On the reassuring side, here's a quote I like from Matt Clifford, a former AI advisor to the UK government, on The Rest is Politics podcast:
 
 > _"I think we live in a very complex, high-friction world where actually intelligence is so multi-dimensional... and humans are just so versatile and so well evolved to deal with the world that we actually live in... I think humans will have comparative advantage in a bunch of things for a very long time."_
 
