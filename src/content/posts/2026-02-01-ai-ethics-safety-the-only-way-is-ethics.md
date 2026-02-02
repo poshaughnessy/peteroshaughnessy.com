@@ -122,7 +122,7 @@ As [Tristan Harris, the ex Google Design ethicist best known for Netflix's The S
 
 Of course, the AI companies care about safety too, but the point is that they care more about not getting left behind in the race.
 
-A race being fuelled by [trillions of dollars of investment](https://www.understandingai.org/p/16-charts-that-explain-the-ai-boom), betting [that the AI companies are going to achieve this AGI mission soon](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward).
+A race being fuelled by [trillions of dollars of investment](https://www.understandingai.org/p/16-charts-that-explain-the-ai-boom). Trillions [being bet that the AI companies will achieve this AGI mission soon](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward).
 
 Just [seven AI companies now account for a third of the entire US stock market](https://www.investopedia.com/the-mag-7-in-charts-how-big-tech-dominates-the-market-11866473).
 
