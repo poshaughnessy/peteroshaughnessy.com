@@ -260,7 +260,7 @@ If we can use more narrow AI for a task, i.e. smaller, specialist models designe
 
 Massive, general AI models like frontier LLMs may be where the excitement and hype is, but it's also where the biggest dangers lie - and do we really need them for everything?
 
-[Specialised models can be more efficient and produce better results](https://www.cio.com/article/4077192/giant-ai-models-and-the-shift-to-specialized-ai.html).
+[Specialised models can be more efficient and produce better results](https://www.cio.com/article/4077192/giant-ai-models-and-the-shift-to-specialized-ai.html). They can also have significantly less impact on the environment.
 
 ### 7. Stay in control
 
