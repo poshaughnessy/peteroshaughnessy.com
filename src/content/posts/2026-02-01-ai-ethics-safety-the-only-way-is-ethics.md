@@ -234,19 +234,21 @@ Use and deploy AI safely and ethically. Hopefully your organisation has adopted 
 
 The UK government also has a [Responsible AI Toolkit](https://www.gov.uk/government/collections/responsible-ai-toolkit).
 
-### 3. Use a multi-vendor strategy
+### 3. Practise restraint
 
-Especially given the volatility of the AI race, a multi-vendor strategy feels like a very good idea, to reduce lock-in to specific companies. Copilot at least allows us to choose from different model providers.
+The energy requirements for _using_ AI may be relatively small, but we should remember that using them makes us part of the full lifecycle of these models, which includes the [huge energy requirements for training them](https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds). So we should be conscious about our use of LLMs and consider when we need to use them.
+
+Unfortunately, many digital products are [switching AI features on by default, with no easy way to opt out](https://www.orfonline.org/expert-speak/no-option-to-opt-out-the-environmental-impact-of-mandatory-ai-integration). We should stand against this and request that products we use have appropriate AI user controls.
 
 ### 4. Favour safer models
 
-We can also keep an eye on model safety assessments and favour the safer ones.
+We can keep an eye on model safety assessments and favour the safer ones.
 
 The [AI Safety Index report](https://futureoflife.org/ai-safety-index-winter-2025/) from the Future of Life Institute showed Anthropic and OpenAI models scored the highest for safety. None of the models they tested achieved higher than a C+ grade though.
 
 ### 5. Consider open source models
 
-To avoid funding and fuelling the "race to AGI", we can consider making more use of open source and open weight models.
+To avoid funding and fuelling the "race to AGI", we should consider making more use of open source and open weight models.
 
 Strictly speaking, to comply with the [Open Source Initiative's definition of open source models](https://opensource.org/ai/open-source-ai-definition), they should include the full training dataset and the complete source code used to train the model. There's actually [only 5 models that comply with that definition](https://opensource.org/ai). So most of the models people call 'open source' are really just 'open weight', but that can still have the advantages of [being able to run them on our own infrastructure, build redundancy, and further avoid vendor lock-in](https://www.businessinsider.com/europe-ai-startup-mistral-edge-over-silicon-valley-not-american-2026-1).
 
