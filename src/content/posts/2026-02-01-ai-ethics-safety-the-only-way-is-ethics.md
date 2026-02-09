@@ -146,7 +146,7 @@ This [timeline from Tomas Pueyo](https://xcancel.com/tomaspueyo/status/199336093
 
 If we don't hit some kind of wall, it seems reasonable to expect the field of AI (not necessarily LLMs on their own) to keep progressing like this.
 
-Dario Amodei's prediction is on the most bullish side though. We could perhaps take comfort from the fact that plenty of people disagree too — it's safe to say there's no real consensus.
+Dario Amodei's prediction is on the most bullish side though. Plenty of AI researchers believe AGI is much further off, or infeasible altogether. It's safe to say there's no real consensus.
 
 <img src="/images/posts/2026-02-01-responsible-ai/espai.jpg" alt="2023 Expert Survey on Progress in AI (ESPAI) graph showing Probability of HLMI on the y-axis and Year (2025 to around 2124) on the x-axis"/>
 
