@@ -292,7 +292,7 @@ And finally, we're not going to succeed by trying to ignore AI and hope it goes 
 
 To "survive and thrive", we need to try to learn about AI as much as we can. So hack days like today are very important. Let's hack (safely) and learn.
 
-As technologists, we can then role model using and deploying AI responsibly. And we can help in spreading that public clarity that Tristan Harris called for - to help everyone to prepare for, adapt to, and steer the advance of AI.
+As technologists, we can then role model using AI as responsibly as possible. And we can help in spreading that public clarity that Tristan Harris called for - to help everyone to prepare for, adapt to, and steer the advance of AI.
 
 To get through this and reach a positive AI future, for ourselves, our organisation and the world - there really is only one way...
 
