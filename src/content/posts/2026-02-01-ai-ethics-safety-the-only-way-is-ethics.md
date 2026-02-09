@@ -50,7 +50,7 @@ The labelling of data for supervised training has taken a heavy toll on many low
 
 There's the questionable legality and ethics of the data they've ingested, such as the open source code on GitHub that probably many of us have contributed to. Microsoft's GitHub are still facing a class-action lawsuit which [has accused them of "unprecedented open-source software piracy"](https://githubcopilotlitigation.com/). Although the majority of the claims so far have been dismissed on the basis that LLMs don't simply spit out the exact, original code.
 
-Anthropic agreed to pay $1.5 billion to settle a class action lawsuit over [downloading books from pirating sites](https://www.technologyreview.com/2025/02/11/1111518/ai-crawler-wars-closed-web/) to train its Claude AI.
+Anthropic agreed to pay $1.5 billion to settle a class action lawsuit over [downloading books from pirating sites](https://www.technologyreview.com/2025/02/11/1111518/ai-crawler-wars-closed-web/) to train its Claude AI. They [destroyed millions of books](https://arstechnica.com/ai/2025/06/anthropic-destroyed-millions-of-print-books-to-build-its-ai-models/) in a secret initiative called Project Panama. An internal document said [“We don’t want it to be known that we are working on this”](https://futurism.com/future-society/anthropic-destroying-books).
 
 And many publishers and open source projects have [reported huge surges in traffic from bots scraping data for LLMs](https://www.technologyreview.com/2025/02/11/1111518/ai-crawler-wars-closed-web/). OpenAI and Anthropic _"have been accused of ignoring [website's robots.txt instructions] or aggressively overwhelming websites"_. Many of these are the same publishers who have seen click-through rates plummet drastically as increasing numbers of people only view AI summaries.
 
@@ -122,7 +122,7 @@ As [Tristan Harris, the ex Google Design ethicist best known for Netflix's The S
 
 Of course, the AI companies care about safety too, but the point is that they care more about not getting left behind in the race.
 
-A race being fuelled by [trillions of dollars of investment](https://www.understandingai.org/p/16-charts-that-explain-the-ai-boom). Trillions [being bet that the AI companies will achieve this AGI mission soon](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward).
+A race being fuelled by [trillions of dollars of investment](https://www.understandingai.org/p/16-charts-that-explain-the-ai-boom). Trillions [being bet that the AI companies will achieve this AGI mission](https://www.theguardian.com/technology/2026/jan/17/why-trillions-dollars-risk-no-guarantee-ai-reward), or at least capture large swathes of the labour market, in the next few years.
 
 Just [seven AI companies now account for a third of the entire US stock market](https://www.investopedia.com/the-mag-7-in-charts-how-big-tech-dominates-the-market-11866473).
 
@@ -148,9 +148,7 @@ This [timeline from Tomas Pueyo](https://xcancel.com/tomaspueyo/status/199336093
 
 If we don't hit some kind of unforeseen wall, it seems reasonable to expect the field of AI (not necessarily LLMs on their own) to keep progressing like this.
 
-Dario Amodei's prediction is on the most bullish side, but a lot of independent researchers think we're likely to reach AGI in the next few years too. The "Research Community Prediction Date" from [The AGI Clock](https://theagiclock.com/) is 2036. On Metacalculus, the online forecasting platform, the [aggregate prediction is 2033](https://www.metaculus.com/questions/5121/date-of-artificial-general-intelligence/).
-
-We could perhaps take some comfort from the fact that plenty of people disagree too — it's safe to say there's no real consensus.
+Dario Amodei's prediction is on the most bullish side though. We could perhaps take comfort from the fact that plenty of people disagree too — it's safe to say there's no real consensus.
 
 <img src="/images/posts/2026-02-01-responsible-ai/espai.jpg" alt="2023 Expert Survey on Progress in AI (ESPAI) graph showing Probability of HLMI on the y-axis and Year (2025 to around 2124) on the x-axis"/>
 
