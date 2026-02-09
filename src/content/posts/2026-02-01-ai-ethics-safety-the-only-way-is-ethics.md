@@ -146,7 +146,7 @@ We need to remember that AI's intelligence is "jagged", with peaks and troughs t
 
 This [timeline from Tomas Pueyo](https://xcancel.com/tomaspueyo/status/1993360931267473662), one of the early analysts to warn about the spread of coronavirus, says that we're between _"The AI has a jagged frontier..."_ and _"The AI is unbelievably intelligent but for some reason it fails at X"_.
 
-If we don't hit some kind of unforeseen wall, it seems reasonable to expect the field of AI (not necessarily LLMs on their own) to keep progressing like this.
+If we don't hit some kind of wall, it seems reasonable to expect the field of AI (not necessarily LLMs on their own) to keep progressing like this.
 
 Dario Amodei's prediction is on the most bullish side though. We could perhaps take comfort from the fact that plenty of people disagree too — it's safe to say there's no real consensus.
 
