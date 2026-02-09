@@ -16,7 +16,7 @@ Hi everyone. I'm giving this talk firstly because I've been interested in tech e
 
 Then just in the last 2 or 3 months, I started reading up a lot on AI safety and AI ethics. And being very honest with you, what spurred me into all that research was getting rather scared about where AI is heading.
 
-Now I'm not quite as scared. I feel a bit more balanced out now, having read lots of different views. But I still think that there's some very concerning things that we should be thinking and talking about more...
+Now I'm not quite as scared. I feel a bit more balanced out now, having read lots of different views. But I still think that there's some pretty concerning things that we should be thinking and talking about more...
 
 ## AI: The Bad Parts
 
