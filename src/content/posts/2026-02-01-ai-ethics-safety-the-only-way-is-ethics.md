@@ -138,8 +138,6 @@ And Google's AI Overview told me _"BFF stands for Big Friendly Giant (BFG)"_.
 
 It can be hard for us to reconcile that on the one hand, AI is really smart at many things and outperforming us humans on tonnes of benchmarks. And on the other hand, it makes stupid mistakes that humans just wouldn't make.
 
-But I think some people perhaps focus a bit too much on those stupid mistakes, because it's comforting to us in terms of our human superiority.
-
 We need to remember that AI's intelligence is "jagged", with peaks and troughs that are different to our human intelligence...
 
 <img src="/images/posts/2026-02-01-responsible-ai/jagged.jpg" alt="A timeline from 'The AI is a fun toy' to 'AGI', showing a jagged artificial intelligence increasingly growing beyond the circles of human intelligence"/>
