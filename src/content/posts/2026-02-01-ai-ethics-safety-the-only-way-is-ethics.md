@@ -264,7 +264,7 @@ In general, we want to do everything we can to make sure we control AI, and don'
 
 There's the concept of 'centaurs', when a person is assisted by a machine. Cory Doctorow [talks about 'reverse centaurs'](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur), a machine head on a human body, where it's the machine in control, we're just helping to facilitate it. For example, human delivery drivers being required to physically make the deliveries but really they're being watched, assessed and steered by AI. We do not want this!
 
-(If this still sounds like sci-fi, check out [rentahuman.ai](https://www.forbes.com/sites/ronschmelzer/2026/02/05/when-ai-agents-start-hiring-humans-rentahumanai-turns-the-tables/), a real website which "turns humans into on-demand labour for AI agents"!)
+(If this still sounds like sci-fi, check out [rentahuman.ai, an apparently real website which "turns humans into on-demand labour for AI agents"!](https://www.forbes.com/sites/ronschmelzer/2026/02/05/when-ai-agents-start-hiring-humans-rentahumanai-turns-the-tables/))
 
 There's a common phrase to describe humans supervising AI, _"human in the loop"_, but I'm not a big fan of it. To me, it doesn't feel strong enough - it implies AI agents can crack on and just let us know how they're getting on. It implies a certain level of trust which I'm not sure current LLMs should achieve. _"Human in control"_ sounds safer to me.
 
