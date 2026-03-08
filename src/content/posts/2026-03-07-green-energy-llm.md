@@ -10,7 +10,7 @@ I'm someone who recognises the power and potential of AI, but dislikes the [envi
 
 So, to experiment with potentially more ethical alternatives I might be able to recommend to colleagues, I recently signed up for a free trial of [Regolo.ai](https://regolo.ai), an EU-based [100% green energy inference provider, with zero water waste](https://regolo.ai/the-environmental-impact-of-artificial-intelligence-why-building-a-sustainable-ai-matters/).
 
-Of course, this doesn't solve the environmental impact of the models' _training_, but it certainly helps me feel a bit better about the inference. Plus, using open weight models means I'm not funding the AI companies and therefore helping to encourage and fuel their unethical training practices.
+Of course, this doesn't solve the greater environmental impact of the models' _training_, but it certainly helps me feel a bit better about the inference. Plus, using open weight models means I'm not funding the AI companies and therefore helping to encourage and fuel their unethical training practices.
 
 So far, I have used this setup for one experiment...
 
