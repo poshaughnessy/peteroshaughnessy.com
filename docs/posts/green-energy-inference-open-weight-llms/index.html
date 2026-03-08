@@ -42,7 +42,7 @@
   <article class="page page-post">
     <h1>Green Energy Inference and Open Weight LLMs</h1>
     <p class="date"><time>7th Mar 2026</time></p>
-    <p>I&#39;m someone who recognises the power and potential of AI, but dislikes the <a href="https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics">environmental impact, unethical training, growing inequality, jobs impact, safety risks, military use etc</a>.</p>
+    <p>I&#39;m someone who recognises the power of AI, but dislikes the <a href="https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics">environmental impact, unethical training, growing inequality, jobs impact, safety risks, misuse by governments etc</a>.</p>
 <p>So, to experiment with potentially more ethical alternatives I might be able to recommend to colleagues, I recently signed up for a free trial of <a href="https://regolo.ai">Regolo.ai</a>, an EU-based <a href="https://regolo.ai/the-environmental-impact-of-artificial-intelligence-why-building-a-sustainable-ai-matters/">100% green energy inference provider, with zero water waste</a>.</p>
 <p>Of course, this doesn&#39;t solve the greater environmental impact of the models&#39; <em>training</em>, but it certainly helps me feel a bit better about the inference. Plus, using open weight models means I&#39;m not funding the AI companies and therefore helping to encourage and fuel their unethical training practices.</p>
 <p>So far, I have used this setup for one experiment...</p>
@@ -56,7 +56,7 @@
 <p>On the one hand, the experiment was a success. Everything was complete within a couple of hours - all my blog posts, templates and redirects ported over to Eleventy. The resulting HTML matched the Metalsmith version 100% (aside from some whitespace).</p>
 <p>On the other hand, it was a failure. My curiosity and excitement at the beginning quickly faded as I watched the LLM do it&#39;s thing. By the end, I was left feeling a bit icky, empty and sad. My hand-written code had been replaced with machine-written code I don&#39;t know or trust. I&#39;d just created a mountain of <a href="https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/">comprehension debt</a>.</p>
 <p>I haven&#39;t even pushed the feature branch up yet, let alone merged it. I wouldn&#39;t want to, without going through it thoroughly to make sure I understand it. In fact, I don&#39;t plan to use it directly. Instead, I expect I&#39;ll write the code again myself by hand and just use the LLM-generated version as a reference point.</p>
-<p>This is my personal website after all. It <em>means</em> something to me, for the code to have be written by me, just the same as the actual blog posts.</p>
+<p>As well as the safety aspect, this is my personal website. It means something to me, for the code to have be written by me, just the same as the actual blog posts.</p>
 <p>It wasn&#39;t all for nothing though. I learned some things along the way and I&#39;d like to share them with you...</p>
 <h2>Thoughts on OpenCode</h2>
 <p>Using OpenCode felt quite different to using Copilot, which I have used for work.</p>
@@ -64,7 +64,7 @@
 <p>Whereas by default, OpenCode allows the model to proceed without any confirmation prompts, as long as its changes are confined to the working directory.</p>
 <p>Some might prefer this and it certainly sped things up, but it felt a lot more <em>vibe code</em>-y to me and I felt more out of the loop.</p>
 <p>Thankfully, it looks like it&#39;s possible to configure the <a href="https://opencode.ai/docs/permissions/">permissions settings</a>, so I&#39;ll take a look at tweaking those next time.</p>
-<p>The other minor issue I had with OpenCode was that it&#39;s not really integrated with VS Code like Copilot is. The model has access to the codebase, but it doesn&#39;t have the context of which file you have open or what code you have selected. So you have to remember to provide that context in your prompts instead.</p>
+<p>The other minor issue I had with OpenCode was that it&#39;s not really integrated with VS Code like Copilot is. The model has access to the codebase, but it doesn&#39;t have the context of which file you have open or what code you have selected. So you have to remember to provide that context in your prompts instead. I&#39;m not sure what the extension actually provides besides a shortcut button, since you can also use OpenCode inside VS Code by just typing <code>opencode</code> in the standard VS Code terminal inside.</p>
 <p>I also thought afterwards that although I&#39;ve heard a fair amount about OpenCode and I don&#39;t know of a reason to distrust it, I should probably still do some more due diligence on its origins and contributions before continuing to use it or promote it.</p>
 <h2>Thoughts on Qwen3-Coder-Next</h2>
 <p>The <code>Qwen3-Coder-Next</code> model seemed capable and not especially different from the Claude models I&#39;ve used at times for work. It presented a plan before it started and sought my input on the options, then proceeded to work out almost everything else independently.</p>

@@ -6,7 +6,7 @@ thumbnail: /images/posts/2026-03-07-green-energy-llm/thumb.png
 date: 2026-03-07
 ---
 
-I'm someone who recognises the power and potential of AI, but dislikes the [environmental impact, unethical training, growing inequality, jobs impact, safety risks, military use etc](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
+I'm someone who recognises the power of AI, but dislikes the [environmental impact, unethical training, growing inequality, jobs impact, safety risks, misuse by governments etc](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
 
 So, to experiment with potentially more ethical alternatives I might be able to recommend to colleagues, I recently signed up for a free trial of [Regolo.ai](https://regolo.ai), an EU-based [100% green energy inference provider, with zero water waste](https://regolo.ai/the-environmental-impact-of-artificial-intelligence-why-building-a-sustainable-ai-matters/).
 
@@ -32,7 +32,7 @@ On the other hand, it was a failure. My curiosity and excitement at the beginnin
 
 I haven't even pushed the feature branch up yet, let alone merged it. I wouldn't want to, without going through it thoroughly to make sure I understand it. In fact, I don't plan to use it directly. Instead, I expect I'll write the code again myself by hand and just use the LLM-generated version as a reference point.
 
-This is my personal website after all. It _means_ something to me, for the code to have be written by me, just the same as the actual blog posts.
+As well as the safety aspect, this is my personal website. It means something to me, for the code to have be written by me, just the same as the actual blog posts.
 
 It wasn't all for nothing though. I learned some things along the way and I'd like to share them with you...
 
@@ -48,7 +48,7 @@ Some might prefer this and it certainly sped things up, but it felt a lot more _
 
 Thankfully, it looks like it's possible to configure the [permissions settings](https://opencode.ai/docs/permissions/), so I'll take a look at tweaking those next time.
 
-The other minor issue I had with OpenCode was that it's not really integrated with VS Code like Copilot is. The model has access to the codebase, but it doesn't have the context of which file you have open or what code you have selected. So you have to remember to provide that context in your prompts instead.
+The other minor issue I had with OpenCode was that it's not really integrated with VS Code like Copilot is. The model has access to the codebase, but it doesn't have the context of which file you have open or what code you have selected. So you have to remember to provide that context in your prompts instead. I'm not sure what the extension actually provides besides a shortcut button, since you can also use OpenCode inside VS Code by just typing `opencode` in the standard VS Code terminal inside.
 
 I also thought afterwards that although I've heard a fair amount about OpenCode and I don't know of a reason to distrust it, I should probably still do some more due diligence on its origins and contributions before continuing to use it or promote it.
 
