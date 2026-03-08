@@ -28,17 +28,17 @@ I spent a little while feeling confused about the OpenCode extensions in the VS 
 
 On the one hand, the experiment was a success. Everything was complete within a couple of hours - all my blog posts, templates and redirects ported over to Eleventy. The resulting HTML matched the Metalsmith version 100% (aside from some whitespace).
 
-On the other hand, it was a failure. My curiosity and excitement at the beginning quickly faded as I watched the LLM do it's thing. By the end, I was left feeling a bit icky, empty and sad. My hand-written code had been replaced with machine-written code I don't know or trust.
+On the other hand, it was a failure. My curiosity and excitement at the beginning quickly faded as I watched the LLM do it's thing. By the end, I was left feeling a bit icky, empty and sad. My hand-written code had been replaced with machine-written code I don't know or trust. I'd just created a mountain of [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/).
 
 I haven't even pushed the feature branch up yet, let alone merged it. I wouldn't want to, without going through it thoroughly to make sure I understand it. In fact, I don't plan to use it directly. Instead, I expect I'll write the code again myself by hand and just use the LLM-generated version as a reference point.
 
-This is my personal website after all. It _means_ something to me, for the code to have be written by me.
+This is my personal website after all. It _means_ something to me, for the code to have be written by me, just the same as the actual blog posts.
 
-It wasn't all for nothing though. I learned things along the way - and I have some thoughts to share...
+It wasn't all for nothing though. I learned things along the way - and I'd like to share some thoughts about my experience with you.
 
 ## Thoughts on OpenCode
 
-The experience was quite different to using Copilot, which I have used for work.
+Using OpenCode felt quite different to using Copilot, which I have used for work.
 
 I'm used to Copilot prompting me for confirmation each time the model wants to use the command line.
 
@@ -68,7 +68,9 @@ The `Qwen3-Coder-Next` model seemed capable and not especially different from th
 
 - It's from Alibaba and the [AI Safety Index](https://futureoflife.org/ai-safety-index-winter-2025/) (which is probably pro-US biased, given [who funds the Future of Life Institute](https://www.influencewatch.org/non-profit/future-of-life-institute-fli/)) rates Alibaba _worst_ for safety, with a D-minus grade.
 
-- It seems [Alibaba probably won't continue releasing open weight models](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in). (I'm not too worried about the supply of open weight models running out though - new ones keep coming on the scene, e.g. [the Indian company Sarvam just released some big open-weight models](https://www.sarvam.ai/blogs/sarvam-30b-105b) and apparently many more countries have up-and-coming sovereign AI initiatives).
+- It seems [Alibaba probably won't continue releasing open weight models](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in).
+
+There's plenty of other open weight models to choose from though, and I'm not too worried about the supply of them running out. New ones keep coming on the scene, e.g. [the Indian company Sarvam just released some big open-weight models](https://www.sarvam.ai/blogs/sarvam-30b-105b) and apparently many more countries have up-and-coming sovereign AI initiatives.
 
 ## Thoughts on Regolo.ai
 
@@ -82,10 +84,12 @@ The Regolo usage dashboard shows that if I was outside of the free trial and on 
 
 <img src="/images/posts/2026-03-07-green-energy-llm/usage.jpg" alt="Screenshot of the Usage page of the Regolo.ai dashboard, showing €28.99 usage yesterday (€29.19 total). The Top Models chart shows a single model: qwen3-coder-next."/>
 
+There are other major benefits to Regolo too. They are EU-based, which compared to US-based is preferable to me for digital sovereignty reasons and network efficiency (I'm based in the UK). And they are GDPR compliant, with a [zero retention data policy](https://regolo.ai/european-inference/), meaning that the data is "permanently discarded" once the response is generated.
+
 ## Final thoughts
 
-So far, I'm happy with my experience of open-weight models in terms of their capability. My problems are more around trust and code ownership. Next time I'd rather use the LLM for something less _vibe code_-y. More likely to help to guide me or help me find and fix bugs, not have it write the code itself. The experiment was a learning experience though.
+So far, I'm happy with my experience of open-weight models in terms of their capability. My problems are more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. More likely to help to guide me or help me find and fix bugs, not have it write the code itself. The experiment was a learning experience though.
 
 I'm still keen on the idea of green energy inference and Regolo seem to have a great offering. The Pay As You Go option is nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
 
-I will recommend open weight models and green energy inference to my colleagues as an alternative to the big tech options, but warn them that there are significant safety concerns and we should be conscious of how we use it.
+I will recommend open weight models and green energy inference to my colleagues as an alternative to the big tech options, but warn them that we would need to be very careful about safety, and we should be conscious of how we use it too.
