@@ -12,7 +12,7 @@ So, to experiment with potentially more ethical alternatives I might be able to 
 
 Of course, this doesn't solve the greater environmental impact of the models' _training_, but it certainly helps me feel a bit better about the inference. Plus, using open weight models means I'm not funding the AI companies and therefore helping to encourage and fuel their unethical training practices.
 
-So far, I have used this setup for one experiment...
+So far, I have used this setup for one experiment (on my _non_-work machine - don't worry, colleagues!)...
 
 ## The Experiment
 
