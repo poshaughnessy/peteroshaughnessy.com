@@ -88,6 +88,8 @@ The Regolo usage dashboard shows that if I was outside of the free trial and on 
 
 There are other major benefits for Regolo too. They are EU-based, which compared to US-based is preferable to me for digital sovereignty reasons and network efficiency (I'm based in the UK). And they are GDPR compliant, with a [zero retention data policy](https://regolo.ai/european-inference/), meaning that the data is "permanently discarded" once the response is generated.
 
+(Hopefully this is not necessary to state, but just to be clear, I don't have any affiliation with Regolo).
+
 ## Final thoughts
 
 So far, I'm happy with my experience of open-weight models in terms of their capability. My problems are more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. Perhaps to help to guide me through something new, or help me find and fix bugs, not have it write the code itself. The experiment was good for learning though.
