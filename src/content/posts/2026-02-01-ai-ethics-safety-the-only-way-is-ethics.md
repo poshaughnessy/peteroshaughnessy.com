@@ -230,7 +230,7 @@ Use and deploy AI safely and ethically. Hopefully your organisation has adopted 
 
 The UK government also has a [Responsible AI Toolkit](https://www.gov.uk/government/collections/responsible-ai-toolkit).
 
-### 3. Practise restraint
+### 3. Be conscious of our use of AI
 
 The energy requirements for _using_ AI may be relatively small, but we should remember that using them makes us part of the full lifecycle of these models, which includes the [huge energy requirements for training them](https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds). So we should be conscious about our use of LLMs and consider when we need to use them.
 
