@@ -93,3 +93,7 @@ So far, I'm happy with my experience of open-weight models in terms of their cap
 I'm keen on the idea of green energy inference and Regolo seem to have a great offering. Beyond the free trial, the Pay As You Go option seems nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
 
 I will recommend open weight models and green energy inference to my colleagues as an alternative to the big tech options, but warn them that we would need to be very careful about safety, and we should be conscious of how we use it too.
+
+## p.s. Running locally
+
+I forgot to mention, but I had previously tried running models locally, unsuccessfully. I tried one and it was so tiny as to be useless. Then I tried a bigger one and it took forever. But my friend Jan just told me about [Jan.ai](https://www.jan.ai/) (not named after him!) which could help find one better suited for the hardware. I'm not sure my bog standard GPU will be up to much, but I'll give it a try next time!
