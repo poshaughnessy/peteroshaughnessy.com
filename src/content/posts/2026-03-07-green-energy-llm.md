@@ -6,7 +6,7 @@ thumbnail: /images/posts/2026-03-07-green-energy-llm/thumb.png
 date: 2026-03-07
 ---
 
-I'm someone who recognises the power and potential of AI, but dislikes pretty much everything else about it - the [unethical training, environmental impact, power imbalance, jobs impact, safety risks, military use etc](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
+I'm someone who recognises the power and potential of AI, but dislikes the [environmental impact, unethical training, growing inequality, jobs impact, safety risks, military use etc](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
 
 So, to experiment with potentially more ethical alternatives I might be able to recommend to colleagues, I recently signed up for a free trial of [Regolo.ai](https://regolo.ai), an EU-based [100% green energy inference provider, with zero water waste](https://regolo.ai/the-environmental-impact-of-artificial-intelligence-why-building-a-sustainable-ai-matters/).
 
