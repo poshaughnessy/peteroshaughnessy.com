@@ -6,11 +6,11 @@ thumbnail: /images/posts/2026-03-07-green-energy-llm/thumb.png
 date: 2026-03-07
 ---
 
-I'm someone who recognises the power and potential of AI, but dislikes most of everything else about it - the [unethical training, environmental impact, power imbalance, safety risks etc](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
+I'm someone who recognises the power and potential of AI, but dislikes most of everything else about it - the [unethical training, environmental impact, power imbalance, jobs impact, safety risks, military use etc](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
 
 So, to experiment with potentially more ethical alternatives I might be able to recommend to colleagues, I recently signed up for a free trial of [Regolo.ai](https://regolo.ai), an EU-based [100% green energy inference provider, with zero water waste](https://regolo.ai/the-environmental-impact-of-artificial-intelligence-why-building-a-sustainable-ai-matters/).
 
-Of course, this doesn't solve the environmental impact of the models' _training_, but it certainly helps me feel a bit better about the inference. Plus, using open weight models means I'm not funding the AI companies and therefore helping to encourage and fuel their training practices.
+Of course, this doesn't solve the environmental impact of the models' _training_, but it certainly helps me feel a bit better about the inference. Plus, using open weight models means I'm not funding the AI companies and therefore helping to encourage and fuel their unethical training practices.
 
 So far, I have used this setup for one experiment...
 
@@ -88,8 +88,8 @@ There are other major benefits to Regolo too. They are EU-based, which compared 
 
 ## Final thoughts
 
-So far, I'm happy with my experience of open-weight models in terms of their capability. My problems are more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. More likely to help to guide me or help me find and fix bugs, not have it write the code itself. The experiment was a learning experience though.
+So far, I'm happy with my experience of open-weight models in terms of their capability. My problems are more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. More likely to help to guide me through something new, or help me find and fix bugs, not have it write the code itself. The experiment was good for learning though.
 
-I'm still keen on the idea of green energy inference and Regolo seem to have a great offering. The Pay As You Go option is nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
+I'm keen on the idea of green energy inference and Regolo seem to have a great offering. Beyond the free trial, the Pay As You Go option seems nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
 
 I will recommend open weight models and green energy inference to my colleagues as an alternative to the big tech options, but warn them that we would need to be very careful about safety, and we should be conscious of how we use it too.
