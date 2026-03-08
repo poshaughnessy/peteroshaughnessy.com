@@ -50,6 +50,8 @@ Thankfully, it looks like it's possible to configure the [permissions settings](
 
 The other minor issue I had with OpenCode was that it's not really integrated with VS Code like Copilot is. The model has access to the codebase, but it doesn't have the context of which file you have open or what code you have selected. So you have to remember to provide that context in your prompts instead. I'm not sure what the extension actually provides besides a shortcut button, since you can also use OpenCode inside VS Code by just typing `opencode` in the standard VS Code terminal inside.
 
+**Edit:** I forgot another minor problem I had was that some OpenCode keyboard shortcuts didn't work inside VS Code, where they would perform VS Code actions instead. For example, `ctrl+p` to show the list of OpenCode commands instead launched the VS Code file search. `ctrl+x m` works OK for selecting the model though.
+
 I also thought afterwards that although I've heard a fair amount about OpenCode and I don't know of a reason to distrust it, I should probably still do some more due diligence on its origins and contributions before continuing to use it or promote it.
 
 ## Thoughts on Qwen3-Coder-Next
