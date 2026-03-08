@@ -16,7 +16,7 @@ So far, I have used this setup for one experiment...
 
 ## The Experiment
 
-I used the [Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) model to attempt to switch the static site generator this website uses, from [Metalsmith](https://metalsmith.io/) to [Eleventy](https://www.11ty.dev/). It's something I've vaguely had in mind for a few years, since Metalsmith has been seeming a bit outdated and I've needed to replace some of the deprecated plugins, whereas Eleventy has had a lot more recent interest and support. I thought I'd give it a try anyway.
+I used the open weight [Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) model to attempt to switch the static site generator this website uses, from [Metalsmith](https://metalsmith.io/) to [Eleventy](https://www.11ty.dev/). It's something I've vaguely had in mind for a few years, since Metalsmith has been seeming a bit outdated and I've needed to replace some of the deprecated plugins, whereas Eleventy has had a lot more recent interest and support. I thought I'd give it a try anyway.
 
 I used the LLM via [OpenCode](https://opencode.ai/), the open source AI interface, running inside Visual Studio Code.
 
@@ -34,7 +34,7 @@ I haven't even pushed the feature branch up yet, let alone merged it. I wouldn't
 
 This is my personal website after all. It _means_ something to me, for the code to have be written by me, just the same as the actual blog posts.
 
-It wasn't all for nothing though. I learned things along the way - and I'd like to share some thoughts about my experience with you.
+It wasn't all for nothing though. I learned some things along the way and I'd like to share them with you...
 
 ## Thoughts on OpenCode
 
@@ -48,7 +48,7 @@ Some might prefer this and it certainly sped things up, but it felt a lot more _
 
 Thankfully, it looks like it's possible to configure the [permissions settings](https://opencode.ai/docs/permissions/), so I'll take a look at tweaking those next time.
 
-The other minor issue I had with OpenCode was that it's not really integrated with VS Code like Copilot is. The model has access to the codebase, but it doesn't have the context of which file you have open, what code you have selected, etc. So you have to remember to provide that context in your prompts instead.
+The other minor issue I had with OpenCode was that it's not really integrated with VS Code like Copilot is. The model has access to the codebase, but it doesn't have the context of which file you have open or what code you have selected. So you have to remember to provide that context in your prompts instead.
 
 I also thought afterwards that although I've heard a fair amount about OpenCode and I don't know of a reason to distrust it, I should probably still do some more due diligence on its origins and contributions before continuing to use it or promote it.
 
@@ -70,7 +70,7 @@ The `Qwen3-Coder-Next` model seemed capable and not especially different from th
 
 - It seems [Alibaba probably won't continue releasing open weight models](https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in).
 
-There's plenty of other open weight models to choose from though, and I'm not too worried about the supply of them running out. New ones keep coming on the scene, e.g. [the Indian company Sarvam just released some big open-weight models](https://www.sarvam.ai/blogs/sarvam-30b-105b) and apparently many more countries have up-and-coming sovereign AI initiatives.
+There's plenty of other open weight models to choose from though, and I'm not too worried about the supply of them running out. New ones keep coming on the scene, e.g. [the Indian company Sarvam just released some big open-weight models](https://www.sarvam.ai/blogs/sarvam-30b-105b) and apparently many a number of other countries have up-and-coming sovereign AI initiatives.
 
 ## Thoughts on Regolo.ai
 
