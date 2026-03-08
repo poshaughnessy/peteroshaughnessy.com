@@ -78,9 +78,9 @@ Regolo give a very generous free trial month with unlimited tokens. You don't ev
 
 After the free trial, they provide both Pay As You Go and subscription options.
 
-Then OpenCode interface showed I had used 168,733 tokens.
+At the end of my experiment, the OpenCode interface showed I had used 168,733 tokens.
 
-The Regolo usage dashboard shows that if I was outside of the free trial and on Pay As You Go, the experiment would have cost me 29 euros.
+The Regolo usage dashboard shows that if I was outside of the free trial and on Pay As You Go, it would have cost me 29 euros.
 
 <img src="/images/posts/2026-03-07-green-energy-llm/usage.jpg" alt="Screenshot of the Usage page of the Regolo.ai dashboard, showing €28.99 usage yesterday (€29.19 total). The Top Models chart shows a single model: qwen3-coder-next."/>
 
