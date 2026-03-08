@@ -1,7 +1,7 @@
 ---
 title: Green Energy Inference and Open Weight LLMs
 slug: green-energy-inference-open-weight-llms
-excerpt: What happened when I used Regolo.ai and Qwen3-Coder-Next for rewriting my personal website code
+excerpt: What happened when I attempted to use Regolo.ai, OpenCode and Qwen3-Coder-Next for a website rewrite
 thumbnail: /images/posts/2026-03-07-green-energy-llm/thumb.png
 date: 2026-03-07
 ---
