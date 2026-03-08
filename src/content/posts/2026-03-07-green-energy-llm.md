@@ -84,7 +84,7 @@ The Regolo usage dashboard shows that if I was outside of the free trial and on 
 
 <img src="/images/posts/2026-03-07-green-energy-llm/usage.jpg" alt="Screenshot of the Usage page of the Regolo.ai dashboard, showing €28.99 usage yesterday (€29.19 total). The Top Models chart shows a single model: qwen3-coder-next."/>
 
-There are other major benefits to Regolo too. They are EU-based, which compared to US-based is preferable to me for digital sovereignty reasons and network efficiency (I'm based in the UK). And they are GDPR compliant, with a [zero retention data policy](https://regolo.ai/european-inference/), meaning that the data is "permanently discarded" once the response is generated.
+There are other major benefits for Regolo too. They are EU-based, which compared to US-based is preferable to me for digital sovereignty reasons and network efficiency (I'm based in the UK). And they are GDPR compliant, with a [zero retention data policy](https://regolo.ai/european-inference/), meaning that the data is "permanently discarded" once the response is generated.
 
 ## Final thoughts
 
