@@ -88,7 +88,7 @@ There are other major benefits to Regolo too. They are EU-based, which compared 
 
 ## Final thoughts
 
-So far, I'm happy with my experience of open-weight models in terms of their capability. My problems are more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. More likely to help to guide me through something new, or help me find and fix bugs, not have it write the code itself. The experiment was good for learning though.
+So far, I'm happy with my experience of open-weight models in terms of their capability. My problems are more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. Perhaps to help to guide me through something new, or help me find and fix bugs, not have it write the code itself. The experiment was good for learning though.
 
 I'm keen on the idea of green energy inference and Regolo seem to have a great offering. Beyond the free trial, the Pay As You Go option seems nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
 
