@@ -100,4 +100,12 @@ I will recommend open weight models and green energy inference to my colleagues 
 
 ## p.s. Running locally
 
-I forgot to mention, but I had previously tried running models locally, unsuccessfully. I tried one and it was so tiny as to be useless. Then I tried a bigger one and it took forever. But my friend Jan just told me about [Jan.ai](https://www.jan.ai/) (not named after him!) which could help find one better suited for the hardware. I'm not sure my bog standard GPU will be up to much, but I'll give it a try next time!
+I forgot to mention, but I had previously tried running models locally, unsuccessfully. I tried one and it was so tiny as to be useless. Then I tried a bigger one and it took forever. But my friend Jan just told me about [Jan.ai](https://www.jan.ai/) (not named after him!) which could help find one better suited for the hardware. I'm not sure my bog standard GPU will be up to much, but I'll give it a try another time!
+
+## p.p.s. How does Copilot compare?
+
+Microsoft seem to be one of the better ones in terms of environmental commitments. They recently announced [reaching their 100% renewable energy target](https://www.wsj.com/articles/microsoft-says-it-has-reached-its-100-renewable-electricity-target-2d286469). However, that's with off-setting; "critics say it is still burning fossil fuels from the grid".
+
+On water use, it's bad. Microsoft are [projecting that their data centre water use will more than double by 2030, including in places that face shortages](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html).
+
+Also, if we are paying for Copilot, we're helping to fund the model providers OpenAI/Anthropic/xAI and tacitly supporting [their business practices and "the race to AGI"](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
