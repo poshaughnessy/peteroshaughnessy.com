@@ -104,7 +104,7 @@ I forgot to mention, but I had previously tried running models locally, unsucces
 
 ## p.p.s. How does Copilot compare?
 
-Microsoft seem to be one of the better ones in terms of environmental commitments. They recently announced [reaching their 100% renewable energy target](https://www.wsj.com/articles/microsoft-says-it-has-reached-its-100-renewable-electricity-target-2d286469). However, that's with off-setting; "critics say it is still burning fossil fuels from the grid".
+Microsoft seem to be one of the relatively better ones in terms of environmental commitments. They recently announced [reaching their 100% renewable energy target](https://www.wsj.com/articles/microsoft-says-it-has-reached-its-100-renewable-electricity-target-2d286469). However, that's with off-setting; "critics say it is still burning fossil fuels from the grid".
 
 On water use, it's bad. Microsoft are [projecting that their data centre water use will more than double by 2030, including in places that face shortages](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html).
 
