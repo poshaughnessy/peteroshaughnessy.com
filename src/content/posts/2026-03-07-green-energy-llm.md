@@ -94,7 +94,9 @@ There are other plus points for Regolo too. They are EU-based (I'm based in the 
 
 So far, I'm happy with my experience of open-weight models in terms of their capability. My problems with the experiment were more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. Perhaps to help to guide me through something new, or help me find and fix bugs, not have it write the code itself. The experiment was good for learning though.
 
-I'm keen on the idea of green energy, zero water waste inference and Regolo seem to have a great offering. Beyond the free trial, the Pay As You Go option seems nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
+I'm keen on the idea of green energy, zero water waste inference and Regolo seem to have a great offering for personal use. It's just a shame they don't seem to offer the kind of enterprise services (with e.g. user and token management) that might make it more suitable for bigger organisations.
+
+Beyond the free trial, the Pay As You Go option seems nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
 
 So you may wish to consider this kind of setup as an alternative to the big tech options, as long as you are very careful about safety, and please be conscious of how you use it too.
 
