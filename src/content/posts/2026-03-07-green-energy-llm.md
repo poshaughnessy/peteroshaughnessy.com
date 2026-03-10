@@ -8,7 +8,7 @@ date: 2026-03-07
 
 I'm someone who recognises the power of AI, but dislikes the [environmental impact, unethical training, growing inequality, jobs impact, safety risks, misuse by governments etc](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
 
-So, to experiment with potentially more ethical alternatives I might be able to recommend to colleagues, I recently signed up for a free trial of [Regolo.ai](https://regolo.ai), an EU-based [100% green energy inference provider, with zero water waste](https://regolo.ai/the-environmental-impact-of-artificial-intelligence-why-building-a-sustainable-ai-matters/).
+So, to experiment with potentially more ethical alternatives, I recently signed up for a free trial of [Regolo.ai](https://regolo.ai), an EU-based [100% green energy inference provider, with zero water waste](https://regolo.ai/the-environmental-impact-of-artificial-intelligence-why-building-a-sustainable-ai-matters/).
 
 Of course, this doesn't solve the environmental impact of the models' _training_, but it certainly helps me feel a bit better about the inference. Plus, using open weight models means I'm not funding the AI companies and therefore helping to encourage and fuel their unethical training practices.
 
@@ -86,7 +86,7 @@ The Regolo usage dashboard shows that if I was outside of the free trial and on 
 
 <img src="/images/posts/2026-03-07-green-energy-llm/usage.jpg" alt="Screenshot of the Usage page of the Regolo.ai dashboard, showing €28.99 usage yesterday (€29.19 total). The Top Models chart shows a single model: qwen3-coder-next."/>
 
-There are other major benefits for Regolo too. They are EU-based, which compared to US-based is preferable to me for digital sovereignty reasons and network efficiency (I'm based in the UK). And they are GDPR compliant, with a [zero retention data policy](https://regolo.ai/european-inference/), meaning that the data is "permanently discarded" once the response is generated.
+There are other plus points for Regolo too. They are EU-based (I'm based in the UK) and GDPR compliant, with a [zero retention data policy](https://regolo.ai/european-inference/), meaning that the data is "permanently discarded" once the response is generated.
 
 (Hopefully this is not necessary to state, but just to be clear, I don't have any affiliation with Regolo).
 
@@ -94,18 +94,10 @@ There are other major benefits for Regolo too. They are EU-based, which compared
 
 So far, I'm happy with my experience of open-weight models in terms of their capability. My problems with the experiment were more around trust, safety and comprehension debt. Next time I'd rather use the LLM for something less _vibe code_-y. Perhaps to help to guide me through something new, or help me find and fix bugs, not have it write the code itself. The experiment was good for learning though.
 
-I'm keen on the idea of green energy inference and Regolo seem to have a great offering. Beyond the free trial, the Pay As You Go option seems nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
+I'm keen on the idea of green energy, zero water waste inference and Regolo seem to have a great offering. Beyond the free trial, the Pay As You Go option seems nice for personal use as you can avoid more expensive subscriptions if you just want to experiment a bit.
 
-I will recommend open weight models and green energy inference to my colleagues as an alternative to the big tech options, but warn them that we would need to be very careful about safety, and we should be conscious of how we use it too.
+So you may wish to consider this kind of setup as an alternative to the big tech options, as long as you are very careful about safety, and please be conscious of how you use it too.
 
 ## p.s. Running locally
 
 I forgot to mention, but I had previously tried running models locally, unsuccessfully. I tried one and it was so tiny as to be useless. Then I tried a bigger one and it took forever. But my friend Jan just told me about [Jan.ai](https://www.jan.ai/) (not named after him!) which could help find one better suited for the hardware. I'm not sure my bog standard GPU will be up to much, but I'll give it a try another time!
-
-## p.p.s. How does Copilot compare?
-
-Microsoft seem to be one of the relatively better ones in terms of environmental commitments. They recently announced [reaching their 100% renewable energy target](https://www.wsj.com/articles/microsoft-says-it-has-reached-its-100-renewable-electricity-target-2d286469). However, that's with off-setting; "critics say it is still burning fossil fuels from the grid".
-
-On water use, it's bad. Microsoft are [projecting that their data centre water use will more than double by 2030, including in places that face shortages](https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html).
-
-Also, if we are paying for Copilot, we're helping to fund the model providers OpenAI/Anthropic/xAI and tacitly supporting [their business practices and "the race to AGI"](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics).
