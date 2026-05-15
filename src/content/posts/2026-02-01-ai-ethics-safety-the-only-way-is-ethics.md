@@ -166,9 +166,9 @@ The Institute for Public Policy Research warns that [up to 8 million jobs could 
 
 Some people say that it would be great if we get AGI, because we won't have to work anymore. Computers will do the work and we can put our feet up and get paid a Universal Basic Income (UBI)...
 
-But there are [several issues and uncertainties with this](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). If all the wealth and power ends up going to a few huge AI companies in the US, how is that going to be taxed and redistributed fairly to countries across the globe, to allow governments like ours to pay universal basic income?
+But there are [several issues and uncertainties with this](https://www.theguardian.com/business/2025/dec/15/universal-basic-income-ai-andrew-yang). If all the wealth and power ends up going to a few huge AI companies, how is that going to be taxed and redistributed fairly to countries across the globe, to allow governments like ours to pay universal basic income?
 
-If we're out of work, we won't have any bargaining power, especially compared to these companies which - with all that AI power and wealth - will have the most incredible ability to lobby and influence governments that the world has ever seen.
+If we're out of work, we won't have any bargaining power, especially compared to these companies which - with all that AI power and wealth - could have an incredible ability to lobby and influence governments.
 
 And even if we do get UBI, it's only a basic income - for many of us, it wouldn't replace our income from working.
 
@@ -178,7 +178,7 @@ Powerful AI could also bring about [a huge concentration of power for the compan
 
 AI-powered surveillance, manipulation and steering election results are not just theoretical risks, there's [evidence of them happening already](https://www.theguardian.com/technology/2026/jan/22/experts-warn-of-threat-to-democracy-by-ai-bot-swarms-infesting-social-media) in countries around the world.
 
-And the risks ramp up even higher when we start to talk about the potential for _super_-intelligence...
+And the risks ramp up even higher if we start to consider possible _super_-intelligence...
 
 ### Superintelligence
 
