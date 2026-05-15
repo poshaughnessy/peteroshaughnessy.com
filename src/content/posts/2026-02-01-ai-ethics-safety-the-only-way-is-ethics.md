@@ -23,7 +23,7 @@ Now I feel a bit more balanced out, having read lots of different views. But I s
 <img src="/images/posts/2026-02-01-responsible-ai/ai-the-bad-parts.jpg" alt="AI The Bad Parts, a mock-up of an O'Reilly book"/>
 <p class="caption" style="margin: 0">A mock-up of an O'Reilly book titled 'AI The Bad Parts' (photoshopped, not a real book, apologies to anyone I confused!)</p>
 
-So the first section of the talk will be on 'AI: the bad parts'. I would like to make it clear upfront that I do also very much recognise and value the positives of AI too. For example, I enjoy using things like Copilot and I’ve spoken recently about how I’ve found MCP servers helpful for testing front-ends.
+So the first section of the talk will be on 'AI: the bad parts'. I would like to make it clear upfront that I do also very much recognise and value the positives of AI too. For example, I have found AI helpful for coding assistance and I’ve spoken recently about how I’ve found MCP servers helpful for testing front-ends.
 
 The reason for sharing the concerning and dangerous aspects of AI is to try to help our collective understanding, in preparation for then humbly offering some recommendations in the second part of the talk. In other words, sharing the negatives to help us take positive actions.
 
