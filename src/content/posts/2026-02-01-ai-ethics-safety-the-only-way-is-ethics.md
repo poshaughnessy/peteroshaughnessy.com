@@ -232,7 +232,7 @@ The UK government also has a [Responsible AI Toolkit](https://www.gov.uk/governm
 
 ### 3. Be conscious of our use of AI
 
-The energy requirements for _using_ AI may be relatively small, but we should remember that using them makes us part of the full lifecycle of these models, which includes the [huge energy requirements for training them](https://www.theguardian.com/technology/2025/dec/18/2025-ai-boom-huge-co2-emissions-use-water-research-finds). So we should be conscious about our use of LLMs and consider when we need to use them.
+Especially given the environmental impact, we should be conscious about our use of LLMs and consider when we need to use them.
 
 Unfortunately, many digital products are [switching AI features on by default, with no easy way to opt out](https://www.orfonline.org/expert-speak/no-option-to-opt-out-the-environmental-impact-of-mandatory-ai-integration). We should stand against this and request that products we use have appropriate AI user controls.
 
@@ -248,8 +248,6 @@ To avoid funding and fuelling the "race to AGI", we should consider making more 
 
 Strictly speaking, to comply with the [Open Source Initiative's definition of open source models](https://opensource.org/ai/open-source-ai-definition), they should include the full training dataset and the complete source code used to train the model. There's actually [only 5 models that comply with that definition](https://opensource.org/ai). So most of the models people call 'open source' are really just 'open weight', but that can still have the advantages of [being able to run them on our own infrastructure, build redundancy, and further avoid vendor lock-in](https://www.businessinsider.com/europe-ai-startup-mistral-edge-over-silicon-valley-not-american-2026-1).
 
-Tesco recently [reached a strategic partnership with Mistral](https://www.tescoplc.com/tesco-and-mistral-ai-sign-new-generative-ai-agreement/), who have the advantage of a) being European rather than US-based, for [digital sovereignty reasons](https://www.theguardian.com/news/audio/2026/jan/30/is-it-time-to-break-up-with-us-tech-the-latest), and b) [embracing open-source models](https://www.businessinsider.com/europe-ai-startup-mistral-edge-over-silicon-valley-not-american-2026-1).
-
 ### 6. Bigger isn't always better
 
 If we can use more narrow AI for a task, i.e. smaller, specialist models designed to do specific things, then let’s use more narrow AI.
@@ -260,13 +258,13 @@ Massive, general AI models like frontier LLMs may be where the excitement and hy
 
 ### 7. Stay in control
 
-In general, we want to do everything we can to make sure we control AI, and don't let it control us.
+We should make sure we stay in control of AI, and make sure we always have humans accountable for AI's actions.
 
-There's the concept of 'centaurs', when a person is assisted by a machine. Cory Doctorow [talks about 'reverse centaurs'](https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur), a machine head on a human body, where it's the machine in control, we're just helping to facilitate it. For example, human delivery drivers being required to physically make the deliveries but really they're being watched, assessed and steered by AI. We do not want this!
+There's a common phrase to describe humans staying in control of AI: "human in the loop".
 
-(If this still sounds like sci-fi, check out [rentahuman.ai, an apparently real website which "turns humans into on-demand labour for AI agents"!](https://www.forbes.com/sites/ronschmelzer/2026/02/05/when-ai-agents-start-hiring-humans-rentahumanai-turns-the-tables/))
+It's not like when you say to a colleague, "OK, keep me in the loop" and let them crack on. It's meant to be about a human being in the _control_ loop, reviewing and signing off on the results of the model, before any actions may be triggered.
 
-There's a common phrase to describe humans supervising AI, _"human in the loop"_, but I'm not a big fan of it. To me, it doesn't feel strong enough - it implies AI agents can crack on and just let us know how they're getting on. It implies a certain level of trust which I'm not sure current LLMs should achieve. _"Human in control"_ sounds safer to me.
+There are also techniques for constraining AI, such as Constrained Decoding which forces the LLM to follow a strict grammar, restricting its output to a valid JSON schema or a predefined set of safe actions.
 
 ### 8. Spread public and political awareness
 
