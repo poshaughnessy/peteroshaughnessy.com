@@ -258,7 +258,7 @@ Massive, general AI models like frontier LLMs may be where the excitement and hy
 
 ### 7. Stay in control
 
-We should make sure we stay in control of AI, and make sure we always have humans accountable for AI's actions.
+We must make sure we stay in control of AI, and make sure we always have humans accountable for AI's actions.
 
 There's a common phrase to describe humans staying in control of AI: "human in the loop".
 
