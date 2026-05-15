@@ -14,9 +14,9 @@ _I discovered the subtitle for the talk from [this paper](https://arxiv.org/abs/
 
 Hi everyone. I'm giving this talk firstly because I've been interested in tech ethics for a long time. I started our Ethics & Sustainability community in Slack a few years ago.
 
-Then just in the last 2 or 3 months, I started reading up a lot on AI safety and AI ethics. And being very honest with you, what spurred me into all that research was getting rather scared about where AI is heading.
+Then just in the last 2 or 3 months, I started reading up a lot on AI safety and AI ethics. And being very honest with you, what spurred me into all that research was getting very concerned about where AI is heading.
 
-Now I'm not as scared. I feel a bit more balanced out now, having read lots of different views. But I still think that there's some pretty concerning things that we should be thinking and talking about more...
+Now I feel a bit more balanced out, having read lots of different views. But I still think that there's some pretty concerning things that we should be thinking and talking about more...
 
 ## AI: The Bad Parts
 
