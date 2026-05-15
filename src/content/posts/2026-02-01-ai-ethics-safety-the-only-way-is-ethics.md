@@ -20,7 +20,8 @@ Now I feel a bit more balanced out, having read lots of different views. But I s
 
 ## AI: The Bad Parts
 
-<img src="/images/posts/2026-02-01-responsible-ai/ai-the-bad-parts.jpg" alt="AI The Bad Parts"/>
+<img src="/images/posts/2026-02-01-responsible-ai/ai-the-bad-parts.jpg" alt="AI The Bad Parts, a mock-up of an O'Reilly book"/>
+<p class="caption" style="margin: 0">A mock-up of an O'Reilly book titled 'AI The Bad Parts' (photoshopped, not a real book, apologies to anyone I confused!)</p>
 
 So the first section of the talk will be on 'AI: the bad parts'. I would like to make it clear upfront that I do also very much recognise and value the positives of AI too. For example, I enjoy using things like Copilot and I’ve spoken recently about how I’ve found MCP servers helpful for testing front-ends.
 
