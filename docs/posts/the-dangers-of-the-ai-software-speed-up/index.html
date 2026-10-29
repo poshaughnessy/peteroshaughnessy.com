@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>The dangers of the AI software speed-up - Peter O'Shaughnessy</title>
+    <meta name="description" content="Front-end developer working at an employee-owned retailer" />
+    <link rel="stylesheet" href="/styles/styles.css" />
+    <link rel="icon" href="/images/favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@poshaughnessy" />
+    <meta name="twitter:creator" content="@poshaughnessy" />
+    <meta property="og:type" content="website" />
+      <meta name="twitter:title" content="The dangers of the AI software speed-up" />
+      <meta property="og:title" content="The dangers of the AI software speed-up" />
+      <meta name="twitter:description" content="Can we slow down a bit on speeding up software development?" />
+      <meta property="og:description" content="Can we slow down a bit on speeding up software development?" />
+      <meta name="twitter:image" content="https://peteroshaughnessy.com/images/posts/2026-10-29-dangers-of-ai-software-speed-up/thumb.jpg" />
+      <meta name="og:image" content="https://peteroshaughnessy.com/images/posts/2026-10-29-dangers-of-ai-software-speed-up/thumb.jpg" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <div class="avatar-container">
+          <a href="/"><img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/></a>
+        </div>
+        <div class="title-and-tagline-container">
+          <h1><a href="/">Peter O'Shaughnessy</a></h1>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+<div class="contents">
+  <article class="page page-post">
+    <h1>The dangers of the AI software speed-up</h1>
+    <p class="date"><time>28th Oct 2026</time></p>
+    <p>Speeding up software development is an obvious goal for all tech companies, particularly now in the age of AI. Vibe coding is <em>fast</em>. Can we have some more of that please? (Just without the incidents, outages and losing the trust of our customers?)</p>
+<p>We know that AI speeds up code production, but the speed of <em>shipped software</em> production <a href="https://www.faros.ai/blog/how-ai-affects-developer-productivity">hasn&#39;t been keeping up</a>. There&#39;s a bottleneck: humans reviewing the code.</p>
+<p>So across the tech industry, companies are investing heavily in &quot;harness engineering&quot;, to try to feel enough trust in what AI produces, to let it crack on without humans checking its work.</p>
+<p>Even in the organisation where I work, which is a bit behind the curve on this (not always a bad thing), there&#39;s talk about potential &quot;10x&quot; speed improvements.</p>
+<p>But significantly speeding up software development implies one of two outcomes, depending on whether us humans try to keep up or not:</p>
+<h2>1. Burnout</h2>
+<p>This one is personal for me, because I&#39;ve seen friends struggling with it. From social media and blog posts too, I&#39;m hearing of loads of developers struggling with what people are calling <a href="https://siddhantkhare.com/writing/ai-fatigue-is-real">&quot;AI fatigue&quot;</a> or <a href="https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap">&quot;AI brain fry&quot;</a>: the exhaustion from trying to stay on top of AI-produced output.</p>
+<blockquote>
+<p>&quot;Trying to maintain any kind of quality control... is exhausting and overwhelming.&quot;</p>
+<p>- A friend of mine</p>
+</blockquote>
+<p>As software developers, we tend to want to deeply understand the applications and systems that we&#39;re developing. It&#39;s no wonder, because that used to be the only way we could become better developers and increase our worth to our employers.</p>
+<p>But trying to ship AI-produced code significantly faster - while still understanding it in detail - is <em>not humanly possible</em>.</p>
+<p>Companies calling for their developers to speed up software production with AI - without guidance on what that should mean for code reviews, understanding and quality - could well be causing their employees harm.</p>
+<h2>2. Cognitive Debt</h2>
+<p>The alternative is developers taking more of a backseat and handing over the reins more to AI. Using one AI model to review another AI model&#39;s code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.</p>
+<p>This feels very much like the way the industry is heading, so I&#39;m likely to be shouting into the wind here. But I think we should be conscious of the implications of increasing our <a href="https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/">comprehension debt</a> - or <a href="https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in">cognitive debt</a> - as we lose human understanding of our code.</p>
+<h3>We will become more and more reliant on AI and the companies who serve it</h3>
+<p>Although hopefully the &quot;eggs in one basket&quot; risks can be mitigated through on-prem AI, or as smaller LLMs continue to get more capable, running local LLMs.</p>
+<h3>We won&#39;t be building up code knowledge within the company</h3>
+<p>When human developers understand their code, that detailed technical knowledge tends to build up within the company over time. As we rely more on AI, this will be lost. AI doesn&#39;t actually &#39;learn&#39; our codebases, it just reads what it thinks it needs to with every new prompt.</p>
+<p>I guess the idea is that us humans will evolve from understanding code, to understanding the <em>specs</em> that drive the code. (Whether this requires actual <em>developers</em> at all is another question).</p>
+<h3>We will be contributing more to AI&#39;s <a href="https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics/">environmental and ethical harms</a></h3>
+<p>Unfortunately this is always a tough argument to make within any company, versus cold, hard financial drivers.</p>
+<p>My hope is for more ethical and environmentally-friendly AI options to become viable alternatives.</p>
+<h3>Incidents are likely to become more frequent and take longer to resolve</h3>
+<p>It doesn&#39;t take long to find stories like <a href="https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6">&quot;having to stop all feature development for three weeks&quot;</a> because nobody could understand the AI-generated tangle of a codebase anymore. Or <a href="https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence">Amazon experiencing &quot;at least two outages because of issues with the company’s internal AI tools&quot;</a>.</p>
+<p>It&#39;s possible that these risks ease more as AI continues to advance, but <a href="https://www.scrum.org/resources/blog/dora-report-2025-summary-state-ai-assisted-software-development">research has shown that while &quot;AI increases throughput, it also increases instability&quot;</a>.</p>
+<p>I guess the hope is that it will be possible to keep MTBF (Mean Time Between Failures) and MTTR (Mean Time To Recovery) low, by investing in harness engineering and best practices around it. We&#39;ll have to see how that bears out.</p>
+<h3>Developers&#39; mental health could suffer</h3>
+<p>While some developers are happy to hand over the reins to AI, many others are likely to struggle with this, if they&#39;re not already. As Baldur Bjarnason has shared, <a href="https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/">software developers are not doing great right now</a>. Disconnecting ourselves from the code powering our applications could feel disempowering and demotivating.</p>
+<blockquote>
+<p>&quot;I feel like I am just a second hand meat-proxy&quot;</p>
+<p>- A friend of mine</p>
+</blockquote>
+<h2>In conclusion</h2>
+<p>This blog post might make me sound like a luddite to some. Perhaps it won&#39;t age well. My ask is not for everything to remain the same as it is - for that is truly a futile wish - but to ask that we take real care over how we navigate this AI evolution in software engineering.</p>
+<p>Because striving for significant speed gains is not without costs.</p>
+<p>--</p>
+<p class="caption">Thumbnail image credit: <a href="https://commons.wikimedia.org/wiki/File:Speed_limit_road_signs_EB_I-82,_Apr_17.jpg">"Speed limit road signs"</a> by <a href="https://commons.wikimedia.org/wiki/User:An_Errant_Knight">An Errant Knight</a>, Creative Commons</p>
+
+  </article>
+</div>
+    <footer>
+      <p><a rel="me" href="https://toot.cafe/@peter">Mastodon</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a> | <a href="https://github.com/poshaughnessy/peteroshaughnessy.com">Source</a> | <a href="rss.xml">RSS</a></p>
+      <p>© Peter O'Shaughnessy</p>
+    </footer>
+  </body>
+</html>
