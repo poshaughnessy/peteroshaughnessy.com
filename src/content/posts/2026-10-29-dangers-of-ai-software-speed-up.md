@@ -14,7 +14,7 @@ So across the tech industry, companies are investing heavily in "harness enginee
 
 Even in the organisation where I work, which is a bit behind the curve on this (not always a bad thing), there's talk about potential "10x" speed improvements.
 
-But significantly speeding up software development implies one of two outcomes, depending on whether us humans try to keep up or not:
+But significantly speeding up software development implies one of two outcomes, depending on whether us humans try to keep up or not: either _burnout_ or _cognitive debt_.
 
 ## 1. Burnout
 
@@ -34,23 +34,19 @@ Companies calling for their developers to speed up software production with AI -
 
 The alternative is developers taking more of a backseat and handing over the reins more to AI. Using one AI model to review another AI model's code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.
 
-This feels very much like the way the industry is heading, so I'm likely to be shouting into the wind here. But I think we should be conscious of the implications of increasing our [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - or [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - as we lose human understanding of our code.
+This feels very much like the way the industry is heading, so I'm likely to be shouting into the wind here. But I think we should be conscious of the implications of increasing our [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - as we lose human understanding of our code.
 
 ### We will become more and more reliant on AI and the companies who serve it
 
-Although hopefully the "eggs in one basket" risks can be mitigated through on-prem AI, or as smaller LLMs continue to get more capable, running local LLMs.
-
-### We won't be building up code knowledge within the company
+Especially if we're not careful to set up on-prem or local AI, we're likely to make critical dependencies of a handful (at best) of AI companies. We won't be dependent on them just for our infrastructure, but for our _knowledge_ and _thinking_.
 
 When human developers understand their code, that detailed technical knowledge tends to build up within the company over time. As we rely more on AI, this will be lost. AI doesn't actually 'learn' our codebases, it just reads what it thinks it needs to with every new prompt.
 
-I guess the idea is that us humans will evolve from understanding code, to understanding the _specs_ that drive the code. (Whether this requires actual _developers_ at all is another question).
+I guess the idea is that us humans will evolve from understanding code, to understanding the _specs_ that drive the code. (Whether this will require actual _developers_ at all is another question).
 
 ### We will be contributing more to AI's [environmental and ethical harms](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics/)
 
-Unfortunately this is always a tough argument to make within any company, versus cold, hard financial drivers.
-
-My hope is for more ethical and environmentally-friendly AI options to become viable alternatives.
+Unfortunately this is always a tough argument to make within any company, versus cold, hard financial drivers. But the more we rely on AI, the more we will be contributing to its harms.
 
 ### Incidents are likely to become more frequent and take longer to resolve
 
@@ -70,7 +66,9 @@ While some developers are happy to hand over the reins to AI, many others are li
 
 ## In conclusion
 
-This blog post might make me sound like a luddite to some. Perhaps it won't age well. My ask is not for everything to remain the same as it is - for that is truly a futile wish - but to ask that we take real care over how we navigate this AI evolution in software engineering.
+I'm conscious this blog post only provides challenges, not solutions. And my fears about these issues might make me sound like a luddite to some. Perhaps this post won't age well.
+
+However, my ask is not for everything to remain the same as it is - for that is truly a futile wish - but just that we take real care over how we navigate this AI evolution in software engineering.
 
 Because striving for significant speed gains is not without costs.
 
