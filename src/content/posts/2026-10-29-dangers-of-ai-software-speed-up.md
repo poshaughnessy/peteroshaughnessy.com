@@ -66,7 +66,7 @@ While some developers are happy to hand over the reins to AI, many others are li
 
 ## In conclusion
 
-I'm conscious this blog post only provides challenges, not solutions. And my fears about these issues might make me sound like a luddite to some. Perhaps this post won't age well.
+I'm conscious this blog post only provides challenges, not solutions. And my fears about these issues might make me sound like a [luddite](https://www.brookings.edu/articles/we-should-all-be-luddites/) to some.
 
 However, my ask is not for everything to remain the same as it is - for that is truly a futile wish - but just that we take real care over how we navigate this AI evolution in software engineering.
 
