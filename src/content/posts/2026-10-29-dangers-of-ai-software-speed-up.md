@@ -52,7 +52,7 @@ Unfortunately this is always a tough argument to make within any company, versus
 
 ### Incidents are likely to become more frequent and take longer to resolve
 
-It doesn't take long to find stories like ["having to stop all feature development for three weeks"](https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6) because nobody could understand the AI-generated tangle of a codebase anymore. Or [Amazon experiencing "at least two outages because of issues with the company’s internal AI tools"](https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence).
+It doesn't take long to find stories like ["having to stop all feature development for three weeks"](https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6) because nobody could understand the AI-generated tangle of a codebase anymore. Or Amazon experiencing ["at least two outages... including a 13-hour interruption to a customer-facing system"](https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence) due to their use of AI.
 
 It's possible that these risks ease more as AI continues to advance, but [research has shown that while "AI increases throughput, it also increases instability"](https://www.scrum.org/resources/blog/dora-report-2025-summary-state-ai-assisted-software-development).
 
