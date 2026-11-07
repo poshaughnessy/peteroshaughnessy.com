@@ -34,7 +34,9 @@ Companies calling for their developers to speed up software production with AI -
 
 The alternative is developers taking more of a backseat and handing over the reins more to AI. Using one AI model to review another AI model's code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.
 
-My sense is that this is the way the industry is heading, so I might be shouting into the wind here. But I think we should be conscious of the implications of increasing our [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - as lose human understanding of our code.
+But this implies increasing our [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - as we lose human understanding of our code.
+
+My sense is that this is the way the industry is heading, so I might be shouting into the wind here. But I think we should be conscious of the implications of this:
 
 ### We will become more and more reliant on AI and the companies who serve it
 
