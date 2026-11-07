@@ -80,9 +80,9 @@ Because striving for significant speed gains is not without costs.
 
 I since read [this blog post by Alex Grebenyuk called "Bring Receipts"](https://kean.blog/post/pr-reviews-are-for-humans).
 
-What I like about the approach Alex shares is the ethos of _"PR reviews are for humans"_, plus ideas for helping us humans to keep up.
+While the approach Alex shares suffers from some of the same problems I've outlined above, what I like about it is the ethos of _"PR reviews are for humans"_, plus ideas for helping us humans to keep up.
 
-> You’re responsible for what gets merged, and AI can’t be responsible for anything.
+> "You’re responsible for what gets merged, and AI can’t be responsible for anything."
 
 > "You still need to understand the codebase."
 
