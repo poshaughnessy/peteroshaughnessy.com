@@ -38,7 +38,7 @@ My sense is that this is the way the industry is heading, so I might be shouting
 
 ### We will become more and more reliant on AI and the companies who serve it
 
-Especially if we're not careful to set up on-prem or local AI, we're likely to make critical dependencies of a handful (at best) of AI companies. We won't be dependent on them just for our infrastructure, but for our _knowledge_ and _thinking_.
+Especially if we're not careful to set up on-prem or local AI, we're likely to make critical dependencies of a handful (at best) of AI companies. If we endow them more and more with the ownership and understanding of our code, we won't be dependent on them just for our infrastructure, but for "_knowledge_" and "_thinking_".
 
 When human developers understand their code, that detailed technical knowledge tends to build up within the company over time. As we rely more on AI, this will be lost. LLMs don't actually 'learn' our codebases over time, they just (re-)read what they think they need with every new prompt.
 
