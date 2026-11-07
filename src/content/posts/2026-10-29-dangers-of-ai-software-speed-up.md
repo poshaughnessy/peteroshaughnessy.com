@@ -10,9 +10,9 @@ Speeding up software development is an obvious goal for all tech companies, part
 
 We know that AI speeds up code production, but the speed of _shipped software_ production [hasn't been keeping up](https://www.faros.ai/blog/how-ai-affects-developer-productivity). There's a bottleneck: humans reviewing the code.
 
-So across the tech industry, companies are investing heavily in "harness engineering", to try to feel enough trust in what AI produces, to let it crack on without humans checking its work.
+So across the tech industry, companies are investing heavily in "harness engineering", and more and more seem to be asking the question: can we start to trust it enough to skip human reviews?
 
-Even in the organisation where I work, which is a bit behind the curve on this (not always a bad thing), there's talk about potential "10x" speed improvements.
+Even in the organisation where I work, which is a bit behind the bleeding edge on this (perhaps a good thing), I've heard talk about striving for "10x" speed improvements.
 
 But significantly speeding up software development implies one of two outcomes, depending on whether us humans try to keep up or not: either _burnout_ or _cognitive debt_.
 
@@ -34,7 +34,7 @@ Companies calling for their developers to speed up software production with AI -
 
 The alternative is developers taking more of a backseat and handing over the reins more to AI. Using one AI model to review another AI model's code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.
 
-This feels very much like the way the industry is heading, so I'm likely to be shouting into the wind here. But I think we should be conscious of the implications of increasing our [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - as we lose human understanding of our code.
+My sense is that this is the way the industry is heading, so I might be shouting into the wind here. But I think we should be conscious of the implications of increasing our [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - as lose human understanding of our code.
 
 ### We will become more and more reliant on AI and the companies who serve it
 
@@ -54,23 +54,33 @@ It doesn't take long to find stories like ["having to stop all feature developme
 
 It's possible that these risks ease more as AI continues to advance, but [research has shown that while "AI increases throughput, it also increases instability"](https://www.scrum.org/resources/blog/dora-report-2025-summary-state-ai-assisted-software-development).
 
-I guess the hope is that it will be possible to keep MTBF (Mean Time Between Failures) and MTTR (Mean Time To Recovery) low, by investing in harness engineering and best practices around it. We'll have to see how that bears out.
+I guess the hope is that it will be possible to keep MTBF (Mean Time Between Failures) and MTTR (Mean Time To Recovery) low, by sufficiently investing in harness engineering and best practices around it. We'll have to see how that bears out.
 
 ### Developers' mental health could suffer
 
-While some developers are happy to hand over the reins to AI, many others are likely to struggle with this, if they're not already. As Baldur Bjarnason has shared, [software developers are not doing great right now](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/). Disconnecting ourselves from the code powering our applications could feel disempowering and demotivating.
+While some developers are happy to hand over the reins to AI, many others are likely to struggle with this, if they're not already.
+
+As Baldur Bjarnason has shared, [software developers are not doing great right now](https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/). Disconnecting ourselves from the code powering our applications could feel disempowering and demotivating.
 
 > "I feel like I am just a second hand meat-proxy"
 >
 > \- A friend of mine
 
-## In conclusion
+## Wrapping up
 
 I'm conscious this blog post only provides challenges, not solutions. And my fears about these issues might make me sound like a [luddite](https://www.brookings.edu/articles/we-should-all-be-luddites/) to some.
 
 However, my ask is not for everything to remain the same as it is - for that is truly a futile wish - but just that we take real care over how we navigate this AI evolution in software engineering.
 
 Because striving for significant speed gains is not without costs.
+
+## Post-Script
+
+I since read [this blog post by Alex Grebenyuk called "Bring Receipts"](https://kean.blog/post/pr-reviews-are-for-humans).
+
+What I like about the approach Alex shares is the ethos of _"PR reviews are for humans"_, plus ideas for helping us humans to keep up.
+
+This certainly feels like a more workable solution to me, versus building a house of cards of AI reviewing AI.
 
 --
 
