@@ -80,7 +80,11 @@ I since read [this blog post by Alex Grebenyuk called "Bring Receipts"](https://
 
 What I like about the approach Alex shares is the ethos of _"PR reviews are for humans"_, plus ideas for helping us humans to keep up.
 
-This certainly feels like a more workable solution to me, versus building a house of cards of AI reviewing AI.
+> You’re responsible for what gets merged, and AI can’t be responsible for anything.
+
+> "You still need to understand the codebase."
+
+This certainly feels more like a workable solution to me, versus building a house of cards of AI reviewing AI, and imagining humans can become inessential to the process.
 
 --
 
