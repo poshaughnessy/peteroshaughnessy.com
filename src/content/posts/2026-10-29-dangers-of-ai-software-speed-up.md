@@ -12,9 +12,9 @@ We know that AI speeds up code production, but the speed of _shipped software_ p
 
 So across the tech industry, companies are investing heavily in "harness engineering", and more and more seem to be asking the question: can we start to trust it enough to skip human reviews?
 
-Even in the organisation where I work, which is a bit behind the bleeding edge on this (perhaps a good thing), I've heard talk about striving for "10x" speed improvements.
+Even in the organisation where I work, which is somewhat behind the bleeding edge on this (perhaps a good thing), I've heard talk about striving for "10x" speed improvements.
 
-But _significantly_ speeding up software development implies one of two outcomes, depending on whether us humans try to keep up or not: either _burnout_ or _cognitive debt_.
+But speeding up software development by any kind of multiplier implies one of two outcomes, depending on whether us humans try to keep up or not: either _burnout_ or _cognitive debt_.
 
 ## 1. Burnout
 
@@ -26,7 +26,7 @@ This one is personal for me, because I've seen friends struggling with it. From 
 
 As software developers, we tend to want to deeply understand the applications and systems that we're developing. It's no wonder, because that used to be the only way we could become better developers and increase our worth to our employers.
 
-But trying to ship AI-produced code significantly faster - while still understanding it in detail - is _not humanly possible_.
+But trying to ship AI-produced code _significantly_ faster - while still understanding it in detail - is _not humanly possible_.
 
 Companies calling for their developers to speed up software production with AI - without guidance on what that should mean for code reviews, understanding and quality - could well be causing their employees harm.
 
