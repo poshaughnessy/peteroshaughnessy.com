@@ -56,7 +56,7 @@ It doesn't take long to find stories like ["having to stop all feature developme
 
 It's possible that some of these risks ease more as AI continues to advance, but [research has shown that while "AI increases throughput, it also increases instability"](https://www.scrum.org/resources/blog/dora-report-2025-summary-state-ai-assisted-software-development).
 
-I guess the hope is that it will be possible to keep MTBF (Mean Time Between Failures) and MTTR (Mean Time To Recovery) low, by sufficiently investing in harness engineering and best practices around it. We'll have to see how that bears out.
+I guess the hope is that it will be possible to keep MTBF (Mean Time Between Failures) and MTTR (Mean Time To Recovery) low, by sufficiently investing in harness engineering and best practices around it. But we'd better be very sure about that, before we try to go down this route for any production systems.
 
 ### Developers' mental health could suffer
 
