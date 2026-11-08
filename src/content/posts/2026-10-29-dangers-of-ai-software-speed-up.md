@@ -14,7 +14,7 @@ So across the tech industry, companies are investing heavily in "harness enginee
 
 Even in the organisation where I work, which is a bit behind the bleeding edge on this (perhaps a good thing), I've heard talk about striving for "10x" speed improvements.
 
-But significantly speeding up software development implies one of two outcomes, depending on whether us humans try to keep up or not: either _burnout_ or _cognitive debt_.
+But _significantly_ speeding up software development implies one of two outcomes, depending on whether us humans try to keep up or not: either _burnout_ or _cognitive debt_.
 
 ## 1. Burnout
 
