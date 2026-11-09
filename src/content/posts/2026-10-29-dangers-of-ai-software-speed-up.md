@@ -76,15 +76,21 @@ Because striving for significant speed gains is not without costs.
 
 ## Post-Script
 
-I since read [this blog post by Alex Grebenyuk called "Bring Receipts"](https://kean.blog/post/pr-reviews-are-for-humans).
+I since read [a blog post by Alex Grebenyuk called "Bring Receipts"](https://kean.blog/post/pr-reviews-are-for-humans).
 
-While the approach Alex shares suffers from some of the same problems I've outlined above, what I like about it is the ethos of _"PR reviews are for humans"_, plus ideas for helping us humans to keep up.
+Alex flips the idea of AI code reviews on its head:
+
+> "One agent opens a PR, and only then does another one review it. I think it’s backwards... why wait until the PR is open? The review should be part of making the change, along with the proof that it works."
+
+Something I appreciate from Alex's approach is the ethos of _"PR reviews are for humans"_:
 
 > "You’re responsible for what gets merged, and AI can’t be responsible for anything."
 
 > "You still need to understand the codebase."
 
-This certainly feels more like a workable solution to me, versus building a house of cards of AI reviewing AI, and imagining humans can become inessential to the process.
+I'm also intrigued by the idea of getting AI to do the legwork to help us humans keep up. For example, by summarising new patterns and API changes, and sending weekly briefs and video walkthroughs.
+
+Alex's approach certainly feels more workable to me, versus building a house of cards of AI reviewing AI, and imagining humans can become inessential to the process.
 
 --
 
