@@ -8,13 +8,11 @@ date: 2026-10-28
 
 Speeding up software development is an obvious goal for all tech companies, particularly now in the age of AI. Vibe coding is _fast_. Can we have some more of that please? (Just without the incidents, outages and losing the trust of our customers?)
 
-We know that AI speeds up code production, but the speed of _shipped software_ production [hasn't been keeping up](https://www.faros.ai/blog/how-ai-affects-developer-productivity). There's a bottleneck: humans reviewing the code.
-
-So across the tech industry, companies are investing heavily in "harness engineering", and more and more seem to be asking the question: can we start to trust it enough to skip human reviews?
-
 Even in the organisation where I work, which is somewhat behind the bleeding edge on this (perhaps a good thing), I've heard talk about striving for "10x" speed improvements.
 
-But depending on whether us humans try to keep up or not, _significantly_ speeding up software development implies _burnout_, _cognitive debt_ or both.
+We know that AI speeds up code production, but the speed of _shipped software_ production [hasn't been keeping up](https://www.faros.ai/blog/how-ai-affects-developer-productivity). There's a bottleneck: humans reviewing the code.
+
+But despite companies investing heavily in "harness engineering", code reviews are not an easy bottleneck to solve. Depending on whether us humans try to keep up or not, significantly speeding up software development implies _burnout_ and/or _cognitive debt_.
 
 ## 1. Burnout
 
