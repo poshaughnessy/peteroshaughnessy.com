@@ -44,6 +44,12 @@ When human developers understand their code, that detailed technical knowledge t
 
 I guess the idea is that us humans will evolve from understanding code, to understanding the _specs_ that drive the code. (Whether this will require actual _developers_ at all is another question).
 
+**Update:** I since came across a post on Reddit which I think perfectly encapsulates the dangers of transferring too much coding repsonsibility to AI: ["A year after the 100% AI mandate nobody understands our code"](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/).
+
+> "A year ago leadership told us everything goes through agents now. Hand written code needed a reason. It felt great for about 6 months, we shipped more than we ever had.
+>
+> Now the codebase is around 3x the size it was and nobody can explain how most of it works. The agents struggle too, they keep re-implementing helpers that already exist somewhere else because there are 4 versions of everything..."
+
 ### We will be contributing more to AI's [environmental and ethical harms](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics/)
 
 Unfortunately this is always a tough argument to make within any company, versus cold, hard financial drivers. But the more we rely on AI, the more we will be contributing to its harms.
