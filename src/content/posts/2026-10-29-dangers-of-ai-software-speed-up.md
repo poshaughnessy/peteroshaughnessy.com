@@ -52,7 +52,7 @@ There is a post on Reddit which I think perfectly encapsulates the dangers of tr
 
 The "slippery slope" is often a fallacy, but in this case it truly does feel like a slippery slope: once we lose human understanding of our code, it could be very difficult and time-consuming to regain it.
 
-### Increasing incident frequency and the time to resolve them
+### Increasing incident frequency and the time to resolve
 
 It doesn't take long to find stories like ["having to stop all feature development for three weeks"](https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6) because nobody could understand the AI-generated tangle of a codebase anymore. Or Amazon experiencing ["at least two outages... including a 13-hour interruption to a customer-facing system"](https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence) due to their use of AI.
 
