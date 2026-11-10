@@ -1,6 +1,6 @@
 ---
-title: The dangers of trying to remove the AI code review bottleneck
-slug: removing-the-ai-code-review-bottleneck-worries-me
+title: In defense of the human code review
+slug: in-defense-of-the-human-code-review
 excerpt: Can we slow down a bit on speeding up software development?
 thumbnail: /images/posts/2026-10-29-dangers-of-ai-software-speed-up/thumb.jpg
 date: 2026-10-28
@@ -10,9 +10,13 @@ Speeding up software development is an obvious goal for all tech companies, part
 
 Even in the organisation where I work, which is somewhat behind the bleeding edge on this (perhaps a good thing), I've heard talk about striving for "10x" speed improvements.
 
-We know that AI speeds up code production, but the speed of _shipped software_ production [hasn't been keeping up](https://www.faros.ai/blog/how-ai-affects-developer-productivity). There's a bottleneck: humans reviewing the code.
+We know that AI speeds up code production, but the speed of _shipped software_ production [hasn't been keeping up](https://www.faros.ai/blog/how-ai-affects-developer-productivity). There's an apparent bottleneck: humans reviewing the code.
 
-But despite companies investing heavily in "harness engineering", code reviews are not an easy bottleneck to solve. Depending on whether us humans try to keep up or not, significantly speeding up software development implies _burnout_ and/or _cognitive debt_.
+But is this really a bottleneck we should try to solve, or is it an essential part of a maintainable, production system?
+
+Companies are investing heavily in "harness engineering" and there's a growing push for "software factories", to transition "from AI-assisted to AI-led engineering". There's a growing sense that software engineers trying to keep up are the last bastions of human-understood code.
+
+Losing that understanding of our code worries me, but human reviewers trying to keep up with the speed of AI code production doesn't seem feasible either. Depending on how hard we try to keep up, significantly speeding up software development implies _burnout_ and/or _cognitive debt_.
 
 ## 1. Burnout
 
@@ -50,9 +54,7 @@ I guess the idea is that us humans will evolve from understanding code, to under
 >
 > Now the codebase is around 3x the size it was and nobody can explain how most of it works. The agents struggle too, they keep re-implementing helpers that already exist somewhere else because there are 4 versions of everything..."
 
-### We will be contributing more to AI's [environmental and ethical harms](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics/)
-
-Unfortunately this is always a tough argument to make within any company, versus cold, hard financial drivers. But the more we rely on AI, the more we will be contributing to its harms.
+The "slippery slope" is often a fallacy, but in this case it truly does feel like a slippery slope: once we lose human understanding of our code, it could be very difficult and time-consuming to regain it.
 
 ### Incidents are likely to become more frequent and take longer to resolve
 
@@ -61,6 +63,10 @@ It doesn't take long to find stories like ["having to stop all feature developme
 It's possible that some of these risks ease more as AI continues to advance, but [research has shown that while "AI increases throughput, it also increases instability"](https://www.scrum.org/resources/blog/dora-report-2025-summary-state-ai-assisted-software-development).
 
 I guess the hope is that it will be possible to keep MTBF (Mean Time Between Failures) and MTTR (Mean Time To Recovery) low, by sufficiently investing in harness engineering and best practices around it. But we'd better be very sure about that, before we try to go down this route for any production systems.
+
+### We will be contributing more to AI's [environmental and ethical harms](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics/)
+
+Unfortunately this is always a tough argument to make within any company, versus cold, hard financial drivers. But the more we rely on AI, the more we will be contributing to its harms.
 
 ### Developers' mental health could suffer
 
@@ -72,13 +78,13 @@ As Baldur Bjarnason has shared, [software developers are not doing great right n
 >
 > \- A friend of mine
 
-## Wrapping up
+## In defense of the human code review
 
-I'm conscious this blog post only provides challenges, not solutions. And my fears about these issues might make me sound like a [luddite](https://www.brookings.edu/articles/we-should-all-be-luddites/) to some.
+I'm conscious this blog post mostly provides challenges rather than solutions.
 
-However, my ask is not for everything to remain the same as it is - for that is truly a futile wish - but just that we take real care over how we navigate this AI evolution in software engineering.
+My ask is not for everything to remain the same as it is - for that is truly a futile wish - but just that we take real care over how we navigate this AI evolution in software engineering.
 
-Because striving for significant speed gains is not without costs.
+Unless or until we become certain that it's safe to cede the understanding of our production systems to AI, then we should continue to see human code reviews as a vital step in the process. And we should give software engineers time to undertake them properly, without burning out.
 
 ## Post-Script
 
