@@ -16,29 +16,25 @@ But is this really a bottleneck we should try to solve, or is it an essential pa
 
 Companies are investing heavily in "harness engineering" and there's a growing push for "software factories", to transition "from AI-assisted to AI-led engineering". There's a growing sense that software engineers trying to keep up are the last bastions of human-understood code.
 
-Losing that understanding of our code worries me, but human reviewers trying to keep up with the speed of AI code production doesn't seem feasible either. Depending on how hard we try to keep up, significantly speeding up software development implies _burnout_ and/or _cognitive debt_.
+But keeping human code reviews - and allowing sufficient time for them - can help to avoid two key probelms: _burnout_ and _cognitive debt_.
 
-## 1. Burnout
+## Avoiding burnout
 
-This one is personal for me, because I've seen friends struggling with it. From social media and blog posts too, I'm hearing of loads of developers struggling with what people are calling ["AI fatigue"](https://siddhantkhare.com/writing/ai-fatigue-is-real) or ["AI brain fry"](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap): the exhaustion from trying to stay on top of AI-produced output.
+This one is personal for me, because I've seen friends struggling with burnout recently. From social media and blog posts too, I'm hearing of loads of developers struggling with what people are calling ["AI fatigue"](https://siddhantkhare.com/writing/ai-fatigue-is-real) or ["AI brain fry"](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap): the exhaustion from trying to stay on top of AI-produced output.
 
 > "Trying to maintain any kind of quality control... is exhausting and overwhelming."
 >
 > \- A friend of mine
 
-As software developers, we tend to want to deeply understand the applications and systems that we're developing. It's no wonder, because that used to be the only way we could become better developers and increase our worth to our employers.
+With the speed of coding increasing so much with AI, we need to be really careful of the scale of code changes, and the sense of increasing time pressure for reviews. We should ensure we retain sufficient time to understand the code changes. And if companies call for their developers to speed up software production with AI, they should be really clear on what that means for code reviews, understanding and quality.
 
-But trying to ship AI-produced code _significantly_ faster - while still understanding it in detail - is _not humanly possible_.
+## Avoiding cognitive debt
 
-Companies calling for their developers to speed up software production with AI - without guidance on what that should mean for code reviews, understanding and quality - could well be causing their employees harm.
+Human code reviews are also critical for avoiding the [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - from losing human understanding of our code.
 
-## 2. Cognitive Debt
+Companies are increasingly considering handing over the reins more to AI. Perhaps using one AI model to review another AI model's code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.
 
-The alternative is developers taking more of a backseat and handing over the reins more to AI. Using one AI model to review another AI model's code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.
-
-But this implies increasing our [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - as we lose human understanding of our code.
-
-My sense is that this is the way the industry is heading, so I might be shouting into the wind here. But I think we should be conscious of the implications of this:
+But I think we should be very conscious of the implications of this:
 
 ### We will become more and more reliant on AI and the companies who serve it
 
@@ -78,11 +74,9 @@ As Baldur Bjarnason has shared, [software developers are not doing great right n
 
 ## In defense of the human code review
 
-I'm conscious this blog post mostly provides challenges rather than solutions.
+I'm conscious this blog post mostly provides challenges rather than solutions. My ask is not for everything to remain the same as it is - for that is truly a futile wish - but just that we take real care over how we navigate this AI evolution in software engineering.
 
-My ask is not for everything to remain the same as it is - for that is truly a futile wish - but just that we take real care over how we navigate this AI evolution in software engineering.
-
-Unless or until we become certain that it's safe to cede the understanding of our production systems to AI, then we should continue to see human code reviews as a vital step in the process. And we should give software engineers time to undertake them properly, without burning out.
+Unless - or until - we become certain that it's safe to cede the understanding of our production systems to AI, then we should continue to see human code reviews as a vital step in the process. And we should continue to give software engineers time to undertake them properly, without burning out.
 
 ## Post-Script
 
