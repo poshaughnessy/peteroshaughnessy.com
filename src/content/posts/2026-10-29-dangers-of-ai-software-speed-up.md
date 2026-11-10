@@ -46,8 +46,6 @@ Especially if we're not careful to set up on-prem or local AI, we're likely to m
 
 When human developers understand their code, that detailed technical knowledge tends to build up within the company over time. As we rely more on AI, this will be lost. LLMs don't actually 'learn' our codebases over time, they just (re-)read what they think they need with every new prompt.
 
-I guess the idea is that us humans will evolve from understanding code, to understanding the _specs_ that drive the code. (Whether this will require actual _developers_ at all is another question).
-
 **Update:** I since came across a post on Reddit which I think perfectly encapsulates the dangers of transferring too much coding repsonsibility to AI: ["A year after the 100% AI mandate nobody understands our code"](https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/).
 
 > "A year ago leadership told us everything goes through agents now. Hand written code needed a reason. It felt great for about 6 months, we shipped more than we ever had.
