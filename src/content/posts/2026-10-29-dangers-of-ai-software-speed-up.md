@@ -62,7 +62,7 @@ As Baldur Bjarnason has shared, [software developers are not doing great right n
 >
 > \- A friend of mine
 
-This leads me onto another risk of the shift to AI code production - and not allowing them sufficient time for human review: burnout...
+This leads me onto another risk of the shift to AI code production - and not allowing sufficient time for human review: burnout...
 
 ## Burnout
 
