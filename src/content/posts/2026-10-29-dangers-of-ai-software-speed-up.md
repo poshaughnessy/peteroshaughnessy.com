@@ -14,7 +14,7 @@ We know that AI speeds up code production, but the speed of _shipped software_ p
 
 But is this really a bottleneck we should try to solve, or is it an essential part of a maintainable, production system?
 
-Companies are investing heavily in "harness engineering" and there's a growing push for AI "software factories", to transition "from AI-assisted to AI-led engineering". There's a growing sense that software engineers trying to keep up with reviewing merge requests are the last bastions of human understanding.
+Companies are investing heavily in "harness engineering" and there's a growing push for AI "software factories", to transition "from AI-assisted to AI-led engineering". There's a growing sense that software engineers trying to keep up with reviewing merge requests are the last bastions standing up to the flood of AI-generated code.
 
 But keeping human code reviews - and allowing sufficient time for them - can help to avoid two key problems: _cognitive debt_ and _burnout_.
 
