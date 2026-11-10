@@ -52,6 +52,8 @@ Perhaps it will be possible to keep MTBF (Mean Time Between Failures) and MTTR (
 
 Unfortunately this is always a tough argument to make within any company, versus cold, hard financial drivers. But the more we rely on AI and bake it into all our processes, the more we will be contributing to its [environmental and ethical harms](https://peteroshaughnessy.com/posts/responsible-ai-the-only-way-is-ethics/).
 
+(I don't want to gloss over this, but I'm also not sure what else to say about it in this particular blog post. I would love to help find [more ethical alternatives](https://peteroshaughnessy.com/posts/green-energy-inference-open-weight-llms/) at some point).
+
 ### Contributing to poor mental health for developers
 
 While some developers are happy to hand over the reins to AI, others are likely to struggle with this, if they're not already.
