@@ -1,7 +1,7 @@
 ---
 title: In defense of the human code review
 slug: in-defense-of-the-human-code-review
-excerpt: Can we slow down a bit on speeding up software development?
+excerpt: The risks of ceding our understanding, in the pursuit of speed
 thumbnail: /images/posts/2026-10-29-dangers-of-ai-software-speed-up/thumb.jpg
 date: 2026-10-28
 ---
