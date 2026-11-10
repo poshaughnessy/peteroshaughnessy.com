@@ -52,4 +52,6 @@ module.exports = {
   "/pages/portfolio": "/projects",
   "/portfolio": "/projects",
   "/pages/talks": "/talks",
+  "/posts/removing-the-ai-code-review-bottleneck-worries-me":
+    "/posts/the-dangers-of-trying-to-remove-the-ai-code-review-bottleneck",
 };

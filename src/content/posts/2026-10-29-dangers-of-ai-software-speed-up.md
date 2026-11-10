@@ -1,5 +1,5 @@
 ---
-title: Removing the AI code review bottleneck worries me
+title: The dangers of trying to remove the AI code review bottleneck
 slug: removing-the-ai-code-review-bottleneck-worries-me
 excerpt: Can we slow down a bit on speeding up software development?
 thumbnail: /images/posts/2026-10-29-dangers-of-ai-software-speed-up/thumb.jpg
