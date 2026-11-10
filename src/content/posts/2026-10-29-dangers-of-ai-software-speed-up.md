@@ -16,25 +16,13 @@ But is this really a bottleneck we should try to solve, or is it an essential pa
 
 Companies are investing heavily in "harness engineering" and there's a growing push for "software factories", to transition "from AI-assisted to AI-led engineering". There's a growing sense that software engineers trying to keep up are the last bastions of human-understood code.
 
-But keeping human code reviews - and allowing sufficient time for them - can help to avoid two key probelms: _burnout_ and _cognitive debt_.
-
-## Burnout
-
-This one is personal for me, because I've seen friends struggling with burnout recently. From social media and blog posts too, I'm hearing of loads of developers struggling with what people are calling ["AI fatigue"](https://siddhantkhare.com/writing/ai-fatigue-is-real) or ["AI brain fry"](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap): the exhaustion from trying to stay on top of AI-produced output.
-
-> "Trying to maintain any kind of quality control... is exhausting and overwhelming."
->
-> \- A friend of mine
-
-With the speed of coding increasing so much with AI, we need to be really careful of the scale of code changes, and the sense of increasing time pressure for reviews.
-
-We should ensure we retain sufficient time to understand the code changes. And if companies call for their developers to speed up software production with AI, they should be really clear on what that means for code reviews, understanding and quality.
+But keeping human code reviews - and allowing sufficient time for them - can help to avoid two key problems: _cognitive debt_ and _burnout_.
 
 ## Cognitive debt
 
-Human code reviews are also critical for avoiding the [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - from losing human understanding of our code.
+Human code reviews are critical for avoiding the [cognitive debt](https://newsletter.getdx.com/p/cognitive-debt-the-hidden-risk-in) - or [comprehension debt](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/) - from losing human understanding of our code.
 
-Companies are increasingly considering handing over the reins more to AI. Perhaps using one AI model to review another AI model's code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.
+Companies appear to be increasingly considering handing over the reins more to AI. Perhaps using one AI model to review another AI model's code. Perhaps only getting involved when the AI reviewer flags potential issues, or when merge requests touch critical parts of the codebase.
 
 But I think we should be very conscious of the implications of increasing our cognitive debt:
 
@@ -73,6 +61,20 @@ As Baldur Bjarnason has shared, [software developers are not doing great right n
 > "I feel like I am just a second hand meat-proxy"
 >
 > \- A friend of mine
+
+This leads me onto another risk of the shift to AI code production - and not allowing them sufficient time for human review: burnout...
+
+## Burnout
+
+This one is personal for me, because I've seen friends struggling with burnout recently. From social media and blog posts too, I'm hearing of loads of developers struggling with what people are calling ["AI fatigue"](https://siddhantkhare.com/writing/ai-fatigue-is-real) or ["AI brain fry"](https://edition.cnn.com/2026/03/13/business/ai-brain-fry-nightcap): the exhaustion from trying to stay on top of AI-produced output.
+
+> "Trying to maintain any kind of quality control... is exhausting and overwhelming."
+>
+> \- A friend of mine
+
+With the speed of coding increasing so much with AI, we need to be really careful of the scale of code changes, and the sense of increasing time pressure for reviews.
+
+We should ensure we retain sufficient time to understand the code changes. And if companies call for their developers to speed up software production with AI, they should be really clear on what that means for code reviews, understanding and quality.
 
 ## In defense of the human code review
 
