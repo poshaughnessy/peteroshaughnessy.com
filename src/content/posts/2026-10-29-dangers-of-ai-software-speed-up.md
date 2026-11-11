@@ -40,6 +40,12 @@ There is a post on Reddit which I think perfectly encapsulates the dangers of tr
 
 The "slippery slope" is often a fallacy, but in this case it truly does feel like a slippery slope: once we lose human understanding of our code, it could be very difficult and time-consuming to regain it.
 
+**Edit:** I since came across another blog post which fits with this perfectly, from an ex-Meta developer: ["AI usage generates a fragile codebase"](https://www.evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/).
+
+> "I saw the code being pushed by some of my peers who were heavily reliant on AI, and I saw that it was brittle code. There were many subtle issues that would lead to tech debt in the long term, and even some glaring issues were ignored by very good programmers."
+
+> "AI tends to solve the problems that can fit within its context window very well, but it's totally oblivious to the long term issues that can't be understood in that relatively small frame."
+
 ### Increasing incident frequency and the time to resolve
 
 It doesn't take long to find stories like ["having to stop all feature development for three weeks"](https://dev.to/harsh2644/ai-is-creating-a-new-kind-of-tech-debt-and-nobody-is-talking-about-it-3pm6) because nobody could understand the AI-generated tangle of a codebase anymore. Or Amazon experiencing ["at least two outages... including a 13-hour interruption to a customer-facing system"](https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence) due to their use of AI.
