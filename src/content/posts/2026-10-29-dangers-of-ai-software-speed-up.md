@@ -38,13 +38,13 @@ There is a post on Reddit which I think perfectly encapsulates the dangers of tr
 >
 > Now the codebase is around 3x the size it was and nobody can explain how most of it works. The agents struggle too, they keep re-implementing helpers that already exist somewhere else because there are 4 versions of everything..."
 
-The "slippery slope" is often a fallacy, but in this case it truly does feel like a slippery slope: once we lose human understanding of our code, it could be very difficult and time-consuming to regain it.
-
-**Edit:** I since came across another blog post which fits with this perfectly, from an ex-Meta developer: ["AI usage generates a fragile codebase"](https://www.evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/).
+**Update:** I since came across another blog post which fits with this perfectly, from an ex-Meta developer: ["AI usage generates a fragile codebase"](https://www.evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/).
 
 > "I saw the code being pushed by some of my peers who were heavily reliant on AI, and I saw that it was brittle code. There were many subtle issues that would lead to tech debt in the long term, and even some glaring issues were ignored by very good programmers."
 
 > "AI tends to solve the problems that can fit within its context window very well, but it's totally oblivious to the long term issues that can't be understood in that relatively small frame."
+
+The "slippery slope" is often a fallacy, but in this case it truly does feel like a slippery slope: once we lose human understanding of our code, it could be very difficult and time-consuming to regain it.
 
 ### Increasing incident frequency and the time to resolve
 
