@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Software factories vs human understanding - Peter O'Shaughnessy</title>
+    <meta name="description" content="Front-end developer working at an employee-owned retailer" />
+    <link rel="stylesheet" href="/styles/styles.css" />
+    <link rel="icon" href="/images/favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="RSS feed" href="https://peteroshaughnessy.com/rss.xml" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@poshaughnessy" />
+    <meta name="twitter:creator" content="@poshaughnessy" />
+    <meta property="og:type" content="website" />
+      <meta name="twitter:title" content="Software factories vs human understanding" />
+      <meta property="og:title" content="Software factories vs human understanding" />
+      <meta name="twitter:description" content="Genies in the software factory and the two paths for the future of software" />
+      <meta property="og:description" content="Genies in the software factory and the two paths for the future of software" />
+      <meta name="twitter:image" content="https://peteroshaughnessy.com/images/posts/2026-11-26-software-factories-vs-human-understanding/thumb.jpg" />
+      <meta name="og:image" content="https://peteroshaughnessy.com/images/posts/2026-11-26-software-factories-vs-human-understanding/thumb.jpg" />
+  </head>
+  <body>
+    <header>
+      <div>
+        <div class="avatar-container">
+          <a href="/"><img class="avatar" src="/images/peter-cartoon-circle.png" alt="Peter's cartoon avatar"/></a>
+        </div>
+        <div class="title-and-tagline-container">
+          <h1><a href="/">Peter O'Shaughnessy</a></h1>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/about/">About</a></li>
+        </ul>
+      </nav>
+    </header>
+<div class="contents">
+  <article class="page page-post">
+    <h1>Software factories vs human understanding</h1>
+    <p class="date"><time>26th Nov 2026</time></p>
+    <p><em>This blog post should work fine on its own, but it also builds upon ideas from my earlier post <a href="https://peteroshaughnessy.com/posts/in-defense-of-the-human-code-review">In defense of the human code review</a>, in case you might wish to read that one first (or second).</em></p>
+<hr />
+
+<h2>Two paths for the future of software</h2>
+<p>The software industry&#39;s drive towards AI &quot;software factories&quot; feels clearer to me every day. Many think it&#39;s inevitable. AI can create code like magic, surely we shouldn&#39;t have to write it by hand or even read it anymore? We can just describe what we want, let agents handle the implementation, and as long as it passes the automated tests and automated reviews, the code itself can stay out of sight for humans.</p>
+<p>But we shouldn&#39;t simply assume that this is the right path - and it doesn&#39;t have to be inevitable. Right now we still have a choice: cede human comprehension or cling to it? Prioritise speed or understanding?</p>
+<h2>Why bother understanding the code?</h2>
+<p>People liken AI-produced code to compilers. We don&#39;t worry about understanding how the compiler works, we can trust that it does. Why worry about trying to understand the code, if it&#39;s shown to work?</p>
+<p>But this seems like a fundamentally flawed comparison to me. For a start, compilers are deterministic; LLMs are not. High-level code is still formal; English is much more ambiguous. And compilers are still understood and looked after by maintainers, whereas if <em>we</em> don&#39;t understand our own systems&#39; code, no one will.</p>
+<h2>Speed vs Understanding</h2>
+<p>Why would we want to trade raw speed for understanding? In case the latter helps us to avoid accidents and arrive at our destination in one piece. With greater speed comes <a href="https://www.scrum.org/resources/blog/dora-report-2025-summary-state-ai-assisted-software-development">greater instability</a> and risk.</p>
+<p>My brother Kevin&#39;s blog post on <a href="https://medium.com/@ZombieCodeKill/moonshot-safety-c08259e86b2b">Moonshot Safety</a> describes the race to put a man on the moon. Russia prioritised speed. The US, after an early disaster, prioritised safety and transparency. It was the US who won the race.</p>
+<p>Many software companies seem to be racing more like Russia did. As Jimmy Breck-McKye writes in <a href="https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/">Software is breaking down at a systemic level</a>, <em>&quot;software hasn&#39;t been working too well lately, has it?&quot;</em> Companies have tried to allay fears that AI has been behind recent high profile incidents, but it has certainly been a factor.</p>
+<p>As Jon Reed writes in <a href="https://www.cnet.com/tech/services-and-software/outages-and-cyberattacks-everything-is-breaking-is-it-ai/">Everything Is Falling Apart, and AI’s Fingerprints Are Everywhere</a>, AI-discovered vulnerabilities are requiring us to ship more code, faster - and <em>&quot;the problem isn’t just the vulnerabilities in existing software, but the vulnerabilities being written into new software or patches to existing software by AI&quot;</em>.</p>
+<h2>&quot;We&#39;ll just validate the output&quot;</h2>
+<p>Can we solve the instability through automated checks? Then we wouldn&#39;t need to try to keep up our human understanding, because we can feel safe in the knowledge that the tests are all passing.</p>
+<p>But as Steven G. Harms describes in <a href="https://stevengharms.com/posts/2026-11-14-agentic-software-and-the-rubiks-cube-solver-trap/">Agentic Software and the Rubik&#39;s Cube Solver Fallacy</a>, validated components can still fail in concert. If an opaque, AI-orchestrated system breaks in production, would we trust our ability to diagnose and fix it? Even with AI assistance, let alone if our AI vendor goes down?</p>
+<p>How about AI reviews? AI refactoring? In <a href="https://maevyn.codes/decoherence">The Decoherence Trap</a>, Kirsten Maevyn argues that throwing more AI at the problem won&#39;t save us from the &quot;decoherence&quot; snowballing:</p>
+<blockquote>
+<p>“Decoherence grows relative to the rate of change of a system, and it increases faster the more decoherent a system is, resulting in runaway exponential growth...&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;If we push too long and too far... we may find ourselves in a very uncomfortable position: Locked into a development model that slowly degrades our systems no matter how much effort we put into fixing them.&quot;</p>
+</blockquote>
+<h2>&quot;Write better specs&quot;</h2>
+<p>So is the answer to write better specs? Just improve the prompts and the acceptance criteria? Bruce Schneier explains where this falls down in <a href="https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html">AI Doesn&#39;t Have to Go Rogue to Break the World</a>:</p>
+<blockquote>
+<p>&quot;Any capable AI will find hacks wherever the rules have problems, inconsistencies or loopholes that still produce an acceptable solution. We see a hack because we understand context. The AI doesn’t, at least not in the same way.&quot;</p>
+</blockquote>
+<blockquote>
+<p>&quot;More generally, think of this as the genie problem. Genies are precise about the wording of wishes and can be maliciously pedantic when granting them... Whatever you wish for, he can grant it in a way you wish he hadn’t. The reason is that in human language and thought, goals are always underspecified. We never include every caveat, exception and proviso, and we never close off every avenue for hacking. Any goal we specify will be incomplete...&quot;</p>
+</blockquote>
+<p>Beware of the genies in the software factory...</p>
+<h2>The alternative path</h2>
+<p>So how about the alternative: clinging to our human understanding, even against the growing tidal wave of complexity? This can have its own problems, such as burnout, as I shared in <a href="https://peteroshaughnessy.com/posts/in-defense-of-the-human-code-review/">In defense of the human code review</a>.</p>
+<p>However, retaining human understanding doesn&#39;t have to mean avoiding AI. It could mean re-channeling it. Instead of putting all our AI tokens into increasing the velocity of software production, what if we put some of it into helping us humans to keep up? Like Alex Grebenyuk writes in <a href="https://kean.blog/post/pr-reviews-are-for-humans">Bring Receipts</a>:</p>
+<blockquote>
+<p>&quot;Agents can help here too: have one send you a weekly brief with only the important bits, like a new pattern or an API that changed, plus a video walkthrough of what changed in the app.&quot;</p>
+</blockquote>
+<p>Understanding doesn&#39;t have to mean reading every diff. Like with everything, there can be a balance. But I would argue that we should still practice reading actual code, if we don&#39;t want to deskill ourselves.</p>
+<p>In fact, I would argue we should still practice <em>writing</em> code too. Like Christian Ekrem writes: <a href="https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/">If you stop writing code, you also get worse at reviewing it</a>.</p>
+<blockquote>
+<p>&quot;Whether it’s muscle memory, technique, physical fitness or problem solving you need to work on to reach your goals, you need to practice.&quot;</p>
+</blockquote>
+<p>And as Sheon Han writes in <a href="https://www.wired.com/story/goodbye-world-the-end-of-programmers/">Goodbye, World: The End of Programmers</a>:</p>
+<blockquote>
+<p>&quot;I know firsthand what a reliance on AI can do. As I’ve come to rely more on coding tools to hand me solutions, my ability to code has gone through a swift and decisive decline.&quot;</p>
+</blockquote>
+<p>Until it&#39;s too late, we still have a choice: use AI to automate away more and more of our jobs; diminish more and more of our skills? Or use AI to boost our abilities <em>and</em> our understanding?</p>
+<p>The industry at large might be racing towards software factories, but it&#39;s still to be determined if they&#39;re the best path. It might take months or years for disasters to unfold.</p>
+<p>The alternative is to prioritise <em>careful</em> speed, while retaining our understanding. Running alongside the train, not letting the train run away from us.</p>
+<p><a href="https://www.nber.org/papers/w34854">Building Pro-Worker Artificial Intelligence</a> describes how AI can <em>&quot;make human skills and expertise more valuable by expanding worker capabilities&quot;</em>. Applied carefully, using AI can feel like having superpowers. But only if we use it to expand our capabilities rather than replace them.</p>
+<p>It might feel slower in the short term. But we might still reach the moon first.</p>
+<p>--</p>
+<p class="caption">Thumbnail image credit: <a href="https://www.flickr.com/photos/craigcloutier/6312029006">"the garden of forking paths"</a> by <a href="https://www.flickr.com/photos/craigcloutier/">cloudcricket</a>, CC BY-SA 2.0</p>
+
+  </article>
+</div>
+    <footer>
+      <p><a rel="me" href="https://toot.cafe/@peter">Mastodon</a> | <a href="https://github.com/poshaughnessy/">Github</a> | <a href="http://uk.linkedin.com/in/poshaughnessy/">LinkedIn</a> | <a href="https://github.com/poshaughnessy/peteroshaughnessy.com">Source</a> | <a href="rss.xml">RSS</a></p>
+      <p>© Peter O'Shaughnessy</p>
+    </footer>
+  </body>
+</html>
