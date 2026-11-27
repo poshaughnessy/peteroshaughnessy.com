@@ -62,9 +62,9 @@ However, retaining human understanding doesn't have to mean avoiding AI. It coul
 
 > "Agents can help here too: have one send you a weekly brief with only the important bits, like a new pattern or an API that changed, plus a video walkthrough of what changed in the app."
 
-Understanding doesn't have to mean reading every diff. Like with everything, there can be a balance. But I would argue that we should still practice reading actual code, if we don't want to deskill ourselves.
+Understanding doesn't have to mean studying every line of every diff. Like with everything, there can be a balance. But I would argue that we should still practice reading actual code, if we don't want to deskill ourselves.
 
-In fact, I would argue we should still practice _writing_ code too. Like Christian Ekrem writes: [If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/).
+Despite people saying we need never write another line of code, I would argue we should still practice _writing_ code too. Because, as Christian Ekrem writes: [If you stop writing code, you also get worse at reviewing it](https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/).
 
 > "Whether it’s muscle memory, technique, physical fitness or problem solving you need to work on to reach your goals, you need to practice."
 
